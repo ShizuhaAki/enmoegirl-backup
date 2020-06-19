@@ -1,0 +1,34 @@
+<noinclude>
+Time is UTC+0900. 25:00 on Thursday is also Thursday. 
+
+Welcome editing and correcting. 
+[[Category:Anime Indexes]]
+</noinclude>
+
+{{navbox
+| {{#ifeq:{{{1}}}|child|child|}}
+|name=2016 Autumn Japanese Anime
+|title=<div style="text-align:center;{{#ifeq:{{{1}}}|child||line-height:10pt;}}">[[2016 Autumn Japanese Anime]]{{#ifeq:{{{1}}}|child| |<br /><div style="word-spacing: 100px"><small>[[Template:2016 Summer Japanese Anime|←2016 Summer]] [[Template:2016 Japanese Anime|2016 Japanese Anime]] [[Template:2017 Winter Japanese Anime|2017 Winter→]] </small></div>}}</div>
+|state =  {{#ifeq:{{{2}}}|uncollapsed|mw-uncollapsed|mw-collapsible mw-collapsed}}
+|navbar = {{#ifeq:{{{1}}}|child|plain|}}
+|group1 = Monday
+|list1  = ''[[Mysterious Joker|Mysterious Joker Season 4]]{{w}}[[Gakuen Handsome]]{{w}}[[Tawawa on Monday]]{{w}}[[Sannen D Gumi Garasunokamen]]{{w}}[[Scorching Ping Pong Girls]]{{w}}[[Age 12|Age 12.～A Little Heart-Pounding～ second season]]{{w}}[[Magic of Stella]]{{w}}[[TRICKSTER(Anime)|TRICKSTER-From Edogawa Ranpo's "The Boy Detectives Club"-]]''
+
+|group2 = Tuesday
+|list2  = ''[[Ultra Monsters Anthropomorphic Project|Kaiju Girls～Ultra Monsters Anthropomorphic Project～]]{{w}}[[Matoi the Sacred Slayer]]{{w}}[[Soul Buster|Soul Buster KV]]{{w}}[[Natsume's Book of Friends|Natsume's Book of Friends Five]]{{w}}[[Nanbaka]]{{w}}[[Nyanbo!]]{{w}}[[Nobunaga no Shinobi]]''
+
+|group3 = Wednesday
+|list3  = ''[[Ani Tore! EX|Ani Tore!!XX]]{{w}}[[Kiitarō Shōnen no Yōkai Enikki]]{{w}}[[Cheating Craft]]{{w}}[[Teekyu|Teekyu 8th season]]{{w}}[[To Be HERO]]{{w}}[[Nazotokine]]{{w}}[[Bishojo Yugi Unit  Crain Girl|Bishojo Yugi Unit  Crain Girl Ginga]]{{w}}[[Sound! Euphonium|Sound! Euphonium2]]{{w}}[[Strike Witches|Brave Witches]]{{w}}[[Mahou Shoujo Nante Mouiidesukara|Mahou Shoujo Nante Mouiidesukara second season]]{{w}}[[YURI!!! on ICE]]''
+
+|group4 = Thursday
+|list4  = ''[[ALL OUT|ALL OUT!!]]{{w}}[[Gi(a)rlish Number]]{{w}}[[Kamigami no Ki]]{{w}}[[Keijo|Keijo!!!!!!!!]]{{w}}[[Miss Bernard said.]]{{w}}[[PaRappa the Rapper]]{{w}}[[The Great Passage]]{{w}}[[FLIP FLAPPERS]]{{w}}[[Pokémon Sun and Moon]]{{w}}[[Kiss Him, Not Me]]''
+
+|group5 = Friday
+|list5  = ''[[Ajin(work)|Ajin 2nd season]]{{w}}[[Dream Festival!]]{{w}}[[Drifters]]{{w}}[[Haikyū|Haikyū!!!! Karasuno High School vs Shiratorizawa Academy]]{{w}}[[Bungo Stray Dogs|Bungo Stray Dogs 2nd season]]{{w}}[[Lostorage incited WIXOSS]]''
+
+|group6 = Saturday
+|list6  = ''[[ViVid Strike!]]{{w}}[[Uta no Prince-sama|Uta no Prince-sama Maji LOVE Legend Star]]{{w}}[[Poco's Udon World]]{{w}}[[Occultic;Nine]]{{w}}[[Classicaloid]]{{w}}[[March Comes in like a Lion]]{{w}}[[Izetta, the Last Witch]]{{w}}[[Sengoku Chōjū Giga|Sengoku Chōjū Giga: Kō]]{{w}}[[Tiger Mask|Tiger Mask W]]{{w}}[[Time Bokan 24]]{{w}}[[Tama and Friends|TAMA&amp;FRIENDS]]{{w}}[[Digimon Universe Applimonsters]]{{w}}[[Higanjima|Higanjima X]]{{w}}[[BUBUKI BURANKI|BUBUKI BURANKI The Gentle Giants of the Galaxy]]{{w}}[[Bloodivores]]{{w}}[[Magical Girl Raising Project]]{{w}}[[Long Riders!]]{{w}}[[WWW.WORKING!!]]''
+
+|group7 = Sunday
+|list7  = ''[[Idol Memories]]{{w}}[[Aooni|Aooni～THE ANIMATION～]]{{w}}[[Rainy Cocoa|Rainy Cocoa in Hawaii]]{{w}}[[My Wife is the Student Council President|My Wife is the Student Council President!+!]]{{w}}[[Cardfight!! Vanguard|Cardfight!! Vanguard G Season 4: NEXT]]{{w}}[[Mobile Suit Gundam: Iron-Blooded Orphans|Mobile Suit Gundam: Iron-Blooded Orphans 2nd season]]{{w}}[[Chi's Sweet Home|Chii's Grand Adventures]]{{w}}[[SHOW BY ROCK!!|SHOW BY ROCK!!#]]{{w}}[[Touken Ranbu|Touken Ranbu-Hanamaru-]]{{w}}[[Hagane Ōkesutora]]{{w}}[[Heybot!]]{{w}}[[Magic★Kyun! Renaissance]]{{w}}[[Monster Hunter|Monster Hunter Monogatari RIDE ON]]''
+}}
