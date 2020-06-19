@@ -1,0 +1,34 @@
+<noinclude>
+Time is UTC+0900. 25:00 on Thursday is also Thurday. 
+
+Welcome editing and correcting. 
+
+</noinclude>
+
+{{navbox
+| {{#ifeq:{{{1}}}|child|child|}}
+|name=2016 Summer Japanese Anime
+|title=<div style="text-align:center;{{#ifeq:{{{1}}}|child||line-height:10pt;}}">[[2016 Summer Japanese Anime]]{{#ifeq:{{{1}}}|child| |<br /><div style="word-spacing: 100px"><small>[[Template:2016 Spring Japanese Anime|←2016 Spring]] [[Template:2016 Japanese Anime|2016 Japanese Anime]] [[Template:2016 Autumn Japanese Anime|2016 Autumn→]] </small></div>}}</div>
+|state =  {{#ifeq:{{{2}}}|uncollapsed|mw-uncollapsed|mw-collapsible mw-collapsed}}
+|navbar = {{#ifeq:{{{1}}}|child|plain|}}
+|group1 = Monday
+|list1  = ''[[Sweetness and Lightning]]{{w}}[[The Disastrous Life of Saiki K.|The Disastrous Life of Saiki K.(short)]]{{w}}[[SHOW BY ROCK!!|SHOW BY ROCK!! SHORT!!]]{{w}}[[TABOO TATTOO]]{{w}}[[Danganronpa 3: The End of Kibougamine Gakuen|Danganronpa 3: The End of Kibougamine Gakuen- Mirai Hen]]{{w}}[[NEW GAME!]]{{w}}[[D.Gray-man|D.Gray-man HALLOW]]{{w}}[[Puzzle & Dragons|Puzzle & Dragons X]]{{w}}[[Bananya]]{{w}}[[Mob Psycho 100]]''
+
+|group2 = Tuesday
+|list2  = ''[[Servamp]]{{w}}[[The Disastrous Life of Saiki K.|The Disastrous Life of Saiki K.(short)]]{{w}}[[Scared Rider Xechs]]{{w}}[[Cheer Boys!!]]{{w}}[[The Morose Mononokean]]{{w}}[[High School Life of a Fudanshi]]{{w}}[[Hybrid × Heart Magias Academy Ataraxia]]''
+
+|group3 = Wednesday
+|list3  = ''[[OZMAFIA!!]]{{w}}[[The Disastrous Life of Saiki K.|The Disastrous Life of Saiki K.(short)]]{{w}}[[Tsukiuta|Tsukiuta. THE ANIMATION]]{{w}}[[Fate/kaleid liner Prisma Illya|Fate/kaleid liner Prisma☆Illya 3rei!!]]{{w}}[[Magical Girl? Naria Girls|Magical Girl? Naria☆Girls]]''
+
+|group4 = Thursday
+|list4  = ''[[This Art Club Has a Problem|This Art Club Has a Problem!]]{{w}}[[The Disastrous Life of Saiki K.|The Disastrous Life of Saiki K.(short)]]{{w}}[[Danganronpa 3: The End of Kibougamine Gakuen|Danganronpa 3: The End of Kibougamine Gakuen- Zetsubou Hen]]{{w}}[[Battery]]{{w}}[[Handa-kun]]{{w}}[[Cute High Earth Defense Club LOVE|Cute High Earth Defense Club LOVE!LOVE!]]{{w}}[[planetarian|planetarian～The Reverie of a Little Planet～]]{{w}}[[Regalia: The Three Sacred Stars]]''
+
+|group5 = Friday
+|list5  = ''[[Amanchu!]]{{w}}[[The Disastrous Life of Saiki K.|The Disastrous Life of Saiki K.(short)]]{{w}}[[91Days]]{{w}}[[Wind-Up Spirit Chronicles Alderamin on the Sky]]{{w}}[[BERSERK]]{{w}}[[Momokuri|Momokuri(TV Hōsō)]]{{w}}[[ReLIFE]]''
+
+|group6 = Saturday
+|list6  = ''[[Ange Vierge]]{{w}}[[Onara Goro]]{{w}}[[QUALIDEA CODE]]{{w}}[[Shokugeki no Soma|Shokugeki no Soma the second plate]]{{w}}[[Time Travel Girl|Time Travel Girl～Mari, Waka, and the Eight Scientists～]]{{w}}[[DAYS]]{{w}}[[First Love Monster]]{{w}}[[B-PROJECT|B-Project: Kodou＊Ambitious]]{{w}}[[Hitori no Shita|Hitori no Shita the outcast]]{{w}}[[LoveLive!Sunshine!!]]{{w}}[[Rewrite]]''
+
+|group7 = Sunday
+|list7  = ''[[Active Raid -Public Mobile Assault Unit Eight-|Active Raid -Public Mobile Assault Unit Eight- 2nd]]{{w}}[[The Heroic Legend of Arslan|The Heroic Legend of Arslan Dust Storm Dance]]{{w}}[[orange(Ichigo Takano)|orange]]{{w}}[[The Disastrous Life of Saiki K.]]{{w}}[[Tales of Zestiria|Tales of Zestiria the X]]{{w}}[[The Seven Deadly Sins (Nakaba Suzuki)|The Seven Deadly Sins: Signs of Holy War]]''
+}}
