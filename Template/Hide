@@ -1,0 +1,29 @@
+{| class="mw-collapsible {{#if:{{{show|}}}||mw-collapsed}} wikitable" style="float:{{{align|none}}};{{#if:{{{width|}}}|width:{{{width}}};|}}">
+|-
+! {{{Title|{{{标题|Hidden!}}}}}}{{#ifeq:{{{标题}}}|{{{标题|}}}|{{Transrelict|note=do not use "标题=". Use "Title=" instead!}}}}{{#ifeq:{{{内容}}}|{{{内容|}}}|{{Transrelict|note=do not use "内容=". Use "Text=" instead!}}}}
+|-
+| 
+{{{Text|{{{内容|Oops! Someone forgot to type something here!}}}}}}
+|}
+<noinclude>
+==Usage==
+<pre>
+{{Hide
+|Title=xxx
+|Text=
+*1
+*2
+*3
+}}
+</pre>
+
+{{Hide
+|Title=xxx
+|Text=
+*1
+*2
+*3
+}}
+[[Category:Templates]][[Category:Templates_tracked_with_transrelict]]
+[[zh:Template:Hide]]
+</noinclude>
