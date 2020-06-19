@@ -1,0 +1,34 @@
+<noinclude>
+Time is UTC+0900. 25:00 on Thursday is also Thurday. 
+
+Welcome translating, editing and correcting. 
+[[Category:Anime Indexes]]
+</noinclude>
+
+{{navbox
+| {{#ifeq:{{{1}}}|child|child|}}
+|name=2016 Spring Japanese Anime
+|title=<div style="text-align:center;{{#ifeq:{{{1}}}|child||line-height:10pt;}}">[[2016 Spring Japanese Anime]]{{#ifeq:{{{1}}}|child| |<br /><div style="word-spacing: 100px"><small>[[Template:2016 Winter Japanese Anime|←2016 Winter]] [[Template:2016 Japanese Anime|2016 Japanese Anime]] [[Template:2016 Summer Japanese Anime|2016 Summer→]] </small></div>}}</div>
+|state =  {{#ifeq:{{{2}}}|uncollapsed|mw-uncollapsed|mw-collapsible mw-collapsed}}
+|navbar = {{#ifeq:{{{1}}}|child|plain|}}
+|group1 = Monday
+|list1  = ''[[女高网球部|兔龟]]{{w}}[[怪盗Joker|怪盗Joker Season 3]]{{w}}[[Age 12|Age 12.～A Little Heart-Pounding～]]{{w}}[[圣战刻耳柏洛斯|圣战刻耳柏洛斯 龙刻的Fatality]]{{w}}[[爆音少女|爆音少女!!]]{{w}}[[Hundred]]{{w}}[[美少女战士|美少女战士Crystal 死亡变种篇]]{{w}}[[战斗陀螺|战斗陀螺Burst]]{{w}}[[任性High Spec]]''
+
+|group2 = Tuesday
+|list2  = ''[[Joker Game]]{{w}}[[少年阿贝|少年阿贝 GO!GO!小芝麻]]{{w}}[[薄樱鬼|薄樱鬼～御伽草子～]]{{w}}[[PriPara|PriPara 3rd season]]''
+
+|group3 = Wednesday
+|list3  = ''[[鬼斩]]{{w}}[[SUPER LOVERS]]{{w}}[[双星之阴阳师]]{{w}}[[猫猫日本史]]{{w}}[[战斗之魂|战斗之魂 Double Drive]]{{w}}[[美少女游戏组合 抓娃娃机少女]]{{w}}[[文豪野犬]]''
+
+|group4 = Thursday
+|list4  = ''[[偶像活动|偶像活动Stars!]]{{w}}[[Anne Happy|Anne Happy♪]]{{w}}[[黑骸]]{{w}}[[甲铁城的卡巴内利]]{{w}}[[Haven't You Heard? I'm Sakamoto]]{{w}}[[少年女仆]]{{w}}[[线上游戏的老婆不可能是女生|线上游戏的老婆不可能是女生?]]''
+
+|group5 = Friday
+|list5  = ''[[做得很好!名作君]]{{w}}[[潮与虎|潮与虎 2期]]{{w}}[[Space Patrol Luluco]]{{w}}[[影鳄|影鳄 承]]{{w}}[[CoCO &amp; NiCO]]{{w}}[[JOJO的奇妙冒险|JOJO的奇妙冒险 不灭钻石]]<!--{{w}}[[巴哈姆特之怒|巴哈姆特之怒 玛娜莉亚的朋友]]-->{{w}}[[鸟肌假面|去吧!鸟肌假面]]{{w}}[[火星异种|火星异种 Revenge]]{{w}}[[与猫同住的恩田家]]{{w}}[[至高指令]]{{w}}[[迷你偶像|迷你偶像(TV放送版)]]{{w}}[[魔笛MAGI|魔笛MAGI 辛巴德的冒险]]{{w}}[[The Lost Village]]''
+
+|group6 = Saturday
+|list6  = ''[[Aggressive烈子]]{{w}}[[ENDRIDE]]{{w}}[[The Asterisk War|The Asterisk War the 2nd season]]{{w}}[[神技旺达]]{{w}}[[羁绊者|羁{{color|red|绊}}者]]{{w}}[[逆转系列|逆转裁判 对这个“真实”有异议!]]{{w}}[[境界之轮回|境界之轮回 第2系列]]{{w}}[[田中君总是如此慵懒]]{{w}}[[忍者杀手|忍者杀手(特别编辑版)]]{{w}}[[高校舰队]]{{w}}[[胖胖裤猪|胖胖裤猪 W-O-NEW]]{{w}}[[未来卡搭档对战|未来卡搭档对战DDD]]{{w}}[[飞翔的魔女]]{{w}}[[BONOBONO]]{{w}}[[怪物弹珠|怪物弹珠(第2章)]]{{w}}[[Ragna Strike Angels]]''
+
+|group7 = Sunday
+|list7  = ''[[卡片战斗先导者|卡片战斗先导者G Stride Gate篇]]{{w}}[[机动战士高达UC|机动战士高达UC RE:0096]]{{w}}[[熊巫女]]{{w}}[[Concrete Revolutio 超人幻想|Concrete Revolutio～超人幻想～THE LAST SONG]]{{w}}[[三者三叶]]{{w}}[[决斗大师|决斗大师VSRF]]{{w}}[[炸猪排DJ扬太郎]]{{w}}[[滑菇～世界的朋友～]]{{w}}[[面包带来和平|面包带来和平!]]{{w}}[[我的英雄学院]]{{w}}[[Macross Delta]]{{w}}[[Re:Zero − Starting Life in Another World]]''
+}}
