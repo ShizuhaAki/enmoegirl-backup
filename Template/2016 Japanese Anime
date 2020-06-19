@@ -1,0 +1,26 @@
+<noinclude>
+{{Documentation}}
+[[Category: Anime Indexes]]
+</noinclude>{{navbox
+|name  = 2016 Japanese Anime
+|title = <div style="text-align:center; line-height:10pt">List of 2016 Japanese Anime<br /><div style="word-spacing: 100px"><small>[[Template:2015 Japanese Anime|←2015]] [[Template:Japanese Anime|Japanese Anime]] [[Template:2017 Japanese Anime|2017→]] </small></div></div>{{#if:{{{5|}}}|<br /><div style="background: red; text-align:center; width: auto; margin: 0 auto; padding: 0px; color: white; font-family:SimHei;">参数超出上限，请阅读[[Template:日本2016年动画|模板使用说明]]</div>}}
+
+|state =  {{#ifeq:{{{1}}}|collapsed|mw-collapsible mw-collapsed|mw-uncollapsed}}
+|style = width:100%
+
+|group1 = [[Template:2016 Winter Japanese Anime|Winter]]
+|list1  = {{2016 Winter Japanese Anime|child|{{#switch:Winter|{{{1}}}|{{{2}}}|{{{3}}}|{{{4}}}|{{{5}}}=uncollapsed}}
+}}
+
+|group2 = [[Template:2016 Spring Japanese Anime|Spring]]
+|list2  = {{2016 Spring Japanese Anime|child|{{#switch:Spring|{{{1}}}|{{{2}}}|{{{3}}}|{{{4}}}|{{{5}}}=uncollapsed}}
+}}
+
+|group3 = [[Template:2016 Summer Japanese Anime|Summer]]
+|list3  = {{2016 Summer Japanese Anime|child|{{#switch:Summer|{{{1}}}|{{{2}}}|{{{3}}}|{{{4}}}|{{{5}}}=uncollapsed}}
+}}
+
+|group4 = [[Template:2016 Autumn Japanese Anime|Autumn]]
+|list4  = {{2016 Autumn Japanese Anime|child|{{#switch:Autumn|{{{1}}}|{{{2}}}|{{{3}}}|{{{4}}}|{{{5}}}=uncollapsed}}
+}}
+}}
