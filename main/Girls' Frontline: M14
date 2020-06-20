@@ -1,0 +1,338 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Commander, I will not let you down!</big></big>'''}}
+{{Girls' Frontline profile
+|Title=M14
+|image=52427081_p0.png
+|Caption=<center>[https://www.pixiv.net/member.php?id=3621731 Artist:@☆受菟_]</center>
+<center>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=52427081 pixiv: 52427081]</center>
+|Original name=M14 Rifle
+|Nickname(s)=
+|Moe point(s)=[[White silk]], [[Double ponytails]], [[Ahoge]]
+|Hair color=Black
+|Eye color=Golden
+|CV=Saori Oonishi
+|Type=RF
+|Rarity=★★★
+|Country of origin=USA
+|Manufactured by=Springfield Armory
+|Developed=
+|In service=
+|Related to=[[Girls' Frontline: M1 Garand|M1 Garand]]
+}}
+
+'''M14''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by SUNBORN Network Technology Co., Ltd. and its derivatives.
+
+== Historical basis ==
+
+
+The M14 rifle, officially the United States Rifle, 7.62 mm, M14, is an American automatic rifle that fires 7.62×51mm NATO (.308 in) ammunition. It became the standard-issued rifle for the U.S. military in 1959 replacing the M1 Garand rifle in the U.S. Army by 1961 and the U.S. Marine Corps by 1965 until being replaced by the M16 rifle beginning in 1964. The M14 was used by U.S. Army, Navy, and Marine Corps for basic and advanced individual training (AIT) from the mid-1960s to the early 1970s. 
+
+The M14 rifle developed by Springfield Armory is essentially an improved M1 Garand firing the shorter 7.62x51mm NATO instead of the .30-06 cartridge used by the M1 Garand, and is fed by a 20-round detachable magazine instead of the 8-round en bloc clip found in the M1. The M14 also has a selector which enables the weapon to switch between semi- and full-auto (despite most of the M14 in the US military having a selector lock in the place of the lever to lock the weapon in semi-auto). The angle at which the bolt locks into the barrel is different from the M1 Garand to improve reliability. The M14 is designed as a battle rifle with squad automatic weapon, match rifle, sniper rifle and ceremonial variants. The M14 was used as a battle rifle from the Cuban Missile Crisis all the way to the year 2002 in Afghanistan.
+
+The M14 was the last American battle rifle issued in quantity to U.S. military personnel. It was replaced by the M16 assault rifle, a lighter weapon using a smaller caliber intermediate cartridge. The M14 rifle remains in limited service in all branches of the U.S. military as an accurized competition weapon, a ceremonial weapon by honor guards, color guards, drill teams and ceremonial guards, and sniper rifle/designated marksman rifle. Civilians models in semi-automatic are used for hunting, plinking, target shooting, and shooting competitions. 
+The M14 is the basis for the M21 and M25 sniper rifles which were largely replaced by the M24 Sniper Weapon System. A new variant of the M14, the Mk 14 Enhanced Battle Rifle has been in service since 2002.
+
+{{Hide|Title=The M14 rifle|Text=[[File:m14步枪.jpg|400px]]}}
+
+=== Specfications ===
+*Weight:
+**3.64 kg /8.0 lbs empty without magazine
+**5.0 kg/11.0 lbs with loaded magazine and sling
+*Length: 1125 mm 
+*Barrel length: 559mm/22" (4 grooves, right-hand twist, 1-in-12)
+*Cartridge: 7.62×51mm NATO
+*Action: Long-stroke gas-operated rotary bolt
+*Muzzle velocity: 853 m/s 
+*Rate of fire: 700-750 RPM (cyclic)
+*Firing modes: Semi/Auto
+*Sight radius: 678 mm
+*Feed system: 20-round detachable magazine OR 5-round stripper clip directly into the receiver to feed the magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion.'''
+ Type                       Battle rifle
+ Weight                     9.2 lb (4.1 kg) empty
+                            10.7 lb (5.2 kg) w/ loaded magazine
+ Length                     44.3 in (1.126 mm)
+ Barrel length              22 in (559 mm)
+ Cartridge                  7.62×51mm NATO (.308 Winchester)
+ Action                     Gas-operated. rotating bolt
+ Rate of fire               700–750 rounds/min
+ Muzzle velocity            850 m/s (2.800 ft/s)
+ Effective firing range     460 m (500 yd)
+                            800+ m (875+ yd) (with optics)
+ Feed system                20-round detachable box magazine
+ Sights                     Aperture rear sight. "barleycorn" front sight
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''M14'''
+|-
+! colspan=2 | '''Index number''': No.037
+! colspan=2 | '''Rarity''': ★★★
+|-
+! colspan=2 | '''Place of origin: USA[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Gun Type: RF'''
+|-
+! colspan=2 | '''CV: [[Saori Oonishi]]'''
+! colspan=2 | '''Illustrator: Rain Lan'''
+|-
+! colspan=4 | '''Stats (Growth: A)'''
+|-
+| '''Health (B)''' || 42→84 || '''Damage (B)''' || 41→108
+|-
+| '''Evasion (C)''' || 4→27 || '''Accuracy (A)''' || 10→71
+|-
+| '''Movement speed''' || 7→7 || '''Rate of Fire (S)''' || 30→43
+|-
+| '''Crit rate''' || 40% → 40% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 173→3587
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Damage Focus
+| colspan=3 | Increase damage by 35% (60%) for 3 (5) seconds.<br />Initial cooldown 6 seconds / Skill cooldown 10 (8) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 3, 9
+|-
+| '''Effect''' || colspan=3 | Buffs '''HG'''<br>Skill CD-12%.
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 03:40:00
+|-
+| '''Drops''' || colspan=3 | [3-3] Covert Reinforcement, [3-4] Defensive Operation, [3-5] Swift Counterattack, '''[3-6] No Hunting'''
+|-
+| '''Other''' || colspan=3 | Reward for reaching Commander level 40/45/50
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+
+|tab1=[[File:M14.png|400px]]
+|tab2=[[File:M14 D.png|400px]]
+
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+== Trivia ==
+*Despite the mediocre maximum damage of 108, M14 boasts the highest DPS (at '''92.88'''/sec or '''148.608'''/sec after skills) among '''all 3-star RF''''s (without equipment or third-party buffs), ranking 7th among all RF's (and 5th/4th after skills (barring those with non-ROF/damage buffs) depending on night/day) currently in the game.
+**This made her one of the best RF's to start with in the game.
+**During Closed Beta of the CN build, M14 possessed some of the best stats both in level 1 and 100, second only to [[Girls' Frontline: Lee-Enfield|Lee-Enfield]], sparking a meme that there were two kinds of RF's in the game--one being M14, the other being non-M14.
+
+{{Hide|Title=''I don't mean you...''|Text=[[File:M14在座各位.jpg|300px]]}}
+
+*M14 received a nerf in RoF during Open Beta, inferior to most 5-star RF's. However, the aforementioned high DPS makes her a frequent MVP in battles.
+
+*M14's illustrator once mentioned about her fondness of hearing an ear picked or grinded with teeth.
+
+*Her quotes reflect M14 being one of the few dolls who seem to be not fond of the commander touching her too often.
+**Her quotes may also hint that M14 herself is based on the Springfield '''M1A''', the semi-automatic civilian version of the M14 instead of the original M14.
+
+*M14 as a doll is classified as an RF despite her weapon being chambered in the full-power 7.62x51mm NATO and being capable of full-auto firing, in contrast with G3 and FAL.
+**This may be an allusion to the fact that most M14's due to their uncontrollable recoil in full-auto were locked to semi-auto to facilitate (relatively) accurate firing.
+**M14's high rate of fire (highest among all RF's) at '''43''' (or ~1.16 s/shot) may also be alluding to this fact.
+
+*In the (soon to come in EN build) '''Neural Upgrade''' teaser first released in December 22, 2016 (for the CN build), three partially shaded illustration were leaked by MicaTeam, leading to the belief that the first ones to receive Neural Upgrades would be [[Girls' Frontline: M14|M14]], [[Girls' Frontline: G43|G43]] and [[Girls'  Frontline: FF FN49|FF FN49]] (despite only the FF FN49 received her upgrade in the CN build).
+
+{{Hide|Title=Screenshot|Text=[[File:改造卫星.jpg|800px|center|thumb]]}}
+
+*Despite the most suitable choice for M14 to "upgrade" into wielding an M21, the latter has already been included in the game.
+*This means that if M14 is to actually have a Neural Upgrade, she would have the highest likelihood of being upgraded into a doll wielding the M14 EBR.
+
+[[File:M14 EBR假酒.jpg|400px|left|thumb|
+<center><div style="display:inline-block;">'''''M14 and the M14 EBR'''''<br>
+Weibo:@GirlsFrontline-DCinside (Artist: ANYAN)<ref>[https://www.weibo.com/FeatherP Weibo:@GirlsFrontline-DCinside]</ref><br>
+Note: Actually first posted onto Twitter before being forwarded by the weibo account.</div></center>
+]]
+{{clear}}
+
+*Despite said speculation, the silhouette of the weapon in the screenshot appears to not have received a significant change.
+
+**Said illustration is officially included in the official artbook first introduced in early 2017 in Chinese.
+
+[[File:设定集M14.jpg|500px|left|thumb|<center>M14 found on the artbook</center>]]
+{{clear}}
+
+*M14 as of the current CN build still hasn't received a Neural Upgrade yet.
+
+*M14 appears to have received a variety of commendations judging from the ribbons on her uniform (shown below)
+
+[[File:M14 左胸勋略.png|无框]][[File:M14勋章 未确认.jpg|500px|left|thumb|<center>Ribbons found on M14's uniform, question marks ("?") represent unidentified ribbon due to resolution. Ribbon images taken from Wikipedia.</center>]]
+
+:Upper left: The '''Silver Star Medal''' given to members of the US Armed Forced for gallantry in action against an enemy of the United States.
+
+:Upper right: (Suspected to be) The '''Bronze Star Medal''' given to members of the US Armed Forces for either heroic achievement, heroic service, meritorious achievement or meritorious service in a combat zone.  
+
+:Middle left: The '''Commendation Medal''' (US Army variant) given for sustained acts of heroism or meritorious service or valorous actions in direct contact with an enemy where such actions are of a lesser degree than required for the award of the '''Bronze Star Medal'''.
+
+:Middle center: (Suspected to be) The '''Good Conduct Medal''' given to any active duty enlisted member of the US military who completes three consecutive years of "honorable and faithful service".
+
+:Middle right: The '''National Defense Service Medal''' given to service members who served honorably during a designated time of which a "national emergency" had been declared during a time of war or conflict, or any other periods the Secretary of Defense designates.
+
+:Lower left/Lower middle: ?
+
+:Lower right: (Suspected to be) The '''Navy Unit Commendation''' given to any Navy or Marine Corps unit that has distinguished itself by outstanding heroism in action against the enemy, but insufficient to justify the award of the Presidential Unit Citation {{Spoiler|despite the need for Unit Commendation ribbons to be worn on the right.}}
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>M14_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官，元気でしたか？待ってましたよ。}}<br />''Commander, all good? We are waiting on you.''<br />指挥官，还精神么？大家都在等着你哦~
+| <sm2>M14_HELLO_JP.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|指揮官，あなた様の期待に必ず答えて見せます。}}<br />Commander, I will not let you down!<br />指挥官，我一定不会辜负您的期待的！
+| <sm2>M14_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|今，触ったよね，触りますだよね！}}<br />You...touched me just now, didn't you? You totally did!<br />刚才...摸了我是吧？！摸了是吧？！
+| <sm2>M14_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|勝利で，良い響きですよね～}}<br />Victory. This word just has a nice ring to it, right?♪<br />“胜利”，真是个美妙的单词啊。
+| <sm2>M14_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|さあ！張り切って行きましょう，勝利を手に入れるのです。}}<br />C'mon! Be prepared, and victory shall be ours!<br />来吧，让我们一鼓作气，将胜利收入囊中吧！
+| <sm2>M14_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|}}<br />Commander, Commander! Wanna hear a joke? It's a bit embarrassing, but...you're used to it, right? Heheh...<br />指挥官指挥官！您要听笑话吗？虽然这次的有点不好意思，不过......您也习惯了吧？嘻嘻......
+| <sm2></sm2>
+|-
+| As adjutant (in Christmas outfit)<sup>Coming soon</sup>
+| {{lang|ja|メリークリスマーーース！指揮官、サンタさん来ますよね、来ますよね！}}<br />Merry Christmas! Santa Claus is coming, right? RIGHT?<br />圣诞快乐！指挥官，圣诞老人会来的吧？会的吧？
+| <sm2>M14_CHRISTMAS_JP.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>M14_MOOD2_JP.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />[Smile]
+| <sm2>M14_MOOD1_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Admiration]
+| <sm2>M14_APPRECIATE_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Agreement]
+| <sm2>M14_AGREE_JP.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|М１４，頑張ります。}}<br />''M14 will try her best.''<br />M14会努力的~
+| <sm2>M14_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|やっと出撃ですね，待ちくたびれました}}<br />''Finally my turn to go, can't wait anymore.''<br />终于到我出击了呢~，都要等不及了。
+| <sm2>M14_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|敵軍だよ，気をつけて}}<br />''It's the enemy, be careful.''<br />是敌人，要小心哦~
+| <sm2>M14_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|っく…うぅ，こんな目に遭うなんて，聞いてませんよ！}}<br />''Uuuu...I didn't know it could turn this way!''<br />唔......我可没听说会变成这样的啊。
+| <sm2>M14_BREAK_JP.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|あら，こっそり休憩できるなんて，ふふん～～}}<br />''Alas, just taking a little nap...huhuh...''<br />哎呀，悄悄地休息一下什么的...哼哼哼~
+| <sm2>M14_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|指揮官，聞こえました？勝利の鐘が鳴ってます。}}<br />''Commander did you hear? It's the chimes for victory.''<br />指挥官，听到了么？胜利的钟声响起来了。
+| <sm2>M14_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|くぅ…くぅ…次は，次こそは必ず…}}<br />''Uu...uu...I'll...I'll.. next time....''<br />唔......下次，下次我一定会...
+| <sm2>M14_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|皆のバックアップは，このМ１４に任せてください。}}<br />大家的后援，就让我M14来担任吧~
+| <sm2>M14_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|指揮官，了解です，良い知らせを待っててくださいね。}}<br />''Understood, commander. Just wait for my good news.''<br />指挥官，明白了~就等着我的好消息吧。
+| <sm2>M14_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logisitic support
+| {{lang|ja|ただ今戻りました，指揮官。}}<br />''I'm back, commander.''<br />我回来了，指挥官~
+| <sm2>M14_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|製造が終わりましたよ。}}<br />''Production is complete.''<br />建造完成了哦。
+| <sm2>M14_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|よーーし！これで皆んなもっと強くなれますね。}}<br />''Grea---t! This way I'll become more powerful.''<br />好的~，这样我也变得更强了！
+| <sm2>M14_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|なんか，体がポカポカしてきた。}}<br />''Body feels warmer.''<br />感觉身体变得暖暖的。
+| <sm2>M14_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|狙って…攻撃！}}<br />''Aim and...fire!''<br />瞄准......攻击！
+| <sm2>M14_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|そろそろ本気だしちゃうかな？}}<br />''About time for me to show my true strength.''<br />我是不是差不多也该要拿出真本事了呢~
+| <sm2>M14_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|民間用の武器の威力を，思い知らせてあげるわ。}}<br />''Have a taste of the power of civilian weapons!''<br />民用武器的威力，就让你们见识一下吧！
+| <sm2>M14_SKILL3_JP.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|あぁーー！指揮官，ようやくこの日が来たんですね。ずっと待っていたんです，いつ，気付いて下さるのかなって。今まで生きていたなかで，今！一番嬉しいです}}<br />This day is finally here, Commander. I've always been wondering when you'd notice me... This is the happiest of my entire life!<br />指挥官，终于等到这一天了，一直在想您何时才能注意到我们{{黑幕|（原文如此）}}...而我们现在的心情...比过去的任何时刻，都更加满足。
+| <sm2>M14_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{SideBarPic|url=M14.png|width=450px|left=-115px}}
+{{Girls' Frontline}}
+
+==External links==
+*[https://en.wikipedia.org/wiki/Springfield_Armory_M1A Wikipedia entry of the M1A (semi-automatic civlian version of the M14)]
+*[https://en.wikipedia.org/wiki/M14_rifle Wikipedia entry of the M14]
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Double ponytails]]
+[[Category:Ahoge]]
+
+[[zh:少女前线:M14]]
+[[ja:ドールズフロントライン:M14]]
