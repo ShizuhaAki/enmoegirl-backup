@@ -1,0 +1,436 @@
+[[zh:少女前线:ART556]]
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Heyo! Good to see you Commander! I'm ART55--uwah! ...I-I bit my tongue...it's 556...</big></big>'''}}
+{{Girls' Frontline navbar
+|Title=ART556
+|image=gfart556_1.jpg
+|Caption=[https://twitter.com/GMKJ0324 Artist: @GMKJ]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=67438654 pixiv：67438654]
+|Original name=Taurus ART556 assault rifle
+|Nickname(s)=The Pixie
+|Moe point(s)=[[Loli]], [[Animal ears]]
+|Hair color=Green
+|Eye color=Red
+|CV=Rina Hidaka
+|Type=AR
+|Rarity=★★★★★
+|Country of origin=Brazil
+|Developed by=Taurus
+|Manufactured=
+|Developed=
+|In service=2011
+|Status=
+|Related to=FN SCAR, [[Girls' Frontline: MT-9|MT-9]]<br />
+Prankster-mate:[[Girls' Frontline: P7|P7]]
+}}
+'''ART556''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by SUNBORN Network Technology Co., Ltd. She joined the struggle on June 1, 2017<sup>'''CN build'''</sup> / September 11, 2018<sup>'''EN build'''.
+
+== Historical basis ==
+
+The '''ART556''' is the manifestation of an attempt by Taurus to imitate the FN SCAR, and is referred to as the FAT556 in some documents. The two weapons are similar both externally and internally, with upper receivers being stamped aluminum and the lower receiver a single polymer block. The charging handle can be installed on either the left or right side of the receiver to the user's preference. The stock of the ART556 is telescopic and at the same time foldable. The barrel comes with one of three lengths. However, modifications in external appearances are implemented to avoid copyright infringement.
+
+Taurus also introduced the semi-auto-only CT556 carbine in addition to the selective-fire military model.
+
+=== Specifications ===
+*Length  	  889 mm
+*Weight	  3.29 kg
+*Cartridge  5.56x45mm
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the weapon.'''
+ Type                       Battle Rifle
+ Weight                     3.29 kg 
+ Length                     889 mm (35.0 in) stock extended
+                            635 mm (25.0 in) stock folded 
+ Barrel length              355 mm (14.0 in)
+ Cartridge                  5.56×45mm NATO
+ Action                     Gas-operated .rotating bolt
+ Rate of fire               550-650 rounds per minute 
+ Effective firing range     600 m 
+ Feed system                STANAG box magazine
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''ART556'''
+|-
+! colspan=2 | '''Index number''': No.175
+! colspan=2 | '''Rarity''': ★★★★★
+|-
+! colspan=2 | '''Nationality: Brazilian[[File:Flag_of_Brazil.svg|20px]]'''
+! colspan=2 | '''Gun Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV: [[Rina Hidaka]]'''
+! colspan=2 | '''Illustrator: [[Saru]]'''
+|-
+! colspan=4 | '''Stats (Growth: S)'''
+|-
+| '''Health (B)''' || 58→116×5 || '''Damage (A)''' || 18→53
+|-
+| '''Evasion (A)''' || 6→49 || '''Accuracy (A)''' || 6→53
+|-
+| '''Movement speed''' || 10→10 || '''Rate of Fire (B)''' || 45→69
+|-
+| '''Crit rate''' || 20%→20% || colspan=2|
+|-
+! colspan=4 | '''Combat Effectiveness'''
+|-
+! colspan=4 | 178→3647
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20→60 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Charge focus
+| colspan=3 | Increase damage by 50% (85%) and Rate of Fire by 16% (25%) for 3 (5) seconds. <br />Initial cooldown 6 seconds / Skill cooldown 16 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|3|9}}
+Keypads 3,9
+|-
+| '''Effect''' || colspan=3 | Buffs SMGs<br>Accuracy +50%, Evasion+15%.
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | N/A
+|-
+| '''Drops''' || colspan=3 |
+|-
+| '''Others''' || colspan=3 |'''Reward of the Key Card event ''Pixie Warfare'''''
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Default
+|bt2=Outfits
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--Default-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:Convert pic ART556.png|400px]]
+	|tab2=[[File:Convert pic ART556 D.png|400px]]
+	}}
+|tab2={{tabs
+|DefaultTab=1
+|color=black
+|bt1=''Lotus White'' (莲花白)<sup>'''CN build'''</sup>
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--''Lotus White''-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:Pic_ART556_1803.png|400px]]
+	|tab2=[[File:Pic_ART556_1803_D.png|400px]]
+	}}
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+{{Hide|Title=Chibi animation|Text=[[File:ART556_Q版动画.gif]]}}
+
+==Tips==
+*ART556 can be considered a slightly up-gunned Gr G41 in terms of performance.
+**However, it takes 4 seconds for the latter to trigger the 10-second damage boost (to a DPS of '''134.75''' excluding equipment), whereas ART556 takes 6 seconds to reach her peak DPS of '''169.14''' (all while lasting only half the time).
+**Her usefulness may also depend on the specific situation in question, as she (and most AR) is often practically useless against heavily-armored enemies.
+*ART556 can also be likened to a rarer TAR-21 for their near-identical skills.
+*ART556 is not exceptionally powerful if compared to the top-end performers, but still has some uses.<ref>https://gfl.matsuda.tips/dolls/1?q=ART556&s=-useful</ref>
+
+== Trivia ==
+===Official setting===
+{{Cquote|<big>'''A quirky and mischievous hedonist. Trups over her tongue every time she tries to pronounce her name. Only cares about interesting things and is willing to cross many lines in search of amusement. Currently working hard to make MT-9 more interesting.</big>}}
+{{Hide|Title=Official profile for ART556|Text=[[File:ART556Profile.jpg|400px]]}}
+{{Hide|Title={{color|#AD5A5A|Cafeteria stories}}-{{color|blue|ART556 ''Lotus White'' (WIP)}}|Text=
+格里芬人形宿舍。
+
+指挥官：SAT8？
+::SAT8和ART556在这里吗？
+
+ART556：哦！是指挥官！
+::没有喔，那个毛茸茸怪物没有在这里。
+
+指挥官：没在这里？
+::我记得你不是跟SAT8一起被分配去做鞭炮吗？你们两个没有在一起？
+
+ART556：SAT8她啊……她给了我一个材料的清单要我去买……
+::结果买回来之后她就把我赶走了！
+::真是的！现在好无聊啊……如果不能玩鞭炮的话，还报名参加这个筹备做什么呢……
+
+指挥官：（SAT8是担心ART556的性格，碰到爆裂物就会出意外吗？也不是不能理解……）
+::ART556，筹备本来就不是一件轻松好玩的事情啊。
+::很多看起来很热闹的活动，都是需要背后很多人经过长期枯燥的付出之后才完成的。
+
+ART556：我不管啦，现在的我就是很无聊！
+::指挥官，你那里有好玩的事情吗？有吗？有吧！
+
+指挥官：现在暂时没办法，八一式马委托我去各组验收进度。
+::晚一点再陪你玩吧，不过可以的话能先告诉我SAT8在哪里吗？
+
+ART556：她说是这次要自己做烟花，把自己关进后面的仓库里之后就再也不出来了。
+::小心点，一有人靠近就会被她凶哦！
+
+指挥官：嗯，我知道了。
+
+在仓库里看过SAT8那边的状况之后，我再度在仓库门口遇到了ART556。
+
+ART556：果然也被赶出来了吧，我就知道！
+::指挥官一定也是觉得SAT8不好对吧！认真过头，脑子都不会转弯的！
+
+指挥官：不是这样的，ART556。
+::除夕这个节日在旧时代里的意义相当重要，对八一式马那样的东方人形来说，就算直到今天也都是不能马虎的日子。
+::所以SAT8虽然在这上面的确是有点认真过头，但这也是她负责任的表现。
+
+ART556：我不懂那么多古板的道理啦！
+::无聊才是最可怕的敌人！如果不能开心过日子，认真遵守那些规矩又有什么意义呢！
+
+除夕当日下午，SAT8制作鞭炮和焰火的仓库大门开了一个缝隙……
+
+ART556：哈哈哈！找——到——了！
+::好棒啊！做好的烟花有这么多！
+::SAT8把自己关在这里面这么久……不就是为了要在今天放这些爆竹吗！
+
+ART556将仓库里的各种鞭炮和烟花都搬了出来，堆在了外面的空地上。
+
+ART556：我看看……喔哦……这颗应该是要放在桶子里……
+::然后这个东西应该是这里会爆炸……也就是说火要从这里……
+
+ART556一边说着，便一边将引线全都点燃……
+
+ART556：哈！果然是这样子点的没错！
+::让我来看看SAT8自制的烟火到底有没有成功吧！
+
+最先烧到头的是鞭炮……而随着其他爆炸和发射的火花……
+
+其他原本没被点着的爆竹与烟花也跟着被引燃……
+
+ART556：哦哦哦哦！好壮观啊！
+::太好了！这不是大成功嘛！
+
+SAT8为了在晚上举行焰火晚会而忙碌的成果，就整堆在这里爆炸了。
+
+半个小时后……
+
+在大家终于平息了现场的惨状后，我在角落一把抓住了被SAT8吓着的ART556。
+
+指挥官：ART556，我问你，你犯的错是什么？
+
+ART556：我让SAT8生气了………
+::因为………我把她做的鞭炮和烟花给弄没了……
+
+指挥官：我也跟你说过SAT8在这件事上花了很多心思。
+::结果你只是为了好玩，就把这一切全搞砸了。
+::平常我是不愿意这么做，但是你这么不知收敛是得要关禁闭的。
+
+ART556：关禁闭？！不要……！
+::指挥官！我知道错了！
+::求求你……！我会跟SAT8道歉的！求求你不要关我禁闭……
+
+指挥官：但是原本晚上要放的鞭炮不会因为你对SAT8道歉而回来。
+::为了让你记住闯祸的后果，我认为有这必要。
+
+ART556：呜呜……指挥官……求求你……
+::我会……我会找到让鞭炮回来的办法的……！一定会！
+
+指挥官：方法是什么，我就在这里等你说出来，说不出来就关禁闭。
+::如果方法是会伤害到其他人的，也同样。
+
+ART556：我……这个……我……………
+::我知道了！既、既然是鞭炮的话……
+::鞭炮最主要的是会发出很大的声音对不对！所以只要能够重现那个声音……
+::没错！只要能够在那时候用设备重现鞭炮声的话，就跟鞭炮回来了是一样的！
+
+指挥官：（不是去找鞭炮，而是重现声音吗……这倒是没想到……）
+::（唉………真希望这孩子能把她的鬼点子都用在这样的地方啊……）
+
+ART556：这样可以吗！指挥官！我现在马上就去准备这个！
+::求求您不要关我禁闭好不好！
+
+如果说ART556真的是有心要弥补自己的错误，那么在制造假鞭炮声这件事就是她最后的机会。
+
+从派去偷偷监督她的人回报来看，看来这次她是很认真的……
+
+指挥官：哈啊……终于熬到晚宴了……
+::这种时候就别再出意外了，让我坐下来好好吃饭吧……
+
+ART556：指……指挥官……
+
+指挥官：ART556吗……我已经看到那些音响了。
+::但就算这次用这种方式度过危机，你也还是欠SAT8一个道歉，知道了吗？
+
+ART556：我知道了……
+::指挥官……这个……那个……
+::这个餐盒……给你………
+
+指挥官：嗯？这个餐盒是从哪里来的？
+
+ART556：这是后厨房那边秘制的料理……
+::还有就是………对不起，我玩得太过火了……
+
+指挥官：知道错就好了，下次想着玩得时候多顾虑其他人的感受，知道吗？
+
+ART556：是……
+
+指挥官：没事了，这次的事情就到这里为止吧。
+::下次再犯错我是真的会直接把你关禁闭的。
+
+ART556：好……谢谢指挥官。
+
+格里芬人形：ART556！你怎么还在这里！
+::MT9在后面发现了一个奇怪的罐头，说是里面好像有东西在动！
+
+ART556：咦！MT9怎么可以丢下我自己去找好玩的东西！
+::她在哪里！快点带我去！不管罐头里面有什么我们都一定要打开它！
+
+ART556高兴地跟着其他人跑到看不到的地方去了。
+
+指挥官：嗯……看来这孩子短时间里应该还是不会记得这次教训的……
+::难道是不够深刻的缘故吗……？
+::算了，既然是这样的日子，就不继续追究她了。
+
+到了当天晚上12点……
+
+虽然一整天的活动并不如计画上那般顺利，但是鞭炮声和焰火的压轴项目最后还是为大家带来了美好的回忆，也为这场除夕庆典画下了圆满的句点。
+}}
+
+*ART556 shares the prankster personality with that of P7, except being willing to "cross many lines" with the sole aim to seek amusement.
+
+*ART556 also comes with "weird fetishes" which trips lolicon radars and may be responsible for landing commanders in jail.<ref>https://gfl.matsuda.tips/dolls/1?q=ART556&s=-useful</ref>
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable "
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>ART556_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官！今日はなんか面白いことある？}}<br />''Commander! Anything fun today?''<br />指挥官!今天有什麽有趣的事吗?
+| <sm2>ART556_HELLO_JP.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|えっへへ、指揮官おはよう！あたしはアート(ART)5…！噛んじゃった……556、です……}}<br />Heyo! Good to see you Commander! I'm ART55--uwah! ...I-I bit my tongue...it's 556...<br />嘿嘿！指挥官你好！我是ART55——呜啊！咬、咬到舌头了……是556啦……
+| <sm2>ART556_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | 秘书官
+| {{lang|ja|耳が気になる？えっへへ～面白いよね？}}<br />Are you interest<sup>[sic]</sup> in my ears? Heh heh, pretty cool, right?<br />很在意我的耳朵嗎?嘿嘿~很有意思吧?
+| <sm2>ART556_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|いつもMT9をいじってばっかりじゃ飽きちゃう、指揮官、なんか面白いことない？}}<br />Today we are gonna prank MT9 again, but it's gonna be boring if we keep doing the same thing. Commander, do you have any new ideas?<br />今天又要捉弄MT9了阿，老是這樣會膩的呢，指揮官，你有什麼新點子嗎?
+| <sm2>ART556_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|そうそう、耳が……あ、そこそこ！もうちょっと上……}}<br />Yes, yes...ear...right there! Just a little higher...<br />對對......耳朵......就是那裡!再上面一點......
+| <sm2>ART556_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|指揮官、プレゼントの箱開けてみて！えっへへ～びっくりしたでしょう！}}<br />Commander, did you open my present from our last date? ...Hehe~, was it enough to suprise you for a whole night?<br />指挥官，打开礼物看看吧？.......嘿嘿~足够你惊喜一晚上了吧？
+| <sm2>ART556_DIALOGUEWEDDING_JP.mp3</sm2>
+|-
+| As adjutant (Outfit: ''Lotus White'')
+| {{lang|ja|指揮官、ずっと家に篭ってばっかりじゃつまんないよ、一緒にでかけて冒険しようよ！}}<br />''Commander, it's too boring to stay at home on new year's day, come out for an adventure on the streets with me!''<br />指挥官，新年宅在家裡太无聊了啦，和我去街上冒险吧！
+| <sm2>ART556_NEWYEAR_JP.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|うわぁ～！}}<br />''Uwah!''<br /> 
+| <sm2>ART556_MOOD2_JP.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|うっひひひ～}}<br />''U-heeheehee....''<br />笑
+| <sm2>ART556_MOOD1_JP.mp3</sm2>
+|-
+| {{lang|ja|あっははは！}}<br />''Ah-hahaha!''<br />称赞
+| <sm2>ART556_APPRECIATE_JP.mp3</sm2>
+|-
+| {{lang|ja|そうだね～}}<br />''Wow!''<br />附和
+| <sm2>ART556_AGREE_JP.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|ようやくあたしの出番ね！}}<br />''Finally my turn to show off!''<br />终于换我出场了!
+| <sm2>ART556_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|ようやくあたしの出番が来たね！}}<br />''It's finally my turn!''<br />终于轮到我了!
+| <sm2>ART556_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|がっかりさせないでね！}}<br />''Don't let me down!''<br />别让我失望哦!
+| <sm2>ART556_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|あ～やるじゃん！}}<br />''Ah~quite a great one!''<br />啊~很厉害嘛!
+| <sm2>ART556_BREAK_JP.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|楽しいときもあれば、大変なときもあるよね。うん、しょうがない！}}<br />''With happiness comes hardship. Hmm, can't help!''<br />有快乐的时候，也有辛苦的时候。恩，没办法呢!
+| <sm2>ART556_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝った勝った～！これが欲しかったんだよ！}}<br />''We won we won! It's what I wanted!''<br />赢了赢了~!就是想要这个啊!
+| <sm2>ART556_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|ありゃりゃ～やりすぎちゃったかな～}}<br />''Alas alas...Overplayed a bit..''<br />哎呀呀~玩得太过头了~
+| <sm2>ART556_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|この程度の戦いなら、あたしにお任せ～！}}<br />''Leave this kind of battles to me!''<br />这种程度的战斗，就交给我吧~!
+| <sm2>ART556_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|行こう行こう！遊ぼう！}}<br />''Come on come on let's go and play!''<br />走吧走吧，一起玩!
+| <sm2>ART556_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|見てみて！面白いでしょう！}}<br />''Look at this! Seems fun!''<br />看看这个!很有趣对吧!
+| <sm2>ART556_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しいお友達？あたしはART5……また噛んじゃった…うぅ……}}<br />''A new friend? I'm ART5....bit my tongue again....uuuu.....''<br />新的朋友嗎?我叫做ART5......又咬到舌頭了...嗚......
+| <sm2>ART556_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|うお～これは凄すぎる！}}<br />''Wow~!This is great!''<br />哇~真是太厉害了!
+| <sm2>ART556_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|えへん～あたしもこの日がやってきたね！}}<br />''Ehe! The day has come for me!''<br />恩哼~我也到这天了呢!
+| <sm2>ART556_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|本番はここからだよ！}}<br />''Now comes the real part!''<br />现在才要使出真本事!
+| <sm2>ART556_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|瞬きしないでね！}}<br />''Don't you blink!''<br />别眨眼哦!
+| <sm2>ART556_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|ぴゅぴゅぴゅ～！}}<br />''Pew pew pew!''<br />
+| <sm2>ART556_SKILL3_JP.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官も退屈な毎日は嫌でしょう？なら、あたしとずっと一緒に居て！指揮官が想像もできないくらい、楽しい毎日にしてあげるから！}}<br />What are the plans for today, Commander? Eh? This--... To bestow such an honor upon me, I never would've expected this. I'm extremely happy! Thank you very much, Commander!<br />指挥官，你也受够之前那种无聊的人生了吗？来吧~我可以给你想要的，和想不到的...让我们一起不择手段地...将未来填满乐趣吧
+| <sm2>ART556_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=Convert pic ART556 D.png|width=500px|left=-150px}}
+
+
+
+== References ==
+<references/>
+ 
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
