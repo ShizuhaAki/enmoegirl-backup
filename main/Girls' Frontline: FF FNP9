@@ -1,0 +1,256 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>I have many different uniforms. This one looks pretty cute too.</big></big>'''}}
+{{Girls' Frontline profile
+|Title=FF FNP9
+|image=gffnp9_1.jpg
+|Caption=[http://weibo.com/kevnmo Artist: @-Kevn-]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68267613 pixiv: 68267613]
+|Original name=FN FNP-9
+|Nickname(s)=
+|Moe point(s)=
+|Hair color=Pink
+|Eye color=Blue
+|CV=Aoi Koga
+|Type=HG
+|Rarity=★★
+|Country of origin=Belgium/USA
+|Manufactured by=FN
+|Developed=2006
+|In service=2006-
+|Related to=
+}}
+
+'''FF FNP9''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Sunborn Network Technology Co., Ltd. and its derivatives. She is based on the FN FNP-9.
+
+== Historical basis ==
+The '''FNP-9 semi-automatic pistol''' is the 9mm-caliber variant of the FN FNP family of pistols developed by FNH USA in Columbia, South Carolina. It originated from an effort to introduce multiple new pistols by FN Herstal as they realized that simply relying on their Browning Hi-Power pistol, a reliable and classic semi-automatic pistol fielded by military police and first built in 1935, would not suffice on its own if FN Herstal wishes to remain competitive in the modern pistol market.
+
+===Specifications===
+
+*Weight: 700g
+*Length: 187.96mm
+*Barrel length: 101.6mm
+*Width: 39.37mm
+*Height: 137.16mm
+*Cartridge: 9×19mm Luger
+*Caliber: 9mm
+*Action: short barrel recoil with simple blowback
+*Effective range: 50m
+*Feed system: 10/16-round detachable magazine
+*Sights: Mechanical sights, rear notch and front post (white three-dot pattern or tritium-illuminated night sights)
+
+{{Hide|Title=Specifications taken in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the weapon.'''
+ Type                       Semi-automatic pistol
+ Weight                     24.7 oz (700 g)
+ Length                     7.4 in (188 mm) 
+ Barrel length              4 in (102 mm) 
+ Cartridge                  9×19mm Parabellum
+ Effective firing range     55 yd (50 m)
+ Feed system                16 rounds detachable box magazine
+ Sights                     3-dot white or Tritium night sights
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''FF FNP9'''
+|-
+! colspan=2 | '''Index number''': No.090
+! colspan=2 | '''Rarity''': ★★
+|-
+! colspan=2 | '''Place of origin: Belgium[[File:Flag_of_Belgium.svg|20px]]/USA[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Gun type: Handgun'''
+|-
+! colspan=2 | '''CV: Aoi Koga'''
+! colspan=2 | '''Illustrator: Bison仓鼠'''
+|-
+! colspan=4 | '''Stats (Growth: A)'''
+|-
+| '''Health (C)''' || 30→60×5 || '''Damage (B)''' || 11→28
+|-
+| '''Evasion (A)''' || 11→83 || '''Accuracy (A)''' || 7→53
+|-
+| '''Movement speed''' || 15→15 || '''Rate of Fire (A)''' || 42→61
+|-
+| '''Crit chance''' || 20% → 20% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 129→2385
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10→30 || '''Rations''' || 10→30
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Cover suppression  
+| colspan=3 |  Decrease all enemies' evasion by 32% (40%) for 5 (8) seconds.<br />Initial cooldown: 6 seconds. Skill cooldown 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|2|3|6|8|9}}
+Keypads 2,3,6,8,9
+|-
+| '''Effect''' || colspan=3 | Buffs '''All Types'''<br />Rate of Fire +10% (20%), Accuracy +20% (40%)
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 00:25:00
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Other''' || colspan=3 | Reward for achievement ''Heh, Surprise'' (stepping on any random node once).
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Default
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--Default-->Normal
+	|bt2=Heavily damaged
+	|bt3=Censored heavily damaged
+	|tab1=[[File:FNP9.png|420px]]
+	|tab2=[[File:FNP9 D.png|420px]]
+	|tab3=[[File:Pic FNP9 D.png|400px]]
+	}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+==Tips==
+*FF FNP9 can be considered as a lower-tiered variant of SPP-1 and Type 59 due to the similar skills and formation buffs, and thus could be used as a substitute if the player does not have the higher-tiered two.
+==Trivia==
+*One of FF FNP9's quotes, "I have many different uniforms. This one looks pretty cute too.", may be an allusion to the wide variety of coloring schemes available for the FNP family of pistols.
+**It may also be an allustion to the considerable number of members of the FNP family, many (if not all) of which can even come in single-/double-action-only or single/double-action.
+
+== Quotes ==
+
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2> fnp9_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|おはようございます、指揮官。今日も何人ものファンが増えて、嬉しいです！}}<br />''Good morning, commander! Today will be a great chance to expand my fans!''<br />早上好，指挥官！今天，就是我提升人气的大好机会吧！
+| <sm2> fnp9_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|FNP-9（えふえぬぴーないん）拳銃が華麗に登場よぉ。指揮官、応援お願いねっ。}}<br />It's time for FF FNP9's...gorgeous...debut! Commander...please give me...your support from now on...<br /> FNP9，华丽登场啦！指挥官，让我加入您吧！
+| <sm2> fnp9_001.mp3</sm2>
+|-
+| rowspan=4 | As adjutant
+| {{lang|ja|指揮官、今日はレッスン以外何がありますか？}}<br />What's there to do today apart from lessons, Commander?<br />嗯？指挥官，什么指示啊？
+| <sm2> fnp9_005.mp3</sm2>
+|-
+| {{lang|ja|制服なら、いっぱい持ってます。どれも可愛いですよ～。}}<br />I have many different uniforms. This one looks pretty cute too.<br /> 制服的话，我可有很多呢，指挥官，要不要来看一下？
+| <sm2>fnp9_006.mp3</sm2>
+|-
+| {{lang|ja|指揮官、いくらわたしが魅力的だと言っても、わたしをずっと見つめるのはやめてください、恥ずかしいですぅ…。}}<br />I know I'm terribly charming, Commander, but please stop staring at me. It's embarrassing.<br />一直这样看着我，指挥官，我果然还是有一些闪光点的吧？
+| <sm2>fnp9_007.mp3</sm2>
+|- 
+| {{lang|ja|}}<br /><sup>'''Post-oath'''</sup>Heheh, I'm buoyant as ever today, and people keep thinking better and better of me! It's all thanks to your pointers! I'll keep working hard!<br />嘿嘿，今天的我也很活跃哦，大家的评价越来越高涨了呢。这都多亏了您的指点，我会继续加油的！
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>FNP9_MOOD2_JP.ogg</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|えへへ～。}}<br />''Ehehe.''<br />笑
+| <sm2> fnp9_032.mp3</sm2>
+|-
+| {{lang|ja|すごいです！}}<br />''Great!''<br />称赞
+| <sm2>fnp9_035.mp3</sm2>
+|-
+| {{lang|ja|うんっ。}}<br />''Hmm.''<br />附和
+| <sm2>fnp9_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|わぁい、わたしがセンター？精一杯頑張ります！}}<br />''Wa~I'm on the center? I'll do my best!''<br /> 我加入啦，大家，这边这边！（日语直译：哇~是我的录用考试啊？尽最大努力加油吧！）
+| <sm2>fnp9_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|ステージに立つ機会がきましたね。}}<br />''Here's my chance to go on the stage.''<br />属于我的机会终于来啦，前进前进！（日语直译：上舞台表演的机会来了呢。）
+| <sm2> fnp9_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|ここはファンサービスですね、頑張っちゃいます～}}<br />''This is Fans Service, work harder~''<br />发现敌人啦，不会放过你们的！（日语直译：这是给粉丝们的服务呢，不能不加油呐~）
+| <sm2>fnp9_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|…こんなことではアイドルになどなれません！}}<br />''This kind of problem is unacceptable for an idol!''<br />诶！都努力到这个地步啦，还是不行吗！(日语直译:出现这种问题作为偶像不可容忍！)
+| <sm2>fnp9_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|修理の間は自主練してもいいですか？もっと頑張りたいです。}}<br />''Would self-exercising when repairing work? Now I should work even harder!''<br /> 没办法啊……空闲的时候，再做几个俯卧撑吧。（日语直译：在修炼期间自主锻炼也是可以的吧？要更加加油了！）
+| <sm2>fnp9_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|ステージは大成功、わたしの努力が実を結びました！}}<br />''Stage performance is a great success, my hard work finally paid back!''<br /> 怎么样？这可是我的努力争取的哦！所以，稍稍记住我吧。（日语直译：舞台演出大成功、我的努力终于得到回报了！）
+| <sm2>fnp9_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|頑張るだけじゃ、無理みたい…。}}<br />''Seems a bit overstretched with only hard work...''<br /> 诶……可是我还能……嗯，我明白了……（日语直译：仅仅是靠着努力，还是太勉强了啊……）
+| <sm2>fnp9_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|どんなライブでもがんばりますよ。わたしをよく見てくださいね、指揮官。}}<br />''I'll work hard on whatever stage it is. Please watch my performance, commander.''<br /> 我表现的机会来啦！好好注视我吧！（日语直译：不论是怎么样的舞台都会加油的哟。请好好地看着我的表现吧，指挥官。）
+| <sm2>fnp9_028.mp3</sm2>
+|-
+| Beginning<br />logistic support
+| {{lang|ja|遠征の時間ですね。行ってまいります！}} <br />''Time for a long tour. I'm leaving!''<br />那么我出发咯，一定会完成任务的！（日语直译：是时候远征了呢。我出门了！）
+| <sm2>fnp9_024.mp3</sm2>
+|-
+| Finishing<br />logistic support
+| {{lang|ja|戻りました。わたしのファンと会えなかったのはちょっと残念です、えへへ…。}}<br />''I'm back. A bit sad to not meet any fans, ehehe...''<br /> 我回来了哦，有人……来迎接我吗？（日语直译：回来啦。没能遇到粉丝们稍微有点遗憾呐，诶嘿嘿~~）
+| <sm2>fnp9_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しいメンバーですか？}}<br />''Is it a new member?''<br />新的同伴哦，一起欢迎一下吧。（日语直译：是新的小伙伴吗？）
+| <sm2>fnp9_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|仲間と手を取り合って、精一杯頑張りますね。}}<br />''Work harder with full effort with friends.''<br /> 各位，一起努力，变得更受欢迎吧！（日语直译：与伙伴们同心协力，全心全意地加油吧。）
+| <sm2>fnp9_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|うぉお、ファンのために腕を磨いて、もっと輝きたいです！}}<br />''Uooo, training myself for fans to beshinier!''<br />哦哦！变强了啊，这样就能多多注意我了吧！（日语直译：哦哦、为了粉丝而磨练自己，变得更加闪闪发光！）
+| <sm2>fnp9_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|笑顔、笑顔です！}}<br />''Smile! Keep the smile!''<br />射击射击！（日语直译：笑容、保持笑容！）
+| <sm2>fnp9_021.mp3</sm2>
+|-
+| {{lang|ja|もっと輝きたいです！}}<br />''Want to be even brighter!''<br />就是现在，请倒下吧！（日语直译：想要变得更加闪耀！）
+| <sm2>fnp9_022.mp3</sm2>
+|-
+| {{lang|ja|これが、アイドルの実力です！}}<br />''This is the power of an idol!''<br />只要再努力一点就可以啦！（日语直译：这，就是偶像的实力！）
+| <sm2>fnp9_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官、わたしのどこがいいですか？…やはり笑顔ですか？笑顔なら誰にも負けませんよ。わたし、これからも笑顔のままで頑張ります。え、えへへぇ。嬉しい…}}<br />You sure about choosing me, Commander? It's because of my smile, isn't it? I do have an incomparable smile, I know. I'll keep working hard with a smile from now on. Heheh... I'm so happy...<br /> 什……什么！指挥官，我活跃的样子，终于被您注视到了吗！太好啦！不管将来会不会受欢迎，但是指挥官，现在的我，最——喜欢你啦！（日语直译：指挥官、我究竟好在哪里呢……果然还是笑容吗？笑容的话绝对不会输给别人的哟。我的话，从今以后也会保持笑容继续努力。诶、诶嘿嘿诶~好高兴……）
+| <sm2>fnp9_029.mp3</sm2>
+|}
+
+
+{{Girls' Frontline}}
+{{SideBarPic|url=FNP9.png|width=500px|left=-150px|bottom=-60px}}
+
+==References==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
