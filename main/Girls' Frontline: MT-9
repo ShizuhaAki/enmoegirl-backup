@@ -1,0 +1,266 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Taurus MT-9! Please lead us to victory, Commander!</big></big>'''}}
+{{Girls' Frontline profile
+|Title=MT-9
+|image=gfmt9_1.jpg
+|Caption=[https://twitter.com/tsqy12 Artist: @{{lj|タガ}}]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62870757 Pixiv：62870757]
+|Original name=Taurus MT-9
+|Nickname(s)=
+|Moe point(s)=Dark skin, tropic, breasts
+|Hair color=Black
+|Eye color=Green
+|CV=Rui Kariya
+|Type=SMG
+|Rarity=★★★
+|Country of origin=Brazil
+|Manufactured by=
+|Developed=
+|In service=2011-
+|Related to=
+}}
+
+'''MT-9''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Sunborn Games and its derivatives. She joined the struggle in August 2018.
+
+== Historical basis ==
+
+The '''MT-9''' is a product of Taurus of Brazil. Taurus' products are largely reminiscent of weapons of other manufacturers, such as its semi-automatic pistols bearing Beretta-pattern designs, its revolvers resembling Smith & Wesson products. The first Taurus SMG is the MT-12A submachine gun taken from the Beretta M12 before becoming an imitation of the S.A.F. submachine gun of FAMAE of Chile. This series of SMGs are made up of the 9x19mm-chambering MT-9 and the MT-40 chambered for the .40 S&W. Externally, the biggest difference between the MT-9/-40 and the S.A.F. is the omission of the heat ports on the handguard and the different shape of the folding stock.
+
+The MT G2 series of SMGs by Taurus is introduced in early 2011, designed to replace the MT-9 and the MT-40, with the new 9x19mm variant called the MT-9 G2, and the MT-40 G2 for the .40 S&W variant, with G2 simply denoting Generation 2. However, the two "generations" do not seem to have passed on any design elements.
+
+The MT G2 is not directly based on any firearm, but rather from the ART556 by Taurus, an imitation of the FN SCAR chambered in 5.56mm NATO plus some simplifications. The ART556 is shortened, and with a caliber change, the MT G2 is created. There are also the short-barreled SMT-9 and the SMT-40.
+
+Aside from caliber differences, the MT-9 G2 and the MT-40 G2 are basically identical both internally and externally. The series of SMGs uses a simple-blowback bolt firing from a closed bolt to improve accuracy. The upper receiver is made of a single block of aluminium pressed into shape, and the lower receiver an intergral part made of polyer with lightweight steel framing as reinforcing material. The charging handle can be placed either to the left or to the right of the receiver to the user's preference.
+
+The weapon feeds from a curved double-stack plastic magazine, housing 34 rounds in the MT-9 G2 and either 15 or 30 rounds in the MT-40 G2.
+
+The polymer stock can be folded to the right of the weapon and is telescopic at the same time, with an integral Picatinny rail on the top of the receiver. There are two screw ports on both sides and the bottom of the polyer handguard for mounting additional picatinny rails, a feature taken from the HK UMP. The Iron sights are mounted on the rails as well consisting of a cylindrical post and aperture set for 25m and 50m.
+
+Taurus also introduced the CT G2 series of carbines in semi-auto only with a fixed stock and extended barrel for civilian use.
+
+===Specifications===
+*Caliber: 9×19mm
+*Length:  466 mm / 753 mm (Stock folded/extended)
+*Barrel length: 200 mm	
+*Weight: 3.29 kg
+*Magazine capacity: 34 rds	
+*Cyclic rate of fire: 700~800 rpm
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     3.29 kg 
+ Length                     753 mm  stock extended
+                            466 mm  stock folded
+ Barrel length              200 mm 
+ Cartridge                  9×19mm Parabellum
+ Rate of fire               700-800 rounds per minute 
+ Feed system                34-round detachable box magazine
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''MT-9'''
+|-
+! colspan=2 | '''Index number''':  No.144
+! colspan=2 | '''Rarity''': ★★★
+|-
+! colspan=2 | '''Place of Origin: Brazil[[File:Flag_of_Brazil.svg|20px]]'''
+! colspan=2 | '''Gun Type: SMG'''
+|-
+! colspan=2 | '''CV: Rui Kariya'''
+! colspan=2 | '''Illustrator: 麻将'''
+|-
+! colspan=4 | '''Stats (Growth: B)'''
+|-
+| '''Health (A)''' || 102→203×5 || '''Damage (B)''' || 10→25
+|-
+| '''Evasion (B)''' || 9→60 || '''Accuracy (A)''' || 2→13
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (A)''' || 63→88
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 216→3884
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Stun Grenade
+| colspan=3 |Launch a stun grenade that stuns enemies within a radius of 2.5 units for 3.5 seconds.<br />Initial cooldown 5 seconds / Skill cooldown 16 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>Keypads 1,7
+|-
+| '''Effect''' || colspan=3 | Buffs '''AR''', <br/>Damage +10%, Evasion+12%。
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Other''' || colspan=3 | '''August 2018 monthly login reward'''
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+|tab1=[[File:pic_MT9.png|400px]]
+|tab2=[[File:pic_MT9_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Tips==
+*The third highest amount of health (at 1015 maximum, on par with '''Gr G36C''', and, surprisingly, '''M38''') behind Thompson and Suomi and the sixth lowest evasion of all SMGs suggest that MT-9 should be used as an HP-tank.
+:Using exoskeletons may help evade more potential damage.
+*Her Stun Grenade skill renders her somewhat less useful as bosses are immune to the stunning effect while the skill has a longer initial cooldown than the Smoke Grenade (whose slow and accuracy debuff works on everyone).
+
+== Trivia ==
+*MT-9 wields the G2 variant of the MT-9.
+*MT-9 may have an expertise in mealmaking judging by her post-oath quote mentioning her doing trinkets/small meals to others.
+:She may also be inconfident towards herself and may have once suffered from depression, judging from her quotes.
+*MT-9's clothing may be a reference to Brazil via the use of yellow and green and the tropical combat environment, which is a possible poke on Brazil's climate.
+
+==Quotes==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>MT9_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官！元気出して、新しい一日の始まりだぜ！}}<br />''Commander! Get yourself to speed, a new day is going to start!''<br />指挥官!打起精神，新的一天要开始咯!
+| <sm2>MT9_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|タオルスMT-9(えむてぃーないん)だぜ！勝利へ導いてくれよ、指揮官！}}<br />Taurus MT-9! Please lead us to victory, Commander!<br />我是陶鲁斯MT-9!请指引我获胜吧，指挥官!
+| <sm2>MT9_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、出発準備オッケーか？}}<br />Commander, are you prepared for departure?<br />指挥官，准备好了吗?
+| <sm2>MT9_005.mp3</sm2>
+|-
+| {{lang|ja|この間の作戦ログ見たか？うちは、どう？}}<br />Did you see the combat record from last time? How did I do?<br />看过之前的作战纪录了吗?我怎麽样?
+| <sm2>MT9_006.mp3</sm2>
+|-
+| {{lang|ja|ちょっと指揮官！ここに呼んだのは特訓のためじゃなかったのかよ？！}}<br />Hey, Commander! Didn't you call me here for special training?!<br />等等指挥官!叫我到这裡不是为了特训吗?!
+| <sm2>MT9_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|この前の手料理、みんなの評判は悪くないか？指揮官がいつも励(はげ)ましてくれるし、うちも、もっと自信を持ってもいいよな？}}<br />That hand-made trinket last time, did everyone like it? You are always encouraging me, I should have more confidence in myself!<br />之前做的料理，大家觉得怎么样呢?指挥官一直鼓励我，我应该也可以对自己更有自信一点吧?
+| <sm2>MT9_041.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|わ！}}<br />''Wah!''<br /> 哇!
+| <sm2>MT9_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|あはははは}}<br />''Ahahaha''<br />笑
+| <sm2>MT9_032.mp3</sm2>
+|-
+| {{lang|ja|やったぜ！}}<br />''It's awesome!''<br />称赞
+| <sm2>MT9_035.mp3</sm2>
+|-
+| {{lang|ja|そうだな！}}<br />''Wow!''<br />附和
+| <sm2>MT9_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|タオルスMT-9、ただいま入隊するぜ！}}<br />''Taurus MT-9, now joining formation!''<br />陶鲁斯MT-9，加入队伍!
+| <sm2>MT9_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|チャンスだ、出発するぜ！}}<br />''Here's the chance, let's go!''<br />机不可失，我们出发吧!
+| <sm2>MT9_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|よーし行くぜ！}}<br />''Good, let's go!''<br />要开始咯!
+| <sm2>MT9_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|ぐ…こんなところで…倒れるなんて…！}}<br />''Uuuu...falling...in this kind of place!''<br />呜...居然在这种地方倒下...!
+| <sm2>MT9_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|すまない…もっと頑張らなくちゃな…}}<br />''Sorry...I have to work harder..''<br />对不起...还要更加努力才行...
+| <sm2>MT9_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝った！よしゃあ！みんな、大声を出して存分に祝(いわ)おうぜ！}}<br />''We won! Great! Ladies, scream out your joy!''<br />赢了!太好了!大家，大声尖叫庆祝吧!
+| <sm2>MT9_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|すまない指揮官…うちの、力不足で…}}<br />''Sorry commander... It's my being too weak...''<br />对不起指挥官...都是我的能力不足...
+| <sm2>MT9_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|みんな！うちの努力の成果、見てくれよ！}}<br />''Everyone, see the result of my hard work!''<br />大家!见识一下我至今努力的成果!
+| <sm2>MT9_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|じゃ、行ってくるぜ！}}<br />''Then, I'm heading off!''<br />那，我出发咯!
+| <sm2>MT9_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|指揮官！無事、任務完了！}}<br />''Commander! Mission finished without trouble!''<br />指挥官!任务平安结束!
+| <sm2>MT9_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|待ってたぜ！}}<br />''Been waiting on this for long!''<br />等好久了!
+| <sm2>MT9_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|信頼してくれてありがとう、精一杯努力するぜ！}}<br />''Thanks for your trust, I'll work harder!''<br />谢谢你信任我，我会加油的!
+| <sm2>MT9_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|ありがとう！もっと頑張らなくちゃな！}}<br />''Thanks!  I'll work harder!''<br />谢谢!我会更加油的!
+| <sm2>MT9_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|負けない…！}}<br />''I won't lose..!''<br />不会输的...!
+| <sm2>MT9_021.mp3</sm2>
+|-
+| {{lang|ja|降参(こうさん)なら今のうちだ！}}<br />''Now would be your time to surrender!''<br />要投降就趁现在!
+| <sm2>MT9_022.mp3</sm2>
+|-
+| {{lang|ja|絶対引かない！}}<br />''Absolutely no step back!''<br />绝对不退缩!
+| <sm2>MT9_023.mp3</sm2>
+|-
+| 誓约烙印
+| {{lang|ja|指揮官は、一度もうちは諦めなかった…落ち込んてる時でも、つっと傍にいってくれた。指揮官の支えがなければ、自分でも信念を失えそうだった…だからうち！これから絶対へこまない！胸を張って、指揮官と共に歩いていく！}}<br />You have never abandoned me for my upbringing, even when I was very depressed... If it wasn't for your persistence, I might had lost faith in myself... So now, I won't discouraged again! I'll hold my head high and face the future with you!<br />
+| <sm2>MT9_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_MT9_D.png|width=500px|left=-150px}}
+
+
+== References ==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Breasts]]
+[[Category:Brown skin]]

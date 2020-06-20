@@ -1,0 +1,176 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>That's how the world works, Weaver. Hard to make everything as you wish.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=Type 95
+|image=Girls' Frontline -Type 95.jpg
+|Caption=[https://www.weibo.com/u/2481339344 Artist:木shiyo]<br>[https://www.pixiv.net/artworks/60393324 pixiv:60393324]
+|Original name=Type 95
+|Nickname(s)=QBZ-95
+|Moe point=
+|Hair color=Black
+|Eye color=Golden
+|CV=大门香实
+|Type=AR
+|Rarity=★★★★★
+|Country of Origin=China
+|Developed by=China South Industries Group
+|Manufactured by=Norinco
+|Developed=1989-1995
+|In service=1997-
+|Related person(s)=
+}}
+ 
+'''Type 95''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The 5.8mm-caliber Type 95 Automatic Rifle is a Chinese designed infantry weapon, intended to update to the new 5.8mm-caliber rifle standards in the late 1908s. 
+
+The research and development on the 5.8mm small-caliber, high-velocity bullet began in 1987. Developed by China South Industries Group Corporation, the early model Type 87 5.8mm Automatic Rifle(QBZ-87) was distributed to troops for trails and comments. According to comments from the troops, the QBZ-87 cannot fully fulfill the military needs. In 1989, the military proposed the development of 5.8mm based weapon family and demanded higher combat performance.
+
+The development of this new generation weapon family brought together a joint team of technicians from factories, colleges, research institutes, and military test departments. After 6 years, the design was finalized and entered production in 1995. Officially named '''Type 95 Automatic Rifle'''(referred to as '''QBZ-95'''). The new assault rifle first appeared in 1997 as a weapon of the People's Liberation Army stationed in Hong Kong.
+
+
+
+===Specifications===
+
+*Cartridge: 5.8×42mm DBP87<br>
+*Action: Short-stroke piston, rotating bolt<br>
+*Overall length:745mm / 609mm (QBZ-95B Carbine)  / 840mm (QBB-95 LSW variants)<br>
+*Barrel length: 463mm / 369mm (QBZ-95B Carbine) / 600mm (QBB-95 LSW)<br>
+*Empty weight: 3.25kg / 2.9kg (QBZ-95B Carbine) / 3.9kg (QBB-95 LSW)
+*Rate of Fire, RPM: 650 / 800 (QBZ-95B Carbine)
+*Feed system: 30-round detachable box magazine / 80-round detachable drum
+
+==In-game stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Type 95'''
+|-
+! colspan=2 | '''Index number''': No.129
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality:China[[File:Flag_of_China.svg|20px]]'''
+! colspan=2 | '''Type:Assault Rifle'''
+|-
+! colspan=2 | '''CV：大门香实'''
+! colspan=2 | '''Illustrator: 木Shiyo→陆银'''
+|-
+! colspan=4 | '''Stats(Growth：A)'''
+|-
+| '''Health (B)''' || 58→116 || '''Damage (A)''' || 22→50
+|-
+| '''Dodge (A)''' || 6→46 || '''Accuracy (S)''' || 6→52
+|-
+| '''Movement speed (B)''' || 10→10 || '''Rate of Fire (B)''' || 48→71
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 178→3668
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20→60 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Damage Focus-T
+| colspan=3 |Raises firepower by 30% (50%) and lasts for 9 (15) seconds. <br />Initial cooldown at 2 seconds with an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 3
+|-
+| '''Effects''' || colspan=3 |Affects '''SMGs''' only<br />Raises firepower by 10%, dodge by 18%。
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 03:50:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+'''Notes'''：
+* The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses ("()") is the maximum possible value of the stat.
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt3=Costume(s)
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--Normal-->Normal
+	|bt2=Damaged
+	|tab1=[[File:Girls' Frontline -Type 95 N.jpg|500px]]
+	|tab2=[[File:Girls' Frontline -Type 95 D.jpg|500px]]
+	}}
+|tab3={{tabs
+|DefaultTab=1
+|color=black
+|bt1=玉玲珑
+|bt2=夏鸣蝉
+|bt3=纯白毕业祭
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|TextBackgroundColor=
+	|bt1=<!--玉玲珑-->Normal
+	|bt2=Damaged
+	|tab1=[[File:Yulinglong.jpg|500px]]
+	|tab2=[[File:Yulinglong D.jpg|500px]]
+	}}
+|tab2={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--夏鸣蝉-->Normal
+	|bt2=Normal(SFW)
+	|bt3=Damaged
+	|tab1=[[File:pic_95type_1102.png|500px]]
+	|tab2=[[File:pic_95type_1102_he.png|500px]]
+	|tab3=[[File:pic_95type_1102_D.png|500px]]
+	}}
+|tab3={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--纯白毕业祭-->Normal
+	|bt2=Damaged
+	|tab1=[[File:pic_95type_3702.png|500px]]
+	|tab2=[[File:pic_95type_3702_D.png|500px]]
+	}}
+}}
+}}
+</div>
+{{-}}
+
+{{Hide|Title=Chibi for ''Yulinglong''|Text=[[File:Type_95_YLL_Chibi.gif]]
+</div>}}
+
+
+==Trivia==
+ 
+
+=== Inspiration ===
+
+
+== Quotes ==
+'''WIP'''
+
+
+{{Girls' Frontline}}
+
+== External links and references ==
+
+<references/>

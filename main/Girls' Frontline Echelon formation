@@ -1,0 +1,73 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Girls' Frontline walkthrough}}
+
+==Echelon formation（Normal）==
+{{Spoiler|For commanders who have '''absolutely no idea''' how to use their own T-dolls.}}
+{{Spoiler|The following content inevitably contain exceptions, but are ignored for general use.}}
+===Echelon formation 101===
+Every echelon needs 5 T-dolls. Deciding which ones to be included and how to design their formation makes up Echelon Formation.<br />
+For specialties of T-dolls and their effect tiles, refer to [[Girls' Frontline]]<br />
+Summarized here as:<br />
+Front row: SMG, SG<br />
+Rear row: AR, RF, MG<br />
+Support: HG<br />
+This is for a higher operational effectiveness possible with T-dolls at hand.{{Spoiler|Still, easily outmatched by the lucky ones.}} The first step of forming an echelon is to make appropriate use of the effect tiles of T-dolls through positioning, and whether an echelon is good or not is directly reflected in its operational effectiveness. However be aware that the overall effect of effect tiles are first stacked ''additively'' before being applied as a percentage of boost, which is different from how equipment works.
+
+===Types of echelons and their use===
+Some basic rules:<br />
+*The front row protects their respective rear-row partners(SMG-AR, SG-MG{{Spoiler|, while HG and RF are relatively peculiar and are arranged differently}}).<br />
+*The echelon (especially the rear row) should be placed as close to the rear (i.e. the left side) as possible.<br />
+*Make use of as many effect tiles as possible. However bear in mind that having a T-doll on the front (right) can increase the engagement range of the echelon.<br />
+*Keep 2-3 T-dolls in the rear, and make up for the gap with RFs where needed.<br />
+*Determine the overall shape of the echelon according to the types of T-dolls at the front and the rear, and their respective effect tiles.<br />
+#SMG-AR (2-3 ARs to the left with 1-2 SMGs in the middle): Has stable output, relies on dodge as their primary defense. Midnight combat-capable by equipping nightvision devices. Poor armor-piercing capabilities, ineffective against armored units.
+#MG-SG(1-2 MGs to the left and 1-2 SGs to the right): High-powered bursts with a pronounced gap in between. High damage but offset by low accuracy. Relies on armor as the primary defense. Poor against high-dodge hostiles and specific midnight-combat units; Can handle armored units by equipping armor-piercing rounds.<br />
+{{Spoiler|What about the places left? Put an HG there.}}<br />
+
+==Echelon Formation（Hard）==
+{{Spoiler|For commanders who wish to form echelons according to their use}}
+===Some data analysis===
+Different types of T-dolls have large differences in their performance, which are pronounced even under the same type. Firepower is mainly considered here.<br />
+Damage output is related to Firepower, Rate of Fire, Critical hit chance and accuracy, and an analysis of these factors gives us the following list:<br />
+#AR: Average and mediocre stats
+#SMG: High RoF, relatively low firepower, abysmal accuracy
+#HG: Has its use, relatively low firepower, relatively high RoF
+#RF: Pronounced firepower, accuracy, and crit chance. Extremely low RoF.
+#MG: Pronounced firepower, belt-fed, high burst capabilities, low accuracy.
+#SG: Relatively poor stats, but can engage 3 targets at the same time (with no ammo equipment/buckshot), or have their firepower tripled (with slug rounds), and can knock back hostiles<br />
+===Adjust accordingly===
+Adjusting the effect tiles requires two things in mind: Make up for the weaknesses and Improving advantages. Based on the aforementioned specialties, we do another analysis on the suitable effect tiles for different types of T-dolls (for actual gameplay reasons, some equipment effects are taken into account).<br />
+#AR: Virtually accepts all types of effect tiles, adjusting according to the anticipated enemy type is advised.
+#SMG: Accuracy tiles are favoured with red-dot sights, while RoF tiles are discouraged. Due to their low firepower, it's hard to make use of RoF/Crit buffs, but comes with a low cost for stable auxiliary output. When equipped with holographic sights, two accuracy tiles are needed (60%-100%), but with high firepower and decreased RoF, firepower/crit buffs and minor RoF buffs are also acceptable.
+#HG: Limited equipment overall with low stats, with little benefit provided by buffs, unsuitable for an output unit.
+#RF: Generally needs no accuracy tiles, due to their high crit chance/crit damage and low RoF, optical sights are often equipped. Therefore RFs are only suitable for firepower/RoF tiles, bias towards which should be chosen according to individual differences.
+#MG: Two adjustment methods are available similar to SMGs, but MGs generally excel in damage output, making the two methods differing not much from each other. For high-accuracy MGs, optical sights are recommended while positioned on firepower tiles, assisted by a 30%-60% accuracy tile. Also, despite the RoF of MGs affecting their reload times, the stat has a small effect and the reload speed has a lower limit of 4 seconds, making it advisable to sacrifice RoF for even higher firepower.
+#SG: Generally poor stats, unable to perform stable outputs, and must be considered according to individual differences.
+{{Spoiler|Abilities of different T-dolls are excluded, and they may be considered buffs for further adjustments.}}<br />
+Based on the specialties of the maps from past events, every type of T-doll may be needed, therefore please believe that every T-doll has her use.
+==Echelon Formation（Lunatic）==
+{{Spoiler|What do we do: Cause chaos! Cause chaos! Cause chaos!}}<br />
+The following content may be uncomfortable for obsessive commanders and may conflict with that mentioned above, and overall effectiveness may be lowered due to other factors.
+===Extreme ouputs===
+#3MG + 2HG: Also named "one-burst", "ammo belt". Aimed for total annihilation before the first burst of the MGs is expended. MGs with high ammo capacities are recommeded with their abilities being "Serial termination(连珠终结)" or similar passive abilities (AKA they must come into effect in the first burst). MGs satisfying this criterion include the '''PKP, MG4, MG5, PK, M2HB''', etc. As for the HGs, those with firepower tiles or those capable of withstanding damage, such as '''Welrod, Grizzly and Mk23''' are favoured. Accuracy must be provided with red-dot sights (no worse than green-quality), which mandates that the MGs ''cannot be lower than level 80'', and as many gold-quality ammo boxes are needed. HGs also need to have relatively high effects, with at least a dummy link of x4. HGs generally have a 6-second initial cooldown in this version, but this has little effect on the first burst, and can be ignored.
+#1RF + 4HG: Also named "4 for 1", "Self-propelled gun". The RF in this type of echelon can receive an extremely high RoF and per-shot damage {{spoiler|in addition to the satisfying special effects and audio effects from sniping skills}}, to the level of one-shot-one-kill. The best choice among RFs is IWS 2000 {{Spoiler|Or other flat-fire RFs}}. HGs need a dummy expansion of at least x4, with ability levels of the entire echelon being as high as possible. Aside from firepower, choose effect tiles according to the RF (in the case of IWS, RoF is crucial). HGs have an initial cooldown of 6 seconds, meaning that there's a gap in ability activations, posing a big challenge to HGs' survival. This type of echelon is best used in full condition against bosses.
+#2RF + 3HG: Aimed towards a speedy kill on bosses with damage-multiplier abilities of RFs. RFs must have high damage-multiplier abilities, such as NTW and M99. HGs with firepower buffs are mainly favoured, with emphasis on RoF as equal as possible. This echelon requires the abilities of the T-dolls to be activated manually {{Spoiler|or activated in AUTO mode once the boss is encountered}}, reaching maximum output when encountering bosses to outright kill them. This type of echelon is poor resource consumption-wise, and is suited for eliminating specific low-health single bosses, with relatively pronounced visual properties.
+
+===Grenades===
+#Crowd control (Smoke + Flashbang): Smoke grenades have an initial cooldown a bit shorter than Flashbangs, but even under auto-activation the crowd control effect can still be reached. If multiple flashbang T-dolls are present then manual activation is advised for maximum crowd control capabilities.
+#Anti-personnel grenades (AR): Simple-and-brutal outputs, with the problem of relatively long initial cooldowns (while FAL's Grenade Salvo has the shortest among all of these), can be coupled with crowd-control abilities for adequate suppression effects.
+#Hand grenade + Incendiary (SMG): Similar to APGs of ARs, but with a shorter initial cooldown. Has a relatively spread-out damage, but is no worse than APGs in terms of total damage, and can substitute for Flashbangs.
+
+Some grenade teams can use any of the following combinations, while all-grenade teams are best with 1 Smoke, 1 Flashbang and 2 APGs. Specific HGs (M9) and ARs (M16) come with Flashbangs, and an SMG in these echelons can use an Incendiary or Hand grenade instead. Ability combination is the prime factor in these echelons, with relatively low emphasis on buff distrubution. Suited for happy-go-lucky grinding. Due to that grenades ignore armor, these echelon can sometimes be used against lightly-armored Sangvis units.
+
+===Rev-T===
+Generally the front row does little output, but what if we get them to star once? By "rev-T", it meant that T-dolls should be placed on Keypads 3,4,5,6 and 9, with SMGs or SGs on Keypads 3 and 9, and on Keypad 6 a suitable HG (such as Colt). T-dolls on Keypads 4 and 5 are different according to the specific type of the echelon.
+#SMG Rev-T: Place an output-capable AR (such as G41) on K5 and Spitfire on K4. {{Spoiler|Anyone else!?}}
+#SG Rev-T: Place an MG on K4 (or for maximum use of effect tiles, on K1/K7), and an appropriate HG on K5.
+The front row may receive 5 to 6 buffs in these echelons, with substantial resistance towards damage, also, due to that there's always an HG on K6, it is advised to reposition her to K2 or K8 at the start of each battle to avoid unnecessary losses.<br />
+These echelons are the products of specific battle methods, and it's not operational effectiveness that works here, but rather visual effects and, to an extent, entertainment purposes, but they do work sometimes. {{Spoiler|What if they actually won?}}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_Ithaca37_1105.png|width=500px|left=-170px|bottom=-75px}}

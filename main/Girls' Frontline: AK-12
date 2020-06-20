@@ -1,0 +1,271 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish|{{color|red|'''This is a new T-doll. Any and all supplementary editing is welcome.'''}}}}
+{{Girls' Frontline info|'''''<big><big>Hmm......A new commander? Let me hold my expectations, on how long you can keep me interested.</big></big>'''''}}
+{{Girls' Frontline profile
+|Title=<nowiki>AK-12</nowiki>
+|image=Pic_AK12.png
+|Caption=
+|Original name=Kalashnikov assault rifle model 2012
+|Nickname={{Spoiler|AZ-12}}
+|Moe point=[[Squinty eyes]]
+|Hair color=White
+|Eye color=Pink
+|CV=
+|Type=AR
+|Rarity=★★★★★
+|Developed by=Kalashnikov Concern
+|Manufactured by=Kalashnikov Concern
+|Developed=2011~2012/2016 (model 2016)
+|In service=2018.1.29-
+|Country of origin=Russia
+|Related persons=<del>Kalashnikov</del>Vladimir Zlobin<br>CO: [[Girls' Frontline: Angelia|Angelia]]<br>{{Spoiler|FUZE}}<br>Squad ''"Rebellion"'': [[Girls' Frontline :M4A1|M4A1]], [[Girls' Frontline: AN-94|AN-94]], [[Girls' Frontline:ST_AR-15|AR15]]
+}}
+
+'''AK-12''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and its derivatives. She joined the struggle on February 8, 2018.
+
+== Historical basis ==
+
+(NOTE: Aside from shared history, this section mainly concerns the finalized model of year 2016--the model depicted in Girls' Frontline.)
+
+The 5.45mm-caliber Kalashnikov assault rifle AK-12 (GRAU index 6P70) is an infantry weapon designed to replace the AK-74M developed by Kalashnikov Concern. 
+
+Work on the weapon began in 2011, spearheaded by IzhMash (Now part of Kalashnikov Concern). Designed as a new weapon for Russian special forces to participate in the "Ratnik" state trial, its design has been revised over the years based on the trial results.
+
+The 5.45 mm-caliber and the 7.62mm-caliber models of the AK-12 passed state trials in 2015, with comments from the state committee on improving the economy of the weapon.
+
+The 7.62mm-caliber model, the AK-15 (GRAU index 6P71) is a variant of the AK-12 model 2016 chambered for the 7.62x39mm M43 cartridge. It is designed as a light weapon for special forces and to replace the previous 7.62 mm-caliber weapons of the Kalashnikov family, such as the AKM(S), the AK-103 and the -104.
+
+The latest models of the AK-12 and the AK-15 passed state trials and were delivered to the Russian Army for live trials, concluding in 2017. The Ministry of Defence of the Russian Federation officially approved the use of the weapons and recommended that it can be fielded by infrantry, paratroopers and army units.
+
+The AK-12 and her sister AK-15 retained the traditional Kalashnikov-pattern gas system and a rotary bolt, compatible with the magazines used on the AK-74 and the AKM, respectively.
+
+To improve accuracy under all firing modes, the gas port, receiver and barrel all received modifications. The gas port is integrated into the receiver, not removed during disassembly, and is paired with a detachable plug used for maintenance.
+
+The lower and upper handguards received a new design, attached to the receiver, and does not touch the barrel in any way (i.e. with a "free floating barrel", but however such design is never truly utilized by automatic weapons, and all weapons claimed to incorporate it are in fact only having the handguards separate from the barrel). This improved stability and accuracy when firing at different stances, regardless of whether the weapon is rested on a surface or not.
+
+
+===Specifications===
+
+Cartridge: 5.45×39mm<br>
+Action: Gas-operated<br>
+Overall length:<br>862mm (stock retracted)<br>922mm (stock extended)<br>688mm (stock folded on folding-stock variants)<br>
+Barrel length: 415mm<br>
+Empty weight: 3.5kg (AK-12) / 3.74kg (AK-15)<br>
+Rate of Fire, RPM: 700<br>
+Feed system: 30-round detachable box magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the firearm. For reference only'''
+
+}}
+
+
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''AK-12'''
+|-
+! colspan=2 | '''Index number''': No.206
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator: 多元菌'''
+|-
+! colspan=4 | '''Stats(Growth:S)'''
+|-
+| '''Health (B)''' ||55 →550|| '''Damage (A)''' ||18 →56
+|-
+| '''Dodge (A)''' ||6 →52|| '''Accuracy (S)''' ||7 →62
+|-
+| '''Movement speed''' ||10 → 10|| '''Rate of Fire (A)''' ||50 →78
+|-
+| '''Crit Chance''' || ?%→?%
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 201 → ？
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20 → ？ || '''Rations''' || 20 → ？
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+|''Snowwolf's Eye'' (雪狼之眼)
+| colspan=3 |Raises Firepower, Rate of Fire, Accuracy and Critical Chance by 15% (35%), lasting 3 (5) seconds. <br> Has an initial cooldown of 6 seconds and an interval of 8 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|2|3|6|9|}}
+Keypads 3,6,9
+|-
+| '''Effect''' || colspan=3 | Applies to '''SMG'''s<br>Damage +25%, Rate of Fire +15%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 04:12:00
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Others''' || colspan=3 |
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:Pic_AK12.png|400px]]
+|tab2=[[File:Pic_AK12_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnotes}}
+{{Hide|Title=Chibi version animation|Text=[[File:pic_AK12_Q.gif]]}}
+== Trivia ==
+{{Hide|Title=AK-12 (in Chinese)|Text=[[File:pic_AK12_setting.jpg|400px]]}}
+=== Personality from illustrator ===
+{{Hide|Title=Draft for AK-12|Text=
+[[File:12初稿.jpg|600px]]
+}}
+AK-12's illustrator 多元菌 released the intended personality for AK-12 on Weibo on February 7, 2018.
+{{Cquote|''In terms of setting, ak12 physically supports closed-eye firing, because her eyelids does not have the capability to block the vision of her eyeballs. In other words, as long as she's not in maintenance or sleep mode, she's constantly observing and recording the external environment. The function of the eyelids is mainly to filter information to reduce calculation loads, and they double as a switch. Though physically capable of closed-eye shooting just as aforementioned, ak12 herself when entering combat mode with weapon raised opens her eyes automatically. In the meantime to further make way for full-load operation for her eye system, the emotion module is shut down, putting her personality expression farther on the queue, turning her into a logic-driven T-doll [Please note that it does not imply that she won't think, but rather excluding emotions from calculation parameters].'' (从设定上来说，物理上ak12是可以进行闭眼射击的，因为她的眼脸并不具备阻挡她那个眼球视线的能力，换句话说只要非维护状态、休眠状态，她无时无刻1秒不差的观察记录着外界。眼睑的作用主要是过滤信息，减少运算负荷，以及作为开启功能的开关。刚才尽管说物理上可以闭眼射击，但ak12本身在举枪进入战斗状态的情况下，双眼会自动打开，同时为了腾出空间以便眼球这套系统进行满负荷运作，会关闭情感模块，将人格后置，变成一个以逻辑驱动的人形【请注意并非不会思考，只是情感将不纳入考量范围】。)
+|Weibo: @多元菌 <ref>[https://weibo.com/2034868604/G1Z2PlvW4?from=page_1005052034868604_profile&wvr=6&mod=weibotime&type=comment Weibo:@多元菌]</ref>}}
+Though this ''is'' what the illustrator submitted to the game, whether or not this setting is fully incorporated remains to be determined. Due to this, the illustrator also clarified by typing "''For reference only''", to further indicate that this might turn into a personal setting.
+
+Furthermore, addressing the question of which model AK-12 is based on, the illustrator gave a clear reply that AK-12 herself is directly based on the AK-400, denying any other speculations including modifications.
+
+== Voicelines ==
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />Hmm......A new commander? Let me hold my expectations, on how long you can keep me interested.<br /> 嗯......新的指挥官吗？您能让我保持多久的兴趣，就让我好好期待一下吧。
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />To avoid taking up excessive calculation loads, I usually "close" my eyes. Rest assured, this won't affect my vision or decision-making.<br /> 为了避免占用额外的计算量，平时我都会“关上”眼睛，放心吧，这并不影响我的视野和判断。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Hmm? What's the commander up to with all that sneaky look? Something interesting?<br /> 嗯？指挥官鬼鬼祟祟的，在干什么呢？有什么有意思的事吗？
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />No need to push yourselves hard, everyone. After all no one's chosen by duty at birth.<br /> 大家没必要勉强自己，毕竟不是所有人天生就会被使命选中的。
+| <sm2>_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />......Hmm? Is the commander secretly peeking at me? Why don't do it in broad daylight, we are both used to this I suppose?<br />......嗯？指挥官在偷看我吗？为什么不光明正大点呢，彼此都早就习惯了吧？
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath-link establishment
+| {{lang|ja| }}<br />Commander, I was inconfident in your patience, but you could always keep a unique feel of freshness that can't be ignored by my vision...Alas, is this the so-called charm? Makes me look forward to it....<br />指挥官，我本来对您的耐心是没什么信心的。但您总能保持独特的新鲜感，让我的视野无法忽视...哎呀，这就是所谓的魅力吗？真让人充满期待呀...
+| <sm2>_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+
+==External links and references==
+[http://modernfirearms.net/ru/avtomaty-shturmovye-vintovki/ak-12-ak-15/]
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

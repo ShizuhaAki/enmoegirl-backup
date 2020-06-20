@@ -1,0 +1,303 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''G36-sister, need a hand? ......Eh, commander? Sorry, this is a bit embarrassing. </big></big>'''}}
+{{info
+|color= red
+|leftimage= [[image:Gnome-emblem-important.svg|50px|link=]]
+|G36C is a '''subcarbine''' dedicated to '''indoors close-quarters combat''', but is categorised as an SMG in the game. 
+}}
+{{Girls' Frontline profile
+|Title=G36C
+|image=gfg36c_1.jpg
+|Caption=[http://weibo.com/2906593103 Artist: @C_k桑中毒]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60855352 Pixiv：60855352]
+|Original name=Gewehr 36 Compact
+|Nickname=
+|Moe points=Uniform, black silk
+|Hair color=Silver
+|Eye color=Red
+|CV=Fujida Akane
+|Type=Subcarbine (real)<br/>SMG (in-game)
+|Rarity=★★★★★
+|Country of Origin=Germany
+|Manufactured by=Heckler & Koch
+|Designed=2001
+|In service=2001-
+|Related=Sister:[[Girls' Frontline: G36|G36]]
+}}
+
+'''G36C''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and it's derivatives. She joined the struggle on September 14, 2016. 
+
+== Historical basis ==
+The G36 Compact {{Spoiler|In fact an AR}}, is a variant of the G36 further shortened from the G36K (where K stands for ''kurz'', "short" in German). It has a shorter barrel than the G36K, and uses a birdcage-type flash hinder. The gas port is moved closer to the muzzle due to the short barrel. The gas piston of the G36C is shorter than that of other variants of the G36, with a shorter handguard and stock. The piston is not entirely concealed within the handguard, protruding from the front of it, and burning gas can be seen ejecting from it when firing. The fixed carrying handle and the integrated sights are replaced with a railed carrying handle (a feature now shared by the new series of the G36) and removable iron sights. The dimensions of the G36C are similar to that of a submachine gun {{in fact shorter than an MP5A5 when the stock is folded}}, but uses 5.56mm NATO rounds instead of pistol cartridges such as the 9mm Luger or the .40/.45 ACP commonly found in SMGs. 
+
+===Specifications===
+*Cartridge: 5.56 mm x 45 NATO
+*Firing modes: Single, Two-round-burst, Full-auto 
+*Length, mm: 716/500 (Stock extended/folded)
+*Width, mm: 63
+*Height, mm: 277
+*Barrel length: 228
+*Weight, kg: 2.988/3.128 (Empty/Loaded weight)
+*Sights: Detachable iron sights with Picatinny rail 
+*Magazine: 30-round detachable box magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the weapon. For reference only. '''
+Type                       Ultra-short assault rifle
+Weight                     2.82 kg (6.2 lb)
+Length                     720 mm (28.3 in) stock extended 
+                            500 mm (19.7 in) stock folded
+Barrel length              228 mm (9.0 in)
+Cartridge                  5.56×45mm NATO
+Action                     Short-stroke piston. rotating bolt
+Rate of fire               750 rounds/min cyclic
+Muzzle velocity            590 m/s
+Effective firing range     600 metres
+Feed system                30-round detachable box magazine or 100-round C-Mag drum magazine
+Sights                     Reflex sight with 1× magnification. telescopic sight with 3× magnification (export version has a 1.5× magnified sight) and back-up fixed notch sight
+}}
+
+{{Hide|Title=Comparison between cartridges|Text=[[File:945556.jpg|277px]]<br/>Left to right:9x19mm .45ACP 5.56x45mm NATO}}
+
+{{Hide|Title=Comparison between different variants of the G36 |Text=[[文件:SerieG36.jpg]]}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''G36C'''
+|-
+! colspan=2 | '''Index number'''： No.104
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: German[[File:Flag_of_Germany.svg|20px]]'''
+! colspan=2 | '''Type: Submachine gun'''
+|-
+! colspan=2 | '''CV：[[Fujida Akane]]'''
+! colspan=2 | '''Illustrator：パセリ'''
+|-
+! colspan=4 | '''Stats(Growth：B)'''
+|-
+| '''Health (A)''' || 84→203 || '''Damage (S)''' || 10→32
+|-
+| '''Dodge (A)''' || 10→65 || '''Accuracy (A)''' || 2→13
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (A)''' || 52→83
+|-
+| '''Crit chance''' || 5%→5% || colspan=2 |
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 192→4189
+|-
+! colspan=4 | '''Resourse demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Force shield
+| colspan=3 | Nullifies incoming damage for 2(4) seconds.<br />Has an initial cool down of 8 seconds and an interval of 16 seconds. 
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|1|4|7}}
+Keypads 1,4,7
+|-
+| '''Effect''' || colspan=3 | Applies to '''AR'''s <br/>Damage +10%, Rate of Fire +8%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 02:30:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored normal
+|bt4=Censored damaged
+|bt5=Outfits
+|tab1=[[File:少女前线-G36C.png|400px]]
+|tab2=[[File:少女前线-G36C-大破.png|400px]]
+|tab3=[[File:Pic G36Chx.png|400px]]
+|tab4=[[File:Pic G36C Dhx.png|400px]]
+|tab5={{tabs
+|DefaultTab=1
+|color=black
+|bt1=''Summer-Fireworks-Poem to the Sun'' (夏天·烟火·向阳之诗)
+|tab1={{tabs
+      |DefaultTab=1
+      |color=black
+      |TextBackgroundColor=rgba(255,255,255,0.6)
+      |bt1=<!--Summer-Fireworks-Poem to the Sun-->Normal
+      |bt2=Damaged
+      |tab1=[[File:G36C_1202.png|400px]]
+      |tab2=[[File:G36C_1202_D.png|400px]]
+      }}
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+{{Hide|Title=''Morning Face Dusk Dream-Summer-Fireworks-Poem to the Sun'' live2D|Text=[[File:G36C_夏天·烟火·向阳之诗_L2D_2.gif|center]]<br>[[File:G36C_夏天·烟火·向阳之诗_L2D_1.gif|center]]}}
+
+{{Hide|Title=''Morning Face Dusk Dream-Summer-Fireworks-Poem to the Sun'' Chibi version animation|Text=[[File:G36C_夏天·烟火·向阳之诗_Q版动画.gif|center]]}}
+
+== Trivia ==
+{{Cquote|
+<big>'''''A gentle and cautious girl with a scent of maturity. Exceptionally able to get along with others, she greatly values the feelings of others, but isn't hard-working. Perhaps, a physically and mentally weak kid.'' (温柔稳重，散发成熟气息的少女，亲和力出众的她很重视周围人的感受，但是不擅长努力。也许，其实是个身心都很脆弱的孩子。)'''</big>
+|From the official art collection ''THE ART OF GIRLS'FRONTLINE UNTIL THE STARS''}}
+=== Setting ===
+The inspiration for the character is revealed in the official art collection as follows:
+{{Cquote|
+''C36C<sup>[sic]</sup] as a German-made weapon, absorbed some elements of German military uniforms when designing the clothing, such as the color and the layout of the pockets. Initially wanted to draw golden hair, but eventually chose silver after a comparison.'' (C36C作为德国制的枪械，在设计服装时吸收了一些德军军装的设计要素，比如颜色和口袋的布局。头发最开始是想画成金色，但是最后对比了一下还是选择了银色。)
+
+''In terms of overall appearance wanted to emphasize some sense of seduction through her lazy eyes and pose.'' 在整体的表现上则是想通过慵懒的眼神和姿势，突出一点色气的感觉。
+|PARSLEY}}
+{{Spoiler|“PARSLEY” is the English equivalent for “パセリ”}}
+
+
+{{Hide|Title=Drafts for G36C|Text=
+[[File:G36C草案.jpg|800px|left|thumb|Drafts released on September 5, 2016 from the official microblog<ref>https://weibo.com/5611537367/E6T9Vh6l7?type=repost#_rnd1520493122659</ref>]]
+}}
+
+=== Submachine ===
+Due to how the G36C is used and also gameplay balancing, MicaTeam categorized G36C as an SMG.
+
+{{Spoiler|However there are still commanders who fail to distinguish her from a certain maid who performs better at mid to long ranges.}}
+
+{{Spoiler|There are also instances of unaware commanders using the resource combination for ARs hoping to have her among the ranks.}}
+
+== Voicelines ==
+
+{| class="wikitable mw-collapsible"
+|-
+! colspan=3 |{{Translation needed}}
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>G36C_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|あら、指揮官、今から始めますか？}}<br />Alas, Commander. Commencing work now?<br />啊啦，指揮官。現在開始工作嗎？
+| <sm2>G36C_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|こんにちは、G36式コンパクトです。お会い出来て嬉しいですわ。あの…G36お姉さんも、ここに居ますか？}}<br />Hello, I'm G36 Compact, reporting in. Ummm, is G36-sister here as well?<br />戰術人形G36C報到，請問...G36姐也在您這裡嗎
+| <sm2>G36C_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官？お悩みことですか？良かったら、私に聞かせてくれませんか？}}<br />Commander, what are you thinking about? Would you mind telling me about it?<br />指挥官，您在想什么？愿意说给我听吗？
+| <sm2>G36C_005.mp3</sm2>
+|-
+| {{lang|ja|少し休んたらどうですか？無理は体に良くありませんわ。}}<br />How about resting for a while? It's not good to work too hard.<br />稍微休息一下怎么样？太辛苦了可不好哦。
+| <sm2>G36C_006.mp3</sm2>
+|-
+| {{lang|ja|}}G36式お姉さん、手伝いましょうか？あ、指揮官？すみません、一緒にてつだっていただいで、なんだか申し訳ないです。<br />G36-sister, need a hand? ......Eh, commander? Sorry, this is a bit embarrassing.<br />G36姐，需要帮忙吗？……诶，指挥官？抱歉，这不太好意思了。
+| <sm2>G36C_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />指揮官，我今天表現如何呢？如果哪裡做的還不夠......這裡？真的是這裡？對吧？
+| <sm2>G36C_041.mp3</sm2>
+|-
+| Dormitory (Liftoff)
+| {{lang|ja|いやぁっ！}}<br /> 
+| <sm2>G36C_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|うふふ。}}<br />Smile
+| <sm2>G36C_032.mp3</sm2>
+|-
+| {{lang|ja|やりましたわね。}}<br />Admiration
+| <sm2>G36C_035.mp3</sm2>
+|-
+| {{lang|ja|そうですわ。}}<br />Agreement
+| <sm2>G36C_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|みんなさん、よろしくお願いしますわ。}}<br />Everyone, please, take care.<br />各位，請多多指教。
+| <sm2>G36C_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|果敢に進みましょう。}}<br />Just head off bravely.<br />勇敢地前進吧。
+| <sm2>G36C_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|敵と遭遇、迎撃よい！}}<br />Contact, get ready to fight!<br />遭遇敵軍，準備迎擊！
+| <sm2>G36C_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|んん、想定外ですわ。}}<br />Hmm......unexpected.<br />嗚嗯...預料之外呢。
+| <sm2>G36C_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|指揮官、許してくれますか？}}<br />Commander, will you forgive me?<br />指揮官，能夠原諒我嗎？
+| <sm2>G36C_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝ちました。皆さんの努力の結果ですわよ。}}<br />Victory. It's the result of all our efforts.<br />勝利了。這是大家努力的結果喔。
+| <sm2>G36C_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|すみません、指揮官。責任を取って、処分をあげます。}}<br />Sorry commander. I'll take the responsibility, please make your punishment.<br />抱歉，指揮官。我會負起責任，請處分我吧。
+| <sm2>G36C_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|信じでください。私だって、ちゃんと練習しますから！}}<br />Please believe me. I did train!<br />請相信我。我也是有好好練習過的！
+| <sm2>G36C_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|行って参ります。}}<br />Setting off.<br />出發。
+| <sm2>G36C_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|仕事、おわりましたわ。どうぞご覧ください。}}<br />Job, done. Please take a look.<br />工作，完成了呦。請看。
+| <sm2>G36C_025.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|新し仲間がきましたわね。}}<br />A new friend's here.<br />新的夥伴來了呢。
+| <sm2>G36C_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|この御恩を、いつに成ったら返せるのかしら？私。}}<br />How am I going to return this favour?<br />這份恩情何時才能回報呢，我。
+| <sm2>G36C_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|ダンケ（Danke）！これは頑張らないといけませんわね。}}<br />''Danke'' (Thanks)! This way I must work hard.<br />Danke(謝謝)！這樣就不努力不行了呢。
+| <sm2>G36C_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|失礼致します。}}<br />Misbehaved.<br />失禮了。
+| <sm2>G36C_021.mp3</sm2>
+|-
+| {{lang|ja|これでどうでしょう？}}<br />How about this?<br />這樣如何啊?
+| <sm2>G36C_022.mp3</sm2>
+|-
+| {{lang|ja|怯えちゃ駄目ですは。}}<br />Cannot be afraid.<br />可不能害怕。
+| <sm2>G36C_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|え、指揮官。これは何を望んでいるんですか？いつもお世話になってしまって、なんだかすみません。私ももっとしっかりして、 ご期待に応えないとだめですわね。}}<br />Alas? What's commander you doing? I almost feel embarrassed being taken care of by you all this time. Seems that I have to become more reliable, to pay your expectations back.<br />啊？指揮官你這是在做什麼呢？一直以來都被你照顧這，都覺得不好意思了，看來我必須變得更可靠一點，才能回應你的期待啊。
+| <sm2>G36C_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=G36C_1202.png|width=500px|left=-150px}}
+
+== External links and references ==
+<references/>
+
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

@@ -1,0 +1,269 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Girls' Frontline profile
+|Name = PPK
+|image=59623061 p0.jpg
+|Caption=<center>[http://www.pixiv.net/member.php?id=19214221 Author:INXST]</center>
+<center>[http://www.pixiv.net/member_illust.php?mode=medium&illust_id=59623061 Pixiv ID:59623061]</center>
+|Original name = Walther PPK
+|Nickname (s) =
+|Moe points = [[Gothic lolita]]、[[Contrast moe]]
+|Hair color = Flax
+|Eye color = Green
+|Multiple CVs = {{cate|[[伊藤明日香|伊藤明香]]|伊藤明日香}}
+|Type = HG
+|Rarity =★★
+|Country of origin=Germany
+|Manufactured by =Carl Walther GmbH Sportswaffen
+|Developed=1931
+|In service=1931-
+|Related person(s)=
+}}
+
+'''PPK''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives, developed by MicaTeam and published by DigitalSky.
+
+== Historical basis ==
+PPK is a pistol developed by Walther in 1931, with PPK meaning {{ruby|'''Polizei Pistole Kriminal'''|Criminal police pistol}}, though a now-accepted but incorrect interpretation of "K" as {{ruby|'''Kurz'''|Short}} also exist. It is widely used by the Gestapo after the Nazi party took power. The PPK has its return spring mounted on the barrel itself, as found on Browning pistols and possesses a double-action trigger assembly, loaded chamber indicator, and a number of safety measures such as manual safety, firing pin safety, bolt safety and impact safety. It also utilizes the reliable exposed hammer design and longitudinally-pressed magazine release found on mid-to-large-frame pistols. Though lacking penetration, the 9mm cartridge used by the PPK has decent stopping power, making it suitable for personal defense uses, therefore hooking the attention of some countries to this compact but decently-powered pistol.
+
+It is also seen in popular culture, the most famous case being serving as the gun of the fictional agent James Bond.
+
+{{Hide|Title=A collector's gold PPK|Text=[[File:PR17555d__99415.jpg|400px]]}}
+=== Specifications ===
+
+*Caliber: 6.35mm (Browning)/7.65mm(Browning)/9mm
+*Length: 148/155mm (5.7/6.1 inches)
+*Weight：580/590 g (1 lb. 4 oz.)
+*Barrel length： 80/83mm （3.2/3.5 inches）
+*Magazine size: 7 rounds
+*Rifling: 6 grooves, right-hand twist
+*Action：Straight blowback
+*Manufactured: 1930-
+*Muzzle velocity: 280 m/s
+*Sights: Rear notch and front blade
+
+*Engravings：
+“WALTHER(flag-shaped icon)/Waffenfabrik Walther ZellaMehlis/Walther's Patent Cal 7.65m/m/Mod PPK” on the left side of the slide(Models before 1945)
+“WALTHER(flag-shaped icon) Carl Walther Waffenfabrik Ulm/Do/Model PPK Cal 7.65mm” on the left side of the slide(Models after 1945)
+The serial number is located on the right side of the slide, behind the trigger. There may be a "MANURHIN" as well, which is the name of the French company which received special allowance to manufacture this pistol from 1948 to 1956.
+
+*Safety mechanism:
+The safety is located to the rear-left of the slide, and is off when the slider is in the upper position, and locks the firing pin as well as releases the hammer when the slider is moved to the lower position, engaging the safety.
+
+The magazine catch is located to the left of the grip, behind the trigger.
+
+=== Variants ===
+'''PPK-L'''
+:A lightweight variant of the PPK developed by Walther in the 1950s. 
+
+'''PP Super'''
+:Sales started in 1972, with an all-steel structure and fires 9x18mm rounds. The ''Bundespolizei'' used approximately 2000 pistols of this model. Manufacturing ceased in 1979.
+
+'''PPK/S'''
+:A hybrid model built from PP's slide frame and the slide from the PPK. Designed specifically to increase its dimensions to bypass the Gun Control Act of 1968 by the US. Meant for the American market only.
+
+'''PPK/E'''
+:Similar to the PPK/S, albeit at a lower cost.
+
+== Stats ==
+
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PPK'''
+|-
+! colspan=2 | '''Catalogue number''': NO.010
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: German[[File:Flag of Germany.svg|23px]]'''
+! colspan=2 | '''Type: Handgun'''
+|-
+! colspan=2 | '''CV：[[Asuka Itou]]'''
+! colspan=2 | '''Illustrator: 堀森 '''
+|-
+! colspan=4 | '''Stats (Growth: S)'''
+|-
+| '''Health (C)''' || 29→57 || '''Damage (C)''' || 9→25
+|-
+| '''Dodge (S)''' || 12→100 || '''Accuracy (A)''' || 7→59
+|-
+| '''Movement speed (B)''' || 15→15 || '''Rate of fire (A)''' || 42→63
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 126→2448
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10→30 || '''Rations''' || 10→30
+|-
+! '''Skill'''
+! colspan=3 | '''Skill description'''
+|-
+| Annihilation Command
+| colspan=3 |Raises the echelon's damage by 6% (10%) and the critical hit chance by 25%. Lasts for 5 (8) seconds. Initial cooldown at 6 seconds and interval at 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect blocks''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypad grids 1,4,6,7
+|-
+| '''Effect''' || colspan=3 | Affects all T-dolls. Rate of fire +16% (32%), critical hit chance +8% (16%).
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 00:22:00
+|-
+| '''Drops''' || colspan=3 | From any map outside of 1-1
+|-
+| '''Others''' || colspan=3 | The reward of achievement "First Blood"(Eliminate one hostile while winning the battle).
+|}
+
+'''Notes''':
+* The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses ("()") is the maximum possible value of the stat.
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored damaged
+|tab1=[[File:PPK.png|380px]]
+|tab2=[[File:PPK_D.png|380px]]
+|tab3=[[File:Pic PPK Dhx.png|380px]]
+}}
+</div>
+{{-}}
+
+==Trivia==
+
+=== Personality and clothing ===
+PPK has a decent drop rate in-game, with a handful at almost every level. Her large-area T-shaped effect blocks are useful when there are few high-rarity T-dolls at disposal in the early phases of development. Since she comes from a hall of fame, and is highly sadistic. Though elegant and tempting from her look, and with a constant smile, she finds it fun tricking others.
+
+The illustrator utilizes a high amount of black leather elements for her outfit. The distinctive corset and the fishnet stocking also transfer the "you know" message. Black gloves, half-raised arms and her emotions also help emphasize her personalities. While her posture and facial expressions after she gets damaged are full of temptations. {{Spoiler|Recommend using with voicelines.<del>The lines aren't even implying but outright exposing herself.</del>}}
+
+=== {{ruby|2-star handgun|5-star goddess of war}} ===
+It's hard to imagine the PPK gets merely 2 stars for her skills and her own stats. Even without the assistance of equipment, her raw dodge rating is capable of reaching 100, an extreme for virtually every T-doll. The position of her effect blocks further support that she is capable of handling front-line combat. She turns less suitable for RF echelons after the major skill revamp, but still excels in AR echelons or pure-fleet HG echelons. {{Spoiler|Provided that you have 5-star fully-strengthened perfect-calibration sights for your RF T-dolls, otherwise the PPK can still get happy in your RF echelons.}}
+<ref>[http://gf.ppgame.com/web/pc/info.html?id=14  【枪娘百科讲坛——新手实用篇】-新闻资讯 > 攻略-《少女前线》官方网站]</ref>
+
+== Voicelines ==
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline
+| [https://img.moegirl.org/common/d/dc/PPK_TITLECALL_JP.mp3]
+|-
+| Upon login
+| {{lang|ja|あら、随分遅かったじゃないの。覚悟ができている。}}<br />Alas, it's late of you to come here. Do you have mental preparations?
+| [https://img.moegirl.org/common/d/db/PPK_HELLO_JP.mp3]
+|-
+| Acquisition
+| {{lang|ja|うふふ、ワルサPPKよ、指揮官、お会いが出来、嬉しいですわ。}}<br />Hehe, Walther PPK. It makes me happy to see you here, commander. 
+| [https://img.moegirl.org/common/8/8b/PPK_GAIN_JP.mp3]
+|-
+| rowspan=3 | Adjutant
+| {{lang|ja|何か、よからぬ事を考えているらして？}}<br />Are you.... thinking about something bad? 
+| [https://img.moegirl.org/common/5/55/PPK_DIALOGUE1_JP.mp3]
+|-
+| {{lang|ja|誰があたくしに触っていいっと言ったの？}}<br />Who said that it is ok to touch me?
+| [https://img.moegirl.org/common/4/48/PPK_DIALOGUE2_JP.mp3]
+|-
+| {{lang|ja|あたくしがいいと言うまで、我慢しなさい}}<br />Hold it there, until I say it is ok. 
+| [https://zh.moegirl.org/File:PPK_DIALOGUE3_JP.mp3]
+|-
+| Adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />What are you expecting, by looking at me all this time? ....Well, let me reward you well, since you behaved well today.
+| /
+|-
+| Echelon formation
+| {{lang|ja|そんなにあたくしの活躍が見たいのかしら。}}<br />Are you so dire to see me active?
+| [https://img.moegirl.org/common/4/46/PPK_FORMATION_JP.mp3]
+|-
+| Mission start
+| {{lang|ja|さー、あたくしを楽しませて頂戴～}}<br />Come on, find me something to enjoy.
+| [https://img.moegirl.org/common/5/51/PPK_GOATTACK_JP.mp3]
+|-
+| Battle start
+| {{lang|ja|あふふ、貴方達、今回の生贄。}}<br />So, are you the sacrifices this time?
+| [https://img.moegirl.org/common/5/53/PPK_MEET_JP.mp3]
+|-
+| Damaged
+| {{lang|ja|あつ、責められるのも、いいわね…}}<br />A！Feels nice, getting punished sometimes...
+| [https://img.moegirl.org/common/a/a5/PPK_BREAK_JP.mp3]
+|-
+| Restoration
+| {{lang|ja|あんん、痛い。でも、もう少しこの痛みを感じていたいわ。}}<br />Ahm, this hurts. But, this pain, makes me hard to get rid of it.
+| [https://img.moegirl.org/common/b/b3/PPK_FIX_JP.mp3]
+|-
+| Winning battle as MVP
+| {{lang|ja|あらあら、滑稽ですこと。}}<br />Alas, how ridiculous.
+| [https://img.moegirl.org/common/5/5e/PPK_WIN_JP.mp3]
+|-
+| Retreating
+| {{lang|ja|貴方達…なかなか興奮しましたわよ。}}<br />Now you... really made me excited once.
+| [https://img.moegirl.org/common/5/53/PPK_RETREAT_JP.mp3]
+|-
+| Beginning autobattle
+| {{lang|ja|あたくしを感じさせて、じんえすることの喜びを。}}<br />Let me have a share of this excitement.
+| [https://img.moegirl.org/common/d/d5/PPK_BLACKACTION_JP.mp3]
+|-
+| Beginning logistic support
+| {{lang|ja|今回も順調に出発できるわ。}}<br />An easy departure this time.
+| [https://img.moegirl.org/common/5/51/PPK_OPERATIONBEGIN_JP.mp3]
+|-
+| Finishing logistic support
+| {{lang|ja|無事戻ったわ、あたくしに掛掛かれば当然ね。}}<br />Came back safely. Of course, as I was told to.
+| [https://img.moegirl.org/common/e/e1/PPK_OPERATIONOVER_JP.mp3]
+|-
+| Completion of T-doll production
+| {{lang|ja|製造が完了したわ、早速見に行きましょう。}}<br />Production finished. Have a look quickly.
+| [https://img.moegirl.org/common/e/e7/PPK_BUILDOVER_JP.mp3]
+|-
+| Expansion
+| {{lang|ja|あら、いろいろあるのね。一人ずつ試していいかしら。}}<br />Alas, I've got every sort here. Can I try something different on each one?
+| [https://img.moegirl.org/common/5/5e/PPK_COMBINE_JP.mp3]
+|-
+| Powerup
+| {{lang|ja|あふふ、いい子ね。}}<br />Hehe, nicely behaved.
+| [https://img.moegirl.org/common/9/98/PPK_FEED_JP.mp3]
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|どう、楽しい。}}<br />How is it, exciting?
+| [https://img.moegirl.org/common/b/bc/PPK_SKILL1_JP.mp3]
+|-
+| {{lang|ja|では、アサシンのパーティーを、始めましょう。}}<br />Now, let's start the part of assassins.
+| [https://img.moegirl.org/common/2/29/PPK_SKILL2_JP.mp3]
+|-
+| {{lang|ja|あたくしを興奮させるなら、最後まで責任取りなさい。}}<br />Now that you made me excited, so just take the responsibility to the very end.
+| [https://img.moegirl.org/common/5/5d/PPK_SKILL3_JP.mp3]
+|-
+| Oath link establishment
+| {{lang|ja|こんな時、お断りしたらもっと面白いかしら？ふふ、なんーでね、今回は冗談をやめでおきましょう。…っいいわ、なら、これからの事、ちゃんと責任取りなさいよ。}}<br />Would it be more fun, if I refuse in a situation like this? All right, I'll be serious this time. But you must take your part of responsibility too. Shouldn't be a problem for you right?
+| [https://img.moegirl.org/common/a/a7/PPK_SOULCONTRACT_JP.mp3]
+|}
+
+
+{{Girls' Frontline}}
+
+== External links ==
+=== Note ===
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Gothic lolita]]
+[[Category:Long-short stockings]]
+[[Category:Long straight hair]]
+[[Category:Thick-bottom shoes]]

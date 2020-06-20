@@ -1,0 +1,414 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline profile
+|Name=PzB39
+|image=PzB39_PID66074992.jpg
+|Caption=<center>Artist:Cenm0<ref>[https://www.pixiv.net/member.php?id=11690768 Artist:Cenm0]</ref></center>
+<center>Pixiv ID:66074992<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66074992 Pixiv ID:66074992]</ref></center>
+|Original name=''Panzerbüchse 39'' (Tank-hunting rifle 39)
+|Nickname=
+|Moe points=[[Uniform]]
+|Hair color=Black
+|Eye color=Red
+|CV=
+|Type=RF
+|Rarity=★★★★
+|Country of Origin= Nazi Germany
+|Manufactured by= Gustloff Werke
+|Developed=
+|In service=1940~1941
+|Related person=PzB 38
+}}
+
+
+'''PzB39''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky. She joined the struggle on 2017.7.27.
+
+== Historical basis ==
+The {{ruby|PzB 39|Panzerbüchse 39}} (Tank-hunting rifle 39), an improvement over the PzB 38, was an anti-tank rifle used by Nazi Germany.
+
+The PzB 39 was an improved model of the PzB 38 used during the invasion of Poland, and is chambered for the 7.92x94mm cartridge. It borrowed the action mechanism and cartridge from the PzB38, with an identical barrel length but a longer overall length at 162 cm, and was lightened to 12.6 kg due to the removal of the complex recoil dampening device and extractor mechanism, while installing a muzzle brake to mitigate the recoil. Performance was on par with that with the PzB 38. To raise the practical rate of fire, two magazines can be mounted to the sides of the receiver, but serve no other purpose other than to have the user's hands closer to the magazines. It was produced from the start of the Invasion of Poland to November 1941, with a total number of 39,232 rifles built. It was retired in 1944 when it was incapable of penetrating any target besides the lightest armored vehicles.
+
+Starting from 1942, the remaining PzB 39 rifles were re-fitted with 590mm-long barrels, with a {{ruby|"firing cup"|Schiessbecher}} fitted to the muzzle, to fire standardized rifle grenades. The firing cup was the same used on the Karabiner 98k, and fired the same grenades. The rifle grenades had three variants, namely anti-personnel, light anti-tank and a large-caliber anti-tank grenade, fired with a special wooden bullet {{Spoiler|So why not a blank?}}. They were also fitted with a special set of sights dedicated to grenade-firing with a maximum range of 150 meters, along with the omittance of the handguard. These modified rifles were designated the ''Granatbüsche 39'' (GrB 39), and continued to serve in the German forces until the end of WWII.
+
+===Specifications===
+*Type: Anti-tank rifle
+*Country of Origin: Nazi Germany
+*In service: 1940-1945 (including GrB 39)
+*Conflicts: WWII
+*Designer: B. Brauer
+*Designed: 1939
+*Manufactured by: Gustloff Werke
+*Manufactured: 1940-1941
+*Units produced: 39232
+*Weight: 12.6 kg
+*Length: 1620 mm
+*Barrel length: 1085 mm
+*Cartridge: 7.92x94mm
+*Action: Falling-block action
+*Rate of Fire: 10 RPM (Practical)
+*Muzzle velocity: 1210 m/s
+*Effective range: 300 m (for 25mm penetration)
+*Sights: Iron sights
+*Variant: Granatbüsche 39（GrB 39）
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain deviations and represent only the game's view towards the firearm. For reference only.'''
+
+ Type                       Anti-tank rifle
+ Weight                     11.6 kg (25.57 lb)  
+ Length                     1.620 mm (63.8 in)
+ Barrel length              1.085 mm (42.7 in)
+ Cartridge                  7.92x94mm Patronen
+ Action                     Falling-block action
+ Rate of fire               10 rounds/min (practical rate)
+ Muzzle velocity            1210 m/s
+ Effective firing range     300 m (330 yd) (for penetration of 25 mm armor)
+ Sights                     Hooded front post. rear "V" notch
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PzB39'''
+|-
+! colspan=2 | '''Index number'''： No.180
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: Nazi German[[File:Flag of German Reich (1935–1945).svg|20px]]'''
+! colspan=2 | '''Type: RF'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator：NINEO'''
+|-
+! colspan=4 | '''Stats (Growth:S)'''
+|-
+| '''Health (B)''' || 42 → 84 || '''Damage (S)''' || 50 → 148
+|-
+| '''Dodge (C)''' || 4 → 31 || '''Accuracy (B)''' || 8 → 71
+|-
+| '''Movement Speed''' || 7 → 7  || '''Rate of Fire (C)''' || 21 → 32
+|-
+! colspan=4 | '''Operational Effectiveness'''
+|-
+! colspan=4 | 165 → ?
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15 → 55 || '''口粮''' || 30 → 90
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Piercing shot(贯通射击)
+| colspan=3 |Aims at the farthest target for 2 seconds, and fires a penetrating round.<br />Penetrated enemies receive 80% (180%) damage, with an additional 80% (180%) received by the target.<br />Has an initial cooldown of 6 seconds with an interval of 20(16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|2|8}}
+Keypads 2, 8
+|-
+| '''Effect''' || colspan=3 | Applies to '''HG'''s, <br/>Reduces cooldown by 15%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | {{Color|red|HEAVY PRODUCTION 4:30:00}}
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Other''' || colspan=3 | '''Summer event 2017 "DEEPDIVE"'''
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Outfits
+|tab1=[[File:pic_PzB39.png|400px]]
+|tab2=[[File:pic_PzB39_D.png|400px]]
+|tab3={{tabs
+|DefaultTab=1
+|color=black
+|bt1=Bursting rider (爆裂骑手)
+|tab1={{tabs
+      |DefaultTab=1
+      |color=black
+      |TextBackgroundColor=rgba(255,255,255,0.6)
+      |bt1=<!--Bursting rider-->Normal
+      |bt2=Damaged
+      |tab1=[[File:pic_PzB39_1506.png|400px]]
+      |tab2=[[File:pic_PzB39_1506_D.png|400px]]
+      }}
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=Chibi version animation|Text=[[File:PzB39_Q版动画.gif]]}}
+{{Hide|Title=“Princes' Frontline-Bursting rider (王子前线-爆裂骑手)” chibi version animation|Text=[[File:PzB39爆裂骑手_Q版动画.gif]]}}
+
+== Trivia ==
+===Personality===
+
+{{Hide|Title=PzB39 (in Chinese)|Text=[[File:PzB39_官设.jpg|400px]]}}
+
+'''(WIP)'''
+{{Hide|Title={{color|#AD5A5A|Cafeteria stories}}-{{color|blue|''Bursting rider'' (爆裂骑手) “PzB39”}}|Text=
+<poem>
+''Three days after the attack at the theater, Grifon received the task to hunt down the remainder of the attackers. As is planned, I'm leading a squad to find where the attackers are hiding before cooperating with the government to commence the capture.''
+''In front of the Grifon base.''
+''"Commander, over here! Ready to go?"''
+''"Sorry for your time, PzB...Eh... What's this bike?"''
+''PzB dressed like a racer leaning beside her bike, and my stomach convulsed for a moment when I saw the bike.''
+''"It's my personal ride, isn't it great?"''
+''"Uh, sure looks great. But... You aren't taking me to the scene with this?"''
+''"Of course with this, or why am I taking it out here?"''
+''...Still so straightforward as she is.''
+''"So... Where are Grifon's cars?"''
+''"Kalina said there might be risk of exposure driving military vehicles, and civilian ones were tasked with other stuff. I got this bike here so if I just ride this there, we might just look like ordinary civilians having a ride."''
+''"Ordinary civilians....?"''
+''I glanced at PzB's clothes, heck, to what degree does she define "ordinary".''
+''"Commander, you look a bit stiff."''
+''"No-no-no, you're quite considerate, haha, just..."''
+''"Or do you not like this ride? Tell you what, though not so special from the looks of it, it is no cheaper than my clothes!"''
+''"Ah, it's not what I meant, how could I not like your stuff..."''
+''What happened a few days ago left a dark mark in my memory when it comes to riding bikes. Though quite worriless during peacetime, PzB's quite mindful in combat. Plus that she brought a helmet, so it shouldn't be that extraordinary like AEK....?''
+''"It's hard to even get a chance to ride you PzB's bike. Let's go, don't keep the others waiting."''
+''"Rest assured, commander! We have ample time."''
+''Five minutes later....PzB sped along the road on her bike.''
+''"Commander! Commander?! You're holding on to me too tight! My clothes are gonna get ripped off!"''
+''"S-sorry! I just-almost flied out...."''
+''"Commander you're just too nervous eh? It's just a simple lane-switch, you won't fly out!"''
+''"That's a SIMPLE lane-switch! You're flying! From one road to another!"''
+''"Ahaha....It's the fastest way back, or we'll have to take a long detour. But you can relax now, commander, it's all clear!"''
+''"All-All clear? Isn't that even worse!? PzB! We have ample time!! Slow down a bit--!"''
+''It didn't take long to reach the planned rendezvous spot with PzB.''
+''"That's some fine wasteland...Even Sangvis doesn't have a bit of interest in here. MG5 still isn't here, looks like we were still ahead of schedule."''
+''"......"''
+''"Commander, you all right? There isn't even a bit of crimson color humans should have on your face!"''
+''"I ... am carsick...."''
+''"Ehh? Then just rest for a while...I got some water here, drink some?"''
+''It was only when I took the canteen from PzB's hand did I think that she's a kind fellow.''
+''"Cough-uh...So you T-dolls...are always this harsh when riding bikes?"''
+''"What, so commander's ridden on other's bikes?"''
+''"Hitched a ride with AEK when I was going out there to watch the opera a few days ago."''
+''"Oh? So if it's AEK....I often head out with her, never thought that she was kind of extraordinary at all."''
+''"'Cause you're all T-dolls! Elite ones! I'm a human, my organs ain't so tough as yours!"''
+''"Haha, you got it. But...it's quite awesome speeding along eh?"''
+''"I'll give you that, but it makes me sick if it's too much. So, you often ride with AEK?"''
+''"Yeah, we head out when we are both given a break. Even though my bike isn't so smart as hers, I won't even be a meter behind her on the road!"''
+''"Yeah...I felt that for myself."''
+''"Will commander join?"''
+''"Ehh...Just leave it alone! I'm not able to catch up with your speed."''
+''"Quit under-valuing yourself, sir. You led us to many victories!"''
+''"I'm of course confident in commanding. But I think I'll be lying in a Grifon infirmary if I ride your bikes a few more times."''
+''"Relax, commander. It's not that terrible riding bikes. And as a Grifon commander, what a shame it would be if you were freaked out by just a simple bike ride."''
+''"Allow me to object, that ride of yours isn't a 'ride' defined by normal humans."''
+''"Here, when the next holiday comes, allow me to do some special training with the commander."''
+''".....huh?"''
+''"Commander will get acquianted with the speed on the road if we go through it a few times, and when that happens, commander will be able to enjoy the speed with us!"''
+''"Hang on!? This is just too..."''
+''"Hey, commander, here comes MG5. So, the job on my side is done."''
+''PzB waved towards MG5 who was heading towards here, and sat onto her bike again.''
+''"Commander, I'll be heading off first, I won't be bothering you with your mission."''
+''"Just a sec, PzB! That 'special training' of yours...."''
+''"It's a special training, one-to-one, don't forget it."''
+''She vanished at the end of the road, a seconds after she left a smart smile that was not even mildly helpful to me.''
+''"For god's sake I ain't taking a bike again...."''
+
+-----------------
+
+剧院袭击事件发生三天后，格里芬接到了追捕袭击者残党的委托。按照计划，我今天要带领一个小队寻找袭击者藏匿的地点，然后与政府方面配合进行抓捕。
+格里芬基地前。
+“指挥官，这里哦！做好出发的准备了吗？”
+“PzB，今天就麻烦你……呃……这个摩托车是？”
+PzB穿得像赛车手一样靠在摩托车的旁边。看到摩托车的时候，我的胃莫名抽搐了一下。
+“这是我私人的座驾，是不是很棒？”
+“呃，看上去是很棒啦。不过……你该不会是要用这个载我去现场吧？”
+“当然是要坐着这个去，要不我把它开出来干什么。”
+……还是这么直来直去啊。
+“那……格里芬的车呢？”
+“格琳说开着军车过去可能打草惊蛇，民间款的车又都有其他任务了。刚好我手头有这辆摩托，我想骑着它过去的话，看起来就像兜风的普通民众了。”
+“普通民众吗……”
+我打量了PzB的打扮，她的“普通”是按哪种层面去定义的啊。
+“指挥官，你的表情看上去有点僵啊。”
+“不不不，你的确是考虑得很周到……哈哈……只是……”
+“难不成你是看不上这台车吗？我可告诉你，虽然这辆车造型上看起来没什么特别，但它可不比我的衣服便宜哦！”
+“啊，没有那个意思，我怎么可能看不上你的东西呢……”
+前几天的经历让我对坐摩托车心有余悸。虽然PzB平时有点大大咧咧的，不过战斗起来还是挺稳重。加上她还带着头盔来了，应该不会像AEK那么夸张…………吧？
+“……能坐上PzB你的车，实在是机会难得。我们快点出发吧，别让其他人等太久了。”
+“放心，指挥官！时间绰绰有余。”
+五分钟后……PzB开着摩托车在道路上飞驰。
+“指挥官！指挥官？！你抱的太紧了！我的衣服都要被你抓破了！”
+“抱、抱歉！刚才差点飞出去我就……”
+“指挥官你太紧张啦！只是一个简单的变道，不会飞出去的！”
+“……这叫简单的变道？！你是在飞吧！从一条路飞到另一条路上！”
+“啊哈哈……这样折回去最快嘛，要不还得绕一大圈远路。不过指挥官你现在可以放心了，接下来就一路畅通了！”
+“畅……畅通？那不是更可怕吗！PzB！时间来得及！！你慢点啊——！”
+没过多久，就和PzB到达了预定的会合地点。
+“真是个荒郊野外的地方……连铁血好像都对这里没什么兴趣呢。MG5还没来，看来我们还是提前到了。”
+“……”
+“指挥官，你没事吧？你的脸连一点人类该有的血色都没了！”
+“我应该是……晕车了……”
+“诶？那你先休息休息……我这里还有水，喝点水吧？”
+从PzB手里接过水壶，只有这一刻我才觉得她是个善良的家伙。
+“咳咳……你们战术人形……骑摩托都是这么猛的吗……”
+“怎么，听起来指挥官你还坐过其他人的摩托啊？”
+“前几天去看歌剧时候，搭过AEK的顺风车。”
+“是吗？AEK的话……我经常和她结伴出门，没觉得她开得很夸张啊。”
+“……那是因为你们都是人形吧！还是精英！我可是个人类啊，内脏没有你们那么结实的！”
+“哈哈，说的也是啦。不过……风驰电掣的感觉的确很棒吧？”
+“爽快倒是爽快了，可过头了就会很难受啊。说来，你和AEK经常一起兜风吗？”
+“是啊，遇到我们俩刚好都休息时候就会出去转转。别看我的车外形没她那么夸张，跑起来可是完全不会输给她的！”
+“……的确，这一点我深有体会。”
+“指挥官要不要也加入呀？”
+“呃……还是算了！我跟不上你们的速度啊。”
+“指挥官，别这么看轻自己啊。你指挥我们打过那么多胜仗呢！”
+“在指挥方面我当然有自信。但我觉得，要是再和你们多骑几次摩托的话，就得进格里芬的医务室躺着了。”
+“放松点啦，指挥官。骑摩托车哪有那么可怕。而且身为格里芬的指挥官，连飙个车都怕成这样，出去可太丢脸了。”
+“容我反驳一下，你们那个已经不是通常人类定义的‘飙车’了。”
+“这样，等到下个休息日，就让我来帮助指挥官进行特训吧。”
+“……哈？”
+“多来几次，指挥官就能熟悉在道路上飞驰的感觉啦。等习惯之后，指挥官就能和我们一起享受速度带来的激情了！”
+“等等？这太……”
+“哎，指挥官，MG5来了。那我这边的任务就完成了。”
+PzB向正往这边走来的MG5挥了挥手，然后重新跨上摩托车。
+“指挥官，那我就先走一步，不耽误你执行任务了。”
+“等等，PzB！关于你说的‘特训’…… ”
+“是特训，一对一的，别忘了哦。”
+留下了一个对我毫无鼓劲作用的帅气笑容，一秒后，她的身影就在道路尽头消失了。
+“唉……我真的再也不想坐摩托车了……”
+</poem>
+}}
+
+== Voicelines ==
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />Leave big targets to me if there is one, this kid can take a lot.<br />有大目标就交给我吧，这孩子胃口可大着呢。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Asking me about combat opinions?...Write whatever you like, I know what to do.<br /> 问我作战意见？……随便写写就行了，到时候我知道该怎么做。
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Commander, this clothing of mine is no cheaper than my gun. Don't break it.<br /> 指挥官，我这衣服可不比枪支便宜，小心别碰坏了。
+| <sm2>_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath-link establishment
+| {{lang|ja| }}<br />
+| <sm2>_029.mp3</sm2>
+|}
+
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_PzB39_1506.png|width=500px|left=-200px|bottom=-10px}}
+
+==External links and references==
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Black hair]]
+[[Category:Red eyes]]
+[[Category:Uniform]]

@@ -1,0 +1,274 @@
+{{Translation needed}}
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline profile
+|Title=CZ-805
+|image=gfcz805_1.jpg
+|Caption=[https://weibo.com/2823124324/D1yRj8ahp?type=repost#_rnd1525317169938 Artist:木子翔]<br>[https://www.pixiv.net/member.php?id=652180 Pixiv]
+|Original name=CZ 805 BREN A Assault Rifle
+|Nickname=
+|Moe points=
+|Hair color=Grey
+|Eye color=Blue
+|CV=Uchida Maaya
+|Type=AR
+|Rarity=★★★
+|Country of Origin=Czech Republic
+|Manufactured by=Ceska Zbrojovka
+|Developed=2009
+|In service=2011-
+|Related=
+}}
+ 
+'''CZ-805''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and its derivatives.
+
+== Historical basis ==
+The '''CZ-805 Bren''' is an assault rifle developed by Ceska Zbrojovka (CZ). Designed as a new standard-issue assault rifle for the Czech Army, it is scheduled to replace all the Vz. 58 rifles remaining in the army.
+
+The CZ 805 BREN A is originally named the CZ S805A, the newest Czech-made assault rifle to date. It is first unveiled at an exhibition in 2007, albeit without detailed information back then. Visually the CZ 805 appears to be influenced by the FN SCAR and the XM8, in addition to elements from the G36.
+
+The prototype of the CZ 805 is first officially announced in 2009, and the CZ 805 is subsequently announced as the next-generation standard-issue rifle for the Czech Army, however, detailed schedules are not announced.
+
+The CZ 805 employs a modular design, and is chambered in either 5.56×45mm (the A variant) or the 7.62×39mm (the B variant) cartridge. A further development chambering the 6.8mm SPC is anticipated. The upper receiver is made of aluminum alloy, while the lower receiver is made of polymer. The magazine well is a separate module detachable from the weapon. The magazine well as well as the barrel is swapped out when switching calibers.
+
+The CZ 805 uses a quick-detach barrel to facilitate caliber-change or barrel length change. Each caliber has four barrels available, converting the weapon into a carbine, standard rifle, marksman rifle or light support weapon respectively. The weapon uses a short-stroke gas piston, rotary bolt system with a gas regulator in the gas system. A bolt change is mandatory when switching barrels.
+
+The firing mechanism can fire in semi-auto, two-round burst or full-auto mode, with the manual safety/selector lever on both sides of the receiver.
+
+The magazine resembles that of the G36, made from translucent polymer, with stacking struts to stack magazines horizontally. The 5.56mm-caliber variant of the CZ 805 is directly compatible with G36 magazines.
+
+A full-length picatinny rail is located at the top of the receiver, and accepts compatible iron/optical sights.
+
+The stock can be extended or folded on the weapon, intially inspired by the FN SCAR, albeit with some differences in detail. A cheek rest was added to the improved stock introduced in 2010, while the newest stock appears to take elements from the telescopic stock of the M4.
+
+===Specifications===
+*Overall weight: 3.6kg
+*Overall length: 855 - 910mm (Stock extended) / 670mm (Stock folded)
+*Barrel length: 360mm (Bren A1)/ 277mm (Bren A2)
+*Overall height: 260mm
+*Cartridge: 
+**5.56×45mm NATO
+**7.62×39mm
+**6.8×43mm Remington SPC
+*Action: Short-stroke gas-driven piston, rotary locked bolt
+*Rate of Fire: 760 RPM
+*Effective range: 500m
+*Feed system: 30-round detachable box magazine
+*Sights:
+**Iron sights
+**Sights compatible with MIL-STD-1913 Picatinny rails
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Assault rifle
+ Weight                     3.6 kg (7.9 lb)
+ Length                     910–855 mm (35.8–33.7 in) (butt extended)
+                            670 mm (26 in) (butt folded)
+ Barrel length              360 mm (14 in)
+ Cartridge                  5.56×45mm NATO
+ Action                     Gas-operated. rotating bolt
+ Rate of fire               700-800 RPM
+ Effective firing range     500 m
+ Feed system                20-. 30- or 100-round box magazine
+ Sights                     Iron sights
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''CZ-805'''
+|-
+! colspan=2 | '''Index number'''： No.108
+! colspan=2 | '''Rarity'''：★★★
+|-
+! colspan=2 | '''Nationality: Czech[[File:Flag_of_Czech Republic.svg|20px]]'''
+! colspan=2 | '''Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV：[[Uchida Maaya]]'''
+! colspan=2 | '''Illustrator: 木子翔'''
+|-
+! colspan=4 |  Stats(Growth：A) 
+|-
+| '''Health (B) ''' || 58→116 || '''Damage (B) ''' || 16→43
+|-
+| '''Dodge (B) ''' || 6→41 || '''Accurary (S) ''' || 7→49
+|-
+| '''Movement Speed ''' || 10→10 || '''Rate of Fire (A) ''' || 52→75
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 171→3248
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20→60  || '''Rations''' || 20→60 
+|-
+! '''Ability''
+! colspan=3 | '''Description'''
+|-
+| Fragmentation grenade
+| colspan=3 |Launches a grenade dealing varying damage to enemies within a 1 / 2.5 / 4 radius, the closer the target is to the center of explosion, the higher the damage.<br />Has an initial cooldown of 10 seconds and an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+九宫格3，9
+|-
+| '''Effect''' || colspan=3 |Increase rate of fire and accuracy by 25% and 50% for Machine guns 
+|-
+! colspan=4 | '''Acquired from'''
+|-
+| '''Production''' || colspan=3 |'''（Currently not obtainable）'''
+|-
+| '''Drops''' || colspan=3 | 3-6 3-4E
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Normal "Neutralized version"
+|bt4=Damaged "Neutralized version"
+|tab1=[[File:Pic CZ805.png|400px]]
+|tab2=[[File:Pic CZ805 D.png|400px]]
+|tab3=[[File:Pic CZ805hx.png|400px]]
+|tab4=[[File:Pic CZ805 Dhx.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== CZ-805 Trivia ==
+'''（To be continued）'''
+
+== Voiceline ==
+
+{| class="wikitable"
+|-
+! Occasion !! Line !! Audio
+|-
+| Login Screen
+| {{lang|ja|ショウジョゼンセン。}}<br />少女前线<br /> Girls' Frontline
+| <sm2>cz805_030.mp3</sm2>
+|-
+| Upon Login
+| {{lang|ja|おはよう指揮官！わたしに会えて嬉しいでしょ？}}<br /> 早啊，指挥官！看到我在这里，你也很开心吧，不愧是我呢！<br /> Good Morning Commander, arent you happy when you see me ? 
+| <sm2>cz805_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|やっほー！ピカピカのBren805（ぶれんはちまるご）、今日から作戦に参加します、期待してよね！}}<br />呦吼！崭新出众的CZ805A1，今天起为您效劳，指挥官，要期待我的表现哦。<br /> Roar! Brand new CZ805A1, is ready to serve, commander, please look forward for my performance.
+| <sm2>cz805_001.mp3</sm2>
+|-
+| rowspan=3 | Secetory
+| {{lang|ja|どうしたの、指揮官？わたしはここだよ。}}<br />什么事呀，指挥官？我在这儿呢。<br /> Commander what's the issue ? I'm here.
+| <sm2>cz805_005.mp3</sm2>
+|-
+| {{lang|ja|経験？優れたわたしにはそんなものはいらないのよね。}}<br />经验？集众优点于一身的我，根本不需要了吧。<br /> Experience ? I dont need them since I'm the best. 
+| <sm2>cz805_006.mp3</sm2>
+|-
+| {{lang|ja|見てわかるでしょ？わたしの凄さ。へへっ。}}<br />哼哼♪光从外表上，就看出我有厉害了吧？那就让您多看一会儿吧。<br /> By just looking at my apperance, you can see how pro am I ? Well I will let you continue for a while.
+| <sm2>cz805_007.mp3</sm2>
+|-
+| Secetory（After Marriage） 
+| {{lang|ja|}}<br /> 没错，就是这样，趁着出击之前，尽情欣赏我吧！这次也别忘了录下我的战斗英姿哦。<br /> Yep, just like that, before the mission, please go on admire me ! And don't forget to record my swagness during  battle.
+| <sm2></sm2>
+|-
+| Accommodation（When lifted ）
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Accommodation（When you touch her head）
+| {{lang|ja|へへへっ。}}<br />笑<br />Laugh
+| <sm2> cz805_032.mp3</sm2>
+|-
+| {{lang|ja|すごいっ。}}<br />称赞<br /> Praise
+| <sm2>cz805_035.mp3</sm2>
+|-
+| {{lang|ja|うん。}}<br />附和<br /> Tag along
+| <sm2>cz805_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|よしっ！せっかくの出番、ちゃんと見ててよっ！}}<br />好！难得轮到我出场，你们都看着吧！<br /> Good ! Since is my turn, you guys take a good look !
+| <sm2>cz805_003.mp3</sm2>
+|-
+| Begaining mission
+| {{lang|ja|負けるわけがない！}}<br />哼，要是赢不了，我就是小狼狗！<br /> If I cant win, I'm a dog !
+| <sm2>cz805_009.mp3</sm2>
+|-
+| Attack
+| {{lang|ja|そんなやつ、適当にやっちゃえ！}}<br />这种敌人，三两下不就解决了吗？<br /> This kind of enemy, can be taken down within 2, 3 move.
+| <sm2>cz805_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|うわぁ！わたしのせいじゃないよ！…どっ…どういうこと？}}<br />呜！不是我的错啊！……肯、肯定是视野问题！<br /> This ain't my fault... Must, must be the vison issue !
+| <sm2>cz805_013.mp3</sm2>
+|-
+| Repair
+| {{lang|ja|これは…あの…ごめん…わたしがうっかりしててさ…。}}<br />啊……这个……都是因为……抱歉……都是因为我不小心……<br /> Ah.... this... is because.... sorry.... this is because of my mistake.....
+| <sm2>cz805_026.mp3</sm2>
+|-
+| Winning battle（MVP）
+| {{lang|ja|こんなの当たり前じゃん！}}<br />哈哈！我就说嘛，这种杂鱼，怎么可能是我的对手！<br /> Haha !! Like I said, how are those enemy possibly be my competitor !
+| <sm2>cz805_014.mp3</sm2>
+|-
+| Losing Battle 
+| {{lang|ja|うん…えっと…今日天気が悪いからうまく照準（しょうじゅん）できないんだよね…。}}<br />唔……那个……都是天气不好，才影响我的发挥啊！<br />Emm... that... that is because the weather isnt good, which effected my ability!
+| <sm2>cz805_015.mp3</sm2>
+|-
+| Auto Battle 
+| {{lang|ja|諦めないでよね、先輩たち！}}<br />别这么快就放弃了啊，前辈们。<br /> Dont give up so early, elders.
+| <sm2>cz805_028.mp3</sm2>
+|-
+| Logistic support（Begaining）
+| {{lang|ja|たまには外回りも悪くないわね。}}<br />好吧，出去转转也不错。<br /> Alright, going out for a spin isn't that bad afterall. 
+| <sm2>cz805_024.mp3</sm2>
+|-
+| Logistic support（Return）
+| {{lang|ja|ただいま、いい収穫があったわよ。}}<br />我回来了，很顺利嘛。<br /> I'm back, everything gone smooth.
+| <sm2>cz805_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新人ちゃん？見せて見せて〜}}<br />新人来了。让我看看，有什么好参考的呢？<br /> New members had arrived let me have a look.
+| <sm2>cz805_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|これで陣形も変われるわね。}}<br />哼哼♪这样一来，我就能切换各种类型了。<br /> Now I'm able to switch into diffrent type.
+| <sm2>cz805_027.mp3</sm2>
+|-
+| Power Up
+| {{lang|ja|へへっ、今回の設計は誰に似てるのかな？}}<br />哼哼——♪这次参考的，又是谁的设计呢？<br /> This time refrence, will be design by who ? 
+| <sm2>cz805_004.mp3</sm2>
+|-
+| rowspan=3 | Skill
+| {{lang|ja|無理しないでわたしに任せて！}}<br />别硬撑了，快倒下吧！<br /> Dont hold back,  go down now !
+| <sm2>cz805_021.mp3</sm2>
+|-
+| {{lang|ja|終わり方早くない？}}<br />这样结束，会不会太快了呢。<br /> This type of ending wouldn't it be to quick ?
+| <sm2>cz805_022.mp3</sm2>
+|-
+| {{lang|ja|どんな状況にも対応できる！}}<br />无论什么情况，我都能应对呢！<br /> I'm able to withstand any condition ! 
+| <sm2>cz805_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|こんなたくさんの武器の中から、わたしを選んでくれて…はいっ！これからもよろしくお願いします！！}}<br />嘻嘻♪眼光真是独到，指挥官。我还以为这么多出众的武器，您不会注意到我这个新人呢。……不过，既然被您找到了，今后我就永远缠着您了，可别嫌烦啊。<br /> What a special eyes you have, commander. I thought you wouldn't notice me among all of them........... Well, since you had find me, I will be sticking to you all day long, dont blame me for irritating.
+| <sm2>cz805_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=Pic CZ805.png|width=500px|left=-150px}}
+
+== External Links and References ==
+<references/>
+[http://www.firearmsworld.net/czech/czs805/s805.htm 枪炮世界：CZ 805 BREN A突击步枪]
+ 
+[[Category:Girls Frontline]]
+[[Category:T-doll]]

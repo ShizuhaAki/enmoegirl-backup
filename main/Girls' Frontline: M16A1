@@ -1,0 +1,366 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Girls' Frontline profile
+|Name = M16A1
+|image=64011342 p0.jpg
+|Caption=<center>Artist :K箱<center>[https://www.pixiv.net/member.php?id=317823 Artist:K箱]</center>Pixiv ID:64011342
+<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=64011342 Pixiv ID:64011342]</ref>
+|Original name = M16A1
+|Nickname (s) = 16-bro
+|Moe points = Eye patch
+|Hair color = Black
+|Eye color = Black
+|Multiple CVs = {{cate|[[山根希美|山根希美]]|Yamane Nozomi}}
+|Type = AR
+|Rarity =★★★★
+|Country of origin=USA
+|Manufactured by =Colt
+|Developed=1950
+|In service=1960-present
+|Related person(s)={{Spoiler|Eugene Stoner 
+}}
+AR team：[[Girls' Frontline: M4A1|M4A1]],[[Girls' Frontline: M4 SOPMOD II|M4 SOPMOD II]],[[Girls' Frontline: ST AR-15|ST AR-15]],[[Girls' Frontline: RO635|RO635]]
+
+[[Girls' Frontline: HK416|HK416]],[[Girls' Frontline: UMP45|UMP45]] }}
+
+
+'''M16A1''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives, developed by MicaTeam and published by DigitalSky.
+
+== Historical basis ==
+
+The M16 is the designation by the US military for the family of rifles developed from the Armalite AR-15. It is an assault rifle using standard 5.56mm NATO rounds. Former mainstay of US army since 1967, and used by 15 NATO countries, it is the most-produced model of all weapons of its caliber.
+
+{{Hide|Title=Specifications|Text=
+
+*Weight：3.26kg
+
+*Length：1006mm 
+
+*Barrel length：508mm
+
+*Cartridge: 5.56×45mm NATO, .223 Remington
+
+*Caliber: 5.56mm
+
+*Action: Direct-impingement gas-operated rotating bolt
+
+*Rate of fire：750 - 900 RPM
+
+*Muzzle velocity：975m／s
+
+*Effective range：550m
+
+*Feed system: 20- or 30-round detachable STANAG magazine.
+
+}}
+
+=== History ===
+
+The development of the M16 started in the 1950s under the auspices of the military, and underwent a successful live trial in Vietnam in the 1960s, prompting the US Air Force to adopt the M16 in 1964. Many improved variants of the M16 followed, creating the M16A1. The M16A1 is the response to the need of a forward assist proposed by the military, as the original M16 had the problem of unable to completely lock the bolt. It changed the three-prong flash hider, which was plagued with problems such as catching dust and having branches/leaves stuck on it in a jungle environment, to a bird-cage style one. The early M16A1 had its barrel chrome-lined, to avoid problems arising from corrosion, with later versions chrome-lining the entire chamber. It is the main infantry weapon of the US Army from 1967 until the 1980s, when it was replaced by the M16A2, which in turn was replaced by the M16A4. The latter uses a flat-top receiver developed for the M4. The original version of this weapon remains in inventory for reservation purposes and for used by the National Guards and the USAF. The M16A3 is an improved model over the M16A2, and is used by the US Navy. Its predecessor, M16A2E3, has a full-auto capability not found on the M16A2. The US Army and the US marine uses the three-round-burst-capable M16A2, with the M16A2E3 mainly for export purposes, while the US Navy designates the M16A2E3 as the M16A3.
+
+==Game Statistics==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''M16A1'''
+|-
+! colspan=2 | '''Catalogue number'''： No.054
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: USA[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Type : Assault Rifle'''
+|-
+! colspan=2 | '''CV：山根希美 (Yamane Nozomi)'''
+! colspan=2 | '''Illustrator: 海猫络合物'''
+|-
+! colspan=4 | '''Statistics(Growth：A)'''
+|-
+| '''Health (A)''' || 61→121 || '''Damage (A)''' || 18→47
+|-
+| '''Dodge (A)''' || 6→44 || '''Accuracy (A)''' || 6→46
+|-
+| '''Movement Speed (B)''' || 10→10 || '''Rate of Fire (A)''' || 52→75
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 177→3476
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammunition''' || 20→60 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Flashbang
+| colspan=3 | Throws a flashbang, stunning enemies in a 2.5 radius for 2.2 (4) seconds. <br /> Initial cooldown at 6 seconds, with an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 2 3 8 9
+|-
+| '''Effect''' || colspan=3 | Affects '''SMGs''' only<br />Increases firepower by 10%, and dodge by 12%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | '''（N/A）'''
+|-
+| '''Drops''' || colspan=3 | '''（N/A）'''
+|-
+| '''Other''' || colspan=3 | '''（Only）''' Reward for clearing 4-6 for the first time.
+|}
+'''Notes'''：
+* The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses ("()") is the maximum possible value of the stat.
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:M16A1.png|400px]]
+|tab2=[[File:M16A1 D.png|400px]]
+}}
+</div>
+{{-}}
+
+== Trivia ==
+===A reliable big sister===
+In the AR squad,M16A1 is a veteran,a reliable big sister.Although she might look a bit unhinged, big-hearted, she possesses a calm mind, showing her reliable side when in critical situations. Possibly because of her age, she prefers articles from the eighties to nineties of last century.{{Spoiler|Those T-dolls even also 
+talk about age?}} Also,her image and role expresses her as a reliable veteran and a mature, calm warrior <del>which is perfect for a harem king</del>
+
+To indicate her veteran experience, the illustrator processed the overall tone to a relatively old and pale one, while using smart elements in the design. The eye patch and scar on the face exhibits a strong veteran presence and the profile of a big sister. In terms of clothing, the big weapon case on M16A1's back attracts much attention, but its contents remain unknown {{Spoiler|possibly some kind of unsurfaced exclusive extermination device}}.The pattern of the shemagh on her right hand is a hidden feature, only showing when she enters damaged state.<ref>[http://gf.ppgame.com/web/pc/info.html?id=12  【枪娘百科讲坛——AR小队篇】-新闻资讯 > 攻略- From Girl's Frontlin》official website (in Chinese)]</ref>
+
+{{Spoiler|But as part of a high-quality AR team available even at level 10, it could be nice for the M16 to be the mainstay of Africans, eh?}}
+
+=== Harem King ===
+M16 is the harem king of the entire AR squad, judging from the plot, compared to M4 who is affected towards the commander and AR-15 who instead distances herself. {{Spoiler|Leaving <del>the puppy</del> SOP II to stick around the commander from the very start.}}
+
+The entire squad wholly trusts M16 with absolute loyalty. {{Spoiler|Now that's a big brother we have here.}} <del>How fascinating!</del>
+
+=== With other members of the AR squad ===
+{{SpoilerBar}}
+==== With ST AR-15 ====
+
+Mentioned that she knows AR-15 and the AR squad more, knowing that AR-15 escaped because she must had something she must settle in Episode 5.
+
+When meeting AR-15 in Episode 6, she stated that she would knock her out and take her back if necessary, but AR-15 explained the situation and insisted on finding the Mastermind, which led to M16 hitting her. AR-15 tasked her to rescue her companions in trouble, and left SOP II and M4 to her.
+
+Expressed a sense of helplessness and pain when RO said that the Jupiter cannon cut off the line to AR-15.
+
+=== With M4A1 ===
+Saved M4 from the Agent from the start of the plot, and backed the entire squad. Constantly worried about M4A1, not caring even when getting slapped in the face by her.
+
+Carried M4 out of Zone S08 at then end of Episode 6, when asked why it was her, replied "It's always me."
+
+Told M4 to put herself together to command in the prison in Episode 7. Wanted to break out right to her death in the Emergency plot, telling Makarov "If... you survive... say sorry to M4 for me...".
+
+Came back to her senses when SOP II called her twice in Operation Arctic, explaining what happened to M4. When she was knocked out after their transportation was shot down, dreamt that M4A1 was calling her to wake up, stating that she wanted to meet.
+
+=== With M4 SOPMODII ===
+Possibly viewing her as a little sister, caring for her in the story, as a reliable antecessor. Constantly teamed with her later on.
+
+=== With RO365 ===
+Saved by RO from the brink of death in the Emergency portion of Episode 7, and drank alcohol with her at the bar in the end.
+
+{{Spoiler|According to her creator, RO is the former housemaid and mistress of M16's. <ref>http://weibo.com/3746428153/EAIauDoNx?from=page_1005053746428153_profile&wvr=6&mod=weibotime&type=comment#_rnd1491826049783 Spoiler</ref>
+
+As to why they have such complex relationship.... try seeing this:[http://www.360doc.com/content/15/1021/13/5559054_507299443.shtml Family tree of M16 (in Chinese)]
+}}
+
+===With Squad 404===
+Has interesting relationships with UMP45 and HK416 from Squad 404, while the relationships with 9 and G11 is not mentioned.
+
+Has a running feud with HK416, with the latter conflicting with her in the story through conversations, to the degree that 416 always goes to see her once she's been given a leave, wanting to break M16's leg whenever they meet. {{Spoiler|Which always results in a speedy takedown by the impervious 16-bro.}} Has known UMP45 long ago, and seems to have worked together. Their relationship isn't so bad, judging from the fact that UMP45 gave her intelligence and did not use force on M16.
+
+{{Spoiler|It was revealed in Operation Arctic that she used to work with HK416 in a same team, which is also the reason why UMP45 deemed HK416 was still not fully part of Squad 404.}}
+
+{{Spoiler|Every T-doll in contact with Squad 404 had their memories relating to the squad wiped clean, only with that of M16 having fragments remaining. <del>Mentioned by the Dreamer that her psychology map is the hardest to destroy, therefore attempting to destroy her physically in Episode 7. </del>}}
+
+In the trailer video for the Summer event 2017, Operation "DEEPDIVE", corresponding to UMP40 taking UMP45 forward is M16A1 taking HK416, without her eye patch. In the memory fragments of UMP45, M16A1 used to work with HK416 at National Security Agency 6, with her and UMP40, planning to conduct a capture operation which included infiltrating a Sangvis Ferri factory. For HK416's safety, M16A1 slapped her in the face to drive her away {{Spoiler|now that's why 416 has been trying to break her leg}}, without realizing that the mission of UMP40 and UMP45 was to interfere with the operation and cause the entire team to perish. The psychology map of UMP40 was completely destroyed after the mission was completed, but UMP45 survived, and came across another survivor (suspected to be M16A1). The two opened fire on each other, adding a scar on the left eye of UMP45, and an eye patch on M16A1's right one.
+
+=== Fate of retired T-dolls ===
+M16 revealed after knowing that ST AR-15 wouldn't be retired that "Oh that's ok. Otherwise we might need to see her in a café or a coal mine." Now let alone the café, what exactly do you mean by "coal mine"?? <del>You seemed to have disclosed some ''very disturbing'' information, 16-bro.</del> {{Spoiler|So it seems that T-dolls go to cafes or coal mines after they get retired.}}
+
+{{Hide|Title=5-5|Text=[[File:5-5.jpg|600px]]}}
+
+But what M16 said was only ''part'' of what would really happen, since it was hinted in-game what would fall on retired T-dolls.
+
+{{Hide|Title=Truth|Text=[[File:Truth1.png|600px]]<br />
+
+[[File:Truth2.png|600px]]}}
+
+=== There's only ''1 big brother'' at Grifon ===
+For her numerous performances and combat appearances (including single-handedly taking out a batch of Sangvis Ferri units ''before'' M4 and the commander came to her rescue, subduing HK416 on the ground, standing-off with UMP45), and her threatening line "I will make your AI calculate the plausibility of suicide", she was given the nickname "16-bro" by players. {{Spoiler|F*** me 16-bro!}}
+
+{{Spoiler|In addition to such, M16 also cherishes the AR squad and loves M4, with clues hinting that M16 took much for the entire squad. The story at the 3rd internal test included a scenario where HK416 used something regarding the AR squad to provoke M16, she turned cold and threatened the former, even saying "I'm going back to protect my little princess". Now that's a sentimental 16-bro! During the public test, HK416 indirectly stated that the weak spot of M16 is M4, which was quickly met with "now hold your words. Also, remember this time, otherwise I will make your AI calculate the plausibility of suicide."}}
+
+=== Mysterious oversight ===
+Though the weapon in her illustration seems correct, M16's chibi version uses an M4 (with a clearly visible telescopic stock and a shorter overall length).
+
+=== Effect tiles ===
+The update on 13 January, 2017, the one that implemented Operation "Arctic" <ref>http://gf.ppgame.com/web/pc/info.html?id=466 13 January: "Arctic warfare" version game-wide update notice</ref> brought about a complete overhaul of all AR squad members.
+
+The skill M16A1 was changed from a temporary Flashbang (since it stuns opponents in a 2 radius, and lasts for only a sec) to a longer one, with her effect tile(s) changing from '''the AR-effective''' keypad 7 to the now SMG-effective ones.
+
+One of the 4 characters who first received a major overhaul in the game. {{Spoiler|Told you it is the AR squad.}}
+
+===Negligence in output?===
+
+As the ''only'' AR T-doll to ''not'' have an attachment slot (which translates into the inability to use output-oriented equipment such as night-combat equipment), she has ''two'' T-doll equipment slots capable of bringing two layers of armor plating or two types of exoskeleton......Effectively becoming the '''''only''''' friendly T-doll to earn an armor stat aside from SGs.
+
+She got her exclusive equipment which introduces a massive decrease in accuracy and rate-of-fire (20 and 10, respectively). <del>Really turning her into an SG......</del>
+
+Well, of course, this does not mean that M16 is solely a meat shield, the combination of equipment is the real decisive factor.
+
+{{Spoiler|AK47: No I came first, I'm the one more <del>f*******</del>damage resistant......}}
+
+{{SpoilerBar}}
+
+==={{Spoiler|The first Sangvis Ferricized T-doll?}}===
+{{Hide|Title=Episode 8, emergency, Spoiler alert|Text=
+M16 was injected with the "Umbrella" virus for mission purposes, eventually causing it to take effect, and she was captured by the Dreamer. And according to the Dreamer, what she was implanted, was in fact...... the consciousness of the Mastermind herself......
+
+Making M16 the second one to go rogue after some[[Girls' Frontline: Architect|traitor]], but not willingly, with a reason better than that idiot.
+
+As to her fate, reconciliation or destruction, we might as well wait for the official publication <del>Sorry M4, I wasn't able to protect the AR squad for you.</del>
+
+<big>M4A1……Wait for me to come back... No matter what I will have turned into then……</big>
+
+Mentioned by the Dreamer again in the end of Operation Deepdive, with the aim of <del>friendlily</del> communicating with the Mastermind, and to know the past of Squad 404 and the story of Sangvis Ferri and the Mastermind.
+
+Of course it might be just a matter of time for her to be modified into a Sangvis Ferri unit, since the Dreamer already took her as a new friend.
+
+<del>Will it be humor, or sarcasm, to see a Grifon M16 fight a Sangvis Ferri M16......</del>
+}}
+
+== Character Lines ==
+
+{| class="wikitable"
+|-
+! Occasion !! Lines !! Sounds
+|-
+| Title Call
+| {{lang|ja|ショウジョゼンセン。}}{{lang|ch|}}<br />少女前线<br />Girl's Frontline
+| <sm2>M16A1_TITLECALL_JP.mp3</sm2>
+|-
+| Greeting
+| {{lang|ja|}}おお、お帰り、いっぱい付き合ってくれるか。{{lang|ch|}}<br />哦哦，欢迎回来，之后能一直陪着我吗？<br />Ahh, welcome back. What's taking you so long?
+| <sm2>M16A1_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}まあ、俺はM16A1、どんな任務にもかかわらず、私に任せて。{{lang|ch|}}<br />嘿！我是M16A1。有什么任务，尽管交给我！<br />Hey! I'm M16A1.Have any task to me?
+| <sm2>M16A1_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | Secretary
+| {{lang|ja|}}私の趣味?ジャック・ダニエル(JACK DANIELS)さあ{{lang|ch|}}<br />我的爱好?当然是杰克·丹尼(威士忌)啦。<br />Things I like? Jack Daniel's whiskey of course.
+| <sm2>M16A1_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|}}指揮官、私はいいけど、私の妹達には触るなよ!{{lang|ch|}}<br />指挥官，我就算了，可不许乱碰我的妹妹们哦。Commander, I don't mind, but I won't allow you to randomly touch my sisters.
+| <sm2>M16A1_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|}}目なんて片方で十分!私にかかれば、百発百中だね！{{lang|ch|}}<br />眼睛什么的，有一只就足够了!毕竟是我，可是百发百中的！<br />Eyes, just one is enough, I'm a crackshot afterall.
+| <sm2>M16A1_DIALOGUE3_JP.mp3</sm2>
+|-
+| Secretary（After OATH） 
+| {{lang|ja|}}<br />{{lang|ch|}}<br />工作之后一起喝一杯吧，长官，不过，这次不准偷偷告诉M4了，不然挨训的可是我呢。<br />Let's have a drink together after working,sir.But,don't tell M4 this time.Or,the one who get rebuke will be mine.
+| <sm2></sm2>
+|-
+| 宿舍（提起）
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | 宿舍（摸头）
+| {{lang|ja|}}<br />笑
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />称赞
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />附和
+| <sm2></sm2>
+|-
+| Echelon Assignment
+| {{lang|ja|}}よーし!さっさとミッションをクリアして飲むぞ。{{lang|ch|}}<br />好——!赶快完成任务去喝酒吧！<br />Right! Complete mission soon and go to a drink!
+| <sm2>M16A1_FORMATION_JP.mp3</sm2>
+|-
+| Operation Start
+| {{lang|ja|}}感じる…敵の匂い。{{lang|ch|}}<br />感觉到了……敌人的味道。<br />I felt the smell of enemies.
+| <sm2>M16A1_GOATTACK_JP.mp3</sm2>
+|-
+| Combat Start
+| {{lang|ja|}}全力で敵をたたく！{{lang|ch|}}<br />全力向敌人进攻！<br />Full attack to enemies!
+| <sm2>M16A1_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}いい度胸…してるな……{{lang|ch|}}<br />真是……好大的胆子啊……<br />How dare... to do it...
+| <sm2>M16A1_BREAK_JP.mp3</sm2>
+|-
+| Restore
+| {{lang|ja|}}やめてくれエムフォー、私なら平気だ。{{lang|ch|}}<br />不要这样子M4，我没事的。<br />Don't be this kind M4,I'm fine.
+| <sm2>M16A1_FIX_JP.mp3</sm2>
+|-
+| MVP
+| {{lang|ja|}}ウッシャー!今夜は祝杯だ！{{lang|ch|}}<br />哦耶——!今晚喝酒庆祝吧！<br />Yeah!Propose a toast tonight!
+| <sm2>M16A1_WIN_JP.mp3</sm2>
+|-
+| Mission Failed
+| {{lang|ja|}}すまん…撤退しよう、私のミスだ！<br />{{lang|ch|}}抱歉…撤退吧，是我的失误！<br />Sorry...just withdraw,this is my mistake.
+| <sm2>M16A1_RETREAT_JP.mp3</sm2>
+|-
+| Autobattle Deployment
+| {{lang|ja|}}私が来たからにはもう大丈夫だぞ、皆!{{lang|ch|}}<br />各位，有我在没问题的！<br />There is no problem with me,everyone!
+| <sm2> M16A1_BLACKACTION_JP.mp3</sm2>
+|-
+| Logistic Support Deployment
+| {{lang|ja|}} この程度の任務なら、すぐ戻って来るよ。{{lang|ch|}}<br />这种程度的任务，马上就能回来。<br />The mission just at this rate,I'll be right back.
+| <sm2>M16A1_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Logistic Support Return
+| {{lang|ja|}}戻ったぞ指揮官、ビールの用意はできてるか。{{lang|ch|}}<br />回来了喔指挥官，准备好啤酒了吗？<br />You are back ,commander,did you prepare beer?
+| <sm2>M16A1_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Manufacture Complete
+| {{lang|ja|}}いいね、新しい妹分が来た。{{lang|ch|}}<br />不错嘛，看来又能多个新妹妹了。<br />Not bad,here comes a new sister.
+| <sm2>M16A1_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy Link
+| {{lang|ja|}}偶には補充しなきゃな、人もビールも。<br />{{lang|ch|}}不管是人还是啤酒，偶尔都必须补充一下呢。<br />No matter people or beer must give a supplement sometimes.
+| <sm2>M16A1_COMBINE_JP.mp3</sm2>
+|-
+| Power Up
+| {{lang|ja|}}私宛のプレゼントは……お酒がいいな。<br />{{lang|ch|}}给我的礼物……酒就行了。<br />A gift for me ... I'd like a drink.
+| <sm2>M16A1_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill
+| {{lang|ja|}}用ー意！射って！<br />{{lang|ch|}}准备——！射击！<br />Ready––fire!}}
+| <sm2>M16A1_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|}}あきらめろ、お前たちに勝算はない！<br />{{lang|ch|}}放弃吧，你们是没有胜算的！<br />Just give up,you won't win!
+| <sm2>M16A1_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|}}今で、エムフォー、私の動きをよく見てろ！<br />{{lang|ch|}}就是现在M4，看清我的动作！<br />Now's the time, M4, watch my move closely!
+| <sm2>M16A1_SKILL3_JP.mp3</sm2>
+|-
+| OATH
+| {{lang|ja|}}おや、指揮官、やっと私の素晴しさに気付いてくれたのか。……だが、ええと……、ちょっと近過ぎて慣れないぞ。とりあえず……このことを妹のエムフォーに伝えていきていいか。<br />{{lang|ch|}}哦呀?指挥官，终于认识到我的美妙之处了吗？……不过，那个……，稍微靠得有点太近了有点不习惯呢。总之……能把这件事也告诉我的妹妹吗？<br />Oh, Commander, have you finally realized how wonderful of my individuality? But, uh, I'm not used to being this close. I... Can I tell my sister M4 about this?
+| <sm2>M16A1_SOULCONTRACT_JP.mp3 </sm2>
+|}
+
+{{Girls' Frontline}}
+
+==References==
+<references/>
+
+[[Category:Girls' Frontline]]
+
+[[zh:少女前线:M16A1]]

@@ -1,0 +1,292 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>SR-3MP "Whirlwind", at your service! I've heard rumors about your capabilities and I'd like to take a good look for myself. Be sure to show me what you're made of.</big></big>'''}}
+{{info
+|color= red
+|leftimage= [[image:Gnome-emblem-important.svg|50px|link=]]
+|SR-3MP is a '''short assault rifle''' designed for '''indoors close-quarter combat''' in reality, but classified as an SMG in the game.
+}}
+{{Girls' Frontline profile
+|Title=SR-3MP
+|image=61657977 p0.jpg
+|Caption=<center>Artist:柚井<ref>[http://www.pixiv.net/member.php?id=5431406 Artist:柚井]</ref></center>
+<center>Pixiv ID:61657977<ref>[http://www.pixiv.net/member_illust.php?mode=medium&illust_id=61657977 Pixiv ID:61657977]</ref></center>
+|Original name=SR-3MP
+|Nickname(s)=Whirlwind
+|Hair color=Yellow
+|Eye color=Red
+|CV=Yuuki Takada
+|Type=SMG
+|Rarity=★★★★★
+|Country of Origin=Russia
+|Manufactured by=TsNIITochMash
+|Developed=
+|In service=2012-
+|Related to=
+}}
+
+'''SR-3MP''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Sunborn Games.
+
+== Historical basis ==
+The previous weapon by TsNIITochMash, the '''SR-3''', was dedicated as a CQB weapon as opposed to VIP protection, which demanded better ergonomics and compatibility with attachments. KBP introduced the similar-purposed but cheaper 9A-91 as competition. To expand their market, TsNIITochMash started designing a weapon similar to the 9A-91 at the start of the 21st century. The result was the '''SR-3M compact assault rifle''', currently fielded in small numbers by Russian SWAT teams and the FSB.
+
+The SR-3M was in fact not a direct improvement over the SR-3, but a new weapon combining the features of the AS and the SR-3. The SR-3M used the barrel from the AS but without the gas ports to silence the firing, with a foldable foregrip below the forearm. The muzzle was fitted with a birdcage flash-hider/muzzle break, and comes with a detachable silencer for use either as an assault weapon or a silent weapon. The silencer is attached to the weapon via the threads on the muzzle flash-hider. The durability of the weapon itself nearly equals to that of its silencer.
+
+Different from the SR-3, the SR-3M retained the traditional charging handle of the AS, positioned to the right of the bolt carrier, protruding from the extraction port. The safety lever is on the right side of the receiver similar to the AS, while the selector lever is positioned inside the trigger guard, with identical markings as that of the SR-3. Three dots to the left denotes full-auto, while the single dot to the right indicates semi-auto.
+
+The SR-3M retained the iron sights of the SR-3, but with an additional Warsaw Pact rail to mount low-magnification sights such as the PSO-1 or other Russian collimator sights.
+
+The SR-3M was mounted with a side-folding stock of the AS, made from steel tubes and a plastic padding. The stock folds to the left when not in use.
+
+The SR-3M accepts the 10 and 20-round plastic magazines of the AS/VSS/SR-3, but also comes with a newly-developed 30-round stamped-steel magazine in response to the need for a high-capacity magazine found in the feedback of users of the SR-3..
+
+The SR-3M proves to be an excellent CQB weapon with an effective range of 100-150 meters, retaining substantial stopping power even after its shots penetrate hard obstacles. Furthermore, due to the subsonic nature of 9x39mm rounds, it is also an excellent silenced weapon.
+
+An improved model of the SR-3M, the '''SR-3MP''', was introduced in 2012. It is fitted with a Picatinny rail at the top of the receiver to accomodate western red-dot sights favoured by Russian combat personnel. The most prominent feature of the SR-3MP, however, is the inverted stock installed at the bottom of the grip, to facilitate aiming even when wearing a ballistic mask.
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the firearm.'''
+ Type                       Compact assault rifle
+ Weight                     3.2 kg 
+ Length                     970 mm (38.2 inches)
+ Barrel length              156 mm (6.2 inches)
+ Cartridge                  9×39mm
+ Action                     Gas operated. Rotating bolt
+ Rate of fire               900 rounds/min
+ Muzzle velocity            295 m/s
+ Effective firing range     About 200 meters
+ Feed system                30-round detachable box magazine 
+ Sights                     Iron sights
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''SR-3MP'''
+|-
+! colspan=2 | '''Index number'''：NO.135
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Gun Type: SMG'''
+|-
+! colspan=2 | '''CV: [[Yuuki Takada]] '''
+! colspan=2 | '''Illustrator: 熊猫印象'''
+|-
+! colspan=4 | '''Stats(Growth: B)'''
+|-
+| '''Health (A)''' || 97→194×5 || '''Damage (S)''' || 13→31
+|-
+| '''Evasion (S)''' || 10→67 || '''Accuracy (A)''' || 2→12
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (A)''' || 65→90
+|-
+! colspan=4 | '''Combat Effectiveness'''
+|-
+! colspan=4 | 219→4117
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Damage Focus
+| colspan=3 | Increases damage by 160% (260%) for 3 (5) seconds. <br />Initial cooldown 4 seconds / Cooldown 10 (8) seconds
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|1|4|7}}
+Keypads 1,4,7
+|-
+| '''Effect''' || colspan=3 | Buffs '''AR'''s<br />Rate of Fire+18%, Crit rate+30%。
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 02:33:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+|tab1=[[File:少女前线-SR-3MP.png|400px]]
+|tab2=[[File:少女前线-SR-3MP-大破.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+{{Hide|Title=Chibi animation|Text=[[File:GIF_SR-3MP_Q.gif]]}}
+
+==Tips==
+
+*Unlike some [[Girls' Frontline: Thompson|other]] [[Girls' Frontline: G36C|5-star]] [[Girls' Frontline: Suomi|T-dolls]] who rely on their large health pools and some evasion for durability, SR-3MP is instead a direct-damage SMG.
+
+:This makes accuracy more of a concern as SR-3MP needs to score enough hits (especially in her 3-to-5-second skill window) to effectively wipe out enemies before they even get to take the shot. Red-dot sights are recommended for this.
+
+:The high damage (theoretically peaking at 192.51 with best damage randomization and +50% critical damage, no equipment or formation buffs) makes her a formidable appearance among SMG/AR echelons. However, to maximize damage output, one may need a full load of +10 Max-calibrated equipment for her to use.
+
+:She can also be loaded out for critical chance if accuracy is not a big concern.
+
+== Trivia ==
+[[File:SR-3MP_110.jpg|400px|right|thumb|
+<center><big>'''''Hello? 110? Yeah, still that commander.'''''</big></center>
+<center>Weibo:@熊猫印象<ref>[http://weibo.com/1609198984/Dxnf56ItQ?type=comment#_rnd1492055022772 Weibo:@熊猫印象]</ref></center>
+]]
+
+*Despite her S-ranked Evasion, her evasion value is even lower than that of Gr MP5 (who had 68, ranked A), at only 67.
+
+:The low evasion value gets only more baffling judging from her thin physical profile compared to some dolls with visually [[Girls' Frontline: VECTOR|larger]] [[Girls' Frontline: UMP9|builds]].
+
+*She also "trips lolicon radars"<ref>https://gfl.matsuda.tips/# The Angry Trap Midget Guide</ref>, deliberately teasing commanders before turning around calling 110 (PRC's phone number for police).
+
+:<del>She may have directly contributed to the logarithmically-rising number of commanders landing in jail.</del>
+
+{{Hide|Title=Illustrator's celebration for the Chinese Year of the Rooster|Text=[[File:60983824 p0.jpg|400px|]]<br />''Luck to the year of Rooster, abide to the law for the new year'' (鸡年大桔，新的一年大家要遵纪守法哦)<br />
+<center>Weibo:@熊猫印象<ref>[http://weibo.com/1609198984/EqOo6a8NH?type=comment#_rnd1492055038391 Weibo:@熊猫印象]</ref></center>}}
+
+*She is also portrayed in some lily-works with M99 for also having rabbit-themed decorations.
+
+{{Hide|Title=M99 and Whirlwind|Text=[[File:M99与旋风.jpg|thumb|center|400px|<center><div style="display:inline-block;">Artist:にみ屋<ref>[https://www.pixiv.net/member.php?id=19729442 Artist:にみ屋]</ref><br>
+Weibo:@Nimi_Ya <ref>[http://weibo.com/5236997010/F3qcIcrsx?from=page_1005055236997010_profile&wvr=6&mod=weibotime&type=comment#_rnd1499740681964 Weibo:@Nimi_Ya]</ref></div></center>]]
+
+[[File:兔子组_1.jpg|thumb|center|400px|<center><div style="display:inline-block;">Artist:shan <ref>[https://www.pixiv.net/member.php?id=18065282 Artist:shan]</ref><br>
+Pixiv ID:64609449 <ref>[https://www.pixiv.net/member_illust.php?mode=manga&illust_id=64609449 Pixiv ID:64609449]</ref></div></center>]]
+
+[[File:兔子组_2.jpg|thumb|center|400px|<center><div style="display:inline-block;">Artist:宇智波下垂<ref>[https://www.pixiv.net/member.php?id=1710905 Artist:宇智波下垂]</ref><br>
+Pixiv ID:63109777 <ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63109777 Pixiv ID:63109777]</ref></div></center>]]
+}}
+
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable mw-collapsible"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>SR3MP_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官、起きてる？しっかりして。私を失望させないでね。}}<br />''Commander, you awake? Get yourself together and don't fail me.''<br />指揮官，你醒了嗎？振作一點，別讓我失望喔。
+| <sm2>SR3MP_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|ヴィーフリ、頑張るわよ！と言っても、まずは指揮官の力、しっかり見せてもらうからね。}}<br />SR-3MP "Whirlwind", at your service! I've heard rumors about your capabilities and I'd like to take a good look for myself. Be sure to show me what you're made of.<br />SR-3MP"旋风"，为您效劳！话是这么说啦，不过您的水平如何，我还要好好观望哦。
+| <sm2>SR3MP_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|なに？私の考え聞きたい？}}<br />What? Do you want to hear my thoughts?<br />干嘛？想听我的意见？
+| <sm2>SR3MP_005.mp3</sm2>
+|-
+| {{lang|ja|ちゃんと面倒をみてね、いつか報われるから！}}<br />Make sure you take good care of me! I'll repay you one day!<br />好好照我哦，有一天你会有回报的！
+| <sm2>SR3MP_006.mp3</sm2>
+|-
+| {{lang|ja|なぁ······なにするの！人を呼ぶわよ！}}<br />Ahh! What are you doing! I'll call for someone to help me!<br />你······你做什么呢！当心我叫人了啊，我嗓门可是很尖的！
+| <sm2>SR3MP_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|あら？呼んだ？今度は皆に聞こえる様に大きな声で呼んでね。照れないで、もっと胸を張っていいわよ？}}<br />Huh? Did you call for me? Call out louder next time so that everyone hears it, heheh. There's no need to be shy. You should be more proud about it.<br />喔? 你叫我?下次用大家都聽得到的聲音大聲的叫我吧，不要害羞了喔，你應該再自豪一些吧?
+| <sm2>SR3MP_041.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|うわ！何すんのよ！}}<br />Uwa! What're you doing!<br /> 呜哇!你干嘛啦!
+| <sm2>SR3MP_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>SR3MP_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>SR3MP_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>SR3MP_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|いいわよ～このあたしが教えてあげる。}}<br />''Ok~ Let me teach you a bit.''<br />好哦～就讓本小姐來教教你。
+| <sm2>SR3MP_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|安心して、すぐ帰るから。}}<br />''Don't worry, I'll be right back.''<br />別擔心，我馬上回來。
+| <sm2>SR3MP_009.mp3</sm2>
+|-
+| Beginning combat.
+| {{lang|ja|勝利は直ぐそこに。}}<br />''Victory is straight ahead.''<br />勝利就在眼前。
+| <sm2>SR3MP_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|ちょっと......そんなはずないわよね...！}}<br />''Wait...Shouldn't turn this way...!''<br />等等......不該變成如此的吧...！
+| <sm2>SR3MP_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|次は絶対ないわよ......}}<br />絕對不會再有下次了......
+| <sm2>SR3MP_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|これが勝利の味わい？実に素晴らしい！}}<br />''Is this the taste of victory? It's really great!''<br />這就是勝利的滋味？真的是太棒了！
+| <sm2>SR3MP_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|ちっ...こんな結果...認めないわよ......！}}<br />''Tch...This kind of result...I'm not admitting it!''<br />嘖...這樣的結果...我不承認......！
+| <sm2>SR3MP_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|面倒事片付けましょう！}}<br />''Get rid of all troubles!''<br />把麻煩事解決掉吧！
+| <sm2>SR3MP_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|了解、それじゃ早く行くわよ！}}<br />''Understood, I'm heading off now!''<br />了解，那我馬上出發囉！
+| <sm2>SR3MP_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|あたしに会いたくなっだ？}}<br />''Did you miss me?''<br />有沒有想人家呢？
+| <sm2>SR3MP_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい友達？面白そうね。}}<br />''A new friend? Seems fun.''<br />新的朋友？好像很有趣耶。
+| <sm2>SR3MP_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|今頃私の価値理解出来たの？}}<br />''Realized my value just now?''<br />到現在才了解到我的價值嗎？
+| <sm2>SR3MP_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|予想とは違うけと...まぁいいか～}}<br />''Though different form what I saw...Nevermind.''<br />雖然跟想像的不太一樣...算了～
+| <sm2>SR3MP_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|ちっ、そこまでよ}}<br />''Zep, it ends here.''<br />嘖！到此為止了！
+| <sm2>SR3MP_021.mp3</sm2>
+|-
+| {{lang|ja|チャンス！}}<br />''Chance!''<br />好機會！
+| <sm2>SR3MP_022.mp3</sm2>
+|-
+| {{lang|ja|ふん、無駄の足掻き}}<br />''Humph, meaningless struggles.''<br />哼，無意義的掙扎
+| <sm2>SR3MP_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|えへへ～待ちくたびれちゃった。指揮官、さあ早く気持ちを聞かせて！大きな声で、みんなに聞こえるように！……そう！その調子！もっともっと！ }}<br />Heheh, you couldn't wait any longer, could you, Commander? Come on, let me hear your feelings! Louder so everyone can hear it! ...That's right, just like that! Louder! Even louder!<br />嘿嘿，终于等不及了吧，指挥官。来吧，快点把你的心声告诉我！大声点，让所有人都听到！……对，就是这样！大声一点！再大声一点！
+| <sm2>SR3MP_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=少女前线-SR-3MP.png|width=550px|left=-175px}}
+
+==Read more==
+[https://gfl.matsuda.tips/# Angry Trap Midget Guide To Why Your Waifu Sucks]
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

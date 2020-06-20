@@ -1,0 +1,295 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''Commander, greetings. AN94, now following your orders......May I......Ah, nevermind, please don't worry......</big></big>'''}}
+{{Girls' Frontline profile
+|Title=<nowiki>AN-94</nowiki>
+|image=Pic_AN94.png
+|Caption=
+|Original name= 5.45mm Nikonov Assault Rifle model 1987
+|Nickname="Abakan"
+|Moe points=
+|Hair color=Golden
+|Eye color=Cyan
+|CV=
+|Type=AR
+|Rarity=★★★★★
+|Developed by={{ruby|Izhmash|ИЖМАШ}}
+|Manufactured by=Kalashnikov Concern
+|Developed=1978-1986
+|In service=1997-
+|Country of origin=Russia
+|Related people=Gennadiy Nikolaevich Nikonov<br />CO: [[Girls' Frontline: Angelia|Angelia]]<br />Squad "Rebellion": [[Girls' Frontline: AK-12|AK-12]], [[Girls' Frontline: ST AR-15|AR-15]], [[Girls' Frontline: M4A1|M4A1]]
+}}
+
+'''AN-94''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]] developed by MicaTeam and published by Digital Sky and its derivatives. She joined the struggle on February 8, 2018.
+
+== Historical basis ==
+
+The Ministry of Defence of the USSR announced a contest for automatic weapons superior in terms of combat effectiveness over the AK-74 in 1978, primarily aimed at improving effectiveness of fire, including firing on the move, when crouched or in other adverse conditions such as the lack of physical support. Its focus later shifted towards transferring recoil as a preliminary result of research.
+
+This plan is officially named "Abakan" in 1981, with 12 different models of weapons taking part in this contest. The AS ({{ruby|'''''A'''vtomat so '''S'''meshchonnym impulsom|Automatic Rifle with shifted pulse}} was deemed the most prospective, and the AS received modifications and was renamed the ASM in 1986, where M denotes a modernized variant.
+
+The ASM passed state trials in the hands of the Tamanskaya Division. Results indicate that firing accuracy was significantly improved over that of the AK-74 even in adverse conditions, and was recommended to be issued to troops. However, the process was delayed.
+
+The ASM was officially adopted as the "5.45mm Nikonov Automatic Rifle model 1994", or simply AN-94, by the military, and was awarded the name of the contest it participated in, "Abakan". It has been produced in small batches at the Izhevsk Mechanical Plant since 1998.
+
+Though originally planned for a full-scale re-armament of the troops, [[Girls' Frontline: AK-12|variants of the Kalashnikov rifle]] is still in use, partly due to the mechanical complexity of the Abakan and its relatively higher price.
+
+The weapon boasts high accuracy to the degree that the two rounds fired in two-round burst mode passes through the same spot on the target 100 mters away, in addition to positively influenced accuracy and fire efficiency (as the stopping power and penetration capabilities are superior than firing in semi-auto, therefore increasing the kill probability on a protected target).
+
+The recoil during this process does not affect accuracy, and the weapon even supports firing even if not pressed against the user's shoulder. However, the impulse-shifting mechanism only compensates for the recoil from the first two shots, nullified as the weapon continues firing past the two rounds, bringing the accuracy back to that of the AK-74, and, according to ''Technical highlights and instructions for the Nikonov Automatic Rifle'' («Технические описания и инструкции по эксплуатации Автомата Никонова»), the firing mechanism does not travel the full length to the rear end of the receiver, and firing occurs with the mechanism in the frontal positions. The bolt is placed inside the mechanism and is not directly attached to the bottom of the receiver, proving that the AN-94 has a higher stability than the AK-74 even during prolonged firing.
+
+The AN-94 also has superior accuracy over the AK-74 in semi-auto due to its longer sight radius.
+
+Disadvantages include its high structural complexity: It is disassembled into 13 parts for maintenance, with two springs, a steel wire and a pulley. However, Nikonov managed to incorporate high reliability into his work despite the complexity of the weapon.
+
+The muzzle device is also proved to be effective, but cleaning it turns out to be a pain.
+
+There are also voices pointing out that the AN-94 won the contest simply because it had higher short-burst-accuracies, without anyone noticing the peculiarities in its performance, and that its victory is never real, as the true accurate contestant is the TKB-0146 developed by Stechkin, and that rivaling weapons using the "balanced-recoil system" are never field-tested.
+
+===Specifications===
+
+Weight: <br>3.85kg (Without magazine)<br>4.2kg (With magazine and 1PN29 optical sight)
+
+Overall length: <br>943mm (Stock unfolded)<br>728mm (Stock folded)
+
+Barrel length: 405mm
+
+Cartridge: 5.45×39mm
+
+Action: Rotary locked bolt, gas-operated, blowback
+
+Rate of fire, RPM: <br>600 (full-auto)<br>1800 (two-round burst)
+
+Muzzle velocity: 900m/s
+
+Effective range: 700m
+
+Feed system: 30- or 45-round detachable magazine from the AK-74 or 60-round quad-stack casket magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's view towards the firearm. For reference only.'''
+
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''AN-94'''
+|-
+! colspan=2 | '''Index number''': No.205
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 |  '''Nationality: Soviet[[File:Flag_of_USSR.svg|20px]]<br>Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator:多元菌'''
+|-
+! colspan=4 | '''Stats(Growth: SS)'''
+|-
+| '''Health (B)''' ||58 →580|| '''Damage (B)''' ||17 →55
+|-
+| '''Dodge (B)''' ||5 →48|| '''Accuracy (S)''' ||7 →67
+|-
+| '''Movement speed''' ||12 → 12|| '''Rate of Fire (B)''' ||48→76
+|-
+| '''Crit chance''' || ？%→？%
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 207 →？
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20 → ？ || '''Rations''' || 20 → ？
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+|''Dummy Trigger'' (人偶扳机)
+| colspan=3 |Deals damage twice when switching targets. All attacks made while the ability is active deals damage twice, lasting 3 (5) seconds.<br />Has an initial cooldown of 6 seconds and an interval of 10 (8) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|8|3|6|9|}}
+Keypads 3,6,9
+|-
+| '''Effect''' || colspan=3 | Applies to '''SMG'''s<br>Accuracy +55%, Dodge +16%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 04:09:00
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Others''' || colspan=3 |
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:Pic_AN94.png|400px]]
+|tab2=[[File:Pic_AN94_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnotes}}
+{{Hide|Title=Chibi version animation|Text=[[File:pic_AN94_Q.gif]]}}
+== Trivia ==
+{{Hide|Title=AN-94 (in Chinese)|Text=[[File:pic_AN94_setting.jpg|400px]]}}
+=== Setting ===
+{{Hide|Title=Drafts for AN-94|Text=
+[[File:94初稿.jpg|600px]]
+}}
+Her illustrator 多元菌 released drafts of the AN-94 on weibo on February 7, 2018, and again pointed out that this is not the final setting for the character, and is for reference only.
+{{Cquote|''The setting for 94 is an externally apathic with a delicate heart. The reason for her apathic mood is that the state ak12 is in is the ideal combat state of her "creators", and though being told so, 94 did not reach such a state, but 12 did (the reason for this takes inspiration from the history of the gun. Undergoing some modifications) [Again. Not the final setting, for reference only.]'' (94的设定是外表冷漠内心织细，外表冷漠的原因是因为ak12那个状态是“制作者”理想中的战斗状态，而94尽管接受了灌输但并没有能达到，而12达到了(发想的源头其实是枪本身的一些经历.进行魔改)【再次.并非最终设定，仅供参考.】)
+|Weibo: @多元菌 <ref>[https://weibo.com/2034868604/G1ZbL8E5G?from=page_1005052034868604_profile&wvr=6&mod=weibotime&type=comment Weibo: @多元菌]</ref>}}
+Regarding the overall appearance of AN-94, her illustrator also mentioned that it is simply based on [[Girls' Frontline: AN-94|what she had been through]], and the text at chest height on her clothes is what appears to be the string "ИЖМАШ Сн № 0093/0А", or "Izhmash s/n 0093/0A".
+
+And regarding that the actions of AN-94 in the game led some commanders to think that she's verbally strong but mentally weak, her illustrator gave a reply:
+{{Cquote|''94 is not verbally fierce, but rather opts to step back too often, which gives a sense of apathy at this distance.'' (94倒并非刀子嘴，而是过于偏好自行告退，在这种距离感上会让人觉得冷漠。)
+|Weibo: @多元菌 <ref>[https://weibo.com/2034868604/G1ZbL8E5G?from=page_1005052034868604_profile&wvr=6&mod=weibotime&type=comment Weibo: @多元菌]</ref>}}
+{{Spoiler|Also the illustrator directly pointed that it is not a miniskirt that the AN-94 is wearing, and that she has safety pants worn. <del>Fantasy killer</del>}}
+
+===Operation Singularity===
+
+AN-94 is described as a T-doll dedicated to combat, different from AK-12, but with the capability to withstand the intrusion of the "Umbrella" virus for 10 seconds, connecting the comms to AK-12 {{Spoiler|Corresponding to the shared working principles of the two weapons, while someone from 404 simply had a mental breakdown seeing Executioner in the previous operation}}, and exhibited reliability in the operations that followed. However, she seems to be not so adept at handling sudden pressure.
+
+===The first 5-star comrade===
+Due to how [[Girls' Frontline: PKP|PKP]] is a weapon manufactured in post-Soviet Russia, she's technically a 5-star Russian T-doll, therefore making AN-94 the first ''Soviet'' T-doll to have a 5-star rarity.
+
+===Ability===
+Like the [[Girls' Frontline: G11|dormouse]], AN-94 possesses the ability of dealing damage multiple times in one go.
+
+In reality, the two are weapons designed with similar goals, increasing the accuracy of burst-firing via firing multiple shots in one recoil cycle. Though with different designs, the AN-94 is more reliable than the G11, albeit that the complexity of design and maintenance are the drawbacks of both.
+
+== Voicelines ==
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />Commander, greetings. AN94, now following your orders......May I......Ah, nevermind, please don't worry......<br />指挥官，您好，AN94，从现在起将听候您的命令......请问......啊不、没什么，请不必在意......
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />Weapons are constantly innovated tools, and we will be replaced by more sophisticated weapons one day......<br />武器就是不断被革新的工具，我们总有一天也会被更高级的武器所替代吧......
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />AK12 is special......as long as it's for her I'll do anything, it's my destiny.<br />AK12是特别的......只要是为了她我什么都愿意做，这是我的命运。
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Commander.....Are you......unhappy about me?<br />指挥官......难道您是......对我有什么不满吗？
+| <sm2>_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Hmm? Did I not laugh......The joke just now was indeed really funny but......All right, I'll just laugh again, for you.<br />嗯？我没有笑吗？......刚才的笑话确实很好笑可是......好吧，为了您，我就再笑一次好了。
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja| }}<br />Commander, am I an irreplaceable being in your heart? I always......work for others, but commander's willing to pay for me......Please allow me to pay you back, for this acceptance.<br />指挥官，我在您心中已经是无可替代的存在了吗？我总是......为了别人而努力，但指挥官却愿意为我付出...这份对我的认可，请让我今后充分地回报给您吧。
+| <sm2>_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+==External links and references==
+=== References ===
+<references/>
+
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

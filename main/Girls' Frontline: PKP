@@ -1,0 +1,437 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>This knife of mine, has been soaked in poison (lick.......)</big></big>'''}}
+{{Girls' Frontline profile
+|Name=PKP
+|image=62914359 p0.jpg
+|Caption=<center>Artist:孟達<ref>[https://www.pixiv.net/member.php?id=3872398 Artist:孟達]</ref></center>
+<center>Pixiv ID:62914359<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62914359 Pixiv ID:62914359]</ref></center>
+|Original name=Pecheneg General Purpose Machine Gun
+|Nicknames=Pecheneg、6P41 (From Russian: 6П41)
+|Moe points=[[Long-short stockings]]、[[Combat goggles]]、[[Loli]]、[[Ahoge]]
+|Hair color=Silver
+|Eye color=Golden
+|CV=
+|Type=MG
+|Rarity=★★★★★
+|Country of origin=Russia
+|Developed by={{ruby|Central Scientific - Research Institute for Precision Machine Engineering|TsNIITochMash}}
+|Manufactured by=
+|Developed=
+|In service=2003-
+|Related persons=Sisters: [[Girls' Frontline: PK|PK]], [[Girls' Frontline: AEK-999|AEK-999]]
+
+}}
+'''PKP''' is a character from the tactical SRPG ES game '''Girls' Frontline''' and its derivatives developed by MicaTeam and published by Digital Sky. She joined the struggle on May 4, 2017.
+
+== Historical basis ==
+The Pecheneg General Purpose Machine Gun (Russian: Печенег, sometimes rendered as ''Petcheneg'') is an improved model based on the PKM GPMG, commonly shortened to simply '''PKP''', developed by TsNIITochMash and went into service in small batches for live trial in Chechnya in 2003 or 2004. It received the GRAU index number of {{ruby|6П41|6P41}}
+
+The PKP is based on the PKM, with 80% of its parts compatible with the PKM. Compared with the PKM, the main improvement found on the PKP is the forced-air-cooled barrel, which cannot be swiftly replaced as those found on most modern GPMGs. The new barrel has vertical slits for cooling, and is shrouded by a metal shroud. The gas from the muzzle provides traction to the air inside the shroud when a round is fired, forcing it to move forward, thus cooling the barrel. It is said that the PKP can maintain a practical cyclic rate of around 1 000 RPM, or fire 600 rounds consecutively in 50 to 60-round long bursts, while ''not'' providing extra wear to the barrel. The average lifespan of the barrel is no less than 30 000 rounds.
+
+Other differences between the PKP and the PKM lie in the carry handle and the bipod attached to the barrel. According to advertisements from its manufacturer, the accuracy of the PKP is 2.5 times better than the PKM when using bipods, or 1.5 times better when mounted on a tripod or a vehicle. The forced air-cooling mechanism also provides another advantage: there won't be a rising airflow above the barrel as found on the PKM, therefore avoiding hampering target acquisition.
+
+However, there are disputes regarding the PKP, some view it as an important improvement in the PK family, while others possess skepticism on whether the fixed barrel can really improve sustainability of firepower. But there is one confirmed complaint about the PKP--the location of its bipod. Many consider that it is better for the bipod to be positioned closer to the receiver, so as to provide extra agility when relocating.
+
+In 2012, the Zenit company of Russia, which manufactures optical instruments, started to provide the service of modifying the PKP into a bullpup layout, and the company has started to provide samples to some military units for trial.
+
+In 2014, Russia introduced a spec-ops variant of the PKP, designated {{ruby|Печенег-СП|Pecheneg-SP}}, which has passed state trials, which is given the GRAU index of 6P69. This model actually resembles the AEK-999 in that a suppressor is mounted on a barrel, and removed the metal shroud on the PKP, instead fitting it with a foldable one.
+
+=== Specifications ===
+*Overall length	        1145 mm
+*Barrel length  	658 mm
+*Cyclic rate of fire	600~800 RPM
+*Feed system	100, 200, 250-round belt
+*Empty weight	
+**GPMG	8.7 kg
+**HMG	12.6 kg
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and only reflect the game's opinion. For reference only.'''
+ Type                       General purpose machine gun
+ Weight                     8.2 kilograms (18 lb) on bipod
+                            27.7 pounds (12.6 kg) on infantry tripod mount
+ Length                     1.200 mm (47 in) 
+ Barrel length              658 mm (25.9 in)
+ Cartridge                  7.62×54mmR
+ Action                     Gas-operated
+ Rate of fire               600–800 RPM
+ Muzzle velocity            825 m/s (2.707 ft/s)
+ Effective firing range     1500 m
+ Feed system                Belt. 100. 200 or 250-round
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PKP'''
+|-
+! colspan=2 | '''Catalogue number'''：No.173
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: [[File:Flag_of_Russia.svg|20px]]Russian'''
+! colspan=2 | '''Type: Machinegun'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator：[[虎三]]'''
+|-
+! colspan=4 | '''Stats(Growth：A)'''
+|-
+| '''Health (B)''' || 83 → 165 || '''Damage (A)''' || 35 → 95
+|-
+| '''Dodge (A)''' || 4 → 29 || '''Accuracy (S)''' || 4 → 31
+|-
+| '''Movement speed''' || 4 → 4 || '''Rate of Fire (A)''' || 87 → 127
+|-
+| '''Ammo count''' || 10 → 10 ||  ||
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 240 → 4621
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 40 → 140 || '''Rations''' || 30 → 90
+|-
+! '''Ability'''
+! colspan=3 | '''Effect'''
+|-
+| Riot announcement
+| colspan=3 | Passive ability.<br />Has a 5%(20%) chance of firing an extra round which ''guarantees a critical hit''' every shot.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|7|3|6|9|}}
+Keypads 3,6,9
+|-
+| '''Effect''' || colspan=3 | Affects '''SG'''s only <br />Raises rate of fire by 15% <br /> Raises accuracy by 12%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 06:50:00
+|-
+| '''Drops''' || colspan=3 |
+|-
+| '''Others''' || colspan=3 |
+|}
+'''Notes'''：
+* HGs will see their effect tiles improved in effect after they undergo establishment augmentations.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses are the maximum possible values of the stat.
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Outfits
+|tab1=[[File:PKP.png|400px]]
+|tab2=[[File:PKP_D.png|400px]]
+|tab3={{tabs
+|DefaultTab=2
+|color=black
+|bt1=Flower and Water
+|bt2=Secret Order of a Damsel
+|tab1={{tabs
+      |DefaultTab=1
+      |color=black
+      |TextBackgroundColor=rgba(255,255,255,0.6)
+      |bt1=<!--Flower and Water-->Normal
+      |bt2=Damaged
+      |tab1=[[File:PKP_花与冰_1.jpg|400px]]
+      |tab2=[[File:PKP_花与冰_2.jpg|400px]]
+      }}
+|tab2={{tabs
+      |DefaultTab=1
+      |color=black
+      |TextBackgroundColor=rgba(255,255,255,0.6)
+      |bt1=<!--Secret Order for a Damsel-->Normal
+      |bt2=Damaged
+      |tab1=[[File:Pic_PKP_1503.png|400px]]
+      |tab2=[[File:Pic_PKP_1503_D.png|400px]]
+      }}
+}}
+}}
+
+</div>
+{{-}}
+
+{{Hide|Title=Chibi version animation|Text=[[File:PKP_Q版动画.gif]]}}
+
+{{Hide|Title=“Dawn Face-Dusk Dream - Flower and Water”Chibi version animation|Text=[[File:PKP_花与冰_Q版动画.gif]]}}
+
+== Trivia ==
+===Personality===
+{{Hide|Title=PKP|Text=[[File:PKP_官设.jpg|400px]]}}
+{{Hide|Title={{color|#AD5A5A|Cafeteria stories}}-{{color|blue|PKP“Secret Order for a Damsel”}}|Text=
+<poem>
+G&K command room.
+PKP finished reading the mission briefing, and placed the folder on the table.
+“So for this opera, what you are giving me, sir, is to handle exterior security?”
+“Yes. I want you to hold outside the theater when the opera is on, to handle potential dangers.”
+“Stuff like guarding can be handled to any T-doll right? And there's already two more going with you, is there the need for me to patrol on the streets?”
+“According to the intel we have, the threat this time may be an organized group. So to be cautious, I still hope that there's some heavy firepower on the scene to suppress them.”
+“Just because it <nowiki>'may be'</nowiki>, so there needs to be a precious unit to pave the road?”
+“Only when every possibility is considered can the battle be won perfectly. I hope you can give me a hand this time, PKP.”
+“Huh...... Perfectly. Then, when you included my name in the combat plan, the battle is already perfect, sir.”
+“So you agreed?”
+“Yeah, satisfied?”
+“Now I have no concerns. Oh, right, Grifon allocated some funds for this. You may need to wait for long periods outside the theater, if you are hungry, fix the ration problem near the theater. Pick somethinig you like, and remember to take the receipt back to apply for the expenses.”
+“Some meditation in the boring work sounds a bit nice. I'll make good use of the funds, sir.”
+The next day.
+“Though having a walk out here isn't too much a bad thing...”
+The opera is still on, without much people gathering near the theater. Though a big help to the security, PKP still didn't feel happy about this.
+“……It's too boring.”
+Time passes slow in a patrol. PKP had already walked several times around the theater, without spotting any problem. “……Don't know when the opera ends, how much longer should I wait...”
+PKP stopped in front of an Italian restaurant.
+“There shouldn't be the need to go in there... Forget it. Though used for disguising at first, this outfit kinda fits going in here.”
+PKP entered the Italian restaurant and headed straight to the second floor. She took a seat next to the window, directly opposite the theater, where she can see everything on the small plaza.
+“Visibility seems OK... I'll resupply here. So, just compensate for the loss of time occured on me the Elite, with a nice meal.”
+Soon the table was filled with plates.
+PKP never cared about the surprised look from around her, finishing dishes one after another.
+“……Tastes nice. The high-end food of humans, are indeed much better than synthesized rations.”
+The plates in front of her soon got empty. PKP gave a glance at the table, and stopped on the ice cream the waiter had just delivered. 
+“There's only this left... Still not receiving contact from anyone, has the show not ended yet?”
+Just as PKP was feeling impatient, sound of an explosion came from the theater's direction.
+“Finally? Meh, about-full is ok.”
+As panic filled the air, PKP simply gave the ice cream a look and stuffed it into her mouth. Then she grabbed a slip on the table, ready to leave the restaurant.
+“Thompson, what's the status of the theater?”
+“Unfortunately, the intel was quite precise. PKP, we got a few maggots heading towards the gate, intercept.”
+“Wilco.”
+PKP took out her machine gun, hurled the instrument case meant for disguising at the glass, breaking it, and jumped down from the second floor, rushing towards the theater.
+“Huh…… Let's end this boring mission with a perfect victory.”
+The next day, G&K command room.
+“Sir, you still alive?”
+“Is that a condolence?”
+“Though quite normal to do, still needed to verify with my own eyes, and--”
+PKP handed over a folded slip. I was stunned at the numbers on it when I unfolded it.
+“It's the receipt when I was having a meal during yesterday's op.”
+“……PKP, did you eat alone?”
+“Of course.”
+“Then... Did you mistake the receipt next table for...?”
+“Am I a T-doll who makes that kind of stupid mistakes?”
+“But this... is at least for three people?”
+“Good hands don't come free. What, you regret your decision, sir?”
+“Nonono... I didn't. You did a great job yesterday, you earned it.”
+After PKP had left, I remained stunned on the chair. Though she didn't smile, I was quite sure that she left with a victorious and satisfied mind.
+“Ah... In terms of results, seems quite good. I think I have to patch the part exceeding the application limit up myself.”
+
+''格里芬指挥室。''
+''PKP阅读完任务简报，将文件夹放在了桌面上。''
+''“所以这次歌剧，长官你想交给我的任务就是场外警戒？”''
+''“是的。我希望在歌剧开演时，你能在剧院外待机，应对可能会发生的危险情况。”''
+''“警戒这种任务，交给随便哪个人形都可以吧？而且已经有另外两个人和你一起去了，还有必要让我在大街上巡逻吗？”''
+''“根据我们获得的情报，这次的对手可能是一个有组织的团体。为了稳妥起见，我还是希望在现场能有用于压制对手的重火力。”''
+''“只是因为‘可能’，就要调拨一个宝贵的战力去压马路？”''
+''“只有考虑到各种可能性，作战才能取得完美的胜利。这次希望你能助我一臂之力，PKP。”''
+''“哼……完美吗。那么，在你将我的名字列入作战计划时，这个作战就已经是完美的了，长官。”''
+''“这么说你是答应了？”''
+''“好吧，这下你满意了？”''
+''“这样我就放心了。啊对了，格里芬为这次活动批准了一笔经费。明天可能会让你在剧院外等候很长时间，饿了的话就在剧院附近解决口粮补给吧。挑点喜欢吃的，记得拿账单回来报销。”''
+''“在无趣的工作中有所调剂倒是也不错。这笔经费我会善加利用的，长官。”
+次日。''
+''“虽说出来走走也没什么不好……”''
+''“歌剧正在上演，剧院附近没有聚集太多的人。虽然这很大程度上方便了警戒工作，不过PKP却依旧无法为此感到愉快。”''
+''“……实在是太无聊了。”''
+''“巡视的时间过得极为缓慢，PKP已经在剧场周边来来回回走了好几趟，却并没有发现什么异常。……歌剧也不知道什么时候结束，到底还要等多久啊……”''
+''“PKP在一家意大利餐厅前停下脚步。”''
+''“平时应该不需要来这里…………算了。虽然初衷是隐藏身份，不过现在这套装束倒是也挺适合进这种地方的。”''
+''PKP进入意大利餐厅，径直上了二楼，找了个靠窗的位置坐下。餐厅对面就是剧院，小广场上发生的事都能看得清清楚楚。''
+''“这里视野还不错……就在这里进行补给好了。那么，让我这个精英无谓地浪费时间的代价，就用一顿美食来偿还吧。”''
+''很快餐桌表面的空间就被一个个盘子占满了。''
+''PKP并不顾忌邻座投来的惊讶的目光，飞快地清空一盘盘美味的菜肴。''
+''“……味道真不错。人类的高档食物，果然比合成军粮要好吃多了。”''
+''面前的餐盘很快便全部见底了。PKP扫了一眼桌面，目光停留在服务员刚刚端上来的冰激凌上。''
+''“只剩这一个了……还没有收到任何人的联络，演出还没结束吗？”''
+''正在PKP感到烦躁的时候，剧院方向突然传来了爆炸声。''
+''“总算来了吗？算了，吃个八分饱也不错。”''
+''周围陷入一片慌乱时，PKP看了看手里的冰激凌，几下就将它们全部拨拉进自己嘴里。然后，她抓起桌面上的一张小纸条，准备离开餐厅。''
+''“汤姆森，剧院现在是什么情况？”''
+''“很不幸，之前的情报相当准确。PKP，有几个虫子正在往剧院门口跑，截住他们。”''
+''“知道了。”''
+''PKP掏出机枪，抡起用来伪装的乐器盒打碎了二楼的玻璃，然后从二楼一跃而下，快速奔向剧院。''
+''“哼……就用一场完美的胜利来终结这个无聊的任务吧。”''
+''次日，格里芬指挥室。''
+''“长官，你还活着吗？”''
+''“这算是慰问吗？”''
+''“虽然是理所当然的事，不过还是亲眼确认一下，以及——”''
+''“PKP递过来了一张折起来的小纸条。展开纸条时，看到上面的数字，我顿时惊呆了。”''
+''“这是昨天行动时用餐的账单。”''
+''“……PKP，你是一个人吃饭的吗？”''
+''“当然。”''
+''“那……你是不是错拿邻桌的了？”''
+''“我像是那种会犯低级错误的人形吗？”''
+''“可是你这个账单……至少是三人份的量吧？”''
+''“有本事就不该白做工。怎么，现在你后悔了吗，长官？”''
+''“不不……没有没有。昨天你的表现确实很好，应该犒劳一下。”''
+''PKP走后，我瘫坐在椅子上。虽然那家伙没有露出笑容，我确信她是带着胜利和满足的表情离开的。''
+''“唉……作为结果，也不错吧。超出报销上限的部分，只能由我自己来补了。”''
+</poem>
+}}
+
+=== Fortune tester ===
+PKP has a 20% chance to fire a round that ''guarantees a critical hit'' every shot with a maxed-out ability.
+
+This makes her roughly on par in terms of damage output with the widely used [[Girls' Frontline: M2HB|M2HB]], [[Girls' Frontline: PK|PK]], [[Girls' Frontline: MG5|MG5]].<br />
+But these MGs '''deals a set multiple of damage every time after 3 shots'''<br />
+While PKP has a '''set chance''' to fire an extra round that guarantees a critical hit.<br />
+
+'''100% or nothing''', the hidden message is quite obvious.<br />
+<del>It takes a fortune and fortune to get her, and even more fortune to get enough damage.{{Spoiler|Standard-issue T-doll for fortune testing}}</del>
+
+=== With [[Girls' Frontline: AEK-999|AEK-999]] ===
+
+The two have similar appearances (white, hair, single ponytail, combat goggles, yellow eyes, aggressive looks, loli), and in reality, the PKP and the AEK-999 were competitors under the same project. The PKP is the daughter of TsNIITochMash, which also has <del>[[Girls' Frontline: SPP-1|water guns]], [[Girls' Frontline: AS VAL|weak teddy bears]], [[Girls' Frontline: SR-3MP|temptive rabbits]]</del>, among others, while the AEK-999 was an "orphan" from the KMZ (Kovrov Machine Factory).
+
+The KMZ called it quit after it got slapped in the face by IZhMash (now Kalashnikov Concern, which unfortunately slapped KMZ in the face ''again'' in their A-545 <del>AKA AEK-971M</del> project) and TsNII in its AEK-971 and 999 projects. Nowadays KMZ focuses on energy industries and technological industries.
+
+Ever since KMZ shifted its focus, the PKP and the AEK-999 are now manufactured by the Degtaryov Machine Factory (instead of TsNIITochMash which dedicates itself to designing).
+
+The two are both inspired by the [[Girls' Frontline: PK|PK]], as if they were twins, but AEK-999 nearly became abandoned after losing to the PKP, but was again "adopted" by PKP's "family", which forms an intricate relationship between the two. {{Spoiler|What a mess.}}
+
+{{Spoiler|Orphans appearing at the same time include the AEK-906 and the AEK-971.}}
+
+And a spin-off picture found on Weibo reflects the current family life of PKP.
+
+[[File:PKPKP.jpg|400px|left|thumb|
+<center><div style="display:inline-block;">Weibo:@SAAKE_<ref>[http://www.weibo.com/u/6273461057?from=usercardnew&refer_flag=0000020001_&is_hot=1 Weibo:@SAAKE_]</ref><br>
+</div></center><br><nowiki>[Read from right-to-left, up-to-down]:</nowiki><br>PKP: ''See?'' ''PK, you can't catch up to me this way.''<br>/<br>PK: ''Really~PKP's so great'' ''Really awesome.'' ''Can't win the kingpin'' ''So nice''<br>AEK-999[from a distance]:''She's being fed.....'']]
+{{clear}}
+
+In addition to the interaction between PKP and <del>her mother</del> PK, the nearby sarcastic AEK-999 nicely reveals <del>the current atmosphere at Degtaryov</del> PKP's pride <del>tsundere</del> and the relative loneliness of AEK-999 herself. {{Spoiler|As well as seeing that the kingpin is being fed.}}
+
+== Voicelines ==
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |Audio missing
+|-
+! Case !! Line !! Audio
+|-
+| Login
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />Let me tell you something good, sir... You have got the kingpin to success.<br />让我来告诉你一件好事吧，长官……你已经得到胜利的王牌了。
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />As long as the combat plan includes my name, it is perfect.<br />作战计划只要有了我的名字，就是完美的。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />PK? This blurred kindness... cannot help catch up to me.<br />PK？只靠这种不干不脆的善意……是无法赶上我的。
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Tell you something bad... Your diagnostic report is going to be completed soon.<br />告诉你一个坏消息吧……你的诊断报告马上就要完成了。
+| <sm2>_007.mp3</sm2>
+|-
+| Adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Zep, the work this time seems a bit tricky.... Hey, fix it this time together, ok?<br />啧，这次的工作有些棘手啊……喂，这次也一起搞定吧，没问题吧？
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Activating ability
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja| }}<br />I have never thought what meaning it has to rely on others, but as long as it's in front of you, "no can do" seems not so scary. Have I grown stronger, or weaker... Sir, let's have you tell me the answer.<br />我从来没有想过，依靠别人会有什么意义，但是只要在你面前，“做不到”就变得不那么可怕了。我是变强了，还是变弱了……长官，就由你来告诉我答案吧。
+| <sm2>_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+
+== External links and references ==
+
+=== References ===
+<references/>
+ 
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Silver hair]]
+[[Category:Golden eyes]]
+[[Category:Long-short stockings]]
+[[Category:Combat goggles]]
+[[Category:Loli]]
+[[Category:Ahoge]]

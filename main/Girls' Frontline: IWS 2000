@@ -1,0 +1,311 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>IWS 2000, reporting. Commander, let me become your most trustworthy asset.</big></big>'''}}
+{{Girls' Frontline profile
+|Title=IWS 2000
+|image=gf_iws_1.jpg
+|Caption=[https://twitter.com/kyjsogom Artist:@ソゴム / 裕珍]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=70433961 pixiv:70433961]
+|Original name=Steyr IWS 2000
+|Nickname(s)=
+|Hair color=Silver
+|Eye color=Red
+|CV=Asami Seto
+|Type=RF
+|Rarity=★★★★★
+|Country of origin=Austria
+|Manufactured by=
+|Developed=1980
+|In service=1990 (prospects unclear)
+|Related to=Sister (chronologically by creation): [[Girls' Frontline: Negev|Negev]]
+}}
+
+'''IWS 2000''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by SUNBORN Network Technology Co., Ltd. as well as its derivatives. She joined the struggle on 12.09.2018.
+
+== Historical basis == 
+The '''IWS 2000''' started off as the prototype Steyr AMR 5075, an anti-materiel rifle developed by Steyr in the mid-1980s for use against strategic equipment such as light-armor, helicopters, radar, missile launching racks and oil storage. It was to be crewed by two people as well as being capable of firing a single shot to over 1000 meters away.
+
+To fulfill the target of having an effective range of no less than 1000 meters, engineers at Steyr decided to chamber the weapon for Armor-Piercing Discarding Sabot (APDS) or sub-caliber ammunition. They tested some Armor-Piercing Fin-Stabilized Discarding Sabot (APFSDS) rounds of 12.7mm caliber in the initial tests, eventually coming up with a 14.5mm-caliber APFSDS cartridge, complete with a smoothbore semi-automatic rifle named Steyr AMR 5075.
+
+The AMR 5075 uses a recoiling long-stroke barrel, which involves the barrel recoiling backwards 200mm along with the bolt before the latter rotates, unlocks the chamber and stays to the rear, while the barrel moves forward, ejecting the casing in the process, followed by the bolt chambering the next round into the chamber, locking itself in place. The recoiling system absorbs most of the recoil as the round is fired, which, together with the highly-efficient multi-chamber muzzle brake, lowers the recoil greatly, to that of an average rifle.
+
+The AMR 5075 fires a novel 14.5mm-caliber APFSDS different from the Russian 14.5x114mm cartridge, with a plastic casing and a metal rim, with the bullet itself covered in a plastic sabot. The tungsten-alloy flechette projectile weighs 20g with a muzzle velocity of 1500 m/s (4920 fps), and an effective range of 2000 meters. The projectile is capable of penetrating 40mm of Rolled Homogenous Armor (RHA) at 800 meters before producing large numbers of fragments for lethal effect.
+
+A bipod is installed on the stand for the recoiling system. The weapon is equipped with a 10x sight as a standard sight, with a box magazine attached to the receiver from the lower-right, at an angle of 45 degrees, with a capacity of 5 rounds. The AMR 5075 was first unveiled in 1990. However, with the Cold War coming to an end, nations were cutting down on military investment, with no nation showing interest in the weapon.
+
+Steyr continued to improve its product, eventually giving birth to the '''Steyr IWS 2000''' chambered for the larger 15.2mm APFSDS cartridge, where IWS stands for '''I'''nfantry '''W'''eapon '''S'''ystem. The IWS received a major change in appearance but without changes to operation and basic structure aside from the enlarged caliber. The magazine is also expanded to house 8 rounds.
+
+The 15.2mm APFSDS cartridge has a weight of 150g and a length of 207mm, with a rim diameter of 26mm. The tungsten-alloy flechette core weighs 20g with a diameter of 5.5mm, and weighs 35g complete with the four sabots and a muzzle velocity of 1450 m/s (4750 fps). Armor penetration is equal to that of the AMR 5075. The flechette core fires straight, with a trajectory height of no more than 800mm when fired at targets 1000m away.
+
+The IWS 2000 is perhaps the most powerful anti-material rifle up to date, but with unclear prospects (sharing this misfortune with its prototype, the AMR 5075) and no orders for it, possibly because its role is now being filled in by various .50 BMG-chambering rifles with capabilities on par with the IWS 2000, albeit with better logistic efficiency as fielding the IWS 2000 requires fielding an entirely new cartridge. Furthermore, one reason for developing such a large-caliber round is because high-precision .50 BMG rounds were scarce in the IWS 2000's era, but said rounds are much more common as time passes, rendering the IWS 2000 largely redundant as a super-weapon.
+
+=== Specifications ===
+*Empty weight: 18 KG
+*Length: 1800 mm
+*Barrel length: 1200mm
+*Cartridge: 15.2 x 169mm 
+*Caliber: 15.2mm 
+*Action: Long-stroke rotating bolt
+*Muzzle velocity: 1450 m/s
+*Muzzle energy: 36,793J
+*Maximum chamber pressure: 4,895kgf/cm2 (480.036 MPa)
+*Effective range: 1000 m
+Note: Smoothbore
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the weapon.'''
+ Type                       Semi-automatic Bullpup anti-materiel rifle
+ Weight                     18 kg (39.7 lb)
+ Length                     1.800 mm (70.9 in)
+ Barrel length              1.200 mm (47.2 in)
+ Cartridge                  15.2×169mm
+ Action                     Long recoil、rotating bolt
+ Muzzle velocity            1.450 meters per second (4.757 feet per second)
+ Effective firing range     1.000 meters (1.093 yards)
+ Feed system                5-round detachable box magazine
+ Sights                     10x Telescopic sight
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''IWS2000'''
+|-
+! colspan=2 | '''Index number''': No.148
+! colspan=2 | '''Rarity''': ★★★★★
+|-
+! colspan=2 | '''Place of origin: Austria[[File:Flag_of_Austria.svg|20px]]'''
+! colspan=2 | '''Gun Type: RF'''
+|-
+! colspan=2 | '''CV: [[Asami Seto]]'''
+! colspan=2 | '''Illustrator: [[十月十日奏]]'''
+|-
+! colspan=4 | '''Stats (Growth: S)'''
+|-
+| '''Health (B)''' ||  44 → 88×5 || '''Damage (SS)''' ||  55 → 162
+|-
+| '''Evasion (C)''' ||  4 → 29 || '''Accuracy (A)''' ||  9 → 78
+|-
+| '''Movement speed''' ||  7 → 7 || '''Rate of Fire (C)''' ||  21 → 32
+|-
+| '''Crit rate''' || 40% → 40% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 179 → 4002
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Giant Eagle Assault
+| colspan=3 | In return for decreasing self rate of fire by 20% (35%), increase damage by 80% (180%) for 6 (10) seconds.<br />Initial cooldown 6 seconds / Skill cooldown 16 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|2|8}}
+Keypads 2,8
+|-
+| '''Effect''' || colspan=3 | Buffs '''HG'''<br/>Skill CD -18%.
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 04:52:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Outfits
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--Default-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:IWS2000.png|400px]]
+	|tab2=[[File:IWS2000_重创.png|400px]]
+	}}
+|tab2={{tabs
+|DefaultTab=1
+|color=black
+|bt1=''The 7th sealer'' (第七封印者)
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--The 7th sealer-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:pic_IWS2000_1403.png|400px]]
+	|tab2=[[File:pic_IWS2000_1403_D.png|400px]]
+	}}
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Tips==
+*IWS 2000's skill, Giant Eagle Assault, is best paired with four RoF-boosting HG T-dolls (in a "Memeblast" formation) to allow maximal output via speedy firing of high-damage rounds even after the RoF debuff of the skill (which in return rewards players with quasi-bursts of output).
+**This makes T-dolls such as Stechkin and Five-seveN a more desirable choice.
+
+== Trivia ==
+[[File:内格夫IWS2000.jpg|350px|right|thumb|
+<center><div style="display:inline-block;">Artist:七言<ref>[http://www.pixiv.net/member.php?id=5556483 Artist:七言]</ref><br>
+pixiv ID:62459882<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62459882 pixiv ID:62459882]</ref></div></center>
+]]
+
+*Despite IWS 2000 and Negev looking similar in illustration style (due to them being creations of a single illustrator), the two weapons in reality bear no relationship whatsoever.
+
+*IWS 2000's illustration heavily combines Austrian elements such as the hairpin resembling the Coat of Arms of the former Austrian Empire as well as the largely-connected Holy Roman Empire--a black double-headed eagle with a sword in its left claw and a ''Globus Cruciger'' in its right, albeit with some simplications.
+
+*The color combination of red, white, yellow and brown may also be associated with the coat of arms of Austria throughout its history.
+
+{{Hide|Title=Coats of arms of Austria|Text=
+{{multiple images
+ | align = none
+ | direction = vertical
+ | width = 300
+ | image1 = IWS2000发夹1.png
+ | caption2 = The first picture is the coat of arms of the Austro-Hungarian empire.<br />While the second picture is the coat of arms used by the Austrian Empire from 1815 to 1915.
+ | image2 = IWS2000发夹2.png
+}}
+}}
+
+*Other ornaments that may signify royal objects are in fact, per IWS 2000's illustrator's words, casual creations, and bear no hint to its inspiration.
+
+*IWS 2000 is claimed to stand at 169cm per her illustrator.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable "
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />少女前线<br />Girls' Frontline.
+| <sm2>IWS2000_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官！資料をお持ちしま……あれ、どこに置いたでしょう？}}<br />指挥官!我把资料拿过来......咦，放哪去了呢?<br />''Commander! I have brought the documents...uh, where did they go?''
+| <sm2>IWS2000_HELLO_JP.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|シュタイヤー(Steyr)2000、只今到着しました。指揮官の力になれるよう、頑張ります。}}<br />IWS 2000报到，指挥官，让我成为您最可靠的力量吧。<br />IWS 2000, reporting. Commander, let me become your most trustworthy asset.
+| <sm2>IWS2000_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、何かお手伝えしましょうか？どんな仕事でもお任せてください。}}<br />指挥官，这里有我能帮忙的吗？什么工作都可以哦。<br />Commander, do you need help with anything? Any work for me is fine.
+| <sm2>IWS2000_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|必要なときは、何なりと申し付けください、もっと、力になりたいのです。}}<br />需要我的话尽管吩咐吧，希望我能做得更好。<br />Let me know if you need me. I hope to improve myself.
+| <sm2>IWS2000_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|し、指揮官、このような行為は品行方正な人がすることではありません。もうやめてください！}}<br />指、指挥官！这是正派人士的行为吗？快停手吧！<br />C-Commander! Is this a fitting behavior of a gentleman? Please stop!
+| <sm2>IWS2000_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|指揮官から頂いたリボンは今日もちゃんと付けていますよ。前は何回か忘れていたのですが、今はいつも身に着けています。}}<br />您送我的发带今天也好好戴着呢。虽然之前掉了好几次，但我都努力找回来了哦。<br />Today I'm wearing the hairband you gave me. I've lost it a few times, but I've always got it back.
+| <sm2>IWS2000_DIALOGUEWEDDING_JP.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>IWS2000_MOOD2_JP.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />[Smile]
+| <sm2>IWS2000_MOOD1_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Appreciation]
+| <sm2>IWS2000_APPRECIATE_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Agreement]
+| <sm2>IWS2000_AGREE_JP.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|任せてください！}}<br />请放心交给我!<br />''Please leave it to me!''
+| <sm2>IWS2000_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|この戦い、わたくしに任せてください！}}<br />这场战斗，请交给我处理!<br />''Please leave this battle to me!''
+| <sm2>IWS2000_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|みなさん、気を付けてください！}}<br />大家，要小心!<br />''Everyone, be careful!''
+| <sm2>IWS2000_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|くっ……このような無様な姿、お見せする訳にはいきません。}}<br />......这麽难堪的样子，不能让大家看到。<br />''Can't let them see this awkward state...''
+| <sm2>IWS2000_BREAK_JP.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|すみません、皆さんにご迷惑をかけました。}}<br />对不起，给大家添麻烦了。<br />''Sorry for adding to the trouble.''
+| <sm2>IWS2000_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|これでまた、わたくしへの指揮官の評価が上がりますね！}}<br />这样指挥官对我的评价又会上升呢!<br />''This way the commander will give me a better comment!''
+| <sm2>IWS2000_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|あぁ、だめ……このような失敗は受け入れられません！}}<br />不行......我不能接受这样的失败!<br />''Aah...no...I can't accept this kind of failure!''
+| <sm2>IWS2000_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|皆さんの期待を裏切らないように、頑張ります！}}<br />为了不背叛大家对我的期待，会继续加油的!<br />''I'll work hard to not fail everyone's expectations!''
+| <sm2>IWS2000_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|目標が達成できるよう、わたくしがみなさんをひっぱりっていきます。}}<br />为了达成目的，我会引导大家向目标前进的。<br />''I'll lead everyone to the target to accomplish our goal.''
+| <sm2>IWS2000_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|指揮官、この成果は満足していただけましたでしょうか？}}<br />指挥官，这样的成果能够满意吗?<br />''Commander, how's this result looking?''
+| <sm2>IWS2000_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新人指導をさせて頂きます。}}<br />让我指导新人吧。<br />''Let me get the new lady up to speed.''
+| <sm2>IWS2000_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|よし！これならもっと皆さんのお役に立てそうです！}}<br />太好了!这样就能更加帮助到大家了!<br />''Great! This way I can help everyone more!''
+| <sm2>IWS2000_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|この力、大切にします。}}<br />我会珍惜这份力量的。<br />''I'll cherish this power.''
+| <sm2>IWS2000_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|この火力、誰にも負けません。}}<br />火力输出是不会输给任何人形的!<br />''I won't lose in firepower to anyone!''
+| <sm2>IWS2000_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|わたくしたちの勝利のために、消えなさい。}}<br />为了我们的胜利，请消失吧。<br />''Vanish for our victory.''
+| <sm2>IWS2000_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|もう皆さんに頼っていけません！}}<br />不能再依赖大家了!<br />''Can't rely on anyone anymore!''
+| <sm2>IWS2000_SKILL3_JP.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|わたくしはこの日をずっと待っていました……指揮官に信頼され、頼られる存在になれるように頑張ってきました。その気持ちこそが、わたくしが今ここにいる理由なんです。ずっと側にいさせてください。}}<br />我……一直期待这这一天的到来 为了被您信任，被您依赖而努力，这份心意一直都是我存在于此的理由 现在，请让我永远地留在您身边吧，指挥官<br />I...have been looking forward to the arrival of this day. I worked hard towards being trusted and relied on by you, and that has always been the reason for my very existence... Please allow me to stay with you forever, Commander.
+| <sm2>IWS2000_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+== External links and references ==
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Silver hair]]
+[[Category:Red eyes]]
+
+{{SideBarPic|url=pic_IWS2000_1403.png|width=500px|left=-170px}}

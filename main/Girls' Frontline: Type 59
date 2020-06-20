@@ -1,0 +1,280 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frotnline replenish}}
+{{Girls' Frontline info|'''<big><big>So you must be my Commander. I'm T59! Please take care of me from now on!</big></big>'''}}
+{{Girls' Frontline profile
+|Title=Type59
+|image=gftype59_1.jpg
+|Caption=[https://www.pixiv.net/member.php?id=742458 Artist: papaia]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63042194 pixiv：63042194p5]
+|Original name=Type 1959 pistol
+|Nickname(s)=
+|Moe point(s)=[[Glasses]], [[Flatchest]], [[Black silk]], [[Ahoge]].
+|Hair color=Black
+|Eye color=Blue
+|CV=Emiri Katou
+|Type=HG
+|Rarity=★★★
+|Country of origin=China
+|Developed by=
+|Manufactured by=Factory No. 626
+|Developed=1959-1960
+|In service=1960
+|Related to=
+}}
+ 
+'''Type59''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by SUNBORN Network Technology Co., Ltd.
+
+== Historical basis ==
+The '''Type 1959 pistol''' was the Chinese copy of the Makarov PM built for close-quarters self-defense for commanding officers and police personnel. Construction started in early 1959 mainly by Factory No. 626 before the Type 1959s were experimentally distributed to commanding officers at regiment levels. However, due to multiple accidents occurring in the Type 1959's short service career, production ceased in 1960, with the Type 1959s retired from service.
+
+The reason why the Type 59 was taken down from service shortly after being accepted into service was due in part to the relatively poor military production quality that accompanied the PRC's early years. Sino-Soviet relationship collapsed in the late 1950s, with Soviet technical personnel returning to the USSR, leaving only blueprints and samples behind. The Type 1959 was the product of a mere attempt to gain self-esteem.
+
+The frequent problems plaguing the Type 59 arise from two factors; First is that the 7.62mm Makarov cartridge weighs 5.95g with a V10=290-315m and a maximum chamber pressure of 117MPa. Using the very same propellant found in that of the Nagant round, the Makarov cartridge possesed a low chamber pressure to maintain bolt weight and recoil within controllable margins. However, the Type 59 cartridge used high-friction steel casings rather than brass, which cramped up the virtual weight of the bolt. Cartridge manufacture was no easy work, which, coupled with few sophisticated ammunition testing facilities then, contributed to the variance in casing material, projectile diameter, propellant size, chemical composition, temperature, moisture and even propellant weight, which all resulted in great variances with the projectile itself. The unstable quality of propellant further contributed to the flaws, with cases like projectiles remaining in the chamber after firing a possible result. The Type 64 resolved these issues by raising maximal chamber pressure in every viable way to ensure reliability in firing the cartridge.
+
+Second is that structurally the Makarov pistol avoided using plugs wherever possible to avoid related parts loosening; rotating axes are built directly into parts, which involves complex processes, high working hours and a high percentage of sub-par products. The hammer spring (which doubles as the trigger spring) and the sear spring have rather unique designs which when copied, due to insufficient metallurgy qualities and machining precision of the PRC in the late 1950s, rendered the part prone to metal fatigue, which again contributed to the malfunctioning of the Type 59.
+
+Among these two factors poor ammunition quality is more prominent, as the Type 59 rarely encounters problems when firing Soviet-made brass cartridges. In the case of the Type 59 steel-cartridges however, a few shots may be safe if the weapon is well-serviced. But the severe dusting of the barrel, high temperatures and increased resistance from moving parts resulting from multiple prolonged uses of the same weapon during firing drills may result in the weapon malfunctioning.
+
+Due to how the Type 59 had only less than a year between the start and termination of its production, it remains a rare item for a collector. The Type 59s commonly found on western civilian markets are actually dedicated civilian versions built by some factories contracted by Norinco after the 1980s (with serials beginning with ZZ the most common version, possibly built by Zhongzhou). True, military Type 59s built in 1960 have grips almost entirely engraved with five-stars-in-shield patterns, with some other Type 59s having the ''Bayi'' (八一, "August 1st") engraving being dedicated honorary weapons. Type 59s for export have a large star in a ring engraved to the grip (a feature self-distinguishing from military weapons, albeit with exceptions).
+
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the weapon.'''
+ Type                       Semi-automatic pistol
+ Weight                     0.81 kg 
+ Length                     163 mm 
+ Barrel length              93.5 mm 
+ Cartridge                  9×18mm Makarov
+ Action                     Blowback
+ Muzzle velocity            315 m/s
+ Effective firing range     50 m
+ Feed system                8-round detachable box magazine
+ Sights                     Blade front. notch rear 
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Type 59'''
+|-
+! colspan=2 | '''Index number''':  No.132
+! colspan=2 | '''Rarity''': ★★★
+|-
+! colspan=2 | '''Nationality: Chinese[[File:Flag_of_China.svg|20px]]'''
+! colspan=2 | '''Gun Type: Handgun'''
+|-
+! colspan=2 | '''CV: Emiri Katou'''
+! colspan=2 | '''Illustrator: 麻将'''
+|-
+! colspan=4 | '''Stats (Growth: S)'''
+|-
+| '''Health (C)''' || 30→60×5 || '''Damage (B)''' || 10→28
+|-
+| '''Evasion (A)''' || 11→96 || '''Accuracy (A)''' || 7→61
+|-
+| '''Movement speed''' || 15→15 || '''Rate of Fire (A)''' || 40→61
+|-
+| '''Crit rate''' || 20%→20% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 131→2568
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''弹药''' || 10→30 || '''口粮''' || 10→30
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Cover Suppression N
+| colspan=3 |Decrease all enemies' evasion by 55% (75%) (30% (40%) during daytime) for 5 (8) seconds (3 (5) seconds during daytime).<br />Initial cooldown 6 seconds / Cooldown 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|2|3|6|8|9}}
+Keypads 2,3,6,8,9
+|-
+| '''Effect''' || colspan=3 |Buffs '''All Types'''<br />Damage +10% (20%), Accuracy +25% (50%)
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Others''' || colspan=3 | '''October 2018 login reward'''
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Default
+|bt2=Outfits
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--Default-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:59type.png|400px]]
+	|tab2=[[File:59type D.png|400px]]
+	}}
+|tab2={{tabs
+|DefaultTab=1
+|color=black
+|bt1=''Spring flower'' (报春花)
+|tab1={{tabs
+	|DefaultTab=1
+	|color=black
+	|bt1=<!--报春花-->Normal
+	|bt2=Heavily damaged
+	|tab1=[[File:59type 407.png|400px]]
+	|tab2=[[File:59type 407 D.png|400px]]}}
+	}}
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Tips==
+*Despite her skill being lesser and shorter-lasting than that of SPP-1, the Type 59 could be a viable substitute for the former as her flat 55%-75% evasion debuff makes hitting targets a trivial matter even for MGs.
+*The formation buff and skill of Type 59 is largely similar to that of the FF FNP9, but more practical.
+**Placing Type 59 in an MG/SG echelon somehow limits the total number of MGs, as she provides her formation buff only to those directly to the sides.
+**However, other "insane output" echelons are also possible with Type 59, such as 4AR + Type 59 (to maximize benefit from formation buff) or 2MG + 2RF echelons.
+
+==Trivia==
+*Type 59's name in the index appears to be missing the middle space, as with all other T-dolls with their names beginning with "Type".
+*Type 59 refers to herself as "T59" and simply "59" on different occasions.
+*Type 59 may also have an addition towards her food as hinted by her possibly lie about not having stolen any.
+*Type 59's quotes about the absence of Makarov may potentially be a poke on the two weapons' similarity to each other.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>59type_030.mp3</sm2>
+|-
+| Upon Login
+| {{lang|ja|今日は59式の当番よ～指揮官様、一緒に遊ぼうね～。}}<br />''It's Type 59's turn to accompany you today. Let's have fun, commander!''<br />今天轮到59式陪着您了哦，一起好好玩吧，长官！
+| <sm2>59type_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|あなたがわたしの指揮官ですね。59（ごじゅうきゅう）式よ～今後もよろしくね～。}}<br />So you must be my Commander. I'm T59! Please take care of me from now on!<br />您就是长官吧，我是59式，今后嘛，还请多多关照！
+| <sm2>59type_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官さま、どうしたの？}}What is it, Commander?<br />长官，什么事啊？
+| <sm2>59type_005.mp3</sm2>
+|-
+| {{lang|ja|盗み食いはやってないってば！ほ、ほんとうよ！}}<br />I didn't steal any food! R-Really!<br />一直看着我做什么啊，我没偷吃什么东西啊，真的！
+| <sm2>59type_006.mp3</sm2>
+|-
+| {{lang|ja|マカロフちゃんはここにいないよ～遊びなら59式に任せてよ、指揮官さま！}}<br />Makarov isn't here. If you want to play then 59 will play with you, Commander!<br />马卡洛夫？……没看到啊，不然让我陪您玩吧，长官！
+| <sm2>59type_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|}}<br />Commander, Commander! Where should we go next time? The outside world is really awesome! I still want to see and experience many many more places!<br />长官长官！下次我们去哪儿逛呢？外面的世界真棒啊，我还想见识更多更多的地方！
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|しししっ。}}<br />''Tehehe.''<br />笑
+| <sm2>59type_032.mp3</sm2>
+|-
+| {{lang|ja|やるねっ。}}<br />''Great.''<br />称赞
+| <sm2>59type_035.mp3</sm2>
+|-
+| {{lang|ja|うんっ。}}<br />''Hmm.''<br />附和
+| <sm2>59type_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|やった～やっと59式の出番だ～～。}}<br />''Great~ Finally Type 59's turn~~.''<br />轮到我啦，终于轮到我啦！
+| <sm2>59type_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|新しい作戦だ～ひと暴れしましょう～うひひひ～。}}<br />''A new battle~Go and wreak havoc! Uhehehe~''<br />新的作战，去大闹一场吧！
+| <sm2>59type_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|敵が正面からきたね！}}<br />''Here comes the enemy, up front!''<br />敌人来了哦！从正面上！
+| <sm2>59type_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|いやだいやだいやだ！せっかく59式の出番なのに…。}}<br />''Heyheyhey! I'm only just making a presence...''<br />喂！我……我才刚出场啊！
+| <sm2>59type_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|うぐぅ…これで59式も努力していることがハッキリしたね。後は頼んだよ、えへへ。}}<br />''Hmm...So Type 59 made her efforts. Please take care of me afterwards, ehehe.''<br />嗯……这也说明，我努力过了吧，那就好好拜托您啦！
+| <sm2>59type_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|えへへへ、59式が頑張ったよ。皆、おつかれ！}}<br />''Ehehehe, Type 59 worked hard. Great work everyone!''<br />终于，好好表现了一回啊，不过也多亏了大家，都辛苦啦！
+| <sm2>59type_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|59式はただ経験不足だっただけよ。子供扱いしないでよ…！}}<br />''Type 59 still had insufficient experience...I'm not young already!''<br />抱歉……还是经验太少了，明明……年纪已经不小了啊……
+| <sm2>59type_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|59式がいれば、もう心配する必要はないよ。}}<br />''Never fear, Type 59 is here!''<br />别担心，我这不是来了嘛！
+| <sm2>59type_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|後方勤務（こうほうきんむ）なら59式に任せてね、一番得意よ。}}<br />''Type 59 is on logistic duty.''<br />天干物燥，小心火烛！
+| <sm2>59type_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ほら、59式の成果をみてみて。}}<br />平安无事咯！
+| <sm2>59type_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい仲間ね！ますます賑やか（にぎやか）になったわね！}}''Here's a new friend! It's getting more fun!<br />新的伙伴啊，越来越热闹啦！
+| <sm2>59type_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|おおおおぉ、59式の量産化がキタね、もっと頑張らなくちゃ！}}''Oooo! Time for Type 59 to get mass-produced. Need to work harder!''<br />哦哦！轮到我量产了吗？那不加油不行啊！
+| <sm2>59type_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|うひひひ～マカロフちゃんとちょっと違うでしょう？}}<br />''Uhehehe, kind of different from Makarov-chan right?''<br />嘻嘻，是不是和马卡洛夫不太一样了呢？
+| <sm2>59type_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|きみに決めた！}}<br />''It would be you!''<br />决定就是你啦！
+| <sm2>59type_021.mp3</sm2>
+|-
+| {{lang|ja|こっちにおいで～。}}<br />''Come here!''<br />快到碗里来吧！
+| <sm2>59type_022.mp3</sm2>
+|-
+| {{lang|ja|いいぞ、もっと59式を崇（あが）めてもいいよ～}}<br />''Great, worship me even harder!''<br />好啊，再崇拜我一点吧！
+| <sm2>59type_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官さま、こう見えても、59式はちゃんと頑張ってるよ。だから…へぇ？この話じゃないの？本当に59式でいいの？59式は指揮官さまのことも大好きだよ～。}}<br />Commander, don't give me that look... 59 is working really hard, so... Eh? We're not talking about that? 59 is doing fine? 59 loves you to death, Commander!<br /> 长官，别看我这个样子，为了弥补经验的差距，我确实也在努力跟上啊，所以……诶？不是谈这些的吗？……什么？真的？我爱死你啦，长官！
+| <sm2>59type_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=少女前线-59式手枪.png|width=400px|left=-115px}}
+
+
+== References ==
+<references/>
+ 
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Loli]]
+[[Category:Ahoge]]
+[[Category:Glasses]]
+[[Category:Thighhighs(Black)]]

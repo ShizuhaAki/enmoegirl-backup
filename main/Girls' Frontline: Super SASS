@@ -1,0 +1,293 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Commander, if you already have someone that you really like, then your current behavior is very dangerous...</big></big>'''}}
+{{Girls' Frontline profile
+|Title=Super SASS
+|image=59433476 p1.png
+|Caption=<center>Artist: unitsu<ref>[http://www.pixiv.net/member.php?id=1879151 Artist: unitsu]</ref></center>
+<center>Pixiv ID:59433476<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59433476 Pixiv ID:59433476]</ref></center>
+|Original name=AR-10 Super SASS
+|Nickname={{Spoiler|Super's ASS}}
+|Moe point(s)=Black silk, Seifuku
+|Hair color=Black
+|Eye color=Purple
+|CV=Rika Tachibana
+|Type=RF
+|Rarity=★★★
+|Country of origin=USA
+|Developed by=Armalite
+|Developed=1956
+|In service=1956-
+|Related to=[[Girls' Frontline: AR-15|AR-15]], [[Girls' Frontline: M16A1|M16A1]], Eugene Stoner, {{Spoiler|[[Girls' Frontline: NTW-20|NTW-20]]}}
+}}
+ 
+'''Super SASS''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Sunborn Games and its derivatives.
+
+== Historical basis ==
+
+The '''AR-10 Super SASS''', in short '''Super SASS''', is a modernized precision rifle using direct-impingement based on the AR-10 developed by Eugene Stoner, manufactured by Armalite.
+
+The basic Armalite AR-10 was an all-aluminium rifle using a proprietary gas operation, originally planned to replace the M1 Garand, but failed. Stoner later developed the AR-15 on the basis of the AR-10, which would eventually become the M16.
+
+Derivatives and modifications of the AR-10 chambered in either .308 or 7.62x51mm are still marketed as sniper/battle rifles or sporting rifles. Among them is the '''Super SASS''' recently introduced by Armalite as a precision variant of the AR-10. It currently serves in small numbers in the Romanian Special Forces as a sniper rifle.<ref>http://www.dpa.ro/images/buletinul_contractelor/2009/bc2009_1.pdf Procurement notice of 2009 from the Department of Armament Procurement (DPA) of Romania (in Romanian)</ref>.
+
+===Specifications ===
+*Weight: 5.4kg
+*Full length: 1069 mm
+*Barrel length: 528 mm
+*Cartridge: 7.62 × 51 mm NATO
+*Caliber: 7.62 mm
+*Action: Direct-impingement, gas-operated, rotary bolt
+*Muzzle velocity: 820 m/s
+*Effective range: 600 m (AR-10)
+*Feed system: 20-round detachable magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may be erroneous and represent only the game's understanding of the weapon. For reference only.'''
+ Type                       Sniper rifle
+ Weight                     5.4 kg 
+ Length                     1130 mm 
+ Barrel length              508 mm  
+ Cartridge                  7.62×51 NATO
+ Action                     Gas-operated. rotating bolt
+ Rate of fire               Semi-automatic
+ Muzzle velocity            783 m/s (2.570 ft/s) with 175 gr. M118LR
+ Effective firing range     800 metres (875 yd) (point targets)
+ Feed system                10 or 20-round detachable box magazine
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Super SASS'''
+|-
+! colspan=2 | '''Index number''': NO.124
+! colspan=2 | '''Rarity''': ★★★
+|-
+! colspan=2 | '''Nationality: American[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Gun Type: Rifle'''
+|-
+! colspan=2 | '''CV：[[Rika Tachibana]]'''
+! colspan=2 | '''Illustrator: [[百合受菟|受菟]]'''
+|-
+! colspan=4 | '''Stats (Growth: B)'''
+|-
+| '''Health (B)''' || 44→88 || '''Damage (A)''' || 45→115
+|-
+| '''Evasion (C)''' || 4→27 || '''Accuracy (A)''' || 9→65
+|-
+| '''Movement speed''' || 7→7 || '''Rate of Fire (A)''' || 27→39
+|-
+| '''Crit rate''' || 40% → 40% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 172→3495
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Aimed Shot
+| colspan=3 |After aiming for 1.5 seconds, shoot a specific target for 2.8x (5x) damage. <br />Initial cooldown 10 seconds / Cooldown 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypad 9
+|-
+| '''Effect''' || colspan=3 | Buffs '''HG'''s<br>Skill cooldown -12%.
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | '''N/A'''
+|-
+| '''Drops''' || colspan=3 |
+|-
+| '''Others''' || colspan=3 | '''July 2018 monthly login reward'''
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+
+|tab1=[[File:少女前线-Super SASS.png|400px]]
+|tab2=[[File:少女前线-Super SASS-大破.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+==Trivia==
+*Super Sass is heavily portrayed in artist 休嫁一慧子's series of comics alongside NTW-20.
+[[File:SASS_Pid=62735532.png|350px|thumb|
+<center>Artist: 休嫁一慧子<ref>[https://www.pixiv.net/member.php?id=19469841 Artist: 休嫁一慧子]</ref></center>
+<center>Pixiv ID:62735532<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62735532 Pixiv ID:62735532]</ref></center>
+<center>'''Super SASS''' and her teammates</center>
+]]
+
+*The color combination of white ''seifuku'' alongside a black weapon is speculated to draw attention to the weapon rather than the character itself.
+
+*{{Spoiler|Super SASS appears to wear nothing beneath her ''seifuku''.}}
+
+*Summarized as follows, Super SASS' illustrator also mentioned the following additional settings that Super SASS:
+
+:*primarily eats sandwiches, and prefers plain, light clothing with many opportunities to wear dresses in plain days. Occasionally T-shirts with shorts can be seen when attending physical exercises.
+
+:*wearing seifuku is a personal preference of her illustrator, with the color combination borrowed from that of the logo of Armalite--Yellow, blue and white.
+
+:*possesses extremely sensitive thighs.
+
+:*did not wear anything below the clothing.
+
+:*values each chance to go on a mission due to the weapon's unsuccessful commercial career.
+
+:*can get mad if someone she likes/values is hurt, which may reveal her darker side. The same applies to commanders should they harass her too much.
+
+:*talks well with NTW-20 and M14 in addition to the commander. M14 may possibly teach SASS a lot due to her being a ''senpai''.
+
+:*likes and trusts hard-working commanders.
+
+*Her illustrator also personally admires the "couple"-relationship between NTW-20 and Super SASS.
+
+*Despite her mediocre stats and rarity (alongside plain appearance), she single-handedly neutralized a large batch of Sangvis forces, rescuing M9 in the Midnight portion of Chapter 2.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable mw-collapsible"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>SuperSASS_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官、休憩が終わった？それじゃ、仕事を戻るよ。}}<br />''Commander, have you done resting? Then, back to the workpost.''<br />指挥官，休息完了吗？ 那么，回到工作岗位。
+| <sm2>SuperSASS_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|指揮官、Super SASS入隊します。初めまして、これからよろしくね。}}<br />Super SASS reporting in! Nice to meet you! I'll be counting on you from now!<br />指挥官，Super SASS报道。新人初次见面，还望您多加指点
+| <sm2>SuperSASS_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|ちょっと頼りないけど、なにか悩んでれ事あれば、いつも私に言いてね。}}<br />Even though I'm not that reliable, you can talk with me anytime about any of your worries!<br />虽然不大可靠，但是您有什么烦恼，随时可以和我说哦。
+| <sm2>SuperSASS_006.mp3</sm2>
+|-
+| {{lang|ja|指揮官、お疲れ様、何が飲む？}}<br />Commander, you've worked hard! Want anything to drink?<br />指挥官，工作辛苦了，要点喝的吗？
+| <sm2>SuperSASS_005.mp3</sm2>
+|-
+| {{lang|ja|指揮官、もし好きな人がいるなら、いまはとっても危険な行為なんたよ。}}<br />Commander, if you already have someone that you really like, then your current behavior is very dangerous...<br />指挥官，如果您已经有了喜欢的人，现在的行为可是很危险的啊。
+| <sm2>SuperSASS_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|指揮官、この間のこと、覚えてる？惚けても無駄だよ。私がちゃんと覚えてるから。}}<br />Commander, what do you plan on doing today? The same as last time? Do you still remember what we did? Hehe...I remember all of it.<br />指挥官，今天打算做些什么呢？和上次一样吗？您记得是什么吧？哼哼......我都记得呢。
+| <sm2>SuperSASS_041.mp3</sm2>
+|-
+2
+| Dormitory (liftoff)
+| {{lang|ja|いひっ！}}<br />''Eek!''
+| <sm2>SuperSASS_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|あはははっ}}<br />''Ahahaha~''
+| <sm2>SuperSASS_032.mp3</sm2>
+|-
+| {{lang|ja|やったね}}<br />[Admiration]
+| <sm2>SuperSASS_035.mp3</sm2>
+|-
+| {{lang|ja|はいはい～}}<br />''Yeah, yeah~''
+| <sm2>SuperSASS_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|皆、一緒に頑張ろね！}}<br />''Let's work hard together!''<br />我们一起努力加油呗！
+| <sm2>SuperSASS_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|ちょっと緊張するけれど、きっと大丈夫！}}<br />''Just a bit nervous, it's all OK!''<br />虽然有点紧张，一定顺利完成！
+| <sm2>SuperSASS_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|戦闘開始だね。}}<br />''The battle's starting.''<br />战斗开始了。
+| <sm2>SuperSASS_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|ええ～どいうこと？私...何やってんだろ。}}<br />''Eh~ Why like this? What... have I done?''<br />欸～为什么会这样？我...到底做了什么？
+| <sm2>SuperSASS_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|お菓子にあるなら...ん～ いよ、自分取りいくよ。}}<br />''If only there're desserts.... Hmm~ nevermind, I'll get it myself.''<br />如果有甜品的话...嗯～算了，还是自己去拿好了。
+| <sm2>SuperSASS_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|えへへ、皆お陰で勝つたね、やった！}}<br />''Ehehe, won with all our efforts, great!''<br />托大家的福胜利了！
+| <sm2>SuperSASS_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|指揮官、気を落とさないで。また次があるから！}}<br />''Commander don't be disappointed. There's a second chance!''<br />指揮官，還有下次機會，別灰心！
+| <sm2>SuperSASS_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|すみません、遅くなちゃった！}}<br />''Sorry, I'm late!''<br />不好意思，我迟到了！
+| <sm2>SuperSASS_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|よし、皆を連れて行きましょ！}}<br />''Ok, setting off with everyone!''<br />好，带领着大家一起出发！
+| <sm2>SuperSASS_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|指揮官、無事に帰てきだよ。}}<br />''Commander, we are back all fine.''<br />指挥官，我们平安无事回来了。
+| <sm2>SuperSASS_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しいお友達、歓迎するよ。}}<br />''There's a new friend, let's give her a welcome.''<br />欢迎新的伙伴加入。
+| <sm2>SuperSASS_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|これからもっと出番があるんだね！頑張ります！}}<br />''This means more chances to go out! I'll work hard!''<br />以後有更多出場機會了！我會加油的！
+| <sm2>SuperSASS_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|ちょうどこれが欲しかったんだ、ありがとう！}}<br />''Just what I wanted, thanks!''<br />这正是我梦寐以求一直想要的，谢谢！
+| <sm2>SuperSASS_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|喰らえ！}}<br />''Take this!''<br />吃我一擊！
+| <sm2>SuperSASS_021.mp3</sm2>
+|-
+| {{lang|ja|もう少し頑張って！}}<br />''Just one more push!''<br />再稍微努力一下！
+| <sm2>SuperSASS_022.mp3</sm2>
+|-
+| {{lang|ja|あっちゃー、おさらばだ。}}<br />''Alas, kiss goodbye.''<br />哎呀，再見囉。
+| <sm2>SuperSASS_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官、今日のパーティはちょっと特別みたいだね。えっ？私のために準備したの？ひどい…それじゃあ、これからもっと頑張らなきゃだめじゃない。いひひ…でも大丈夫、任せてください！}}<br />Commander, is there something special about today's get-together? Hm? Prepared for me? This is too much! Doesn't this mean I have to work even harder? Heheh, though this will be a piece of cake for me.<br />指挥官，今天的聚会好像有点特别。嗯？为我准备的？真是过分，这下我不就得更努力了吗。嘻嘻，不过这可难不倒我呀
+| <sm2>SuperSASS_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_SuperSASS_1407.png|width=500px|left=-160px}}
+
+==Read more==
+*[https://armalite.com/shop/ar-10-supersass/ Super SASS on the Armalite official website]
+*[http://world.guns.ru/assault/usa/armalite-ar-10-e.html Armalite AR-10 on world.guns.ru]
+== References ==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

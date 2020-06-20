@@ -1,0 +1,351 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Background, prototype, it never matters...I'm but a commodity that takes orders......</big></big>'''}}
+{{Girls' Frontline profile
+|Name=Vector
+|image=61403923 p0.jpg
+|Caption=<center>Artist:孟達<ref>[https://www.pixiv.net/member.php?id=3872398 作者:孟達]</ref></center>
+<center>Pixiv ID:61403923<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61403923 Pixiv ID:61403923]</ref></center>
+|Original name=KRISS Super V
+|Nickname=Vivi
+|Moe points=Speechless
+|Hair color=Silver
+|Eye color=Orange
+|CV=Yahami Saori
+|Type=SMG
+|Rarity=★★★★★
+|Developed by=US
+|Manufactured by=Transformational Defense Industries
+|Developed=2005 
+|In service=2006-
+|Related persons=
+}}
+
+'''Vector''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and piblished by Digital Sky and its derivatives.
+
+== Historical basis ==
+The Vector is a new submachine gun developed by TDI.
+
+=== Specifications ===
+*Empty weight: Prototype 2.18 kg, production model target 1.8 - 2.0 kg
+*Overall length: 406 / 635 mm
+*Barrel length: 140 mm
+*Cartridge: .45ACP / .40 S&W
+*Caliber: .45 / .40
+*Action: closed-bolt
+*Muzzle velocity: 270m/s
+*Effective range: 100m
+*Feed system: 28- or 30-round detachable magazine
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Submachine gun
+ Weight                     6 lb (2.7 kg) (SMG & SBR/SO)
+                            7 lb (3.2 kg) (CRB/SO)
+ Length                     24.3 in (620 mm) (SMG & SBR/SO)
+                            16 in (410 mm) w/stock folded
+                            34.8 in (880 mm) (CRB/SO)
+                            26.5 in (670 mm) w/stock folded
+ Barrel length              5.5 in (140 mm) (SMG. SBR/SO. SDP)
+                            16 in (410 mm) (CRB/SO)
+                            18.6 in (470 mm) (CRB/SO @ Canada)
+ Cartridge                  .45 ACP (11.43x23 mm)
+ Action                     Delayed blowback. closed bolt
+ Rate of fire               Prototype: 1.500 rounds per minute
+                            Vector SMG: 1.200 RPM
+                            Civilian models: semi-auto only
+ Effective firing range     55 yards (70 yards with 16 inch barrel)
+ Feed system                10 & 13-round detachable box magazine
+                            25-round w/optional "MagEx 25+" extension
+ Sights                     Flip-up iron
+                            MIL-STD-1913 rail provided for optics
+}}
+=== Weapon-related trivia ===
+
+The Transformational Defense Industries (or TDI) first introduced a visually exotic SMG chambered in .45 ACP at the end of 2005, naming it the "KRISS Super V", and it is claimed to be an SMG with extremely low recoil.
+
+The sample weapon fires .45 ACP cartridges. Due to it being full-auto only, and with a staggering rate of fire at 1200 RPM, it was considered ammo-exhausting. The sample weapon used a 7-round magazine modified from that of the M1911A1, depleting the whole magazine in a blink of an eye. Designers soon realized that the rate of fire was too fast for an SMG, prompting them to plan to lower it to around 850 RPM. It was commonly believed that firing heavy .45 ACP rounds at 1200 RPM on a weapon that wasn't even 4 pounds heavy (the MK5 was 3.9 lbs heavy, with the design target around 3 lbs) would create difficulties in controlling the weapon, but the KRISS MK5 was easy to handle. According to those who test fired the weapon, the recoil was even lighter than that of the M1911 pistol.
+
+The weapon is equipped with a 5.5-inch (around 140mm) barrel, with left-hand twist rifling at 16 inches (406 mm). A folding stock is also provided. The weapon comes with a selector capable of adjusting firing modes between single, two-round burst and full auto. An earlier variant with only semi- and full-auto modes was also introduced. The manual safety lever and the selector lever are separate from each other, and support ambidextrous operation. This design was questioned by some test users, especially when it comes to the position of the selector. Though the thumb of the firing hand can operate the safety lever with ease, the selector switch had to be operated with the other hand or by letting go of the grip to reach the lever. This problem was fixed on the second generation of KRISS SMGs, namely the K10, which merged the two levers into one.
+
+The KRISS Vector uses 28- and 30-round magazines built by KRISS, which are in fact lengthened Glock 21 magazines. A 13-round magazine from a Glock 21 was used when the KRISS Super V prototype was shown in 2007. However, the prototype had the "25" marking on the full-auto position of the selector, which hinted that TDI then may design a 25-round magazine for it. But however, the actual products used 28- and 30-round magazines, therefore production KRISS Vectors had the numerical markings replaced by shape markings.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Vector'''
+|-
+! colspan=2 | '''Index number'''： No.020
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: American[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Type: SMG'''
+|-
+! colspan=2 | '''CV: Yahami Saori'''
+! colspan=2 | '''Illustrator: SA'''
+|-
+! colspan=4 | '''Stats(Growth: B)'''
+|-
+| '''Health (B)''' || 93→185 || '''Damage (A)''' || 12→30
+|-
+| '''Dodge (A)''' || 10→71 || '''Accuracy (C)''' || 2→11
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (S)''' || 71→101
+|-
+| '''Critical chance''' || 5%→5% || colspan=2 |
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 214→4109
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Incendiary Grenade
+| colspan=3 |Launch an incendiary grenade that deals 7x damage to enemies within a radius of 1.5 units and<br /> ignites them, dealing 1x damage every 0.33 seconds for 5 seconds.<br />Has an initial cooldown of 6 seconds with an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|4}}
+Keypad 4
+|-
+| '''Effect''' || colspan=3 | Buffs '''AR'''s<br/>Rate of Fire +25%。
+|-
+! colspan=4 | '''Acquired from'''
+|-
+| '''Production''' || colspan=3 | 02:35:00
+|-
+| '''Drops''' || colspan=3 | 6-4e
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored damaged
+|tab1=[[File:Vector.png|400px]]
+|tab2=[[File:Vector_D.png|400px]]
+|tab3=[[File:Pic Vector D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Trivia==
+{{Cquote|
+<big>'''''Someone with a weird personality, don't talk much with others usually, but very reliable when executing missions, which in addition to her helping others in silence, makes her more or less welcome.'' (性格有些古怪的家伙，平时不太和别人说话，但是在执行任务时十分可靠，并且会无言地帮助别人，使得她还挺受欢迎的。)'''</big>
+|官方设定集《THE ART OF GIRLS'FRONTLINE UNTIL THE STARS》}}
+
+
+=== Inspiration ===
+In the art collection ''THE ART OF GIRLS' FRONTLINE UNTIL THE STARS'' sold in March 2017, the inspiration for the character of Vector is revealed.
+{{Cquote|
+''The first time [I] saw the shape of Vector, just immediately thought she would be a silverish-grey-haired, serious and a bit cold girl. Since it's a modern gun, so it isn't something like tactical garments with all the smell of war like that of others, and chose the uncumbersome one-piece dress and short hair, with the main color themes of black and yellow pairing with a clean white blouse, in an attempt to give a clean and smart impression.'' 第一次看到vector的外形时，就觉得应该是个银灰色头发的、认真又有点冷的少女，因为本身是现代枪，所以服装上看起来不是像其他人那样有战斗感的战术服装，从枪身上提取图形和颜色为元素，选择了不累赘的连衣短裙和短发，主色是黑色和黄色搭配干净的白衬衣，希望能给人清爽帅气的印象。
+|SA}}
+
+===White Album?===
+MK416 is usually chosen as a support for Vector, however with G11 around MK416 is usually abandoned in favor of her. Sad story.
+
+But the AR-world is quite a mess, with 416 being especially keen on (retaliation towards) M16. {{Spoiler|To the degree that she would go to break M16's leg if given a break.}} However, in the voiceline of Vector, the "Prototype" line quickly reminds a lot of commanders about White Album.
+
+<del>Later developments even feature G11 and 416 fighting for the position right behind Vector.</del>
+
+=== An AR of an SMG ===
+Vector boasts high damage and RoF among SMGs, even on par with that of some ARs, making her a veritable AR with considerable durability, which, coupled with the emphasis on output capabilities, raised Vector's position among SMGs. A nuke-pair is also possible if MK416 is paired with her.
+
+Vector's molotov received a huge buff after the ability system's overhaul, raising its damage. And with the introduction of some high-dodge Sangvis units, the molotov of Vector's that guarantees damage and comes with a short cooldown makes her ability one of the most valuable in the game.
+
+And 416's grenade, albeit with a small area-of-effect, has a short cooldown and high damage, with a matching effect-tile with Vector, which makes the pair effective for mass-extermination.
+
+===The Halloween Shortening===
+Vector stands a height of around 6.5 heads in her normal illustration, making her someone with a good body figure.
+
+However, it is quickly discovered that Vector not only had smaller breasts but also a shorter height(at around 5 heads, in agreement with the head-shoulder ratio). Her weapon also had a shock-dampening stock <del>better for kids</del>.
+
+<del>Which is a direct reversal of Springfield's having her breasts enlarged with every outfit.</del>
+
+===1.9m?===
+Following the Halloween Shortening, Vector's wedding dress as part of the "Sweet Oath" in March 2018, suddenly grew to a 9-head height (with a eye-watering body shape).
+
+{{Hide|Title=The height just can't be below 1.9|Text=[[File:7e694aaegy1fpf22atuijj20m80w6tsc.jpg|500px]]
+<center><div style="display:inline-block;">PP-90: ''C'mon just smile vivi'' (笑一个啊vivi)<ref>[https://m.weibo.cn/2120829614/4218333870192446 PP-90:''C'mon just smile vivi'' (笑一个啊Vivi)]</ref><br>
+微博:@月满杯空<ref>[https://weibo.com/u/2120829614?topnav=1&wvr=6&topsug=1&is_all=1 微博:@月满杯空]</ref></div></center>
+}}
+And the truth is that the dress would be longer if not specified otherwise, and when it comes to taking photos, the heightening with the assistance of objects is relatively common. Plus that it is explicitly mentioned that Vector actually stood on a wooden crate to have her photos taken.
+
+===Negativity MAX===
+Vector's voicelines are more or less negative to some degree.
+
+And in reality, the Vector's built by an American company, designed by a Swede, and the patent for its bolt traces back to France. It bore much speculation due to its exotic appearance, with even more exotic appearances as it kept getting updated. Though turning heads for some time with its shape and unique action mechanism, most customers still remain skeptical towards the weapon.
+
+With so many ups and downs in its life, with a name-switch of the company and a new name for itself. Eventually, though having impressive designs and performance, the Vector was never favoured by the military or by the civilians due to its high price. It did find a place in films thanks to its futuristic shape, however.
+
+"''Though silent but very reliable. Odd personality but quite welcomed.''" Though described so in the earliest descriptions, what the voicelines reflect is more self-abandoning after all Vector's been through.
+
+Perhaps the line in the "Lone Wizard" event would suit her best?
+
+"'''''You'll kill us, human.'' (你会害死我们，人类。)'''"
+
+"'''''We can die for you, but don't think I want it that way.'' (我们可以为了你去死，但别以为我是心甘情愿这么做的。)'''"
+
+=== vivi ===
+As the two G&K protagonists of the story in the "Lone Wizard" event, Vector and PP-90 could be called a duo with entirely contrasting personalities. Vector kept on being negative, while PP-90's active to being "so noisy." (per FN57), and Vector was nicknamed "vivi" by PP-90.
+
+After all ''vivi'' was much faster to read and type than ''vector'' right
+
+And though vivi hated the ''vivi'' nickname, FN57 noted at the end of the event that "''the whole base's saying it'' (全基地都这么叫了)". Perhaps vivi accepted this nickname at last, but rather than saying that the event changed her, she might as well just simply gave up the struggle xD
+
+=== Sarcastic ===
+Also inspired by the "Lone Wizard" event, in which vivi talks in a straightforward and sarcastic fashion. As is known to all commanders who watched the plot, vivi commented on that Kiana is an idiot, that she fights better than even T-dolls, and that the head of the academy is pretending to be... even though she's good, and such.
+
+PP-90 commented on this as that vivi has a good sense of humor, while 57 thought her as with "a leaky mouth", that vivi talks too seriously.
+
+As to which it is... It is better to leave it to commanders to decide.
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Occasion !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>vector_038.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|今日の秘書はあたしだけと…（あざ笑う）失望した？}}<br />It's me on post today, sir. (Cold smile) Disappointed?<br />今天由我站岗呢，长官，失望了吗？（冷笑）也只能凑合了吧。
+| <sm2>vector_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|うん？新しい指揮官？まぁー…仲良くやろっ…。}}<br />Hmm? New commander? Ok...just get along well then.<br />哦？新的长官吗？嗯……总之，好好相处吧。
+| <sm2>vector_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|アドバイス？聞いてどうするの？}}<br />''Advice''? You won't listen anyway?<br />建议吗？反正您也不会认真听的吧？
+| <sm2>vector_005.mp3</sm2>
+|-
+| {{lang|ja|大丈夫…気にしなくていい。}}<br />It's ok...Don't pretend to care about me.<br />没关系……也不用非得装出一副在意我的样子。
+| <sm2>vector_006.mp3</sm2>
+|-
+| {{lang|ja|出身も、原型（げんけい）もどうでもいいこと…どうせあたしはただの商品だから。}}<br />Background, prototype, it never matters...I'm but a commodity that takes orders......<br />出身也好，原型也好，都是无所谓的东西吧……反正我只是件服从命令的商品罢了……
+| <sm2>vector_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment) 
+| {{lang|ja|}}<br />How long can this last? Just tell me if you can't pretend any more. I don't want to take all this serious.<br />这样下去还能持续多久呢？演不下去就快点说吧，我可不想把这一切当真
+| <sm2></sm2>
+|-
+| As adjutant (outfit: Catpaw)
+| {{lang|ja|なになにー？あたしはこういうの大好きー。ずーっとこういう雰囲気だったら、悪くないんだけどなー。}}<br />Where where? I love this night. Must be good for everyone if I could stay at the side of the ghosts forever.<br />哪里——我很喜欢今晚啊。如果能让我永远留在鬼怪那一边，对大家一定也不错吧。
+| <sm2>vector_019.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|気にしないで。}}<br />Don't care about me.<br />不用在意我，大家继续吧。
+| <sm2>vector_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|作戦会議終わった？じゃあ出発ね。}}<br />Has the discussion ended? Then let's go.<br />讨论结束了吗，那就出发吧。
+| <sm2>vector_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|フフン、きな。}}<br />Humph, then just do it.<br />哼，那就来吧。
+| <sm2>vector_010.mp3</sm2>
+|-
+| Beginning attack
+| {{lang|ja|}}<br />
+| <sm2>vector_011.wav</sm2>
+|-
+| Defense
+| {{lang|ja|}}<br />
+| <sm2>vector_012.wav</sm2>
+|-
+| Damaged
+| {{lang|ja|本気か！？来るな！}}<br />Seriously!? Don't you come here!<br />呃！你们来真的吗！别过来！
+| <sm2>vector_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|ほっといてくれない？}}<br />Just leave me alone?<br />还是不要管我了吧？
+| <sm2>vector_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝利の喜び？あたしにはそんなものないのよ。}}<br />Joy of victory? I don't have that kind of stuff.<br />胜利的喜悦？我并没有那种东西哦。
+| <sm2>vector_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|これも運命かな…。}}<br />This is...fate...<br />这也是。。。我的命运吧。。。
+| <sm2>vector_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|ただの命令…それだげ。}}<br />It's just...an order.<br />仅仅是命令而已。
+| <sm2>vector_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|行くよ。}} <br />Setting out.<br />出发了。
+| <sm2>vector_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ただいま。}}<br />Coming back.<br />我回来了。
+| <sm2>vector_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい商品？おもしろいじゃない…。}}<br />A new commodity? Interesting isn't it...<br />又有新的商品吗？很有趣啊不是吗……
+| <sm2>vector_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|ホントに大丈夫？ }}<br />Is it really ok?<br />这样的家伙再多一点，真的没问题吗？
+| <sm2>vector_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|また改造？まあいいや。}}<br />Another modification? It's ok anyway...<br />哦？又是改造吗？嗯...无所谓了。
+| <sm2>vector_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|何の意味もない。}}<br />Nonsense.<br />没什么意义吧。
+| <sm2>vector_021.mp3</sm2>
+|-
+| {{lang|ja|心の声、出てるよ。}}<br />I heard your voices.<br />你们的心声，我可不是没听见哦。
+| <sm2>vector_022.mp3</sm2>
+|-
+| {{lang|ja|安心してよ、一瞬で殺してあげるから何の痛みも感じないよ。}}<br />Rest assured. I'll kill you in an instant without any pain.<br />安心吧，一瞬间就会解决你，不会感到任何痛苦的。
+| <sm2>vector_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|（嘆く）こんな結果、思いもしなかった。たくさんいじめたから、たまにはいじめられてもいいかな。でもただで済むと思わないですよね。}}<br />(Sigh)How could it just come this way. I never anticipated. After all these, I'll just take this as a prank. But don't think about letting this end.<br />（叹气）怎么会是这样的结果，我真的没料到呢。和您闹了这么多别扭，这次，就当作被您捉弄一回吧。不过别想着就这么算了哦。
+| <sm2>vector_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_Vector_1901_D.png|width=500px|left=-210px|bottom=-30px}}
+
+== External links and references ==
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Thighhighs (Black)]]
+[[Category:Absolute zone]]
+[[Category:Leg ring]]
+[[Category:Gloves]]

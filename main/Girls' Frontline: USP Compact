@@ -1,0 +1,203 @@
+{{Girls' Frontline navbar}}
+
+{{Girls' Frontline replenish}}
+
+{{Girls' Frontline info}}
+
+{{Girls' Frontline profile
+|Name = USP Compact
+|image=USP_Compact.png
+|Caption= 
+|Hair color = Purple
+|Eye color = Green
+|CV = 佐藤有世
+|Type = HG
+|Rarity =★★
+|Country of origin=Germany
+|Manufactured by =Heckler & Koch, EAS
+|Developed=1989
+|In service=1993-
+|Related person(s)=Mk23
+|Original name=USP Compact}}
+
+'''USP Compact''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives, developed by MicaTeam and published by DigitalSky.
+
+<br />
+
+==Historical Basis==
+The USP is a semi-automatic pistol developed in Germany by Heckler & Koch GmbH (H&K) in 1989, as a replacement for the P7 series of handguns. Like their large frame predecessors, USP Compacts are designed with the demanding needs of law enforcement and military shooters. The USP uses a more conventional Browning-style cam-locked action, similar to that used in the Hi-Power, but with a polymer frame. Using a modified linkless Browning-type action, the USP Compact is built to take the punishment of high-energy +P loads. The USP Compact is capable of firing cartridges in 9 mm, .40 S&W, .45 ACP. Based on the full-size USP models, these small pistols combine compact size with optimum effective shooting performance.
+<br />
+
+=== '''<big>Specifications</big>''' ===
+
+*Caliber: 9mm/.357sig/40SW/.45ACP
+*Length: 
+**194 mm (7.64 in) (''USP 9 mm/.40'')
+**201 mm (7.87 in) (''USP .45'')
+**173 mm (6.81 in) (''Compact 9 mm/.40'')
+**219 mm (8.64 in) (''Tactical .40/.45'')
+**224 mm (8.81 in) (''Expert .40'')
+**240 mm (9.45 in) (''Match'')
+*Weight without magazine: 
+**748 g (1.65 lb) (''USP 9 mm/.40'')
+**789 g (1.74 lb) (''USP .45'')
+**667 g (1.47 lb) (''Compact 9 mm'')
+**694 g (1.53 lb) (''Compact .40'')
+**726 g (1.60 lb) (''Compact .45'')
+**771 g (1.70 lb) (''Tactical 9 mm'')
+**861 g (1.90 lb) (''Tactical .40/.45'')
+**875 g (1.93 lb) (''Expert .40'')
+**848 g (1.87 lb) (''Expert .45'')
+**1180 g (2.6 lb) (''Match 9mm/.40/.45'')
+*Barrel length： 
+**108 mm (4.25 in) (''USP 9 mm/.40'')
+**112 mm (4.41 in) (''USP .45'')
+**91 mm (3.58 in) (''Compact 9 mm/.40'')
+**97 mm (3.80 in) (''Compact .45'')
+**121 mm (4.78 in) (''Tactical 9 mm/.40'')
+**132 mm (5.19 in) (''Expert .40/.45'')
+**153 mm (6.02 in) (''Elite'')
+**153 mm (6.02 in) (''Match'')
+*Magazine size: 
+**13 rounds (''9×19mm'')
+**12 rounds (''.357, .40 S&W'')
+**8 or 10 rounds (''.45 ACP'')
+*Rifling: polygonal
+*Action: Short recoil, DA/SA, DA/DAO
+
+*Manufactured: 1993-
+*Muzzle velocity: 350 m/s
+*Sights: Rear notch and front blade (Patridge, "3-dot" type; adjustable rear on ''Tactical'', ''Match'' and ''Expert'')
+*{{Hide|Title=Safety Mechanisms|Text=Variants 1
+
+Double action trigger with manual safety on the left side. If lever is pressed below the “fire” position, it acts as a decocker, bringing the hammer down and then returning to the fire position.
+
+Variants 2
+
+Same as No.1, but the safety lever on the right side.
+
+Variants 3
+
+Double action trigger with decock-only lever on the left side.
+
+Variants 4
+
+Same as No.3 but the lever on the right side.
+
+Variants 5
+
+Double-action-only trigger with manual safety lever on the left side.
+
+Variants 6
+
+Same as No.5 but the lever on the right side.
+
+Variants 7
+
+DAO trigger without any manual safety.
+
+Variants 8
+
+P8 pistol, with “inverted” safety lever, that is, upper position of the lever is for fire and lower for safe. When the safety is applied, the hammer is decocked automatically.
+
+Variants 9
+
+Double action trigger with manual safety on the left side. No safe decocking functionality is provided.}}<br />
+
+==Stats==
+<br />
+{| class="wikitable"
+|+
+! colspan="4" |USP Compact
+|-
+! colspan="2" |'''Catalogue number: NO.141'''
+! colspan="2" |'''Rarity'''：★★
+|-
+! colspan="2" |'''Nationality: German[[File:Flag of Germany.svg|23px|link=]]'''
+! colspan="2" |'''Type: Handgun'''
+|-
+! colspan="2" |'''CV: Sato Yushi'''
+! colspan="2" |'''Illustrator: 哈路卡'''
+|-
+! colspan="4" |'''Stats (Growth: A)'''
+|-
+|'''Health (C)'''
+|29→57
+|'''Damage (C)'''
+|9→25
+|-
+|'''Dodge (S)'''
+|12→100
+|'''Accuracy (A)'''
+|7→59
+|-
+|'''Movement speed (B)'''
+|15→15
+|'''Rate of fire (A)'''
+|42→63
+|-
+! colspan="4" |'''Operational effectiveness'''
+|-
+! colspan="4" |137→2479
+|-
+! colspan="4" |'''Resource demands'''
+|-
+|'''Ammo'''
+|10→30
+|'''Rations'''
+|10→30
+|-
+!'''Skill'''
+! colspan="3" |'''Skill description'''
+|-
+|Annihilation Command
+| colspan="3" |Raises the echelon's accuracy by 50% (100%). Lasts for 5 (8) seconds. Initial cooldown at 6 seconds and interval at 15 (12) seconds.
+|-
+! colspan="4" |'''Buffs'''
+|-
+|'''Effect blocks'''
+| colspan="3" |<TABLE align="center" border="2" cellspacing="1" cellpadding="1"><TR><TD bgcolor="#00fedc" height="20" width="20"><TD bgcolor="#6b6b6b" height="20" width="20"><TD bgcolor="#6b6b6b" height="20" width="20"></TR><TR><TD bgcolor="#6b6b6b" height="20" width="20"><TD bgcolor="#f0f0f0" height="20" width="20"><TD bgcolor="#00fedc" height="20" width="20"></TR><TR><TD bgcolor="#00fedc" height="20" width="20"><TD bgcolor="#6b6b6b" height="20" width="20"><TD bgcolor="#6b6b6b" height="20" width="20"></TR></TABLE>Keypad grids 1,6,7
+|-
+|'''Effect'''
+| colspan="3" |Affects all T-dolls. Rate of fire +14% (28%).
+|-
+! colspan="4" |'''Acquired by'''
+|-
+|'''Production'''
+| colspan="3" |00:28:00
+|-
+|'''Drops'''
+| colspan="3" |Any map
+|-
+|'''Others'''
+| colspan="3" |
+|}
+
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:USP Compact.png|380px]]
+|tab2=[[File:USP Compact 大破.png|380px]]
+}}
+
+'''Notes''':
+
+*The buff effect of handguns will be improved when they undergo dummy expansions.
+*Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+*Data in parentheses ("()") is the maximum possible value of the stat.
+
+==Trivia==
+[Complement Needed]<br />
+
+==Voicelines==
+[Complement Needed]<br />
+
+==External Links==
+
+===Note===
+<br />
+
+===References===
+<br />

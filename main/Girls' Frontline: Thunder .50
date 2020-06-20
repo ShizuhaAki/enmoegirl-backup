@@ -1,0 +1,287 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish|{{color|red|Due to its audio voicelines' being still unimplemented, this character currently lacks a CV.}}|{{color|red|The operational effectiveness of this doll remains to be filled in.}}|{{color|red|The profile of this doll remains to be improved.}}|{{color|red|The '''Trivia''' section remains to be improved.}}}}
+{{Girls' Frontline info|'''<big><big>…………Awaiting you to bring the moment when thunder claps.</big></big>'''}}
+{{Girls' Frontline profile
+|Title=<nowiki>Thunder</nowiki>
+|image=Thunder50_1.jpg
+|Caption=Weibo:@小吃_寒冰画将 <ref>https://weibo.com/1921572323/G8A7zxvfS?from=page_1005051921572323_profile&wvr=6&mod=weibotime&type=comment#_rnd1521722663098 Weibo:@小吃_寒冰画将</ref>
+|Original name=
+|Nickname=
+|Moe point=
+|Hair color=Blue
+|Eye color=Red
+|CV=
+|Type=HG
+|Rarity=★★★★
+|Developed by=
+|Manufactured by=
+|Developed=
+|In service=
+|Country of origin=USA
+|Related to={{Spoiler|Husband: [[Girls' Frontline: M950A|M950A]]}}
+}}
+
+'''Thunder''' is a character from the tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam, published by Digital Sky, and its derivatives. She joined the struggle on February 8, 2018.
+
+== Historical basis ==
+The Thunder .50 BMG is designed and manufactured by Utah-based firm Triple Action LLC with the aims to create a pistol capable of firing .50 BMG rounds. It is first shown to the public at the SHOT Show in Las Vegas in 2004. Finalized models have a weight of 12 lbs (5.44 kg), a length of 16.9 in (429.26mm) and a barrel length of 13.2 in (335.28mm), and are loaded from the rear, housing a single cartridge. The weapon needs to be manually unlocked and its case extracted before loading a new round and locking the weapon for the next shot.
+
+The .50BMG boasts a high kinetic energy, making the muzzle energy of the Thunder reach 15,500 J. To mitigate the strong recoil caused by .50 rounds, the weapon is equipped with a high-efficiency muzzle brake capable of relieving 20% to 25% of the recoil<ref>http://best-top10.ru/samye-moshhnye-pistolety-v-mire.html</ref><ref>https://www.drive2.ru/b/482658117876711582/</ref> and a nitrogen recoil-absorption mechanism<ref>http://topnewsanimals.info/2018/02/06/50-bmg-pistol-kiss-your-wrists-goodbye/</ref>. Despite the incorporation of such mechanisms, the recoil from the pistol is still strong enough to rival that of a 7.62mm NATO-chambering rifle.
+
+===Specifications===
+*Caliber: 12.7mm (.50 in)
+*Cartridge: .50 BMG (12.7×99mm NATO)
+*Empty weight: 5.44 kg (12 lbs)
+*Overall length: 429.26 mm (16.9 in)
+*Barrel length: 335.28 mm (13.2 in)
+*Feed system: Single-shot, closed-chamber
+*Action: Side-swung breech with separate cocking lever and extractor
+*Trigger pull: 0.454-5.443 kgf (1-12 lbf)
+
+{{Hide|Title=Different cartridges|Text=[[File:.50BMG与其他步枪弹比较.jpg|thumb|center|The cartridge to the far left is the .50 BMG round the Thunder is chambered in.]]
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Thunder'''
+|-
+! colspan=2 | '''Index number'''： No.202
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 |  '''Nationality: American[[File:Flag_of_United States.svg|20px]]'''
+! colspan=2 | '''Type: HG'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator: NIN'''
+|-
+! colspan=4 | '''Stats(Growth：S)'''
+|-
+| '''Health (S)''' ||43 →86|| '''Damage (SS)''' ||16 →46
+|-
+| '''Evasion (D)''' ||7 →60|| '''Accuracy (B)''' ||7 →57
+|-
+| '''Movement speed''' ||12 → 12|| '''Rate of Fire (D)''' ||24 →37
+|-
+| '''Crit rate''' || 40%
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 167 → ？
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10 → 30 || '''Rations''' || 10 → 30
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+|''Fire of Criticality'' (临界点射击)
+| colspan=3 |Aims for 1 second before dealing 800% (1200%) damage to the nearest target,<br />which may be evaded and takes an additional 2 seconds to reload.<br />Has an initial cooldown of 4 seconds and an interval of 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|1|6|7|}}
+Keypads 1,6,7
+|-
+| '''Effect''' || colspan=3 | Applies to '''all''' dolls<br>Damage +18%（36%）
+|-
+! colspan=4 | '''Acquired from'''
+|-
+| '''Production''' || colspan=3 | 
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Other''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:Pic_Thunder50.png|400px]]
+|tab2=[[File:Pic_Thunder50_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=Chibi animation|Text=[[File:pic_Thunder50_Q.gif]]}}
+
+== Trivia ==
+=== Setting ===
+{{Hide|Title=Thunder (in Chinese)|Text=[[File:pic_Thunder50_setting.jpg|400px]]}}
+==== Setting from illustrator ====
+{{Hide|Title=Drafts|Text=
+{{multiple image
+ | align = center
+ | direction = vertical|horizontal
+ | width = 1000
+ | image1 = gf_thunder_1.jpg
+ | image2 = gf_thunder_2.jpg
+}}}}
+Her illustrator, NIN, released the setting drafts for Thunder on June 6, 2018, and provided large amounts of text to describe her daughter.
+
+{{Cquote|''Was instantly cool'd when looking for information on this gun, the super-large caliber different from other pistols, the hairdryer-ish look, the unsatisfactory sales, the final work of a speedily-collapsing R&D company, without anything not even efficiency or prospect, a gun made solely for romance. Set this kid's image early on.''
+
+''Clothing is quite ordinary suit-dress plus a coat, and pantyhoses and armpads. Was it not for someone attracted by black silk, I believe this would be a combination with decent defense. Dressed as a shy kid, with a small constrast by the ribbon on her leg. The entire design is simple, putting most of the emphasis on the doll and the color of the clothing. A white swan in the clothes of a black swan, hoped to give off some hidden morals.''
+
+''The black swan mentioned here is the one referring to an event, but borrowed the outline of living beings, which included the sense of a crow. The camouflage is placed on the inside of the clothes, meant for herself, not to forget the cruelty and darkness of the world. Once the coat is buttoned up, the ribbon on the leg will be hidden as well. In the shadow, not standing out means not to be chosen, living silently in a shell.''}}
+
+{{lang|0404|雷電是型號很舊的人形，而且並不是作為正常業務<br>為目的生產，性能和其他人形完全沒法比較，在過去<br>沒有幹過像樣的工作，算是歷盡人類世界的黑暗面，<br>從一開始就沒見過太陽的人性格自然也可想而知。<br>即將作為舊世代的人形被淘汰的她正好被當時的格<br>里芬征集，接受了最低限度的改良，在這個最後的歸<br>處等待終結。<br>
+
+雷電的表情因為生產目的，其實還是很豐富的，甚至可<br>以說比其他人形都更像人，可是這並沒有為她帶來什麼<br>好回憶，在不需要討好任何人的戰場裡或許能更舒適一<br>點，真是太幸運了。現在的性格或許是以前表現的反彈。<br>溫柔但是又怕受傷的矛盾的孩子。<br>私下是個FPS遊戲玩家，只要是能發射的遊戲都會去玩。<br>最近沉迷聽歌。<br>
+
+'''從前的雷電是沒有私人物品的 但是現在開始有了'''<br>A 普通的入耳式耳機，特點是線特別特別長，可以<br>    足夠兩個人一起配戴。<br>B MP3格式播放器，從指揮官那求來的貴價品，裡<br>    面都是某人形的歌，重複播放最多的曲目是[Only for you]<br>C 榮耀日事件之後，明白到幸福要主動爭取，把在<br>    FPS裡學到的字句縫在衣服內側的迷彩之上。}}
+
+{{lang|0404|最初查找這把槍的資料時馬上就被酷到了，別於所<br>有手槍的超大口徑，吹風機般的外觀，強差人意的銷<br>售情況，馬上就倒閉的研發公司的最後之作，無論是<br>效率還是前途都一切沒有，只為浪漫而生的槍。<br>這孩子的形像早就定型好了。<br>
+
+服裝是很普通的西裝裙配外套，加上連襪褲和護臂，若<br>不是對黑絲情有獨鐘的人的話，我相信這會是防禦力不<br>俗的配搭，內向的孩子的打扮，大腿上的蝴蝶結是小小<br>的反撲。整個設計思路很簡單，心思大概都放在人形與<br>衣服的顏色上，白天鵝穿著黑天鵝的衣服，希望能達到一<br>些寓意的效果。<br>
+
+這裡說到的黑天鵝，是指事件的黑天鵝，但是沿用了<br>生物的外形，也有烏鴉的意思在。迷彩之所以放在<br>衣服內側，是為了給自己看的，不要忘記世界的殘酷<br>與黑暗，只要把外套扣上，連腿上的蝴蝶結也會隱藏<br>在陰影之下，不突出就不會被看中，在殼子裡靜靜生活。}}
+|}}
+
+{{Cquote|{{lang|0404|''Thunder is an obsolete doll, and wasn't manufactued for ordinary business, entirely outclassed by other dolls, never had something like a "job" in the past, somewhat endured the dark side of the human world, with a personality that has never seen the sun from the beginning inferrable. Recruited by Grifon as a doll of the old era waiting to be eliminated, accepted minimal improvements and kept waiting for her end in this final place to stay.''
+
+''Thunder's emotions out of production reasons are actually numerous. It can even be said that she's more "human" than any other doll. However, this never brought her any good memories, perhaps more comfortable in the battlefield where no one needs to be kept happy, how lucky. The personality now may be a rebound from the past. A conflicting kid who's gentle yet afraid of being hurt. An FPS player in private life, plays every game that can fire guns. Recently got into listening to music.
+
+'''''Thunder didn't have any personal belongings before, but now has some.'''''<br>A ''Ordinary plug-type earphones, with really really long wires, can be worn by two at the same time.''<br>B ''MP3-format player, an expensive piece begged from the commander, filled with songs of a certain doll, with the most-played track being [Only for you]''<br>C ''Understood that happiness is to be earned after the Glory Day event, sewed the lines learned from FPS onto the camouflage on the inside of the clothes.}}
+
+{{lang|0404|雷電是型號很舊的人形，而且並不是作為正常業務<br>為目的生產，性能和其他人形完全沒法比較，在過去<br>沒有幹過像樣的工作，算是歷盡人類世界的黑暗面，<br>從一開始就沒見過太陽的人性格自然也可想而知。<br>即將作為舊世代的人形被淘汰的她正好被當時的格<br>里芬征集，接受了最低限度的改良，在這個最後的歸<br>處等待終結。<br>
+
+雷電的表情因為生產目的，其實還是很豐富的，甚至可<br>以說比其他人形都更像人，可是這並沒有為她帶來什麼<br>好回憶，在不需要討好任何人的戰場裡或許能更舒適一<br>點，真是太幸運了。現在的性格或許是以前表現的反彈。<br>溫柔但是又怕受傷的矛盾的孩子。<br>私下是個FPS遊戲玩家，只要是能發射的遊戲都會去玩。<br>最近沉迷聽歌。<br>
+
+'''從前的雷電是沒有私人物品的 但是現在開始有了'''<br>A 普通的入耳式耳機，特點是線特別特別長，可以<br>    足夠兩個人一起配戴。<br>B MP3格式播放器，從指揮官那求來的貴價品，裡<br>    面都是某人形的歌，重複播放最多的曲目是[Only for you]<br>C 榮耀日事件之後，明白到幸福要主動爭取，把在<br>    FPS裡學到的字句縫在衣服內側的迷彩之上。}}
+|}}
+
+
+===Band Squad===
+She formed a band at the end of the collaboration event with DJMAX with [[Girls' Frontline: M950A|M950A]], [[Girls' Frontline: TMP|TMP]], [[Girls' Frontline: K2|K2]], [[Girls' Frontline: AEK-999]] and [[Girls' Frontline: Clear|El CLear]], and took the seat of the drummer. She is also dubbed "White Doll", poking at her being not adept at expresing her emotions.
+
+== Voicelines ==
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not yet implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />A new face, a new one? ......Ah, apologies, this should be your line.<br /> 没见过的面孔，是新来的吗？......啊，不好意思，这应该是您的台词吧。
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />I'm used to replacing emotions with gunshots, which are much more accurate than any emotions.<br /> 我习惯用枪声来代替表情，那比任何喜怒哀乐要确切的多。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />A sky dominated by thunder still needs birds, which is why I fight here.<br /> 在雷霆支配下的天空里也是需要鸟儿的，所以我才会在这战斗
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Commander, what's wrong today? How about opening up a hole on your head to chill out?<br /> ......指挥官，今天怎么了？不如朝您脑袋上开个洞冷静一下吧？
+| <sm2>_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Happy things, sad things.....Commander, how do you see through my thoughts?<br />开心的事，难过的事......指挥官，您到底是怎么看穿我的想法的呢？
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath-link establishment
+| {{lang|ja| }}<br />Commander, you managed to keep sensing my thoughts all the way up until now. If it's you, my thoughts right now must be able to be understood...Allow me, this unattractive thing, to stay by your side.....Don't you turn back on this.<br />指挥官，您竟然能一直察觉我的心意走到这里呢 如果是您的话，一定能明白我现在的想法... 让我这个不讨人喜欢的家伙，永远陪在您的身边吧......可不许反悔了哦。
+| <sm2>_029.mp3</sm2>
+|}
+
+
+{{Girls' Frontline}}
+
+==External links and references==
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]

@@ -1,0 +1,259 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish|{{color|red|'''This is a new T-doll, with various fields of information needing supplements.'''}}}}
+{{Girls' Frontline info|'''<big><big>''There should be signs of how the next mission will turn out......Commander, please keep an eye on everyone......Especially...me...''</big></big>'''}}
+{{Girls' Frontline profile
+|Name=<nowiki>K5</nowiki>
+|image=K5_1.jpg
+|Caption=
+|Original name=Daewoo K5
+|Nickname=
+|Moe points=[[Cat ears]], [[Black silk]], [[Barefoot]]
+|Hair color=Yellow
+|Eye color=Blue
+|CV=
+|Type=HG
+|Rarity=★★★★
+|Developed by=Daewoo Precision Industries
+|Manufactured by=S&T Motiv
+|Developed=1984—May 1988
+|In service=1989-
+|Country of Origin=South Korea
+|Related person=
+}}
+
+'''K5''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and its derivatives. She joined the struggle on March 22, 2018.
+
+== Historical basis ==
+The Daewoo K5 is a semi-automatic pistol developed and manufactured by Daewoo Group of South Korea. It entered service in 1989 and remained as the standard-issue pistol of the South Korean Armed Forces.
+===Technical details===
+The K5 uses a conventional short-recoil mechanism with a Browning-type locking mechanism, and is chambered in the 9x19mm Parabellum cartridge. It feeds from a double-stack magazine housing 13 or 15 rounds. The receiver of the K5 is made from 7075 aviation alumunum, and the slide is made from steel. The safety lever can be operated by either hand, but the slide-catch is positioned only on the left side of the weapon.
+
+The K5 uses a rare tripe-action hammer. When the weapon is uncocked, the hammer would spring to the cocked position if the trigger is pulled, which provides double-action capability without the need for extra trigger pull, making the weapon both safe and reliable for accurate shots (as the long journey of the trigger makes misfiring hard to occur, and the light trigger pull reduces the hand-shaking of users new to the weapon). The K5 can also fire in the traditional single/double-action way if needed.
+===Specifications===
+*Overall length: 178 mm
+*Overall weight: 734 g
+*Cartridge: 9x19mm Parabellum
+*Action: Short-recoil, Browning locking mechanism
+*Ammo capacity: 13 or 15 rounds, compatible with the gamazine of S&W M5906.
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Semi-automatic pistol
+ Weight                     734 g (25.9 oz) DP51/751 g (26.5 oz) DP51 MKII/686 g (24.2 oz) DP51C
+ Length                     178 mm (7.0 in) DP51 (MKII)/177.8 mm (7.0 in) DP51C
+ Barrel length              104.14 mm (4.1 in)DP51 (MKII)/91.14 mm (3.6 in) DP51C
+ Cartridge                  9×19mm Parabellum
+ Action                     Semi-automatic
+ Effective firing range     50 m
+ Feed system                13- or 15-round magazine DP51 (MKII)
+ Sights                     Iron sights
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''K5'''
+|-
+! colspan=2 | '''Index number''': No.212
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: Korean[[File:Flag_of_Korea.svg|20px]]'''
+! colspan=2 | '''Type: Handgun'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator: [[Lpip]]'''
+|-
+! colspan=4 | '''Stats(Growth: B)'''
+|-
+| '''Health (B)''' ||33 →330|| '''Damage (A)''' ||11 →29
+|-
+| '''Dodge (A)''' ||11 →81|| '''Accuracy (A)''' ||7 →52
+|-
+| '''Movement Speed''' ||15 → 15|| '''Rate of Fire (A)''' ||43 →62
+|-
+| '''Crit chance''' || ? →? || colspan=2 |
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 164 →?
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10 → 30 || '''Rations''' || 10 → 30
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+|Battlefield Philosophy Museum
+| colspan=3 |Provides various buffs to teammates according to their type<br />HG/SMGs receive 20% (40%) additional dodge<br />RF/ARs receive 10% (22%) additional damage<br />MG/SGs receive 40% (80%) additional accuracy<br />Lasts 5 (8) seconds and has a cooldown of 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|1|2|4|6|7|8|}}
+Keypads 1, 2, 4, 6, 7, 8
+|-
+| '''Effect''' || colspan=3 | Applies to all T-dolls, damage +15%, accuracy+20%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 00:53:00
+|-
+| '''Drops''' || colspan=3 | 
+|-
+| '''Others''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:pic_K5.png|400px]]
+|tab2=[[File:pic_K5_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=Chibi version animation|Text=[[File:K5_q.gif]]}}
+
+== Trivia ==
+=== Personality ===
+{{Cquote|<center><big>'''''Contrary to her calm and gentle look, she's a warm-hearted and dire T-doll. By the way, she's also a fan of fortunetelling, and seems to be accurate when it comes to that, making her somewhat popular among T-dolls.'' (与冷静温和的外表相反，她是个热心肠而且急切的战术少女。顺带一提，她还非常热衷于占卜，似乎挺灵验的，因此被很多战术人形拜托过。)'''</big></center>|''T-doll-pedia: 4-star HG "K5"''(战术人形百科：四星手枪"K5")<ref>[https://weibo.com/5611537367/G87eWgqKl?ref=home&rid=18_0_8_2676186760629875854&type=comment#_rnd1521462213506 ''T-doll-pedia: 4-star HG "K5"'' (战术人形百科：四星手枪"K5")]</ref>}}
+
+{{Hide|Title=K5 (in Chinese)|Text=[[File:k5_setting.jpg|400px]]}}
+
+== Voicelines ==
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />As expected. Countless signs indicate that...Commander, this meet of ours, is destined.<br /> 果然，无数的迹象都在表明……指挥官，我和您的相遇，是命中注定的。
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />Is the meeting proposal set?...Hehe, of course this way. I've prepared the corresponding material.<br /> 会议方案已经决定了吧？……呵呵，果然是这样的结论呢，相应的材料我已经准备好了。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />However strong a T-doll's digi-mind is, uncalculatable future happens anyway. But I still have some confidence if it's telling the fortune of tomorrow.<br />人形的心智再怎么强大，也会有无法演算的未来发生，不过只是占卜明天的天气的话，我还是有点自信的。
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Commander, sometimes knowing less is better.<br /> 指挥官，有的时候少知道一点才更好哦。
+| <sm2>_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />There should be signs of how the next mission will turn out......Commander, please keep an eye on everyone......Especially...me...<br />下次的任务结果，应该会有什么征兆才对……指挥官，最近请多留意一下大家的状态……特别是……我的。
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath-link establishment
+| {{lang|ja| }}<br />Though I'm starting to realize, I am still having a bit of a doubt....since I can't believe that I could be so lucky to be so close with you. You have this kind of fate in the palm of your hand, it's unable to escape...<br />虽然我已经有所察觉了，但还是一直有些怀疑……因为我不敢相信，自己能如此幸运，能和您如此接近。这样的命运，已经被您的手心抓住，无法逃离了……
+| <sm2>_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+
+
+==External links and references==
+===Links===
+*[https://en.wikipedia.org/wiki/Daewoo_Precision_Industries_K5 English Wikipedia entry of K5]
+*[http://www.sntmotiv.com S&T Motiv]
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Barefoot]]
+[[Category:Black silk]]
+[[Category:Cat ears]]
+{{SideBarPic|url=pic_K5_D.png|width=500px|left=-185px|bottom=-45px}}
