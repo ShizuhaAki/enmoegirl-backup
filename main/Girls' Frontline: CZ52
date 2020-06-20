@@ -1,0 +1,284 @@
+[[zh:少女前线:CZ52]]
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|<big><big><big>'''''I hope not to forget all the unaccomplished disappointments before every battle, so I write wills for myself.'''''</big></big></big>
+}}
+{{Girls' Frontline profile
+|Name=CZ52
+|image=pic_CZ52.png
+|Caption=
+|Nickname=
+|Moe points=[[Monocular]], [[Prosthetics]]
+|Hair color=Golden
+|Eye color=Blue
+|CV=
+|Type=HG
+|Rarity=★★★
+|Country of Origin=Czech Republic
+|Developed by=
+|Manufactured by=
+|Developed=
+|In service=
+|Related person=[[Girls' Frontline: CZ-75|CZ-75]]
+}}
+'''CZ52''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky. She joined the struggle on February 21, 2018.
+
+== Historical basis ==
+The CZ 52 is a semi-automatic pistol designed for the Czech military by brothers Jan and Jaroslav Kratochvil at Česká Zbrojovka. It was adopted as the vz. 52 (where vz. stands for ''vzor'', or "type" in English). A total of around 200,000 units were manufactured from 1952 to 1954. The CZ 52 uses an unconventional roller-locked action (see below) which works similarly to that of the German MG42. It is chambered for the 7.62x25mm Tokarev cartridge and uses a single-action trigger. The CZ 52 has reliable safety measures. Aside from the manual safety, the spring-loaded firing pin ensures that dropping from heights with the pistol loaded will not misfire. However, due to the force exerted by the spring, the CZ 52 requires a trigger pull at 4 kilogram-force to fire, which is heavy for a single-action pistol. (For comparision, it usually requires a force of around 1.5 kilogram-force to fire a pistol.)
+
+{{Hide|Title=Roller-locked action|Text=
+The CZ 52 uses a short-recoil operation mechanism but with a locking mechanism unique among pistols, with the possibility of taking inspration from that of the MG42. The picture below is the slide of the CZ 52. Note that for simplification purposes, the return spring around the barrel has been removed. The pistol is in a cocked state, with the two rollers locking the bolt and the slide visible.<br>
+[[File:Cz52 1.jpg]]<br>
+When the pistol is fired, the recoil from the barrel moves all the parts backwards, while the barrel will only travel for a short distance, before being stopped by a lug in the receiver, as depicted below. The barrel then stops moving, while the remaining parts move on due to inertia.<br>
+[[File:Cz52 2.jpg|614px]]<br>
+The rollers then retract into the recesses in the bolt, unlocking the slide, which keeps moving to facilitate extraction before the return spring returns all the moving parts back into position, chambering another round and readying the pistol for another shot.<br>
+[[File:CZ52 3.jpg]]<br>
+}}
+
+=== Specifications ===
+Weight		0.95 kg (2.09 lbs)<br>
+Length		209 mm (8.22 in)<br>
+Barrel length	120 mm (4.72 in)<br>
+Cartridge	7.62×25mm M48<br>
+Action		Short-recoil, roller-locked, single action<br>
+Muzzle velocity	500 m/s (1640 ft/s)<br>
+Effective range	50 m (54.6 yd)<br>
+Feed system	8-round single-column detachable box magazine<br>
+Sights		Fixed mechanical sights<br>
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain deviations, and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Semi-automatic pistol
+ Weight                     0.95 kg (2.09 lb)
+ Length                     210 mm (8.3 in)
+ Barrel length              120 mm (4.7 in)
+ Cartridge                  7.62×25mm Tokarev
+ Action                     Recoil operated，roller locked
+ Muzzle velocity            500 m/s (1640 ft/s)
+ Effective firing range     50 m
+ Feed system                8-round detachable box magazine
+ Sights                     Rear: notched and dovetailed
+ front                      fixed blade
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''CZ52'''
+|-
+! colspan=2 | '''Index number'''：No.?
+! colspan=2 | '''Rarity'''：★★★
+|-
+! colspan=2 | '''Nationality: Czech[[File:Flag_of_Czech Republic.svg|20px]]'''
+! colspan=2 | '''Type: HG'''
+|-
+! colspan=2 | '''CV：'''
+! colspan=2 | '''Illustrator: [[小吃]]'''
+|-
+! colspan=4 | '''Stats(Growth: A)'''
+|-
+| '''Health (A)''' || ?→380 || '''Damage (S)''' || 12→33
+|-
+| '''Dodge (B)''' || 9→68 || '''Accuracy (B)''' || 7→50
+|-
+| '''Movement speed''' || 15→15 || '''Rate of Fire (B)''' || 36→53
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | ?→?
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10→30 || '''Rations''' || 10→30
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Firepower Command
+| colspan=3 |Raises firepower of the entire echelon by 11% (20%) for 5 (8) seconds.<br />Has an initial cooldown of 6 seconds with an interval of 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 2,3,8,9
+|-
+| '''Effect''' || colspan=3 | Applies to all T-dolls<br/>Raises '''damage''' by 1%, '''dodge''' by 10%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 
+|-
+| '''Drops''' || colspan=3 |
+|-
+| '''Others''' || colspan=3 | '''Login reward for February 2018'''
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:pic_CZ52.png|400px]]
+|tab2=[[File:pic_CZ52_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== Trivia ==
+
+===Appearance===
+[[file:cz52_wugui.jpg|thumb|350px|<center>''"Inspiration is from how 水乌龟 plays his phone"'' (“灵感来源是水乌龟玩手机的动作” )<ref name="@小吃_寒冰画将（因为我是性癖奇怪的变态吧">[https://weibo.com/1921572323/G0Y78eVYW?filter=hot&root_comment_id=4202311230903750&type=comment#_rnd1517399088391 Weibo: @小吃_寒冰画将（因为我是性癖奇怪的变态吧）]</ref></center>]]
+{{Hide|Title=CZ52 (in Chinese)|Text=[[File:CZ52_description.jpg|400px]]}}
+
+{{Cquote|<center><big>'''''Due to how it was influenced by the MG42 GPMG, the CZ-52<sup>sic</sup> uses a roller-locked action uncommon for pistols. In ''Girls' Frontline, she's a calm and behaved T-doll with a dream to travel around the world, and highly values everything she has.''<br>(因为设计时受到了MG42通用机枪的影响，CZ-52采用了滚轴闭锁技术，在手枪中是十分少见的。在《少女前线》中，她是一名温和有礼的战术少女，她有着环游世界的梦想，非常珍惜自己拥有的一切。'''</big></center>
+|''T-doll-pedia: 3-star HG "CZ52"'' (战术人形百科：三星步枪“CZ52”)<ref>[https://weibo.com/5611537367/G0XPAd31h?from=page_1006065611537367_profile&wvr=6&mod=weibotime&type=comment#_rnd1517402952100 T-doll-pedia: 3-star HG "CZ52" (in Chinese)]</ref>}}
+
+====Prosthetics====
+In the microblog with the Damaged-state illustration of the CZ 52, posted on 31 January, her illustrator replied to the question of why the left leg of CZ52 is a prosthesis: "'''''Because I'm a hentai with a weird sexual tendency.'' (“因为我是性癖奇怪的变态吧”)'''
+
+===Substitute===
+It was mentioned in the[[Girls' Frontline: Previous updates and login backgrounds#Offline update notice, January 25|offline update notice of January 25]] as: "''Added: 3-Star T-doll '[[Girls' Frontline: MP-443|MP-443]]', available for commanders through logins in February.'' (“新增：三星手枪战术人形“MP-443”，指挥官可通过二月签到获得。”)". However, illustrations of MP-443 were never released. {{Spoiler|However, it can be found through unconventional methods such as unpacking data.}}
+
+Eventually, it was mentioned in the [[Girls' Frontline: Previous updates and login backgrounds#Offline update notice, February 01|offline update notice of February 01]] that: "''Adjustment: Changed February login T-doll from 3-star T-doll '[[Girls' Frontline: MP-443|MP-443]]' to 3-star HG T-doll '[[Girls' Frontline: CZ52|CZ52]]'''. (“调整：二月签到战术人形由三星手枪战术人形“MP-443”调整为三星手枪战术人形“[[少女前线:CZ52|CZ52]]。”)", spawning much speculation about the reason of the sudden change.
+
+===Damaged-state illustration===
+The illustration of CZ52 was released alongside the notice that MP-443 was to be replaced by her as the login reward for February 2018. However, her Damaged-state illustration was not released. Her illustrator, however, released the damaged illustration ahead of the developers.<ref>[https://weibo.com/songyuandu?is_all=1 @小吃_寒冰画将]</ref>
+
+At the same time revealing that:
+{{Cquote|<center>'''''The damaged version of CZ52 wasn't what it is right now, felt that the previous one was too ugly to look at, so just redrew at that moment. Inspiration is from how 水乌龟 plays his phone.'' (“其实CZ52的大破之前不是这一版本，后来觉得以前画的太丑了，就临时重画了，灵感来源是水乌龟玩手机的动作”)'''</center>
+|Weibo:@小吃_寒冰画将 <ref name="@小吃_寒冰画将（因为我是性癖奇怪的变态吧" />}}
+
+== Voicelines ==
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! colspan=3 |CV not implemented
+|-
+! Case !! Line !! Audio
+|-
+| Login
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline
+| <sm2>_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />
+| <sm2>_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />Greetings, commander. I'm CZ52. Though still a rookie, please do keep an eye out for me.<br />指挥官您好，我是CZ52，虽然还只是个新人，不过还请您多多关照。
+| <sm2>_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />I hope not to forget all the unaccomplished disappointments before every battle, so I write wills for myself.<br />我希望每次战斗前都不忘记未曾完成的遗憾，所以我会写遗书留给自己。
+| <sm2>_005.mp3</sm2>
+|-
+| {{lang|ja|}}<br />I want to meet more friends, go see more places, and get more happiness....<br />我想遇到更多的伙伴，去更多的地方看看，得到更多的幸福……
+| <sm2>_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Does the commander need any help? Please order as you like, I'll be always by your side.<br />指挥官需要帮忙吗？请尽管吩咐，我会一直在您的身边的。
+| <sm2>_007.mp3</sm2>
+|-
+| Adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Though I have written many wills, I'm still not that adept at writing love letters....How about having the commander teach me? Tee-hee~<br />虽然写过很多次遗书了，但情书还是不太熟练呢……不然指挥官教教我吧？嘻嘻~ 
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />
+| <sm2>_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />
+| <sm2>_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />
+| <sm2>_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|}}<br />
+| <sm2>_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />
+| <sm2>_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />
+| <sm2>_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />
+| <sm2>_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />
+| <sm2>_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />
+| <sm2>_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />
+| <sm2>_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />
+| <sm2>_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|}}<br />
+| <sm2>_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />
+| <sm2>_004.mp3</sm2>
+|-
+| rowspan=3 | Activating ability
+| {{lang|ja|}}<br />
+| <sm2>_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_022.mp3</sm2>
+|-
+| {{lang|ja|}}<br />
+| <sm2>_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja| }}<br />Commander, thank you for fulfilling this wish of mine...I'm really so happy to have earned your reply...Please look at me, take my hand, hold me in your arms...Love me....<br />指挥官，谢谢您完成了我的这个心愿……能够得到您的回应，我真的好幸福……请您看着我，牵着我，抱着我……爱着我吧……
+| <sm2>_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_CZ52_D.png|width=500px|left=-170px|bottom=-20px}}
+
+== External links and references ==
+=== References ===
+<references/>
+* [http://www.guns.com/2013/04/03/the-cz-52-pistol-a1950s-czech-hotrod/?utm_source=rss&utm_medium=rss&utm_campaign=the-cz-52-pistol-a1950s-czech-hotrod guns.com]
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Monocular]]
+[[Category:Prosthetics]]
