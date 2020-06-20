@@ -1,0 +1,363 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Eh? My face is red? It's because...it's a bit hot today! D-Don't get the wrong idea!</big></big>'''}}
+{{Girls' Frontline profile
+|Title=WA2000
+|image=gfwa2000_1.jpg
+|Caption=[https://twitter.com/FZ_chirou Artist：@方丈要吃肉]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66290800 Pixiv：66290800]
+|Original name=Walther WA2000
+|Nickname(s)=WA-chan, {{Spoiler|Whitealbum}}
+|Moe point(s)=[[Tsundere]]
+|Hair color=Purple
+|Eye color=Red
+|CV=Haruka Tomatsu
+|Type=RF
+|Rarity=★★★★★
+|Country of origin=Germany
+|Manufactured by=Carl Walther
+|Developed=1970-1980
+|In service=2003-
+|Related to={{Spoiler|Hitman 47}}
+}}
+'''WA2000''' is a character from the Tactical game '''[[Girls' Frontline]] developed by MicaTeam and published by Sunborn and its derivatives.
+
+== Historical basis == 
+The Walther WA2000 sniper rifle was developed by Carl Walther from the end of the 1970s to the start of the 1980s. It was first unveiled in 1982 before it was adopted in minimal numbers by some SWAT teams of Germany and other European countries. At that time, most high-precision sniper rifles are improvements over sporting rifles or hunting rifles, but WA2000 is a notable exception, which is marketed solely for use by military/police snipers. The weapon possesses an exotic design as well as high precision.
+
+=== Specifications ===
+*Empty weight: 6.95 kg
+*Length: 905 mm (35.6 in)
+*Barrel length: 650 mm (25.6 in)
+*Cartridge: 
+**7.62×51mm NATO
+**.300 Winchester Magnum
+**7.5×55mm Swiss
+*Magazine capacity: 6 rds
+*Rate of Fire: User-dependent (Semi-automatic)
+*Effective range: 700 m (766 yds)
+*Sights: Schmidt & Bender 2.5-10X Telescopic sight
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain deviations and represent only the game's stance towards the weapon. For reference only.'''
+ Type                       Semi-automatic Bullpup sniper rifle
+ Weight                     2.31 kg (5.1 lb) empty (no scope)
+                            2.72 kg (6 lb) loaded (no scope)
+                            6.95 (6.6 lb) loaded (with scope)
+ Length                     905 mm (35.6 in) 
+ Barrel length              650 mm (25.6 in)
+ Cartridge                  7.62×51mm NATO 
+                            .300 Winchester Magnum 
+                            7.5×55mm Swiss
+ Action                     Gas-operated. rotating bolt
+ Rate of fire               Semi-automatic
+ Effective firing range     700 m (766 yds)
+ Feed system                6-round detachable box magazine.
+                            A 10-round magazine was also made 
+                            but never used nor exported.
+ Sights                     Schmidt & Bender 2.5–10X telescopic sight
+}}
+
+=== History ===
+Due to how Walther built the WA2000 with quality and accuracy on the top of the priority list while being oblivious to production costs, units were sold at high prices with few customers, culminating in its limited production and sales. It is estimated that a total of only 176 units were produced before production halted in November 1988. Each unit costs 9,000 to 12,500 US dollars in 1988 ''without'' their scopes. Only a total of 15 units were exported to the US (there are also claims that put the number at 34, but they are iffy at best), 11 of them ending up in the personal ownership of Earl J. Sheehan, Jr., CEO of the US subsidiary of Walther. Due to their scarce numbers, a single WA2000 sells for prices as high as 75,000 to 80,000 US dollars each in the current US market. Despite this high price, sniper rifle collectors and match shooters still regard this rifle as the "dream rifle" for its rarity (and the ever-rising price) and high accuracy. Orders for WA2000 can still be seen on the official website of Walther, with some calibers to choose from, but without prices, which hints that WA2000s are still available to the customer's order. According to personal confirmation from Earl J. Sheehan, Jr., a WA2000 does indeed cost 75,000 US dollars to be built to an order.
+
+The WA2000 was made in two different variants, but without specific names, making the general population call the first WA20000s as Generation 1, and the rest Generation 2.
+
+The iconic feature of Generation 1 WA2000s is the can-shaped flash hider alongside the fluted barrel to reduce weight and improve heat disspation.
+
+[[File:第一代WA2000.jpg|400px]]
+
+
+However there are some problems with the gas system of the WA2000, prompting the development of Generation 2, which not only improved the gas system but also reduced felt recoil. Generation 2 WA2000s use a "birdcage" flash hider which also acts as a muzzle brake. The barrel is no longer fluted on Generation 2 WA2000s, the bipods are improved, which helped improve accuracy albeit with the added weight. Walther also shortened the aluminium-alloy frame and the wooden forearm of Generation 2 WA2000s, which kept the weight in line with that of the Generation 1.
+
+[[File:第二代WA2000.jpg|400px]]
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''WA2000'''
+|-
+! colspan=2 | '''Index number'''：No.048
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: German[[File:Flag_of_Germany.svg|20px]]'''
+! colspan=2 | '''枪械类型：步枪'''
+|-
+! colspan=2 | '''CV：[[Haruka Tomatsu]]'''
+! colspan=2 | '''Illustrator: 多元菌'''
+|-
+! colspan=4 | '''Stats(Growth: A)'''
+|-
+| '''Health (B)''' || 44 → 88×5 || '''Damage (A)''' || 47 → 130
+|-
+| '''Evasion (C)''' || 4 → 30 || '''Accuracy (S)''' || 10 → 82
+|-
+| '''Movement speed''' || 7 → 7 || '''Rate of Fire (A)''' || 26 → 39
+|-
+| '''Crit chance''' || 40% → 40% || colspan=2 |
+|-
+! colspan=4 | '''Combat efficiency'''
+|-
+! colspan=4 | 182 → 4006
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15 → 55 || '''Rations''' || 30 → 90
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Assault Focus
+| colspan=3 | Increases Rate of Fire by 45% (75%) for 3 (5) seconds. <br />Initial cooldown: 6 seconds<br />Cooldown: 10 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|6}}
+Keypad 6
+|-
+| '''Effect''' || colspan=3 | Applies to '''HG'''s<br/>Skill CD-18%。
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 04:50:00
+|-
+| '''Drops''' || colspan=3 | 0-4
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+|bt3=Skins
+|tab1=[[File:WA2000.png|400px]]
+|tab2=[[File:WA2000 D.png|400px]]
+|tab3={{tabs
+|DefaultTab=1
+|color=black
+|bt1=Op. Manta Ray
+|tab1={{tabs
+      |DefaultTab=1
+      |color=black
+      |TextBackgroundColor=rgba(244,173,6,0.6)
+      |bt1=<!--Op. Manta Ray-->Normal
+      |bt2=Heavily damaged
+      |tab1=[[File:pic_WA2000_1108.png|400px]]
+      |tab2=[[File:pic_WA2000_1108_D.png|400px]]
+      }}
+
+}}
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=Chibi for Op. Manta Ray|Text=[[File:WA2000_泳装_Q版.gif]]}}
+
+== Trivia ==
+*The words on the bag seen in ''Op. Manta Ray'' read "ONE SHOT" "ONE KILL", possibly hinting at the WA2000's high accuracy.
+===Setting===
+{{Cquote|
+<big>'''''Calm, focused and proud personality, considers herself to be a work of kill, chases after the so-called "art of pure extermination". Claims to be unwilling to be involved in too much relationships, but is in fact just inapt in joining groups.''(冷静专注又高傲的性格，认为自己是一件杀戮的作品，追求所谓的“纯粹抹杀艺术”，自称不愿沾染太多感情，事实上只是不擅长融入集体而已。)'''</big>
+|From the official art collection ''THE ART OF GIRLS'FRONTLINE UNTIL THE STARS''}}
+
+In a Chinese fan report on October 27, 2016<ref>http://tieba.baidu.com/p/4838403340?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=8.8.8.6&st=1507875781&unique=EE8345C9DF3799EE35412BEBBADD2ADB Fan report (in Chinese)</ref>, her illustrator mentioned some settings regarding WA2000.
+<poem>
+*''Prefers sweet food, unexpectedly likes rye bread, praising it as "the taste of the adults".''
+
+*''Likes small furry animals, fears large dogs a bit, but if it is the calmer breeds that won't charge up and force her to the ground on the first sight, she would still approach them (carefully). Rejects crawling bugs and insects. The type that gets knocked by birds, therefore hardly accepts thems. Like most people, [she] will call out greetings that don't get replies instinctively as if the receiver is a small kid when [she] comes into contact with animals she likes. Because it's largely embarrassing from a bystander's view, it's hard to see WA approaching animals on public occasions.''
+
+*''Tanned her skin into a healthy wheat-color during summer, spent quite some efforts to turn it back, during which [she] intentionally hid from the Commander.''
+
+*''Desperately inapt at making dishes. With long-and-hard work, even small outcomes makes her dance and cry in joy (followed by the outcome falling to the floor, from which comes agony) (of course this won't be seen by the commander)''
+
+*''Might play tricks on the commander if unhappy, such as mixing mustard-flavoured candies in ordinary ones before giving them to the commander (but if unfortunately caught the chance to talk to the commander causing herself to be happy, [she] tends to forget causing her to accidentally have the mustard-flavoured candy), or adding salt instead of sugar to the coffee.
+
+*''Gets seriously jealous seeing her commander with other dolls, to the extent that the commander feels a chill behind the back, but never develops to hate. Cares a lot to those she loves, but is inapt at expressing. Daily greetings are enough to make her more than happy, while further conversations or even gift-giving perhaps means utmost happiness for wa<sup>sic</sup>
+</poem>
+
+=== Illustration ===
+The inspiration for the design of such a character is revealed in the art collection, trascribed as follows:
+
+{{Cquote|
+''Elegant, rare, expensive, expressed in the setting having these characteristics, but not the doll itself. Feels more like the pride from the character with her partner [gun]/her half [rather some kind of coincidence], the pride of wanting to keep the high performance she owns, yet unable to lower her ranks to join the public, hence the tsundere setting [aside from these I just drew too much drooping eyes and wanted to draw high eyes!]. Because there're too many red-blacks for the Germany-series.. so (I) wanted to try some different color combinations, hence the yellow-black, and the checkered pattern comes from that on some police uniforms, to show that (WA2000) is primarily used in the police.''
+
+''Easter egg: Because of claims that the WA2000 first made an appearance in video games in the ''Hitman'' series, at least used red for the tie as a neta.''
+
+(精贵，稀有，高造价，其体现于设定上并非人形本身具有这些特性，感觉更像是角色对于搭档【枪械】/自己的半身而产生的一种自豪感【算是有种歪打正着的感觉】，想保持自己所持有高性能的这份矜持，却又放不下架子去融入大众，便有了傲娇这一属性【抛去这些吾只是垂眼角画多了想画个吊眼角！】德系通常的红黑有点多的缘故。。所以想尝试一些不同的配色，便使用了黄黑，而间隔格子的花纹主要源自一些警察制服上的花纹，体现现实中多为警用这点。
+
+着装彩蛋：因为据说wa2000初次出现在游戏中是在Hitman系列里，于是至少领带特意使用了红色来做neta。)
+|多元菌}}
+
+The ''Hitman'' series mentioned above refers to the renowned ''Hitman 47'' series known to a great part of the gaming community. Indeed, the WA2000 first made an appearance in the second installation of the seires, ''Hitman 2 Silent Assassin'', with the protagonist, 47, primarily seen in a black suit and a red tie, confirming the illustrator's homage paid to the series by using a red tie on WA2000.
+[[File:WA2000 with Codename 47.png|400px|right|thumb|
+<center><div style="display:inline-block;">Artist:NaRynn <ref>[https://www.pixiv.net/member.php?id=3624793 Artist:NaRynn]</ref>
+<br>Twitter:@NaRynn_H <ref>[https://twitter.com/NaRynn_H Twitter:@NaRynn_H]</ref></div></center>]]
+{{Hide|Title=Poster of ''Hitman 47''|Text=
+[[File:杀手：代号47海报.jpeg|none|thumb|600px|To pay homage to the series, 47 portrayed in the poster used the classic kneeling profile he commonly employs when using the WA2000, {{spoiler|Which possibly served as inspiration for the picture to the right.}}]]
+}}
+
+===Tsundere===
+WA2000 is also a tsundere model among the dolls present in the game, to the extent that she attempts to play pranks on the commander when the latter is already asleep. She also (reluctantly) says "sorry" in one of her quotes.
+
+===White Album 2000===
+WA2000 also earned the nickname White Album 2000 due to the identical initials, WA.
+
+
+===Sweetfood===
+
+*It is also revealed that G36 prepared chocolate ice cream specifically for WA2000 as Gr MP5 made a rendezvous with WA2000 scouting along the front line in the midnight section of episode 1. Judging by G36's caring personality, it can be safe to assume that WA2000 indeed loves chocolate ice creams.
+
+*This is further reinforced by WA2000 specifically telling Gr MP5 ''not'' to let others know of this specific preference despite all the comms being heard by the commander.
+
+== Quotes ==
+*English quotes in ''italic'' are rough translations from the Japanese/Chinese part due to a lack of reliable data present in the files.
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>WA2000_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|あんた、どこ行ってたのよ。そんなに私の顔が見たくないの？ }}<br />''Where have you gone!? Are you so unwilling to see my face?''<br />你去哪了！就这么不想看到我吗？
+| <sm2>WA2000_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|私の名前はワルサーダブルーエム2000。指揮官、私の足を引っ張ったら、承知しないわよ。}}<br />My name is WA2000. Commander, stand aside and don't get in my way.<br />WA2000。指挥官，你就乖乖看着吧，别当我的绊脚石就行了。
+| <sm2>WA2000_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|バカね、本当に嫌いだったら、口にも聞いてあげないわよ。}}<br />Idiot...if I really hated you then I wouldn't be talking to you.<br />真是笨呢，要是真的讨厌你，就不会和你说话了。
+| <sm2>WA2000_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|いい！気安く私の名を呼ばないで、汚らしい手で私の銃に触れるのをやめてちょうだい！}}<br />Listen carefully! Don't casually call my name and don't touch my gun with your filthy hands!<br />听好了！别随便叫我的名字，还有，别随便碰我的枪！
+| <sm2>WA2000_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|えぇ？顔が赤い？だって…今日暑いから、か^勘違いしないでよね～！}}<br />Eh? My face is red? It's because...it's a bit hot today! D-Don't get the wrong idea!<br />诶？脸红？还不是今天有点热！别会错意了啊！
+| <sm2>WA2000_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant<br>Post-oathing
+| {{lang|ja|}}<br />Is there anything else left to do? Letting someone so valuable like myself be busy the entire day, you'd better reward me well after work, okay?<br />还有哪里需要做的？让拥有着昂贵身价的我忙了一整天，下班后该好好报答我一番吧？
+| <sm2></sm2>
+|-
+| As adjutant<br>Halloween outfit
+| {{lang|ja|}}<br />Eek! I wasn't scared or anything! Ah! Don't bring that jack-o'-lantern any closer!<br />噫！才没有害怕呢！哇！别拿着南瓜头过来！
+| <sm2>WA2000_ALLHALLOWS_JP.mp3</sm2>
+|-
+| As adjutant<br>Christmas outfit
+| {{lang|ja|}}<br />Since you look like you're free, and you look so pitiful being alone, I will accompany you for a bit...<br />反正你现在闲着吧，一个人看着太可怜了，稍微陪陪你吧……
+| <sm2>WA2000_CHRISTMAS_JP.mp3</sm2>
+|-
+| As adjutant<br>Anniversary outfit
+| {{lang|ja|}}<br />
+| <sm2></sm2>
+|-
+| As adjutant<br>Op. Manta Ray
+| {{lang|ja|}}<br />
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2>WA2000_MOOD2_JP.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>WA2000_MOOD1_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>WA2000_APPRECIATE_JP.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>WA2000_AGREE_JP.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|言われなくでも出てあげるわよ、感謝しなさいよね。}}<br />''I'll come even if you don't say it. Now thank me quick.''<br />就算你不说，我也会来的，还不快感谢我。
+| <sm2>WA2000_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|うん～出撃？まあ、いいんじゃない。}}<br />'''Hmmm...Go and strike? Welp ain't nothing bad.''<br />嗯…出击？嘛，也没啥不好的。
+| <sm2>WA2000_GOATTACK_JP.mp3</sm2>
+|-
+| Attacking (use remains unclear)
+| {{lang|ja|}}<br />''Go die! Go die! Go die quick!''<br />去死吧！去死吧！快点去死吧！
+| <sm2>WA2000_ATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|なんか...ムカつく顔を思い出した…}}<br />''Makes me think...of a face making me angry.''<br />总感觉，想起了一张让人火大的脸。
+| <sm2>WA2000_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|バカ...あんたに心配されたくないわよ…}}<br />''Idiot....I'm not wanting you to worry about me.''<br />笨蛋，才不想被你担心呢。
+| <sm2>WA2000_BREAK_JP.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|ちっ！素直な私でも、軽く見られてしまうね…}}<br />''Pfft, even if I get straightforward, I'll still get underestimated.''<br />切，就算我变得坦率了，也还是会被小看的啊。
+| <sm2>WA2000_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|ほら、感謝しなさいよ。}}<br />''See, now remember to thank me.''<br />看吧，记得感谢我哦
+| <sm2>WA2000_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|その…ごめんなさい。}}<br />''Ummm...sorry......''<br />那个…抱歉…
+| <sm2>WA2000_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|ここの敵は、私が皆殺しにしてあげるわ。}}<br />''Just let me kill, all the enemies here.''<br />这里的敌人，就让我来杀个清光吧。
+| <sm2>WA2000_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|ふん～！いいわ、やってあげる。}}<br />''Humph, ok, I'll show it to you.''<br />哼，好吧，我干给你看。
+| <sm2>WA2000_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|無事に帰ってきたのよ。当然でしょう。}}<br />Came back all fine, isn't it for granted?''<br />我回来了，这不是理所当然的么？
+| <sm2>WA2000_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|うん～？見慣れない顔が来たわね，新入りかしら？}}<br />Humph~A new face I haven't seen. A new girl?<br />哼~没见过的新面孔呢，是新人么？
+| <sm2>WA2000_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy linking
+| {{lang|ja|編成拡大？まあ、一回ぐらいはいいでしょう。}}<br />''Dummy link? Well, ain't a "no" for once.''<br />编制扩大？嘛，一次的话也不是不行。
+| <sm2>WA2000_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|この私があんたにお礼を言うんだから、こ…心して受けなさいよね。}}<br />''I have come personally to thank you so you-you just take it with all your gratefulness.''<br />我本人都亲自过来给你道谢，你就心怀感激的收下吧。
+| <sm2>WA2000_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|邪魔しないで！}}<br />''Quit bothering me!''<br />别妨碍我！
+| <sm2>WA2000_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|次に死ぬのは，アンタ達の番よ！}}<br />''It'll be your turn to die!''<br />接下来会死的轮到你们了！
+| <sm2>WA2000_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|私は、殺しのためだけに生まれてきたの！}}<br />''I am, built for killing.''<br />我是为了杀戮而生的。
+| <sm2>WA2000_SKILL3_JP.mp3</sm2>
+|-
+| Oathing
+| {{lang|ja|私は殺しの為だけに作れだのよ，他の事など，考えた事はないわ。指揮官，こんな私を側に置いてくれるの？…えっと，私，もっと素直になれるかな？}}<br />I'm a tool created solely for the purpose of killing, and I've never thought about anything else besides that. Commander, are you sure you want me by your side? Hmm...with this, perhaps I'll become even more perfect.<br />我只是一件用于抹杀的作品，从没有过其它的想法。指挥官，您真的要将我留在身边？嗯……这样的我，也会更加完美……
+| <sm2>WA2000_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+{{SideBarPic|url=21432933 1464412843673944 5309500594061760036 n.png|width=325px|left=-50px}}
+
+== External links ==
+<ref>[https://www.pixiv.net/member.php?id=3872398 Artist for sidebar:孟達]</ref>
+<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=64877151 Sidebar picture Pixiv ID:64877151]</ref>
+
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Pantyhose]]
+[[Category:Tsundere]]
