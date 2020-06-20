@@ -1,0 +1,36 @@
+<noinclude>
+Time is UTC+0900. 25:00 on Thursday is also Thurday. 
+
+Welcome editing and correcting. 
+
+</noinclude>
+
+{{navbox
+| {{#ifeq:{{{1}}}|child|child|}}
+|name=2017 Winter Japanese Anime
+|title=<div style="text-align:center;{{#ifeq:{{{1}}}|child||line-height:10pt;}}">[[2017 Winter Japanese Anime]]{{#ifeq:{{{1}}}|child| |<br /><div style="word-spacing: 100px"><small>[[Template:2016 Autumn Japanese Anime|←2016 Autumn]] [[Template:2017 Japanese Anime|2017 Japanese Anime]] [[Template:2017 Spring Japanese Anime|2017 Spring→]] </small></div>}}</div>
+|state =  {{#ifeq:{{{2}}}|uncollapsed|mw-uncollapsed|mw-collapsible mw-collapsed}}
+|navbar = {{#ifeq:{{{1}}}|child|plain|}}
+
+|group1 = Monday
+|list1  = ''[[Onihei]]{{w}}[[Gabriel DropOut]]{{w}}[[GAN GAN GANKO-CHAN]]{{w}}[[Sentai Hero Sukiyaki Force]]{{w}}[[Chou Shounen Tanteidan Neo]]{{w}}[[Chiruran: Shinsengumi Requiem|Chiruran 1/2]]{{w}}[[Yowamushi Pedal|Yowamushi Pedal NEW GENERATION]]''
+
+|group2 = Tuesday
+|list2  = ''[[Ai Mai Mi|Ai Mai Mi～Surgical Friends～]]{{w}}[[ACCA: 13-Territory Inspection Dept.]]{{w}}[[Kemono Friends]]{{w}}[[Sentai Hero Sukiyaki Force]]{{w}}[[Hand Shakers]]''
+
+|group3 = Wednesday
+|list3  = ''[[Akiba's Trip -THE ANIMATION-]]{{w}}[[Chaos;Child]]{{w}}[[God’s Blessing on this Wonderful World!|God’s Blessing on this Wonderful World! 2]]{{w}}[[Miss Kobayashi's Dragon Maid]]{{w}}[[Sentai Hero Sukiyaki Force]]{{w}}[[Nanbaka|Nanbaka 2nd Season]]{{w}}[[Piacevole!]]{{w}}[[One Room]]''
+
+|group4 = Thursday
+|list4  = ''[[Urara Meirocho]]{{w}}[[Scum's Wish]]{{w}}[[SUPER LOVERS|SUPER LOVERS 2]]{{w}}[[Seiren]]{{w}}[[Sentai Hero Sukiyaki Force]]{{w}}[[World of Super Sandbox]]{{w}}[[MARGINAL＃4|MARGINAL#4: Kiss kara Tsukuru Big Bang]]{{w}}[[Masamune-kun's Revenge]]''
+
+|group5 = Friday
+|list5  = ''[[BLUE EXORCIST|BLUE EXORCIST Kyoto Saga]]{{w}}[[INAZMA DELIVERY]]{{w}} [[Koro-seisen Q|Koro-sensei Q!]]{{w}}[[Showa Genroku Rakugo Shinju|Showa Genroku Rakugo Shinju～Sukeroku Futatabi-hen～]]{{w}}[[SCHOOLGIRL STRIKERS|SCHOOLGIRL STRIKERS Animation Channel]]{{w}}[[Sentai Hero Sukiyaki Force]]{{w}}[[TAMA-PAWNS]]{{w}}[[Fuuka]]{{w}}[[Minami Kamakura High School Girls Cycling Club]]{{w}}[[Saga of Tanya the Evil]]''
+
+|group6 = Saturday
+|list6  = ''[[Sengoku Choujuu Giga|Sengoku Choujuu Giga: Otsu]]{{w}}[[Chain Chronicle|Chain Chronicle～Light of Haecceitas～]]{{w}}[[Interviews with Monster Girls]]{{w}}[[BanG Dream|BanG Dream!]]{{w}}[[Whistle!|Whistle! (Voice Remake)]]{{w}}[[Rewrite|Rewrite 2nd Season]]{{w}}[[Once upon a Time There was a Spirit Blade Mountain|Reikenzan Eichi e no Shikaku]]''
+
+|group7 = Sunday
+|list7  = ''[[Idol Incidents]]{{w}}[[élDLIVE]]{{w}}[[Pretty Cure Series|Kirakira PreCure a la Mode]]{{w}}[[Gintama|Gintama.]]{{w}}[[Tales of Zestiria|Tales of Zestiria the X 2nd Season]]{{w}}[[Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari]]{{w}}[[Nyanko DAYS]]{{w}}[[Yamishibai|Yamishibai 4th Season]]{{w}}[[Little Witch Academia]]''
+
+}}

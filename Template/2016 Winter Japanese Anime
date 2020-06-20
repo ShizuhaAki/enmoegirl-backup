@@ -1,0 +1,38 @@
+<noinclude>
+Time is UTC+0900. 25:00 on Thursday is also Thurday. 
+
+Welcome translating, editing and correcting. 
+
+</noinclude>
+
+{{navbox
+| {{#ifeq:{{{1}}}|child|child|}}
+|name=2016 Winter Japanese Anime
+|title=<div style="text-align:center;{{#ifeq:{{{1}}}|child||line-height:10pt;}}">[[2016 Winter Japanese Anime]]{{#ifeq:{{{1}}}|child| |<br /><div style="word-spacing: 100px"><small>[[Template:2015 Japanese Anime|←2015]] [[Template:2016 Japanese Anime|2016 Japanese Anime]] [[Template:2016 Spring Japanese Anime|2016 Spring→]] </small></div>}}</div>
+|state =  {{#ifeq:{{{2}}}|uncollapsed|mw-uncollapsed|mw-collapsible mw-collapsed}}
+|navbar = {{#ifeq:{{{1}}}|child|plain|}}
+
+|group1 = Monday
+|list1  = ''[[Aokana: Four Rhythm Across the Blue]]{{w}}[[Snow White with the Red Hair|Snow White with the Red Hair 2nd season]]{{w}}[[Ketsuekigata-kun! 4|Ketsuekigata-kun! 4]]{{w}}[[Saijaku Muhai no Bahamut]]{{w}}[[Teekyuu|Teekyuu 7]]{{w}}[[Mahou Shoujo Nante Mouiidesukara]]''
+
+|group2 = Tuesday
+|list2  = ''[[PRINCE OF STRIDE|PRINCE OF STRIDE ALTERNATIVE]]''
+
+|group3 = Wednesday
+|list3  = ''[[God’s Blessing on this Wonderful World!]]{{w}}[[SUSHI POLICE]]{{w}}[[Haruchika|Haruchika]]{{w}}[[Myriad Colors Phantom World]]''
+
+|group4 = Thursday
+|list4  = ''[[Active Raid: Special Public Security Fifth Division Third Mobile Assault Eighth Unit]]{{w}}[[Assassination Classroom|Assassination Classroom 2]]{{w}}[[Girls beyond the Wasteland]]{{w}}[[Dagashi Kashi]]{{w}}[[NORN9]]{{w}}[[Phantasy Star Online2]]{{w}}[[Only I do not exist in the city]]{{w}}[[Momokuri]]''
+
+|group5 = Friday
+|list5  = ''[[Ajin: Demi-Human]]{{w}}[[Please Tell Me! Galko-chan]]{{w}}[[She and Her Cat|She and Her Cat-Everything Flows-]]{{w}}[[Gate|Gate Enryū Hen]]{{w}}[[Pandora in the Crimson Shell: Ghost Urn]]{{w}}[[Kono Danshi|Kono Danshi, Mahou ga Oshigoto Desu]]{{w}}[[Descending Stories: Showa Genroku Rakugo Shinju]]{{w}}[[Sekkō Boys]]{{w}}[[Tabimachi late show]]{{w}}[[Divine Gate]]{{w}}[[Congqian Youzuo Lingjianshan|Reikenzan: Hoshikuzu-tachi no Utage]]''
+
+|group6 = Saturday
+|list6  = ''[[God Eater|God Eater 陨石篇]]{{w}}[[Koyomimonogatari]]{{w}}[[Durarara!!|Durarara!!×2 Ketsu]]{{w}}[[Nurse Witch Komugi R]]{{w}}[[Fairy Tail|Fairy Tail ZERØ]]{{w}}[[BBK/BRNK]]{{w}}[[Luck Logic|Luck &amp; Logic]]{{w}}[[Luck Logic|Hina Logi ~from Luck & Logic~]]{{w}}[[Rilu Rilu Fairilu|Rilu Rilu Fairilu~ Yousei no Door ~]]''
+
+|group7 = Sunday
+|list7  = ''[[Ooya-san wa Shishunki!]]{{w}}[[Schwarzesmarken]]{{w}}[[Dimension W]]{{w}}[[Rainbow Days]]{{w}}[[Grimgar of Fantasy and Ash]]{{w}}[[Pretty Cure|Maho Girls PreCure!]]{{w}}[[Yamishibai: Japanese Ghost Stories|Yamishibai Season 3]]''
+
+|group8 = Irregular
+|list8  = ''[[Isobe Iso Hyōe monogatari ~ ukiyo wa tsurai yo ~]]{{w}}[[KochinPa!]]''
+}}
