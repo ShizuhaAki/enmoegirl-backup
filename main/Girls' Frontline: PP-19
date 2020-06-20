@@ -1,0 +1,274 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Girls' Frontline navbar
+|Title=PP-19
+|image=少女前线-PP-19.png
+|Original name=PP-19 Bizon
+|Nickname=
+|Moe point=[[Short hair]]
+|Hair color=White
+|Eye color=Blue
+|CV=Serizawa Yuu
+|Type=SMG
+|Rarity=★★★★
+|Country of Origin=Russia
+|Manufactured by=Izhmash
+|Developed=1993
+|In service=
+|Related people=Viktor Kalashnikov<br/>Alexey Dragunov
+}}
+
+'''PP-19''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and its derivatives.
+
+== Historical basis ==
+
+A new model of submachine gun was developed in 1993 by two engineers of Izhmash, Viktor Kalashnikov and Alexey Dragunov, son of the designer of the AK and the SVD, respectively. The weapon is named ''Bizon'' (Bison).
+
+The Bizon's receiver resembles that of the AK, and the weapon has 60% of its parts shared with the AK-100 family of assault rifle. The Bizon also borrowed the firing mechanism wholesale from the AK-74M, albeit using a simple blowback mechanism instead of a gas-operated bolt. The Bizon can accept different types of rear sights and stocks if needed, and evolved into the Bizon-2 and the Bizon-3.
+
+=== Specifications ===
+{| class="wikitable"
+|-
+! Model !! Caliber and characteristic !! Overall length, mm !! Empty weight, kg<br>(with empty magazine) !! Rate of fire, RPM !! Effective range, m !! Muzzle velocity, m/s !! Magazine capacity, rds 
+|-
+| BIZON-2 || 9×18mm PM/PMM || 690/452 || 2.7 || 680 || 100/150 || 340/460 || 64 
+|-
+| -2-01 || 9×19mm Parabellum || 690/452 || 3.0 || 700 || 200 || 380 || 53
+|-
+| -2-02 || 9×17mm Colt || 690/452 || 2.7 || 680 || 100 || 330 || 64
+|-
+| -2-03 || 9×18mm with integral silencer || 790/570 || 3.2 || 680 || 100 || 290 || 64
+|-
+| -2-04 || 9×18mm semi-automatic || 690/452 || 2.7 || - || 100 || 340 || 64
+|-
+| -2-05 || 9×19mm semi-automatic || 690/452 || 3.0 || - || 200 || 380 || 53
+|-
+| -2-06 || 9×17mm semi-automatic || 690/452 || 2.7 || - || 100 || 330 || 64
+|-
+| -2-07 || 7.62×25mm Tokarev || 665/530 || 3.0 || 700 || 200 || 530 || 35
+|}
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's stance towards the firearm. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     2.1 kg (4.63 lb)
+ Length                     690 mm (27.2 in) stock extended
+                            460 mm (18.1 in) stock folded 
+ Barrel length              225 mm (8.9 in) 
+ Cartridge                  9×18mm Makarov
+                            9×19mm Parabellum
+                            .380 ACP (9×17mm Short)
+                            7.62×25mm Tokarev
+ Action                     Blowback. closed bolt
+ Rate of fire               650–700 rounds/min
+ Muzzle velocity            320 m/s (1.050 ft/s) (9×18mm Makarov)
+                            380 m/s (1.246.7 ft/s) (9×19mm Parabellum)
+ Effective firing range     100 m (9×18mm Makarov)
+                            200 m (9×19mm Parabellum)
+ Feed system                64-round helical magazine (9×18mm Makarov)
+                            53-round helical magazine (9×19mm Parabellum) (Bizon-2-01)
+ Sights                     Hooded front post. rear flip-up notch
+}}
+
+== Specifications ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PP-19'''
+|-
+! colspan=2 | '''Index number'''：NO.136
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Type: Submachine Gun'''
+|-
+! colspan=2 | '''CV: Serizawa Yuu '''
+! colspan=2 | '''Illustrator: 八才'''
+|-
+! colspan=4 | '''Stats(Growth: A)'''
+|-
+| '''Health (B)''' || 88→176 || '''Damage (B)''' || 10→26
+|-
+| '''Dodge (A)''' || 10→74 || '''Accuracy (A)''' || 2→14
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (A)''' || 63→91
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 202→3969
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Hand Grenade
+| colspan=3 | Throws a grenade dealing 2.2x (6.5x) damage to enemies within a 2.5 radius.<br />Has an initial cooldown of 6 seconds and an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 4
+|-
+| '''Effect''' || colspan=3 | Applies to '''AR'''s<br />Damage +24%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 
+|-
+| '''Drops''' || colspan=3 | In the special rescue event in December 2016, May 2017 and collaboration event "Glory Day" in April 2018
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:少女前线-PP-19.png|400px]]
+|tab2=[[File:少女前线-PP-19-大破.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== Trivia ==
+She made an appearance as a map-specific drop for Episode 3 in the special rescue event from December 15 to 22, 2016, and again from May 13 to 19, 2017.
+
+She is also the map-specific drop for level 1-3 and 3-3 in the collaboration event between Girls' Frontline and ''DJMAX RESPECT''.
+
+'''TBC'''
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>pp19_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|おはよう指揮官！なーに？元気出しなさいよ！}}<br />Morning, commander! Whaaaaaat? Put yourself together please!<br />早，指挥官。什么啊……快给我打起精神，工作开始了哦。
+| <sm2>pp19_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|PP19（ぴーぴーじゅうきゅう）、到着！指揮官はあなた？ちゃんとわたしの名前を覚えてよね！}}<br />PP-19, reporting in! Please remember me well!<br />PP19，报到！你就是指挥官吗？请给我好好记住吧。
+| <sm2>pp19_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、なんか任務あるの？}}<br />Commander, any more jobs?<br />指挥官，还有什么活吗？
+| <sm2>pp19_005.mp3</sm2>
+|-
+| {{lang|ja|熱いな、クーラーないの？}}<br />It's so hot, perhaps set the AC a bit cooler?<br />这里还真热啊，空调是不是开得不够低啊？
+| <sm2>pp19_006.mp3</sm2>
+|-
+| {{lang|ja|わたし、背が小さいけど力は強いよ？どう？試してみる？}}<br />Don't tease me just because I'm slim. What, you want a try?<br />指挥官，不要以为我看着瘦小就好欺负啊，怎么，想比试一下吗？
+| <sm2>pp19_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />指挥官，今天的起床时间又落后了哦。再这么磨磨蹭蹭的，我可就要亲自上阵了！
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|うわーっ！}}<br /> Wah!
+| <sm2>pp19_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|はははーっ。}}<br />Smile
+| <sm2>pp19_032.mp3</sm2>
+|-
+| {{lang|ja|やるねー。}}<br />Admiration
+| <sm2>pp19_035.mp3</sm2>
+|-
+| {{lang|ja|うん。}}<br />Agreement
+| <sm2>pp19_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|じゃあ、行ってきます！}}<br />Then, I'll get going!<br /> 那么，我要上了咯！
+| <sm2>pp19_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|さっそく行こう！全部やっつけちゃえ！}}<br />Let's go fast, deal with all the problems!<br />那就赶快出发吧，把麻烦都解决掉！
+| <sm2>pp19_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|望むところ！}}<br />I've been dreaming for this!<br />终于来了吗！求之不得啊！
+| <sm2>pp19_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|クソッ！絶対許さない！指揮官も見てないで！}}<br />Damnation, I'll never forgive you! Commander quit looking!<br />可恶，绝对饶不了你们！指挥官也是，别乱看啦！
+| <sm2>pp19_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|チッ、分かってるよ。次は気を付けるよ。}}<br />Pfft, understood, will be more careful next time.<br />呿，我知道啦，下次会小心的。
+| <sm2>pp19_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝利って、一気に突っ込んで全員やっちまうまでじゃないの？}}<br />Victory, is just rush up and enjoy the fun isn't it?<br />当然咯！所谓成功的作战，就是一口气冲上去，享受战场的乐趣嘛。
+| <sm2>pp19_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|仕方ない…ただで済むと思うなよ！}}<br />Can't start over......Don't you think this is over!<br />没法重来了吗……可恶的家伙，别以为这样就算了！
+| <sm2>pp19_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|支援行動（しえんこうどう）も遅れることはないよ！}}<br />Even if it's supportive mission, I won't fall behind!<br />就算是支援的行动，我也不会落后的！
+| <sm2>pp19_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|大丈夫、出発するよ。}} <br />It's all right, let's go.<br />没问题啦，快出发吧。
+| <sm2>pp19_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|まぁ、なんとかやってきたよ。}}<br />Hmmm, basically done after all.<br />哼，勉勉强强算是完成了吧。
+| <sm2>pp19_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい仲間が入って来たよ。}}<br />A new friend's coming.<br />新的伙伴加入了哦。
+| <sm2>pp19_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|編成拡大（へんせいかくだい）か…やっぱわたしのこと好きでしょう指揮官～。}}<br />Establishment augmentation......Commander seems tobe not disliking me after all.<br />编制扩大啊……指挥官，看来你也不讨厌我嘛。
+| <sm2>pp19_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|そっか。これでもっと力が出せる！}}<br />Is that so. Indeed makes me stronger.<br />就这样吗？嗯……确实更有力气了吧。
+| <sm2>pp19_004.mp3</sm2>
+|-
+| rowspan=3 | Ability
+| {{lang|ja|なめるなー！}}<br />Don't downplay me!<br />可别小看我！
+| <sm2>pp19_021.mp3</sm2>
+|-
+| {{lang|ja|見逃さない！}}<br />There's no forgiving!<br />不会放过你们的！
+| <sm2>pp19_022.mp3</sm2>
+|-
+| {{lang|ja|もう待てない！突撃！}}<br />Can't wait, assault!<br />等不了啦，我要冲上去啦！
+| <sm2>pp19_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|なんだよ指揮官、そんな顔して…はぁ？何それ？違うの、急に何言ってるのよ！こう見えてわたしは…いや…いいけど…もうっ！}}<br />What's this face, commander? Huh? What's that? I mean, why this all of a sudden! You see I'm just...Umm, it's ok...<br />长官啊，这是什么表情，有心事可以跟我说啊！ ……啊？搞什么啊！不不，我是说，怎么突然说出这个啦！别看我这样，我也是—— 唔，可以是可以啦……
+| <sm2>pp19_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=少女前线-PP-19.png|width=550px|left=-175px}}
+
+== External links and references ==
+=== Read more ===
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
