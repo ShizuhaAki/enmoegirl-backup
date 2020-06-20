@@ -1,0 +1,340 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>As long as we are able to stay together, win together, or fall together...... It would be the best ending, for me.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=M4A1
+|image=61056423 p6.jpg
+|Caption=<center>Author:多元菌<ref>[http://www.pixiv.net/member.php?id=622990 Author:多元菌]</ref></center>
+<center>Pixiv ID:61056423<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61056423 Pixiv ID:61056423]</ref></center>
+|Original name=M4A1 carbine
+|Nickname(s)=Little princess {{Spoiler|Passer-by}}
+|Moe point=Weak
+|Hair color=Black
+|Eye color=Brown
+|CV=户松遥
+|Type=AR
+|Rarity=★★★★
+|Country of origin=US
+|Manufactured by=Colt, Remington→Fabrique Nationale
+|Developed=
+|In service=1994-
+|Related person(s)={{Spoiler|Eugene Stoner}}
+AR Squad:[[Girls' Frontline: M4 SOPMOD II|M4 SOPMOD II]], [[Girls' Frontline: ST AR-15|ST AR-15]], [[Girls' Frontline: M16A1|M16A1]], [[Girls' Frontline: RO635|RO635]]
+}}
+
+'''M4A1''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives, developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+
+'''M4 carbine''' is the shortened version of the M16 assault rifle developed by Eugene Stoner. It is employed by militaries and police forces worldwide.
+
+{{Hide|Title=Specifications|Text=
+
+*Weight: 2.88kg / 3.4kg (with 30-round magazine) 
+
+*Length: 838mm / 757mm (stock extended/retracted)
+
+*Barrel length: 368.3mm
+
+*Cartridge:: 5.56 × 45mm NATO
+
+*Caliber: 5.56mm (.223 in)
+
+*Action: Gas-operated rotating bolt
+
+*Rate of Fire: 700—950 rounds／min
+
+*Muzzle velocity: 905m／s
+
+*Feed system: 20- or 30-round box magazine
+}}
+
+=== History ===
+
+The design of M4 carbine traces back to the early carbine versions of M16 and the XM117, both derivatives of the CAR-15(which has disputed meanings, and commonly refers to the many carbine versions of the Colt AR-15, however, technically, this only stands for the CAR-15 weapons system by Colt in the 1960s) by Eugene Stoner. Employing the same gas block, air-cooled barrel and a rotating bolt, as well as a box magazine and a selective fire function, the M4 has its barrel shortened to 368.3mm, making it lighter and shorter than the M16, enabling the shooter to acquire the target faster in close-range combat. The M4 and the M16 have 80% of their parts exchangeable.
+
+The M4A1 has a thicker, heavier barrel. However it was found that the barrel had a tendency to overheat easily, with the handguard reaching temperatures unsuitable for contact by hand after only 6 magazines are expended while on full-auto. The aluminum insulation layer and the handguard was subsequently thickened. The first version of the M4 provided to the US army had only a semi-auto and a 3-round burst mode, and was changed to a semi-/full-auto after special forces expressed their dislike of the limiting mechanism of the M4. Both the M4 and the M4A1 employ the 5.56mm SS109 (M855) NATO round (with the US army using the improved M855A1, and the marines using the Mk318), and uses the gas-operated rotating bolt action found on the M16.
+
+The handguard of the M4 is rather short, with a 368.3mm barrel, around 140mm shorter than that of the M16A2. It uses a telescopic stock, with the extended position supporting aimed firing, and the retracted position supporting hip-firing. The sling is attached to the sides of the M4, unlike that of the M16A2/A4, which is attached to the underside of the weapon, making it easier for patrolling soldiers to ready their weapon.
+
+The M4 has 2 types of sights available. Optical sights are mainly used in the daytime, designed to replace the mechanical sights found on the M16A2, with the reticle being a red chevron pointing to the bullet's impact point at a set distance. Thermal sights on the other hand uses the heat signature of the targets to acquire the target. In addition to these, a calibration device is also developed for the M4, making calibration of the weapon itself or its attachments possible without firing.
+
+The main difference between the M4 and the M4A1 is that, the M4 uses an "S-1-3" (Safe-Semi-Burst) selector, while the M4A1 uses an "S-1-F" (Safe-Semi-Full) trigger group. Early versions have a fixed carrying handle, with the M4 issued to ordinary units, and the M4A1 to special forces. However, this is not the case after May 2014, when the US army started to replace their M4s with M4A1s. This replacement program includes replacing the trigger group to the full-auto configuration, as well as changing the barrel to a heavier, thicker one, together with ambidextrous selector switches.{{Spoiler|But the marines got their hands on the M4 only recently......}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''M4A1'''
+|-
+! colspan=2 | '''Catalogue number'''： No.055
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: American[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV：[[户松遥]] (Tomatsu Haruka)'''
+! colspan=2 | '''Illustrator: 海猫络合物'''
+|-
+! colspan=4 | '''Stats (Growth: A)'''
+|-
+| '''Health (B)''' || 55→110 || '''Damage (B)''' || 17→46
+|-
+| '''Dodge (A)''' || 6→48 || '''Accuracy (A)''' || 6→48
+|-
+| '''Movement speed (B)''' || 10→10 || '''Rate of Fire (A)''' || 54→79
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 170→3484
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20→60 || '''Rations''' || 20→60 
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Firepower concentration T
+| colspan=3 | Increases damage by 40% (70%), lasts for 9 (10) seconds. <br /> Initial cooldown at 4 seconds, with interval at 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect blocks''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 2 3 6 8 9
+|-
+| '''Effect''' || colspan=3 | Affects '''Assault rifles'''<br /> Increases damage by 18%<br>Increases critical chance by 30%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | '''N/A'''
+|-
+| '''Drops''' || colspan=3 | '''N/A'''
+|-
+| '''Others''' || colspan=3 | '''(Only)''' Reward for finishing 2-6 for the first time.
+|}
+'''Notes'''：
+* The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses ("()") is the maximum possible value of the stat.
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Normal (Alternative expression 1)
+|bt3=Normal (Alternative expression 2)
+|bt4=Damaged
+|bt5=Normal (Modified)
+|bt6=Damaged (Modified)
+|tab1=[[File:M4A1.png|400px]]
+|tab2=[[File:M4A1_SAD.png|400px]]
+|tab3=[[File:M4A1_T.png|400px]]
+|tab4=[[File:M4A1 D.png|400px]]
+|tab5=[[File:pic_M4A1Mod.png|400px]]
+|tab6=[[File:pic_M4A1Mod_D.png|400px]]
+}}
+</div>
+{{-}}
+
+== Trivia ==
+M4A1 is the actual commanding element of the AR squad, with a sensitive, shy personality, a peculiarity unsuitable for a leader. In fact, M4A1 has a soft and a hard side, which she attempts to overcome the sway to become an adequate leader. She is also both the student and a friend {{Spoiler|''seriously?''}} of M16, willing to take care of her team and constantly worries about their safety. "How long will it take, to become the "me" in my heart......" This line is indeed a realistic snapshot of her inside.
+
+{{Spoiler|The unmodified version of the ancestor of modifications, the Sherman M4, is M4A1. (False)}}
+
+To indicate this conflicting nature of her, the illustrator used a soft facial profile when designing the character, with few emotional elements, like a "blank girl". But the shemagh with a sharp teeth pattern, the metal prosthetic arm, and a wide variety of tactical attachments show her other side of a capable T-doll in combat. The shirt on her waist, similar to that of M16, also implies the relationship between the two. <ref>[http://gf.ppgame.com/web/pc/info.html?id=12  【枪娘百科讲坛——AR小队篇】-新闻资讯 > 攻略  From the official site of Girls' Frontline]</ref>
+
+If observed carefully, the right little finger of M4A1 is removed to directly connect to the weapon--which is not found on any other T-doll model. The prosthetic arm has a number of variations, to meet the needs of everyday life.
+
+Also worth noting is that, the M4/M4A1 in reality uses the STANAG 4179 30-round magazine more often, while the M4A1 in-game uses a 20-round magazine (with an initial ammo requirement of 20 as well).
+
+=== With ST AR-15 ===
+
+AR-15 is the first T-doll and the first friend she met after she was waken.
+
+M4A1 attempted to trade herself for the release of AR-15 captured by Hunter in 3-6 "Hunting prohibited", but AR-15 modified Sangvis Ferri orders from the inside, causing confusion, taking out Hunter in the process.
+
+She found the trail of AR-15 in Episode 6, and went to search with SOP, but was ambushed by AR-15, and was taken after SOP was knocked out. She was found later by M16 and SOP.
+
+=== With M16A1 ===
+
+Calls M16 "M16 sister", highly trusting her.
+
+Worried constantly about M16 in Episode 4, to the degree that she slapped M16's face when the latter appeared...
+
+Found by M16 and woken by her in 6-6 "Late goodbye".
+
+=== With M4 SOPMOD II ===
+
+Suspected to be jealous of SOP II sticking around the commander in Episode 3.
+
+Aided by SOP II in the Emergency part of Episode 4.
+
+{{Spoiler|According to her creator, SOP II was originally intended to like M4 very much and stick around her at the same time.}}
+
+=== Effect blocks ===
+The update on 13 January, 2017, the one that implemented Operation "Arctic" <ref>http://gf.ppgame.com/web/pc/info.html?id=466 13 January: "Arctic warfare" version game-wide update notice</ref> brought about a complete overhaul of all AR squad members.
+
+The skill of M4A1, as a result, was changed from "Cover interference"(Lowers the dodge of the current target by 60% for 8 seconds) to "Firepower concentration T", with the effect blocks changing from '''the AR-effective''' Keypad 1 to '''the still AR-effective''' version.
+
+One of the 4 characters who first received a major overhaul in the game. {{Spoiler|Told you it is the AR squad.}}
+
+=== {{ruby|Plot device|Protagonist}} ===
+
+Compared to self-conscious Sangvis Ferri units, Grifon T-dolls basically have no tactical capabilities, only able to follow orders or generate responses to basic training data (autobattle templates). However, as an officially designated protagonist, '''M4A1''' from the AR squad (of course with [[Girls' Frontline: RO635|RO635]]) has her own commanding authority and a commanding module (with authorities identical to human commanders), capable of commanding Grifon T-dolls on a tactical level.
+
+M4A1 pushes the plot forward as a main character {{Spoiler|Passer-by}}.
+
+From the relentless chase by Sangvis Ferri at the beginning, to AR-15 being asked by the Mastermind who she is, even though M4A1 continuously stated that she was unable to answer, the lines implied that [[Girls' Frontline: ST AR-15|AR-15]] and the Mastermind were dire to solve this problem.
+
+AR-15 was not happy to have a new companion judging from the memory segments about the creation of M4A1 from M4A1 herself and AR-15. {{Spoiler|Because she was boss from her creation?}}
+
+To the Mastermind risking herself to come to the center of the  battlefield to find M4A1。
+
+To that [[Girls' Frontline: Persica|Persica]] repeatedly emphasized that M4A1 was special, and proposed that Grifon should not put M4A1 on dangerous battlefields.
+
+Her safety directly involves the rest of her squad, and even the 404 squad.
+
+{{Spoiler|And to the obvious difference of M4A1's attitude and affection towards the commander from those of other T-dolls?}}
+
+As the plot device pushing the story forward for the time being, M4A1, given so much, could not be just another 16LAB T-doll.
+
+As to the secrets hidden on her, we might as well wait for the official explanation.
+
+{{Spoiler|What if……M4A1 was a human cyborg......?}}
+
+===A soft and hard girl===
+Since she was only recently produced, she has a calm personality, with constant downplay of her own capabilities (which is even shown in her voicelines). On the other hand she has deep affections to the AR squad, from the deep worry when M16A1 was stuck in Sangvis Ferri territory, to the near-collapse when AR-15 sacrificed herself with a sea of Sangvis Ferri units. M4A1 showed a hardline side while being soft and weak. Even after her psychology was damaged, Persica attempted to use her Psychology Map to simulate scenarios in an effort to recover her psychology, she still chose to sacrifice herself even after 70 consecutive simulations. Perhaps the line below is M4A1 at her hardest:
+{{Cquote|You shouldn't even mention them, Sangvis Ferri scum.}}
+Mounted with a special command module and with special commanding authorities, leading the AR squad, designated as #1 target by Sangvis Ferri when she herself didn't know why. Please, cherish her, as she was but just a soft, weak and a hardline girl surviving in a fight with Sangvis Ferri.
+
+== Voicelines ==
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline
+| [https://img.moegirl.org/common/6/67/M4A1_TITLECALL_JP.mp3]
+|-
+| Upon login
+| {{lang|ja|}}お帰りなさい。<br />Welcome back.
+| [https://img.moegirl.org/common/6/60/M4A1_HELLO_JP.mp3]
+|-
+| Acquisition
+| {{lang|ja|}}指揮官、よろしく……お願いします。<br />Commander, please... It's you in charge now.
+| [https://img.moegirl.org/common/b/bf/M4A1_GAIN_JP.mp3]
+|-
+| rowspan=3 | Adjutant
+| {{lang|ja|ええ……指揮官……}}<br />Eh... Commander...
+| [https://img.moegirl.org/common/4/45/M4A1_DIALOGUE1_JP.mp3]
+|-
+| {{lang|ja|ちょっと……少しかゆいです……}}<br />A bit......Itchy...
+| [https://img.moegirl.org/common/8/8d/M4A1_DIALOGUE2_JP.mp3]
+|-
+| {{lang|ja|……}}<br />……(Sigh <del>Asphyxiation</del>）{{Spoiler|So what exactly did commander do?}}
+| [https://img.moegirl.org/common/5/5f/M4A1_DIALOGUE3_JP.mp3]
+|-
+| Adjutant (post-oath link establishment) 
+| {{lang|ja|}}<br />Commander, here's the combat plan for today. I still fully believe your judgements, and welcome victory for everybody!
+| 
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| 
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| 
+|-
+| {{lang|ja|}}<br />Admiration
+| 
+|-
+| {{lang|ja|}}<br />Agreement
+| 
+|-
+| Echelon formation
+| {{lang|ja| }}ありがとう！<br />Thank you!
+| [https://img.moegirl.org/common/0/01/M4A1_FORMATION_JP.mp3]
+|-
+| Mission begin
+| {{lang|ja|}}敵です！<br />Enemy!
+| [https://img.moegirl.org/common/a/ab/M4A1_GOATTACK_JP.mp3]
+|-
+| Battle begin
+| {{lang|ja| }}攻撃します。<br />Attacking.
+| [https://img.moegirl.org/common/6/61/M4A1_MEET_JP.mp3]
+|-
+| Damaged
+| {{lang|ja|}}へ！くへ！いっ、けへ！<br />Ah! Ehm! Eh-Gha!
+| [https://img.moegirl.org/common/d/d5/M4A1_BREAK_JP.mp3]
+|-
+| Restoration
+| {{lang|ja|}}了解、次は……気を付けます。<br />Understood. Will...... mind next time.
+| [https://img.moegirl.org/common/4/4d/M4A1_FIX_JP.mp3]
+|-
+| Winning battle as MVP
+| {{lang|ja|}}勝、勝ちました！<br />Wi-wined!
+| [https://img.moegirl.org/common/7/7c/M4A1_WIN_JP.mp3]
+|-
+| Retreating
+| {{lang|ja| }}ふう……！<br />Uh......!
+| [https://img.moegirl.org/common/d/d7/M4A1_RETREAT_JP.mp3]
+|-
+| Beginning autobattle 
+| {{lang|ja|}}エム一六姉さん、ようやく、お役に立てますね。<br />M16 sister, finally, I am useful.
+| [https://img.moegirl.org/common/1/1f/M4A1_BLACKACTION_JP.mp3]
+|-
+| Beginning logistic support
+| {{lang|ja|}} では、行ってまいります。<br />Then, I'll get going first.
+| [https://img.moegirl.org/common/0/00/M4A1_OPERATIONBEGIN_JP.mp3]
+|-
+| Finishing logistic support
+| {{lang|ja|}}作戦終了です、ええ、すべて滞りなく……<br />Mission accomplished. Yes, everything's well......
+| [https://img.moegirl.org/common/b/ba/M4A1_OPERATIONOVER_JP.mp3]
+|-
+| Completion of T-doll production
+| {{lang|ja| }}製造…完了。<br />Production...complete.
+| [https://img.moegirl.org/common/8/81/M4A1_BUILDOVER_JP.mp3]
+|-
+| Expansion
+| {{lang|ja| }}再編成完了、出撃できますか。<br />Reformation complete. Can I start now?
+| [https://img.moegirl.org/common/7/76/M4A1_COMBINE_JP.mp3]
+|-
+| Powerup
+| {{lang|ja|}}これで、少しでも姉さんに、近付けたかな。<br />Did I... approach my sister a bit, this way?
+| [https://img.moegirl.org/common/1/14/M4A1_FEED_JP.mp3]
+|-
+| rowspan=3 | Skill
+| {{lang|ja| }}攻撃！<br />Attack!
+| [https://img.moegirl.org/common/1/1c/M4A1_SKILL1_JP.mp3]
+|-
+| {{lang|ja| }}ごめんなさい、あなたにチャンスはないわ。<br />Sorry, but you stand no chance.
+| [https://img.moegirl.org/common/e/e1/M4A1_SKILL2_JP.mp3]
+|-
+| {{lang|ja|}}ここですよ！覚悟なさい！<br />Right now! Wake up!
+| [https://img.moegirl.org/common/9/9a/M4A1_SKILL3_JP.mp3]
+|-
+| Oath link establishment
+| {{lang|ja| }}指揮官……あなたのために戦えるなんて、光栄です。ええと……私が言っている意味……分かりますか。これかれはずっと、お傍にいさせてくださいね。<br />Commander...I'm so honored, to be able to fight for you. Uhm... can you... understand what I mean? Please, allow me to stay by your side, from now on.
+| [https://img.moegirl.org/common/5/5d/M4A1_SOULCONTRACT_JP.mp3]
+|}
+
+{{Girls' Frontline}}
+
+==External links and references==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:BLH]]
+[[Category:Badge]]
+[[Category:Gloves]]
+[[Category:Thigh-highs]]
+[[Category:Shorts]]
