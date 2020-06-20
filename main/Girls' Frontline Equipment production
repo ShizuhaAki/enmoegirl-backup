@@ -1,0 +1,23 @@
+== ''Introduction'' ==
+
+This enables players to produce equipment for T-dolls, and generally works in the same way with T-doll production. It is defaulted to 2 open slots and up to a total of 8 slots can be available.
+
+Equipment heavy production is also available for commaders who have completed 60 different levels, and works in a similar way to T-doll heavy production, albeit with lighter core demands and has a chance to yield tactical fairies.
+
+Each T-doll has 3 equipment slots, unlocked at level 20, 50 and 80, for attaching equipment. It is worth noting that the types of equipment compatible for a T-doll vary with the T-doll type, thus requiring adequate planning and arrangement to exploit the maximum potential. 
+
+Currently, the game had implemented 17 types of equipments, which are the Accessories (5 types), Magazines (5 types) and T-doll equipments (7 types).
+
+5 of the accessories are known as the '''Optical Sight''' (Increases critical rate, unavailable for HGs), '''Holographic sight''' (Trades Rate of Fire for increased accuracy and damage , unavailable for HG), '''Red dot sight''' (Greater accuracy boost at the cost of Rate of Fire, unavailable for HGs), '''Nightvision equipment''' (Mitigates some of the accuracy debuff in Midnight mode, unavailable for RFs and MGs) and '''Silencer''' (Increases critical chance and dodge, unavailable for MGs and SGs).
+
+There are 5 types of magazines, respectively as '''Armor piercing rounds''' (Increases armor penetration, RF and MG-exclusive), '''High-velocity rounds''' (Increases damage, AR-exclusive), '''Hollow-point rounds''' (Increase damage but decrease in penetration, only for HG and SMG), for shotguns there are 2 types of '''Shotgun Shells''' (Only for SG) the '''Buckshot''' (Increases Damage and Critical rate) and the '''Slug''' (Great accuracy boost and triples the damage output, but limits the amount of targets available to engage simultaneously).
+
+On the T-doll equipments there are the '''T-series''' exoskeletons (Greatly increases dodge but decreases damage, only available for HGs,SMGs and ARs), the '''X-series''' exoskeletons (Increases dodge by a small amount but doesn't suffer from the damage debuff, only available for HGs, SMGs and ARs), '''Chips''' (Only available for specific T-dolls), '''Armor platings''' (Increases armor but impacts dodge, only suitable for SGs and M16A1), '''Ammo boxes''' (Provides extra ammo but impacts dodge, only available for MGs), '''Medals'''(Not available yet) and lastly '''Camouflage cloak''' (Increases Critical rate but decreases movement speed, only available for RFs).
+
+Note: Equipment of the same type may have varying stats due to different calibration stats.
+
+Due to the diffrences in T-dolls' equipment slots there might be variations in the suitable equipments.
+
+For example, M16A1 have two T-doll equipment slots; whereas both AR-15, M4 SOPMOD II have two accessory slots.
+
+M16A1 is currently the only AR T-doll to be able to have armor platings, and 6P62 is the only AR T-doll to be able to equip Armor piercing rounds.
