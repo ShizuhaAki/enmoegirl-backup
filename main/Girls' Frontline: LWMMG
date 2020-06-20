@@ -1,0 +1,147 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''Huh? Does anyone need help? I'm free.''</big></big>'''}}
+{{Girls' Frontline profile
+|Title=LWMMG
+|image=LWMMG_Pid64735265.jpg
+|Caption=[https://www.pixiv.net/member_illust.php?id=5237495 Artist：浩太]
+|Original name=Lightweight Medium Machine Gun
+|Hair color=Silver w/ Pink Highlights
+|Eye color=Blue
+|CV=Nitta Hiyori
+|Type=MG
+|Rarity=★★
+|Country of origin=USA
+|Manufactured by=General Dynamics
+|Developed=2012
+|In service=N/A
+|Related to=
+}}
+
+'''LWMMG''' is a character from the Tactical SRPG mobile game '''[[Girls' Frontline]]''' developed by MicaTeam.
+
+== Historical basis ==
+The LWMMG is a prototype machine gun developed by General Dynamics and publically unveiled in 2012.
+
+===Specifications===
+*Overall weight: 24 Pounds
+*Overall length: 49 Inches
+*Cartridge: .338 Norma Magnum
+*Action: Short Recoil Impulse Averaging
+*Rate of fire: 500 Rounds per Minute 
+*Feed system: Belt Fed
+*Sights: Broad view 6-power scope
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's stance towards the firearm. For reference only.'''
+ Type                       Machine gun
+ Weight                     24lb (10.8kg)
+ Length                     49in (1,244.6 mm) 
+ Barrel length              24in (609.6 mm)
+ Cartridge                  .338 Norma Magnum
+ Action                     Short Recoil Impulse Averaging
+ Rate of fire               500 rounds per minute
+ Muzzle velocity            2,650 ft/s (807.7 m/s) 
+ Effective firing range     1860 yards (1700 m)
+}}
+
+The LWMMG is designed to bridge the gap between 7.62 mm and .50 BMG machine guns already in service. The weapon uses the .338 Norma Magnum round, giving it more power and double the range of the 7.62 NATO round. The choice of this cartridge is to prolong barrel life, due to how the .338 Lapua Magnum has a chamber pressure too high and tends to heat up the barrel quickly. The LWMMG is gas-operated with a long-stroke piston and a rotating bolt located under the barrel, and fires from an open bolt. It uses “Short Recoil Impulse Averaging” technology, patented by General Dynamics and previously used on their XM806 machine gun, where the entire barrel, barrel extension, gas system, and bolt assembly recoil inside the outer housing. The LWMMG is equipped with a quick-change barrel, quad picatinny rails, collapsible stock, and can be used by dismounted troops or mounted on a platform.
+
+The LWMMG is also considerably light at 10.9 kg, 1.3 kg lighter than the M240B and marginally heavier than the M240L. When compared to the M2HB (which chambers .50 BMG rounds), the LWMMG is significantly more advantageous in terms of weight and size. The ammunition is also an advantage as 5 .338 Norma Magnum rounds weigh about 2 .50 BMG rounds, but with similar effective ranges for anti-personnel uses.
+
+However the ammunition is a problem as well. The .338 Norma Magnum, weighing 702 gr (45.5 g) has double the weight of the 7.62 NATO (at 370 gr or 24 g), the links for the rounds, at 8 grams, is also two times as heavy as the M13 link (4 grams). Furthermore, the size of the .338 Norma Magnum is also larger, with an ammo bag containing 50 linked rounds larger than the 100-round ammo bag for use by the M60, the Mk 48 or the M240, and is close in dimensions to the 200-round ammo bag of the Mk 48. Such a weight and size also limited the amount of ammunition the LWMMG can carry.
+
+However, the LWMMG, per claims by General Dynamics, is quite light to carry: A machine gun crew with an M240B consists of the machine gunner carrying the weapon and 100 rounds of ammunition (totaling at 37 lbs), with the assistant gunner carrying the M192 tripod, the spare barrel and 300 rounds (at 37 lbs) and the ammo bearer carrying 400 rounds of ammunition (at 27 lbs), amounting to 101 lbs in total. An M2HB crew on the other hand carries the machine gun, the M3 tripod, a spare barrel and 500 rounds amounts to about 300 lbs in addition to a Humvee, while an LWMMG crew consists of the machine gunner with the MG and 100 rounds (40 lbs), an assistant gunner with the M192 tripod, a spare barrel and 200 rounds (41 lbs), and the ammo bearer with 300 rounds (36 lbs), totaling 117 lbs.
+
+However whether or not the weapon can be accepted takes time as the .338 Norma Magnum round is mainly used for competitions. Cheaper machine-gun rounds may need to be manufactured should the LWMMG be fielded in mass numbers. It is claimed that General Dynamics is working on developing plastic casings to further reduce weight, which may also cut down production costs.
+
+The LWMMG feeds from a disintegrating belt from the left, with the link essentially being an upscaled M13 link. The grip and trigger group is housed at the bottom of the receiver, and the safety above the trigger guard. The top of the receiver and the feed cover as well as the sides of the handguard are mounted with Picatinny rails for mounting optics and accessories.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''LWMMG'''
+|-
+! colspan=2 | '''Index number''': No.081
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: USA [[File:Flag_of_USA.svg|20px]]'''
+! colspan=2 | '''Type: Machine Gun (MG)'''
+|-
+! colspan=2 | '''CV: Nitta Hiyori'''
+! colspan=2 | '''Illustrator: RFF'''
+|-
+! colspan=4 | '''Stats(Growth: B)'''
+|-
+| '''Health (B)''' || 87→174x5 || '''Damage (S)''' || 39→95
+|-
+| '''Evasion (B)''' || 4→22 || '''Accuracy (A)''' || 4→24
+|-
+| '''Movement speed''' || 4→4 || '''Rate of Fire (C)''' || 65→90
+|-
+| '''Ammo Count''' || 9→9 ||  ||
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 230→3885
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 40→140 || '''Rations''' || 30→90
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Hunting Impulse
+| colspan=3 | Raises own accuracy by 22% (60%) and all hits critical for 1 (6) seconds.<br /> Has an initial cooldown of 3 seconds and an interval of 18 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads: 6
+|-
+| '''Effect''' || colspan=3 | Applies to '''SGs'''<br>Rate of Fire +10%, Damage +10%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 05:10:00
+|-
+| '''Drops''' || colspan=3 | Chapter 5 Normal and Emergency Maps
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored damaged
+|bt4=Yellow Star-Thistle
+|bt5=Yellow Star-Thistle damaged
+|tab1=[[File:Pic_LWMMG.png|400px]]
+|tab2=[[File:Pic_LWMMG_D.png|400px]]
+|tab3=[[File:Pic_LWMMG_Dhx.png|400px]]
+|tab4=[[File:Pic_LWMMG_1808.png|400px]]
+|tab5=[[File:Pic_LWMMG_1808_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+== Trivia ==
+LWMMG is generally regarded as the strongest 2★ MG, outclassing even a lot of her 3★ and 4★ counterparts. Her good stats and good drop rate on Chapter 5 maps make her an MG Doll most commanders will make ongoing use of.
+
+
+
+{{Girls' Frontline}}
+
+[[Category:Girls' Frontline]]
+
+{{SideBarPic|url=Pic_LWMMG.png|width=500px|left=-145px}}
