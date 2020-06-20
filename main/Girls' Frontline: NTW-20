@@ -1,0 +1,408 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''Being hostile to me......is just too hasty.</big></big>'''}}
+{{Girls' Frontline profile
+|Title=NTW-20
+|image=Ntw20 ran.jpg
+|Caption=<center>Artist:RAN<ref>[https://www.pixiv.net/member.php?id=2957827 Artist:RAN]</ref></center>
+<center>Pixiv ID:64204829<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=64204829 Pixiv ID:64204829]</ref></center>
+|Original name=NTW-20 Sniper rifle
+|Nicknames=
+|Moe points=
+|Hair color=Pink
+|Eye color=Pink
+|CV=Kayano Ai
+|Type=RF
+|Rarity=★★★★★
+|Country of origin=South Africa
+|Manufactured by=Denel
+|Developed=1993-1996
+|In service=1996-
+|Related person=
+}}
+
+'''NTW-20''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]'' developed by MicaTeam and published by Digital Sky and its derivatives. She joined the struggle during the Closed Alpha phase.
+
+== Historical basis ==
+
+The '''NTW-20''' is a large-caliber anti-material sniper rifle developed by Denel of South Africa in the 1990s.
+
+It is designed to become a multi-purpose sniper rifle capable of striking a variety of targets, with the ability to fire special ammunition. Like weapons of the same kind, the NTW family of sniper rifles can also be used in counter-sniper and explosives disposal roles.
+
+===Specifications===
+*Overall weight: 30.5 KG
+*Overall length: 1795 mm
+*Barrel length: 1000mm
+*Cartridge: 20 x 82mm / 20 x 110mm / 14.5 x 114mm / 12.7 x 99mm / 12.7 x 108mm
+*Caliber: 20mm / 14.5mm / 12.7mm 
+*Action: Short-recoil (gas-operated), rotary bolt 
+*Muzzle velocity: 720 m/s
+*Effective range: 1300 m
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Anti-materiel rifle
+ Weight                     31 kg 
+ Length                     1.795 mm 
+ Barrel length              1.000 mm
+ Crew                       Two; rifle breaks down into two parts for 
+                            transport and fits into two backpacks
+                            weighing 15kg each. one containing the weapon 
+                            receiver section. while the other contains the 
+                            barrel and ammunition
+ Cartridge                  20 × 82mm
+ Action                     Bolt action. recoiling barrel
+ Muzzle velocity            720 m/s 
+ Effective firing range     1.500m 
+ Feed system                3-round detachable box magazine 
+                            (20 x 82mm and 14.5 x 114mm)
+                            Single shot (20 x 110mm)
+ Sights                     8 x 56 Lynx Telescopic sight
+}}
+
+=== Trivia ===
+
+The reason for South Africa to develop the NTW-20 may have ties to the weapons imporation ban caused by Apartheid. South Africa had to seek out other options due to the unavailability of heavy anti-armor weapons. Development of the NTW-20 was announced in 1993 and officially commenced in 1995, first under Aerotek, and then the design was purchased by Denel, and is now materialized by Pretoria Metal Processing, part of Denel. The chief designer of the weapon is Tony Neophytou, a specialist in designing helicopter turrets and recoil buffers, who also participated in the development of the Neostead combat shotgun. Using ready-made parts from the Vector GA1 autocannon, the first working prototype is completed in only four months.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''NTW-20'''
+|-
+! colspan=2 | '''Index number''': No.053
+! colspan=2 | '''Rarity'''：★★★★★
+|-
+! colspan=2 | '''Nationality: South African[[File:Flag_of_South Africa.svg|20px]]'''
+! colspan=2 | '''Type: Rifle'''
+|-
+! colspan=2 | '''CV：[[Kayano Ai]]'''
+! colspan=2 | '''Illustrator: RAN'''
+|-
+! colspan=4 | '''Stats(Growth: S)'''
+|-
+| '''Health (B)''' || 47→93 || '''Damage (SS)''' || 56→165
+|-
+| '''Dodge (C)''' || 4→29 || '''Accuracy (B)''' || 9→75
+|-
+| '''Movement speed''' || 7→7 || '''Rate of Fire (C)''' || 20→30
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 178→3913
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| ''Cutoff shot'' (阻断射击)
+| colspan=3 |Aims for 2 seconds before dealing 3.5x (8x) damage to the nearest target. <br />Has an initial cooldown of 15 seconds and an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypad 6
+|-
+| '''Effect''' || colspan=3 | Applies to '''HG'''s<br/>Cooldown -18%。
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 04:45:00
+|-
+| '''Drops''' || colspan=3 | 8-4e
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Damaged(old)
+|bt4=''Christmas Reindeer'' (圣诞鹿)<sup>Unavailable to English build</sup>
+|bt5=''Christmas Reindeer''-Damaged
+|bt6=''Op. Blazing Sun''
+|bt7=''Op. Blazing Sun'' - Damaged
+|tab1=[[File:NTW20.png|400px]]
+|tab2=[[File:pic_NTW20_D公测.png|400px]]
+|tab3=[[File:NTW20 D.png|400px]]
+|tab4=[[File:NTW20_307.png|400px]]
+|tab5=[[File:NTW20_307_D.png|400px]]
+|tab6=[[File:pic_NTW20_1101.png|400px]]
+|tab7=[[File:pic_NTW20_1101_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=Christmas chibi version animation|Text=[[File:Christmas_NTW-20_Q.gif]]}}
+{{Hide|Title=Swimsuit chibi version animation|Text=[[File:NTW-20_泳装_Q版.gif]]}}
+
+== Trivia ==
+{{Cquote|
+<big>'''Outgoing and calm, superior performance, but a bit aggressive and arrogant, doesn't listen to others much, but rather talking to herself often. Likes hunting and going for rides, a well-known lonewolf.'''</big>
+|From the official art collection ''THE ART OF GIRLS'FRONTLINE UNTIL THE STARS''}}
+=== Setting ===
+The inspiration for this character is mentioned in the official art collection:
+{{Cquote|
+''ntw-20 as a large-caliber anti-material, I started with a powerful, confident and tsundere doll. But then thought that silence and steadiness suits a sniper better. Not a fan of words, but undoubtedly powerful, not activating her ability when she should (no). The clothing didn't take inspiration from anything, started off from seifuku, the black-pink coloring and not choosing a military uniform are hopes to sense some activity, but if there's a modification might just want to draw a military uniform. Previously saw comments about that why not make her a black as a South African gun, and later on regretted having not done so, sensing the charm of being black. I hesitated a bit on the size of the gun, the original version's too big feeling that it's going to pierce the screen.. so just downscaled it a bit, making the doll standing at 2 meters, but actually somewhere near 1.65?!!? CV's a bit more hardline than I originally thought, but still a fit, actually I originally out of personal preference wanted Touyama [Nao], and it's great that I wasn't heard.'' (ntw-20作为一把大口径的反器材，开始的思路是強大、自信、傲嬌的人形。不過後來感覺沉默、穩重更適合狙擊手。不善言辭，但是毋庸置疑的強大，該出技能的時候就不出（沒有）。服装倒没有考据，原形是水手服，黑粉的配色和沒有選擇軍服的也是希望多感受到一點活力，如果有改二的話可能就想畫軍裝了。之前看到吐槽南非枪为什么不画成黑人，其实后来有点后悔没有画成黑人，后知后觉感受到了黑皮的魅力，枪的大小我是犹豫了一下的，原版的太大感觉要戳破屏幕了。。于是就缩小了一些，人形的身高就變成兩米了，其實可能1米65左右？！！？cv比我想象中硬了一些，不過還是挺合適的，其實我開始憑喜好指名了東山，沒有聽我的真是太好了。)
+
+<big>'''''Finally thanks to everyone loving ntw, you'll have to go through me if you want to marry her (what (最後感謝喜歡ntw的大家，要結婚先過了我這關（什麼）)'''</big>
+|RAN}}
+Her illustrator, as shown, gave a detailed description of how NTW is born, including her personality, clothing, and her height {{spoiler|perhaps behind only that of PTRD}}, <del>and threatful thanks to all players who likes NTW-20.</del>
+
+{{Hide|Title={{color|#AD5A5A|Cafeteria stories}}-{{color|blue|NTW-20 "''Christmas Reindeer''"}}|Text=
+<poem>
+''The celebration event of the Christmas Eve was about to begin, and some dolls were already coming to the small plaza where a Christmas tree is placed.''
+''According to plans, the first part of this event would include Springfield dressinig as Santa Claus giving presents to the dolls. Though according to traditional records, the present should be quietly placed by the pillow at midnight, enjoying the moment of happiness earlier is nevertheless more important to the dolls.''
+''Of course, measures needed to be taken in case they get too excited. Just as I was thinking about how exactly am I to protect Santa, a sheet-metal bucket suddenly dropped right in front of my eyes.''
+"''Ah!''"
+"''Who's down there? Eh, commander?! Did I hit you?''"
+"''No no I'm fine......But you are.......?''"
+"''It's me, NTW-20. What, you can't recognize me with just a bit of a camouflage, command?''"
+"''I focused a bit and only then did I find that it was NTW who peeked out. The two tree branch-like stuff is nothing other than a bunch of deer antler ornaments she was wearing on her head.''"
+"''Oh it's NTW......What you doing up there?''"
+"''Preparations for the show. Commander, you wanna come up and have a look? The ladder's at the back of this warehouse.''"
+"''Kay, I'm on my way up.''"
+''I made my way up the rooftop of the warehouse, and saw NTW adjusting the positions of some stuff on the roof.''
+"''Sorry about that, command. I thought no one would be down there then and didn't care too much......''"
+"''Haha it's ok. I should've been in the office waiting for the thing to start, but just met some problems and had to come out here......NTW, what are you working on up here?''"
+"''I'll be sniping here when the event starts, but never thought that there's so much junk up here. I have to clear out a place to stay.''"
+"''Eh......so you are the 'partner' Springfield's talking about?''"
+"''Yeah.''"
+''NTW pointed at the antlers on her head.''
+"''Springfield says that per human festival traditions, Santa Claus needs a reindeer or something, so I dressed this way. Awkward?''"
+"''Haha not to me. This outfit really has some atmosphere for a festival. A perfect fit for you to me.''"
+"''......It just feels strange dressing as a prey as a hunter. But if you commander says so......It'll be fine. After all, there should be an interesting hunt today.''"
+"''Though you NTW loves hunting......Don't be too harsh today. The primary goal for tonight is to ensure that Santa gets to hand the presents to everyone. If the recepient doesn't get to receive his present, Santa will be sad as well.''"
+"''You got it, commander. I know what the real prey is to day. Those conspiracies to disrupt the event and the greed of attempting to take all the presents, will be pierced by my bullet!''"
+"''I'll rest assured this way. Oh by the way, what do you want for Christmas present?''"
+"''Hmm? Does a Christmas reindeer receive a present?''"
+"''Of course. Everyone in the base should get a Chrisemas present in this event.''"
+''NTW slightly gave this a little thought.''
+"''I'm not having a present I'd like pretty much.''"
+"''Then......any wish or something?''"
+"''If it's a wish......I'd like to see some snow.''"
+"''Snow?''"
+"''Hmm. There ain't no snow in my homeland. Saw borderless deserts and hid within jungles, but I never saw any snow. Says that things turn really beautiful when it snows, want to see it......''"
+"''Yeah, it'll be even better if it snows on Christmas. But it's just a wish. After all......weather doesn't change simply for the mood of a hunter.''"
+"''But it just might. Christmas is a day where all wishes are satisfied.''"
+"''All right all right, commander. I ain't a kid......But I'm already happy to have you talking about these with me.''"
+"''It's about time, and I'll leave this to you. But......I still advise you to look forward to the Christmas present this year.''"
+''I had read recent weather forecasts when I was planning for the event. Though it's all clear skies for today, but, to give it a bit more of an atmosphere, I still prepared some extra stuff, to fulfill their wishes.''
+''NTW didn't hurry into the house after the small plaza returned to silence. She sat on the rooftop, staring into the starry sky.''
+''"Snow ain't falling with a clear sky like this......"''
+''NTW jumped down from the roof, heading towards the banquet room.''
+''Deep humming sounds escaped from the corner of the small plaza, NTW stopped by the Christmas tree.''
+"''......What is it, did they forget some machines out there?''"
+"''NTW stood next to the Christmas tree seeking for the source of the noise, as a white snowflage gently fell to her shoulder.''"
+"''It's cold!......Is this......snow?''"
+''She opened her hands catching the snowflakes falling from the sky, watching them melt in her palms in deep surprise.''
+"''Christmas is a day where all wishes are satisfied, isn't it?''"
+''The snowmaker was running in perfect condition. Though it took some effort to fix these machines, but I thought everything was worth it as I saw NTW's face.''
+''NTW turned to face me, a satisfied smile on her face.''
+"''Commander......Now I believe, that Santa exists on this world.''"
+------------------
+平安夜的庆祝活动很快就要开始了，已经有一些人形迫不及待地来到放置圣诞树的小广场。
+按照计划，本次活动的第一部分就是由春田扮演的圣诞老人将礼物分发给人形们。虽然按照传统的记载，圣诞礼物应该在半夜悄悄放在枕边，但对人形们来说，还是及早享受开心的那一刻更加重要。
+当然，为了预防她们闹过头，还是要准备一些措施的。正当我思考要如何保护好圣诞老人时，一个铁皮桶突然从我眼前掉了下来。
+“啊！”
+“谁在下面？咦，指挥官？！没砸到你吧？”
+“没事没事......不过你是......？”
+“是我啦，NTW-20。怎么，稍微加了点伪装你就不认识我了吗，指挥官？”
+我定了定神，这才发现探出头来的是NTW，那两根像树杈一样的东西是她头上顶着的一堆鹿角装饰。
+“原来是NTW啊......你在上面做什么呢？”
+“在做节目的准备工作。指挥官，你要上来看看吗？梯子在这间仓库后面。”
+“好，我这就上去。”
+我等上了仓库的屋顶，看到NTW正在调整房顶上一些杂物的位置。
+“刚才抱歉啊，指挥官。我以为这边现在不会有人来，就没太留心下面......”
+“哈哈，没关系。本来这个时候我也应该在办公室里等着活动开始，只是临时遇到一些事情不得不出门......NTW，你在上面布置上面呢？”
+“等会儿活动开始的时候我会在这里进行狙击。不过没想到房顶上放了这么多乱七八糟的东西，我得收拾出来一个能落脚的地方。”
+“诶......莫非春田说的‘搭档’就是你吗？”
+“是啊。”
+NTW指了指头上的鹿角。
+“春田说按照人类节日的传统，圣诞老人要个驯鹿什么的，所以今天我就扮成了这个模样，很奇怪吗？”
+“哈哈，我觉得并不算奇怪。这身打扮很有节日气氛啊，感觉也很适合你的。”
+“......身为一个猎人，扮成猎物的样子总觉得有些变扭。不过既然指挥官你这么说的话......也没关系啦。反正今天应该会有一场有趣的狩猎吧。”
+“虽然NTW你很喜欢狩猎......不过今天可别下手太重啊。今晚的主要目的，还是保证圣诞老人能够把礼物发到每个人的手里。万一收礼的人收不了礼物了，圣诞老人也会很难过的。”
+“放心吧，指挥官。今天真正的猎物是什么,我心里有数。那些想要扰乱节目的阴谋和企图独吞礼物的贪欲，就由我的子弹来击穿！”
+“这样我就放心了。对了，NTW你有什么想要的圣诞礼物吗？”
+“咦，圣诞驯鹿也会有礼物啊？”
+“那是当然了。在这个节目里，基地的每个人都理应得到一份圣诞礼物。”
+NTW微微皱起眉，思考了一会。
+“我没有什么很想要的礼物。”
+“那......想实现的愿望之类的呢？”
+“非要说愿望的话......我挺想看看雪的。”
+“想看雪？”
+“嗯，我的故乡是没有雪的。见过无垠的荒漠，也曾经隐藏在密林深处，不过唯独没有见过雪。据说下雪的时候景色会变得很美，真想看看啊......”
+“是啊，圣诞节下雪的话，景色会更美的。不过也就是想想罢了。毕竟......天气是不会因为猎人的心情而变化的。”
+“不过，也说不定哦。圣诞节可是一个能够实现所有心愿的日子。”
+“好啦好啦，指挥官。我又不是小孩子......不过你能和我说这些我已经很开心了。”
+“时间差不多了，我就不打扰你继续工作啦。但是......我还是建议你，可以期待一下今年的圣诞礼物。”
+在筹划圣诞节活动的时候，我就已经查阅了最近的天气预报。虽然今天是个大晴天，不过为了妆点一下节日气氛，我还是要准备一些额外的东西。这也是为了能够满足她们的愿望。
+当小广场上的骚乱平息后，NTW并没有急着进屋。她坐在屋顶上，抬头仰望着璀璨的星空。
+“这样的晴天......根本不可能下雪嘛。”
+NTW从房顶上一跃而下，向着宴会厅走去。
+小广场的角落响起沉闷的嗡鸣声，NTW在圣诞树的旁边停下了脚步。
+“......怎么回事，她们把什么机器落在外面了吗？”
+NTW站在圣诞树的旁边四处寻觅噪声的来源，这时一片白色的雪花轻轻飘落在她的肩头。
+“好凉！......这是......雪？”
+她张开双手接住从天空中落下的雪花，惊愕地看着它们在掌心慢慢消融。
+“圣诞节是一个能够实现所有愿望的日子，不是吗？”
+造雪机运转情况非常良好。虽然前两天修理这些机器花了不少工夫，不过看到NTW的表情，我觉得之前的付出都是值得的。
+NTW转过身来看着我，脸上露出了满足的笑容。
+“指挥官......我现在相信，这个世界上有圣诞老人了。”
+</poem>
+}}
+
+
+[[File:62408452 p0.png|300px|right|thumb|
+<center>Artist:MADCORE<ref>[https://www.pixiv.net/member.php?id=455690 Artist:MADCORE]</ref></center>
+<center>Pixiv ID:62408452<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62408452  Pixiv ID:62408452]</ref></center>
+<center>I NTW will kill ya today!!!</center>]]
+
+===Dominant===
+NTW-20 as the dominant high-damage RF has the highest damage value (165) and the highest ability multiplier (8x) amounting to a staggering 1320 points of damage in one hit, forming a team of high-damage one-shot RFs with [[Girls' Frontline: M99|M99]], [[Girls' Frontline: PTRD|PTRD]] <del>and also [[Girls' Frontline: Kar98k|98k]]</del>. But however, aside from some high-intesity maps, they are usually replaced with other dolls due to the relatively low need for them in ordinary maps and their slow rate of fire.
+
+But as the buffs of HGs received an overhaul as well as the calculation of ability damage, and the bosses of Operation Cube PLUS are introduced, 
+
+NTW and M99 received wide acclaim for one-shotting [[Girls' Frontline: Executioner|Executioner]], [[Girls' Frontline: Architect|Architect]] and [[Girls' Frontline: Weaver|Weaver]], signifying the rise of high-damage one-shot RFs.
+
+They have also contributed to the ever-increasing number of auras above Weaver's head.
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2></sm2>
+|-
+| Upon login
+| {{lang|ja|やっと戻ったか、指揮官、待ちわびったぞ。}}<br />Finally back, commander, been waiting on you for long.<br />终于回来了吗，指挥官，等你好久了。
+| <sm2>NTW20_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|指揮官、対物ライフルのダネルNTW-20だ、鋼鉄の壁であろうとも、この私が貫いて見せよう。}}<br />Commander, anti-material rifle Denel NTW-20. Even if it's steel walls, I'll penetrate it for you.<br />NTW-20狙击步枪，就算是钢铁，我也会贯穿给你看！
+| <sm2>NTW20_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|私の背後に立たないてくれないか？}}<br />Can you not stand behind me?<br />能别站在我身后吗？
+| <sm2>NTW20_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|誰だ！…なんだ、指揮官か。うかつに触らないてくれ、怪我させてしまう。}}<br />Who! ......what, it's commander. Touch me like this more, and you may get hurt.<br />谁？……什么啊，是指挥官呀。随便碰我的话，可是会受伤的哦。
+| <sm2>NTW20_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|狙撃のミッションなら私に任せろ。草原を疾走するヒョウであろうが、一撃で仕留める。}}<br />Leave the sniping missions to me. I'll score a shot even if its a jaguar running on the grasslands.<br />狙击的任务就交给我吧。哪怕是在草原疾驰的猎豹，我也能一击得手。
+| <sm2>NTW20_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post oath-link establishment)
+| {{lang|ja|}}<br />Commander, how about going hunting for tomorrow's hunting? I'll lower my skills, so rest assured haha!<br />指挥官，明天放假一起去打猎如何？我会好好的放水的，放心吧，哈哈！
+| <sm2></sm2>
+|-
+| As adjutant (Outfit: Christmas Reindeer)
+| {{lang|ja|}}<br />Does it snow on Christmas? Never saw snow fall, want to see......<br />圣诞那天会下雪吗？从没见过下雪，真想看看啊……
+| <sm2></sm2>
+|-
+| As adjutant (Outfit: Broadsun mission) 
+| {{lang|ja|}}<br />
+| <sm2></sm2>
+|-
+| Dormitory (Liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|やっとスナイパーの出番か。}}<br />Finally the sniper's turn.<br />终于轮到狙击手出场了。
+| <sm2>NTW20_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|出撃だな、ラジャー！}}<br />Commencing, roger!<br />要出击了嘛，roger！
+| <sm2>NTW20_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|敵をほそく、攻撃開始。 }}<br />Target acquired, beginning attack.<br />捕捉到敌方位置，开始攻击。
+| <sm2>NTW20_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|くっあーー！この私が…}}<br />Gah--! Made me.....<br />咳——！竟然将我……
+| <sm2>NTW20_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|私にもこんな時があるのか？では、頼むぞ。}}<br />Do even I have this kind of moments? Then, I'll leave [restoration] to you.<br />我也会有这种时候吗？那么，（修理的事情）就拜托你了
+| <sm2>NTW20_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|さあー、帰るぞ。ミッションクリアだ！}}<br />Then, we'll head home. Mission clear!<br />那么，要返回了。Mission clear！ 
+| <sm2>NTW20_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|すまない、撤退する。}}<br />Sorry, I have to fall back.<br />抱歉，我得撤退了。
+| <sm2>NTW20_RETREAT_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|行動開始か？任せてオッケー。}}<br />Has the mission begun? Just leave it to me.<br />行动开始了吗？就交给我吧。
+| <sm2>NTW20_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|任務完了、簡単すぎやしないか？}}<br />Mission accomplished. Does it seem too simple?<br />任务完成，会不会太简单了？
+| <sm2>NTW20_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい銃が完成したようだ、私と同じくスナイパーか？}}<br />A new gun has been completed. Will she be sniper like me?<br />新枪的建造完成了，会和我一样是狙击手吗？
+| <sm2>NTW20_BUILDOVER_JP.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|拡大完了、強くなりすぎじゃないのか？}}<br />Establishment augmentation complete. Will I become too powerful?<br />编制扩大完成，这样会不会变得太强了？
+| <sm2>NTW20_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|これで射程がさらに伸びた、恩に着る。}}<br />Range extended this way, many thanks.<br />这样子，射程又延伸了呢，感激不尽。
+| <sm2>NTW20_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|狙い…発射！}}<br />Aiming......Fire!<br />瞄准……发射！
+| <sm2>NTW20_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|ターゲットはあいつだ、準備は良いか？}}<br />Target's that guy. Ready?<br />目标是那家伙，准备好了吗？
+| <sm2>NTW20_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|私を敵に回すとは、あさはかなやつめ。}}<br />You dare to be hostile to me, you arrogant thing.<br />竟敢与我为敌，不知深浅的家伙。
+| <sm2>NTW20_SKILL3_JP.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|これまでずっと、私の力と信念は、貴方がくれた物だった。指揮官、分かっていったよ。そして今ようやく見つけた、私が強さを求める、本当の理由を。}}<br />Up until now, all my power and belief are gifts from you commander, I know. And now I finally know the true reason, for me to seek out more power.<br />到现在为止，我的力量与信念，都是指挥官您所赠予的，我明白。还有，事到如今终于明白了，我追求强大的，真正的理由。
+| <sm2>NTW20_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_NTW20_1101.png|width=500px|left=-150px|bottom=10px}}
+
+==External links and references==
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Kneepads]]
+[[Category:Pantyhose (black)]]
