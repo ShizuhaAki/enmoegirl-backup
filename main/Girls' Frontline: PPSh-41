@@ -1,0 +1,318 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Commander, greetings! Eh? My Body? Not heavy, not heavy at all!</big></big>'''}}
+{{Girls' Frontline profile
+|Name=PPSh-41
+|image=PPsh41.png
+|Caption=
+|Original name={{ruby|Пистолет-пулемёт Шпагина|Pistolet-pulemyot Shpagina}} (Shpagin machine pistol)
+|Nicknames=Papasha
+|Moe point=Loli
+|Hair color=Golden
+|Eye color=Blue
+|CV=Uesaka Sumire
+|Type=SMG
+|Rarity=★★
+|Country of origin=Soviet Union
+|Manufactured by=
+|Developed=1939
+|In service=1941-1945
+|Related persons=Sister[[Girls' Frontline: PPS-43|PPS-43]]<br />Archenemy: [[Girls' Frontline: Suomi KP31|Suomi KP31]]
+}}
+
+'''PPSh-41''' is a character from the tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The PPSh-41 was born during the Winter War, in which USSR forces attempted to gain some Finnish territory as a buffer against Germany, before having the Suomi KP/-31 sub-machine guns in the hands of Finnish soldiers become an everlasting pain in their memory. {{Spoiler|Partially due to the Great Purge wiping out many with actual capabilities, replacing them with obsolete-minded people or those with little knowledge in weaponry.}} Though an earlier submachine gun developed by Degtyaryov designated PPD-38/PPD-40 based on the KP/-31 existed, its effectiveness in combat was rather unsatisfying.
+
+As the number of casualties suffered by the Soviet Army continued to rise as the war progressed, there was growing anxiety among the higher part of the Soviet chain-of-command. Stalin signed an order demanding an expedited research on a new model of submachine gun. However, the Suomi KP/-31 and the PPD submachine guns were too complicated to manufacture, which was contradictory to the need of simple, large-scale productions. The tough task of designing an easy-to-make submachine gun with a performance on par with the Suomi KP/-31 was handed to Soviet weapons designer Georgy Shpagin. He abandoned traditional method by 1940, instead using welding, riveting and stamping to produce the new model.
+
+In September, Shpagin came up with a new model of sub-machine gun. After two months of trials and competition against the PPD, Shpagin's design was favoured and was officially adopted by the Soviet State Defense Committee (known as GKO) and was designated "PPSh-41"({{ruby|Пистолет-пулемёт Шпагина|Pistolet-pulemyot Shpagina}}, Shpagin's machine pistol). It was six months to the Great Patriotic War.
+
+The weapon was easy to produce even to untrained workers, women and even children, with mass numbers produced issued to the Soviet Army, to an entire battalion or even divisions. German soldiers on the Eastern Front also use captured PPSh-41's, modifying it to chamber for 9mm cartridges, while even printing and distributing German manuals on how to operate captured PPSh's.
+
+Many PPSh-41's are also sent to other socialist states as supplies, making cameos in the Korean War and the Vietnam War.
+
+=== Specifications ===
+*Caliber:7.62mm
+*Cartridge: 7.62×25mm Tokarev
+*Feed system: Detachable 71-round drum magazine/35-round box magazine
+*Cyclic rate of fire:900rds/min
+*Sight adjustment: For 50～500m
+*Effective range:100～200m
+*Firing modes:Semi/Auto
+*Action:Simple blowback with open bolt
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's view. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     3.63 kg (8.0 lb) (without magazine)
+ Length                     843 mm (33.2 in)
+ Barrel length              269 mm (10.6 in)
+ Cartridge                  7.62×25mm Tokarev
+ Action                     Blowback. open bolt
+ Rate of fire               900 to over 1000 rounds/min
+ Muzzle velocity            488 m/s (1.600.6 ft/s)
+ Effective firing range     125 - 150 m
+ Maximum firing range       200m - 250m 
+ Feed system                35-round box magazine or 71-round drum magazine
+ Sights                     Iron sights
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PPSh-41'''
+|-
+! colspan=2 | '''Index number'''：NO.021
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: Soviet[[File:Flag_of_USSR.svg|20px]]'''
+! colspan=2 | '''Type:Submachine gun'''
+|-
+! colspan=2 | '''CV：[[Uesaka Sumire]]'''
+! colspan=2 | '''Illustrator: 和茶'''
+|-
+! colspan=4 | '''Stats (Growth:B)'''
+|-
+| '''Health (A)''' || 97→194 || '''Damage (B)''' || 10→26
+|-
+| '''Dodge (B)''' || 8→56 || '''Accuracy (C)''' || 2→11
+|-
+| '''Movement speed''' || 12→12 || '''Rate of fire (A)''' || 65→93
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 201→3601
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Hand grenade
+| colspan=3 | Throws a grenade dealing 1.8x (5.5x) damage to enemies within a 2.5 radius.<br />Has an initial cooldown of 6 seconds and can be activated at an interval of 20(16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 2,8
+|-
+| '''Effect''' || colspan=3 | Applies to '''AR'''s<br />Raises damage by 10%, rate-of-fire by 5%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 1:50:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=The Moment of Oath / 契约时刻
+|bt4=The Moment of Oath-Damaged
+|tab1=[[File:PPsh41.png|400px]]
+|tab2=[[File:PPsh41 D.png|400px]]
+|tab3=[[File:PPsh-41_纯白誓约.png|400px]]
+|tab4=[[File:PPsh-41_纯白誓约_重创.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== Trivia ==
+[[File:波波沙炸....jpg|400px|right|thumb|
+<center><div style="display:inline-block;"><br>
+Artist:Mush<ref>[http://www.pixiv.net/member.php?id=6601102 Artist:Mush]</ref><br>
+Pixiv ID:62138739<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62138739 Pixiv ID:62138739]</ref></div></center>
+<center>The background of this image is the [[Girls' Frontline/Furniture#Primate sculpture stool|Primate sculpture stool]] in the '''Path of Exhibition''' set of furniture.</center>
+]]
+
+===Weight===
+According to reports by soldiers who had taken part in the Korean War, the Papasha was too heavy to wield, therefore its magazines were replaced with 35-round ones. <del>And this also warns commanders to have a pay a moment's thought before deciding whether or not to lift her.</del>
+
+{{Hide|Title=An improved Papasha|Text=[[File:改良PPSh-41.jpeg|400px]]}}
+
+===Scapegoat===
+{{Hide|Title=Network instability compensation for 19 and 23 November, 2016|Text=[[File:2016年11月19日网络波动补偿.png|500px]]<br>''Commander:<br>Papasha prepared 10*Procurement tokens and 500*four types of resources, consider it..(Bong!)''
+[[File:2016年11月23日凌晨网络波动补偿.png|500px]]<br>''Commander:<br>It's not Papasha's fault this time (Bong~), anyway...Please accept this compensation: 10*Procurement tokens, 500*four types of resources<br>(By Papasha in Detention Room)''}}
+Due to cases of the server breaking down when the game was still in its testing phase, some players created a comic depicting Papasha accidentally firing at the server. <del>Which made her a life-long scapegoat.</del>
+
+{{Hide|Title=Serverside crisis creator Papasha|Text=
+[[File:波波沙1.png|400px|center|thumb|<center><div style="display:inline-block;">(1)<nowiki>[Preparations before testing]</nowiki><br>PPSh:''It's going to be a happyend <nowiki>[sic]</nowiki> this time too...''<br>(2)<nowiki>[Background says ''Server'']</nowiki><br>Soldier:''Comrade, about this rescue mission...''<br>PPSh:''(Eh...)''<br>Cat:''<nowiki>[Pulls]</nowiki>''<br>(3)PPSh:''Yaahhhhh----!''<br>Soldier:''Comrade! No!''<br><nowiki>(4)[Test ongoing]</nowiki><br>Soldier:''Yes, the server's all done for. We got a backup but this one isn't holding for long...''<br>{{color|red|<nowiki>[arrow saying "backup"]</nowiki>}}<br>PPSh:''Uh.''<br>Artist：AC_130<ref name="AC_130">[https://www.pixiv.net/member.php?id=6982245 Artist:AC_130]</ref><br />Pixiv ID:54949330<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=54949330 Pixiv ID:54949330]</ref></div></center>]]
+}}
+
+{{Spoiler|According to the comic's creator, the reason Papasha was chosen was simply because it would be more painful to the server judging from how fast it fires.}}
+{{Hide|Title=The following|Text=[[File:波波沙2.png|600px|center|thumb|<center><div style="display:inline-block;"><nowiki>[read from right to left, up-to-down]</nowiki><br><big>''DAMN!Comrade Papasha isn't inside the Detention Room!''</big><br>''It's from gunshots, so it's within repairable margins''<br><big>''WHAT!? Everyone go look for her!''</big><br><big>''OOHHH---!''</big><br>''By the way why so fast this time?''<br>''Comrades! We got the server back online!''<br>''Shh... Don't let Comrade Papasha hear it.''<br>Artist：AC_130<ref name="AC_130" /><br>
+Pixiv ID:55086513<ref>[https://www.pixiv.net/member_illust.php?mode=manga&illust_id=55086513 Pixiv ID:55086513]</ref></div></center>]]
+}}
+ 
+And as a result, she's sent to detention. {{Spoiler|Before being eaten by FNC (NOOO!!!)}}, and made her and FNC a good pair of {{ruby|partners|server-killers}}.
+ 
+{{Hide|Title=“Server secure” (CAUTION:Dark-themed)|Text=
+[[File:FN FNC 波波沙.png|center|600px|left|thumb|<center><div style="display:inline-block;">Artist：AC_130<ref name="AC_130" /><br>
+Pixiv ID:55163775<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=55163775 Pixiv ID:55163775]</ref></div></center>]]
+}}
+
+===Rarity fraud===
+Though with a 2-star rarity, many players complain that she's much harder to be found than a number of 3-star T-dolls, counting her as an example of rarity fraud.
+
+Somehow granting her limited protection against immediate retirement.
+
+===Grifon<del>-exclusive </del>SCV driver===
+Papasha appears driving an SCV when a dormitory facility is being upgraded after an update on 17 August 2017, tinkering around until the upgrade is complete.{{Spoiler|So did she turn nice when she's working on the server?}}
+
+{{SpoilerBar}}
+[[File:解放布拉格.jpg|thumb|right|400px|Soldiers of the Red Army entering Prague on 10 May, 1945.]]
+
+===Reliable comrade===
+
+As found by some commanders, a section in the prologue was reserved for PPSh-41 to ask how Skorpion Vz.61 was.<del>(PPSh-41:''All clear on Papasha's side. How about Skorpion?'')</del>
+
+Which might be considered care to east-European countries by the Soviet "big-brother" Union if little history background is known.{{Spoiler|<del>Actually unrelated, former Czechoslovakia was instead being intervened by military force</del>}} Perhaps this more or less represents the liberation of the capital of former Czechoslovakia, Prague in WWII.
+
+So PPSh-41 stormed the Sangvis command post and saved Skorpion Vz.61. {{Spoiler|PPSh-41: ''It's me, Skorpion, we are here to get you out.'' Vz.61:''Papasha...You still alive...?''}}
+
+Followed by some really T-doll-esque content:Vz.61:''Am I dreaming...'' PPSh-41:''(Smiles)Fool, do we dream?''
+
+== Voicelines ==
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br/>Girls' Frontline<br />少女前线。
+| <sm2>PPSH41_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|ああ、お帰りなさい。}}<br/>Ah, welcome back.<br />啊呀，欢迎回来。
+| <sm2>PPSH41_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|初めまして、指揮官!私、全然重たくないですよ。}}<br/>Commander, greetings!Eh? My body?Not heavy, not heavy at all!<br />指挥官，初次见面！诶？我的身体？不重啊，一点都不重呢！
+| <sm2>PPSH41_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|え?あ、はい!びっくりしました。}}<br/>Eh? Ah,...you scared me.<br />诶？啊……您吓到我了。
+| <sm2>PPSH41_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|あの…なんですか。}}<br />Umm...Anything?<br />唔……有什么事吗？
+| <sm2>PPSH41_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|私は聞き役でいいんです。}}<br/>I'll just stand by...<br />我只要作为一个旁观者，就足够了……
+| <sm2>PPSH41_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment) 
+| {{lang|ja|}}<br />How was my performance last time, commander?If you want, I'll pick a better composition to play for you.<br />指挥官，上次我的表演怎么样呢？只要您愿意，下次我会选更好的曲子来献给您。
+| <sm2></sm2>
+|-
+| As adjutant (Outfit:The Moment of Oath)
+| {{lang|ja|}}<br />Commander, please take this. Nothing else, really......<br />指挥官，请收下这个。没什么别的意思哦，真的......
+| <sm2>PPsh41_VALENTINE_JP.mp3</sm2>
+|-
+| Dormitory(liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory(Touch)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|私なんかで良ければ......}}<br />If you don't mind...<br />如果您不嫌弃我的话……
+| <sm2>PPSH41_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|怖くなんかない、怖くなんかない！}}<br />There's nothing to be afraid of-There's nothing to be afraid of!<br />没什么可怕的，没什么可怕的！
+| <sm2>PPSH41_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|ヒィィィ！}}<br />Heeeeee-!<br />哎呀呀呀！
+| <sm2>PPSH41_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|もう、戦えません……}}<br />I-can't fight anymore...<br />我已经无法继续战斗了......
+| <sm2>PPSH41_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|うぅぅ、少し休憩してもいいですか？}}<br/>Ummm...Can I get some days off?<br />呜呜呜......您能给我放会儿假吗？
+| <sm2>PPSH41_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|良かった～}}<br />Great~<br />太好了~
+| <sm2>PPSH41_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|まっ、負けちゃいました......うぅぅ......}}<br />I lost....umm......<br />我输了......呜呜呜......
+| <sm2>PPSH41_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|信念を守る戦い、私にお任せください！}}<br />For a fight to protect beliefs, I'll make sure it gets done!<br />为了保卫信仰的战斗，我保证完成任务！
+| <sm2>PPSH41_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|偉大な使命なんですね、このペーペーシャ４１にお任せください！}}<br />Hand this critical mission to me Papasha 41!<br />这一重大任务，请交给我波波沙完成！
+| <sm2>PPSH41_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|重要な任務、完了しました！}}<br />Critical mission accomplished!<br />重大任务顺利完成！
+| <sm2>PPSH41_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|あの、ええと、製造が完了しました。}}<br />Umm..It's...production finished.<br />那个，我插一句，建造完成了。
+| <sm2>PPSH41_BUILDOVER_JP.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|たくさんの同志が加わるのね、ハラショー！}}<br />New comrades joining us, ''khorosho''!<br />有大批同志加入我们的队伍，真是太棒了~
+| <sm2>PPSH41_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|わざわざありがとうございます。}}<br />THank you for your consideration.<br />烦劳您多虑，感激不尽
+| <sm2>PPSH41_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|ウ、ウラー！}}<br>U-Ura!<br />乌拉！
+| <sm2>PPSH41_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|私、この戦いで、光輝きます！}}<br />I won't fail anyone in this battle!<br />我在这场战斗中必将不负众望！
+| <sm2>PPSH41_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|私も、このまま守りつつられることを願っています！}}<br />Bless me for ever!<br />请永远保佑我！
+| <sm2>PPSH41_SKILL3_JP.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|指揮官、あなたとこの神聖な契約を結べるなんて、私は今、人生で一番幸せです。これから、もっともっとたくさんの栄誉をあなたに捧げますわ。}}<br />Commander, forming this oath with you is the best moment in my life. Allow me to bring more honor before you from now on.<br />指挥官，和您结下这份契约，是我生命中最满足的时刻。今后请让我将更多的荣耀，带到您的面前吧！
+| <sm2> PPSH41_SOULCONTRACT_JP.mp3 </sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=PPsh41.png|width=400px|left=-100px}}
+
+==References==
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Cossack hat]]
+[[Category:Pantyhose]]
+[[Category:Leather shoes]]
+[[Category:Loli]]
+[[Category:Double ponytails]]
