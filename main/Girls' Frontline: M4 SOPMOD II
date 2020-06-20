@@ -1,0 +1,134 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Who are you and will you scream with pain when I disassembled you,are the only two things you need to tell me.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=M4 SOPMOD II‎
+|image=同人SOP.jpg
+|Caption=
+|Original name=M4 SOPMOD II‎
+|Nickname(s)=SOPII、Tactical dog、Doggie
+|Moe point=Denpa、Collecting quirks、inu musume(Dog girl)、yandere、{{Spoiler|tear up Sangvis Ferri with hands}}
+|Hair color=Pink
+|Eye color=Red
+|CV=田村ゆかり
+|Type=AR
+|Rarity=★★★★
+|Country of origin=US
+|Manufactured by=Knight's Armament Company<br />Atlantic Research Marketing Systems<br />Lewis Machine & Tools<br />Daniel Defense<br />
+|Developed=1992
+|In service=1999-
+|Related person(s)={{Spoiler|Eugene Stoner}}
+AR Squad:[[Girls' Frontline: M4A1|M4A1]], [[Girls' Frontline: ST AR-15|ST AR-15]], [[Girls' Frontline: M16A1|M16A1]], [[Girls' Frontline: RO635|RO635]]
+}}
+
+'''M4 SOPMOD II''' is a character from the Tactical SRPG ES game '''Girls' Frontline''' and its derivatives, developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+
+'''M4 SOPMOD Block II''' refer to two things. M4 Carbine, the assault rifle. SOPMOD II, the set of accessory kit issued to special operative units of united states Army such as Delta Force, Navy Seals and Army Rangers.
+
+{{Hide|Title=Specifications|Text=
+
+*Weight: 2.88kg / 3.4kg (with 30-round magazine) 
+
+*Length: 838mm / 757mm (stock extended/retracted)
+
+*Barrel length: 368.3mm
+
+*Cartridge:: 5.56 × 45mm NATO
+
+*Caliber: 5.56mm (.223 in)
+
+*Action: Gas-operated rotating bolt
+
+*Rate of Fire: 700—950 rounds／min
+
+*Muzzle velocity: 905m／s
+
+*Feed system: 20- or 30-round box magazine
+}}
+
+=== History ===
+For a long time，there's no uniform standard for factories that produce collimator,flashlight and others tactical appendix to Carbines. 
+In September 1989,USSOCOM(United States Special Operations Command)started trying to set up a unified standard for melee carbine tactical appendix,and formally put
+forward a plan called '''SOPMOD''' (Special Operations Peculiar Modification)In May 15,1992.SOPMOD is the general term of a series of equipment based on MA/M4A1 rifle.
+The derivative models such as Mk.18 CQBR and Mk.12 SPR which have been developed on this basis,are also part of SOPMOD,but after the type of firearms in army increased,in some special forces,Soldiers are used to use SOPMOD to express the M4/M4A1 of the 14.5 inch barrel in this set of equipment.
+
+The development of second generation of SOPMOD(that is,SOPMOD II)started in 2001,and began to equip the army in 2005.
+SOPMOD II includes innovative optics, such as the Elcan Specter DR, Trijicon's ACOG TA-31 ECOS model, and the Eotech 553. Block II uses the RIS II rails manufactured by Daniel Defense in both a 9.5 and 12.5 length.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''M4 SOPMOD II'''
+|-
+! colspan=2 | '''Catalogue number'''： No.056
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: American[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Type: Assault Rifle'''
+|-
+! colspan=2 | '''CV：[[田村ゆかり]] (Yukari Tamura)'''
+! colspan=2 | '''Illustrator: 海猫络合物'''
+|-
+! colspan=4 | '''Stats (Growth: A)'''
+|-
+| '''Health (B)''' || 55→110 || '''Damage (A)''' || 19→50
+|-
+| '''Dodge (A)''' || 6→44 || '''Accuracy (S)''' || 7→49
+|-
+| '''Movement speed (B)''' || 10→10 || '''Rate of Fire (A)''' || 54→78
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 176→3528
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 20→60 || '''Rations''' || 20→60 
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Anti-personnel Grenade
+| colspan=3 | Launch a grenade that deals 3.5(9.0) times M4 SOPMOD II's damage to enemies within a radius of 1.5 unit. <br /> Initial cooldown at 10 seconds, with interval at 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect blocks''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 3，6，9
+|-
+| '''Effect''' || colspan=3 | Affects '''Submachine guns'''<br /> Increases Accuracy by 50%<br>Increases Dodge by 12%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | '''N/A'''
+|-
+| '''Drops''' || colspan=3 | '''N/A'''
+|-
+| '''Others''' || colspan=3 | '''(Only)''' Reward for finishing 3-3 for the first time.
+|}
+'''Notes'''：
+* The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses ("()") is the maximum possible value of the stat.
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored Damaged
+|tab1=[[File:M4 SOPMOD II.png|400px]]
+|tab2=[[File:M4 SOPMOD II D.png|400px]]
+|tab3=[[File:Pic M4 SOPMOD II Dhx.png|400px]]
+}}
+</div>
+{{-}}
