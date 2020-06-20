@@ -1,0 +1,584 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''''<big><big>Sorry. We, are the dark marks of everyone. Sadly those who wanted to wipe us out, either relied on us...... or were wiped out by us.</big></big>'''''}}
+{{Girls' Frontline profile
+|Name=UMP45
+|image=UMP45 JOJO.jpg
+|Caption=<center>Artist:芋艿<ref>[https://www.pixiv.net/member.php?id=11564071 Artist:芋艿]</ref></center>
+<center>Pixiv ID:62272331<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62272331 Pixiv ID:62272331]</ref></center>
+|Original name=UMP45
+|Nicknames={{Spoiler|Airport}}
+|Moe points=Side ponytail, {{Spoiler|Flat chest}}, <del>Cunning</del>
+|Hair color=Grey
+|Eye color=Golden
+|CV=Mineuchi Tomomi
+|Type=SMG
+|Rarity=★★★★
+|Country of Origin=Germany
+|Manufactured by=Heckler & Koch
+|Status={{Spoiler|Retreated due to heavy injury}}
+|Developed=
+|In service=
+|Related persons=Variants: [[Girls' Frontline: UMP9|UMP9]] [[Girls' Frontline: UMP40|UMP40]]
+Squad 404: [[Girls' Frontline: G11|G11]], [[Girls' Frontline: UMP9|UMP9]], [[Girls' Frontline: MK416|MK416]]
+}}
+
+'''UMP45''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The UMP45 was the product developed by H&K specifically for the US Special FOrces using .45 ACP cartridges, in an effort to replace 9mm-caliber SMGs with sub-par performances in combat conditions. Due to its excellent performance, low recoil and ease of maintenance, it is now adopted by several Spec Op units and SWAT teams.
+
+=== Weapon-related trivia ===
+The Spec Op units of the US Army use pistols mainly chambered for the .45 ACP cartridge (such as the Springfield M45, a modernized model of the M1911) instead of the 9mm Parabellum as their sidearm, while the Mk23 SOCOM developed by H&K for the US Special Forces is used as a combat weapon rather than a sidearm. However, the sub-machinegun adopted by the US Special Forces is still the MP5 chambered in 9mm caliber, requiring the use of subsonic rounds when using silencers to achieve optimal performance. However the 9mm subsonic rounds have poor combat performances, whereas the .45 ACP round itself is subsonic barring a few variants. This difference in chambering also complicated logistics, with voices calling for a switch to .45 ACP rounds to the SMGs (though carbines are more often used in the stead of SMGs as time progresses into the 21st century). H&K never marketed any .45 ACP-caliber SMG at that time, and there was never a single SMG chambered for the .45 ACP suitable for hostage-rescue and other special scenarios. In light of this, H&K developed a brand-new ".45-caliber Universal Machine Pistol", the UMP45, introduced ar the end of 1998.
+
+Similar to the G36, the UMP45 marked a change in weapon-design doctrines of H&K. The UMP45 incorporated a few design elements from the G36, with identical operations. The UMP45 boasts simple construction, use of non-metal material and therefore lower overall mass and price (about half of that of the MP5), while retaining the traditional performance and quality of H&K firearms.
+
+The UMP45 uses free blowback rather than roller-delayed blowback as found on the MP5. To ensure accuracy, the UMP45 uses a closed bolt. A limiter is also installed, limiting the Rate of Fire to 580 RPM to increase controllability in full-auto and to decrease bullet spread. The cyclic rate of fire is increased to 700 RPM when high-pressure rounds (+P rounds) are used.
+
+The straight, plastic magazine holds 25 rounds, fewer than 30 rounds that the magazine of the MP5 is capable of holding due to the larger dimensions of the .45 ACP rounds. Another 10-round short magazine is also available. The front end of the barrel is threaded to accept silencers or flash hiders. The stock folds to the right without blocking casing extraction, similar to the G36.
+
+===Specifications===
+*Caliber: 11.43mm (.45 in)
+*Muzzle velocity: 320 m/s
+*Effective range: 100 m
+*Cyclic rate of fire: .45 ACP:580 RPM  .45 ACP +P: 700 RPM
+*Feed system: 25-round detachable magazine
+*Overall length: 695/455 mm(stock extended/folded)
+*Empty weight: 2.47 kg (5.45 lbs)
+*Barrel length: 200 mm
+*Cartridge: 11.43×23mm (.45ACP)
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors, and represent only the game's opinion towards the firearm. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     2.5 kg (5.4 lb) (without magazine)
+ Length                     450 mm (17.7 inches). stock folded
+                            690 mm (27.2 inches). stock extended
+ Barrel length              200 mm (8 inches)
+ Cartridge                  .45 ACP 
+ Action                     Blowback. closed bolt
+ Rate of fire               600 rounds per minute
+ Muzzle velocity            320 m/s 
+ Effective firing range     100 m
+ Feed system                25-round detachable box magazine
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''UMP45'''
+|-
+! colspan=2 | '''Index number'''： No.103
+! colspan=2 | '''Rarity'''：★★★★
+|-
+! colspan=2 | '''Nationality: German[[File:Flag_of_Germany.svg|20px]]'''
+! colspan=2 | '''Type: SMG'''
+|-
+! colspan=2 | '''CV：Mineuchi Tomomi'''
+! colspan=2 | '''Illustrator: ZAGALA'''
+|-
+! colspan=4 | '''Stats (Growth:A)'''
+|-
+| '''Health (B)''' || 93 → 185 || '''Damage (B)''' || 11 → 28
+|-
+| '''Dodge (A)''' || 10 → 74 || '''Accuracy (A)''' || 2 → 13
+|-
+| '''Movement speed''' || 12 → 12 || '''Rate of Fire (B)''' || 57 → 82
+|-
+! colspan=4 | '''Operational Effectiveness'''
+|-
+! colspan=4 | 208 → 4062
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25 → 85 || '''Rations''' || 20 → 60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Smoke grenade 
+| colspan=3 |Throws a grenade, lowering 25% (40%) of Rate of Fire and 30% (50%) of Movement speed of enemies within a 2.5 radius for 2.5 (4) seconds.<br />Has no initial cooldown with an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"></TD><TD BGCOLOR="#6b6b6b" height="20" width="20"></TD><TD BGCOLOR="#6b6b6b" height="20" width="20"></TD></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"></TD><TD BGCOLOR="#f0f0f0" height="20" width="20"></TD><TD BGCOLOR="#6b6b6b" height="20" width="20"></TD></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"></TD><TD BGCOLOR="#6b6b6b" height="20" width="20"></TD><TD BGCOLOR="#6b6b6b" height="20" width="20"></TD></TR>
+</TABLE>
+Keypads 1, 4, 7
+|-
+| '''Effect''' || colspan=3 | Applies to '''AR'''s<br />Damage+18%<br />Crit chance+30%
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 02:15:00
+|-
+| '''Drops''' || colspan=3 | 6-6,8-4,6-3e,8-2e,8-4e
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=''Only this time.''(“下不为例。”)
+|bt4=''Only this time.''-damaged (“下不为例。”)
+|tab1=[[File:RZ-ump45.png|400px]]
+|tab2=[[File:破-ump45.png|400px]]
+|tab3=[[File:UMP45_情人节.png|400px]]
+|tab4=[[File:UMP45_情人节_破.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== Trivia ==
+===Personality===
+Member of Squad 404 and the ''de facto'' leader. Not the best in terms of combat capabilities, but with an extremely rational mind and her judgements unhindered by the simulated personality.
+
+Seemingly open-minded and gentle with a constant smile, but even humans have difficulties seeing what she's really calculating inside. Friendly to all the T-dolls and commaders she meet on the way, but it's hard to tell whether or not this fake-to-a-degree smile is a deliberate mock.
+
+Kept a long scar along her left eye with no intention to fix it. No one knows why aside from members of Squad 404.
+{{Cquote|''Though the power of .45 ACP is not to be ignored, and with quite excellent combat capabilities, but just because of these [I] wanted to express that kind of sense of "The extraordinary ordinary". Clothes, arm band, including the scar on the eye makes her someone with stories. Don't know if they are really exhibited.'' (尽管.45ACP的威力不容小觑，本身的作战性能也相当优秀，不过也正是因为这样才会想要表达出那种「平凡中的不平凡」的感觉。衣服、袖章，包括眼睛上的疤痕，让其成为了一个看起来颇有故事的角色，不知道有没有真正的体现出来呢)|From the official art collection of Girls' Frontline VOL.1}}
+
+=== Flat chest ===
+After all UMP9 has got 30 rounds in her magazine, while UMP45 has only 25. (False)
+
+Though similar to each other, UMP9 has a breast size bigger than UMP45. While UMP45 has relatively pronounced breasts, the claim that UMP45 is flat-chested remains questionable as if observed carefully, they are still visible.
+
+While the claim itself originated from a certain spin-off, [http://weibo.com/ttarticle/p/show?id=2309403991754125748598#_0 ''Grifon communications--Bar stories (UMP sisters)'' (《格里芬通讯》——吧台琐事（UMP姐妹）)] released by G&K Telegraph Bureau when UMP45 went live in the game, in which it was mentioned that 9 has a better body build than 45, which 45 kept in mind.
+
+{{Hide|Title=Naughty 9 (Big picture, in Chinese)|Text=[[File:作死中的9.jpg|400px]]
+<center>Artist:休嫁一慧子<ref>[https://www.pixiv.net/member.php?id=19469841 Artist:休嫁一慧子]</ref></center>
+<center>Pixiv ID:60064609<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60064609 Pixiv ID:60064609]</ref></center>
+}}
+
+{{FanTranslation}}
+{{Hide|Title=[http://weibo.com/ttarticle/p/show?id=2309403991754125748598#_0 ''Grifon communications--Bar stories (UMP sisters)'' (《格里芬通讯》——吧台琐事（UMP姐妹）)] (Long text)|Text=
+[[File:UMP9 45.jpg|600px]]
+''Trills of cicada, windbells, and the blinding hot sun''
+''When it comes to summer, the last favourable thing is the temperature.''
+
+''Yeah, summer's quite enjoyable if it wasn't for this heat.''
+''The sun and stuff, would better if they just all disappear.''
+
+''"45-sis! I'm dying! I'll die if we don't go to the pool now!"''
+
+''Yeah, it would be even better if this bothering sister disappears as well.''
+''"Get your work over with first!"''
+
+''"So, you twins just skipped work and came here?" Kalina at the bar asked.''
+
+''"She made me tag along." Looking back seeing the sister who already jumped into the pool enjoying the cool, and sigh. "Don't tell commander about this, she hasn't got her work done for today."''
+
+''"Pfft, I can't turn a blind eye to this." Kalina looked at me with a cunning smile. "I'm the logistics officer."''
+
+''"Tee-hee♪ Then who overslept yesterday and missed the logistics meeting, eventually making things up?♪"''
+
+''"Ehh! How could you know, I'm wrong! Please don't tell Commander about this!"''
+
+''"Then we'll just see how things go♪"''
+
+'''Course, I'm not telling this idiot that I'm just testing her out.''
+
+''"What do you want for drinks~"''
+
+''"Cola Zero♪ With ice."''
+''Seeing how Kalina went to get the cola with fear, it always seems fun to bully her.''
+
+''"By the way, 45. You not going for a swim? You hardly come here." Kalina glanced at me, possibly because that it seems to weird wearing a coat when the swimming dress is already put on.''
+''"Nah, it's 9 herself who wanted to come." I pretended as if I never cared.''
+
+''"Juice for me! Kalina!" 9 forced her way to the bar as she came up from the pool."''
+
+''"Enough fun, time to go back to work."''
+
+''"Eh~It's so cool down here. Sis you ain't going down for a swim? I even picked a set of swimming dress for you."''
+
+''"OH~So it's a set? I wanna have a look."''
+
+''"You're so bothersome! Work better and smarter with this kind of effort!"''
+
+''"Angry she's angry."''
+
+''"Sis is so scary~" 9 seemed like as if she recalled something, "So, are you sis embarrassed with your body build!"''
+
+''"WHA--!?"''
+
+''"Tell ya what Kalina, sis secretly drinks milk at the dorm!"''
+
+''"Hey! Why're you so talkative!!"''
+
+''"See~! It's the reason." That look of 9 as if she understood something... is just asking for a punch!''
+
+''"Eh!? You look so similar, but you have different figures?" That idiot Kalina wore a smile also asking for a punch in the face.''
+
+''"Shut up 9! It's just some curves!"''
+
+''"Quit worrying, sis you can do it."''
+
+''"HEY!"''
+
+''"Quit worrying, I'll keep this secret for lil-45!"''
+
+''"You two! Back to work, 9!"''
+
+''"Eh~~"''
+''It's absolutely no good allowing this conversation to continue. Ignoring her objection and retreat ASAP is the right tactic to employ.''
+
+''Of course, the story of Kalina accidentally leaking this out at Command causing her to be put on my hit-list is what follows later.''
+
+
+------------------
+
+蝉鸣，风铃，还有那晃人眼睛的烈日
+所谓夏天呢，最让人讨厌的就是温度。
+
+嗯，如果不是这么热的话。夏天还是很让人开心的。
+太阳什么的，消失掉不就好了吗。
+
+“45姐！我要死了！再不去泳池我要死了啦！”
+
+嗯，如果这个烦人的妹妹也消失的话，那就更好了。
+“把你的工作搞完再说！”
+
+“所以说，你们姐妹俩就翘班来这里了吗？”吧台的格林娜问道。
+
+“她硬抓我来的。”回头看看已经跳进泳池享受清凉的妹妹，轻轻叹了口气。“别跟指挥官说哦，她今天的工作其实还没搞定呢。”
+
+“噗，这种事情我可不能当做没看到哦。”格林娜带着不怀好意的笑容看着自己。“我可是后勤官哦。”
+
+“嘻嘻♪ 那么昨天是谁睡过头，结果错过了后勤会议。最后随便瞎写数字交上去的呢♪”
+
+“诶！你怎么会知道的。我错了！这个事情请务必不要告诉指挥官！”
+
+“那就看我的心情吧♪”
+当然，我是不会告诉这个笨蛋，刚刚只是在试探她而已。
+
+“请问您想喝点什么~”
+
+“健怡可乐♪ 加冰哦。”
+看着格林娜这个诚惶诚恐去倒可乐的样子，果然什么时候欺负她都很有趣。
+
+“说起来，45。你不去游会儿吗，难得过来。”格林娜打量着自己，大概是明明换上了泳衣还要在外头披着外套，看起来太奇怪了吧。
+“不了，原本就只是9她想来而已。”自己装作一副不在意的表情应付着。
+
+“我要果汁！格林娜！”从泳池里爬上来的9也挤到了吧台前。
+
+“玩够了吧，该回去干活了哦。”
+
+“诶~明明这边这么凉快，姐你不下去游会儿吗，难得给你挑了泳衣的说。”
+
+“哦~还是成套的泳衣吗，我也要看。”
+
+“你们好烦啊！有这个干劲倒是把工作干好一点啊！”
+
+“生气了，生气了。”
+
+“姐好可怕~”9突然像是想起来什么的样子，“这么说的话，姐你不会是在意身材吧！”
+
+“啥！？”
+
+“格林娜我跟你说哦，姐在宿舍会偷偷喝牛奶的哦！“
+
+“喂！要你多嘴！！！”
+
+“喏～你看！果然是这样。”9那个一副懂了什么的表情……真的是好欠打！
+
+“诶！？明明长的这么像，身材却有区别吗？”格林娜那个笨蛋也一脸欠打的坏笑
+
+“9你给我闭嘴！不就是稍微有点曲线吗！”
+
+“不要担心啦，姐你也一定可以的。”
+
+“喂！”
+
+“不要担心，小45我也会给你保密的哟！”
+
+“你们两个！回去了，9！”
+
+“诶~~”
+这个对话再继续下去，对自己是绝对没有什么好处的。这个时候无视她的抗议，赶紧撤退才是正确的策略。
+
+当然，日后格林娜不小心把这个事情说漏在指挥部惨遭自己追杀的故事，就是后话了。
+}}
+
+<!--WEEK 1 STANDARD-->
+
+As the product from the first days of the game when figures of characters are relatively shallow, UMP45's <del>airport</del> is soon accepted by the player base, which is (though incorrect(?)ly)repeatedly mentioned and poked on as Squad 404 makes its cameos in events.
+
+Making most of the dojin works related to 45 unseparable to her breasts. However, for the safety of commanders' noses, exercise caution when poking on this.
+
+<del>And UMP45's head is repeatedly photoshop'd onto the teaser pictures of some outfits with pronounced breasts, without discrepancies whatsoever.</del>
+
+===Twins===
+One of her variants is UMP9, which mentions 45 calling her "45-sis" in her voicelines.
+
+UMP45 highly values the pro-active, cute 9, and charges her for the morning call service to help her get independent earlier.
+
+Said "''That kind of job is enough for '9' alone'' (那种小任务，让‘9’她一个人干都够了)", hinting about the excellent capabilities of 9.
+
+UMP45 is similar in appearance with her sister UMP9, but with minor differences, such as the straight magazine of her SMG (while it's curved on that of UMP9's), and the inclusion of a vertical grip.
+
+They also stand with different stances with pronounced differences in their damaged illustrations. UMP45 possesses normal lips, while UMP9 has cat-like ones, in addition to their different hair colors to further differentiate one from the other.
+
+Of course the simplest way is to look at their braids: UMP45 has a ponytail down her side, while UMP9 has two.
+
+As per UMP45 herself, her hobby includes researching about cooking, seeing apocalyptic films, and likes destroyed human residences.
+ 
+The aforementioned is her self-comment, and there are only two things that commanders can be sure of: She can calmly escalate scuffles with others, and she highly values her family<ref>http://gf.ppgame.com/web/pc/info.html?id=76 UMP45,9A91参上！《少女前线》新枪娘曝光</ref>
+
+=== Server saver ===
+[[File:404婚庆公司.jpeg|right|400px|thumb|
+<center>微博:@西行寺科学子<ref>[http://weibo.com/5099758617/E3e6Zs81f?from=page_1005055099758617_profile&wvr=6&mod=weibotime&type=comment#_rnd1495455040151 微博:@西行寺科学子]</ref></center>]]
+In the ''Metropolitan photography studio'' (都市摄影棚) set of furniture released by the devteam in May 18, 2017, the ''[[Girls' Frontline/Furniture#Modern art photo|Modern art photo]]'' (摩登艺术照) rings a bell, as it is taken from a dojin picture in August 2016, with its own stories, provided in detail below.
+
+{{Hide|Title=Chaos of potato servers|Text=
+The estimated 3-hour maintenance period for the first large-scale event ''Operation Cube'' was mentioned on August 10, 2016, with many players gearing up for the start of the event the next day. However, the devteam released another notice during maintenance that "''Girls' Frontline's originally planned maintenance on August 9:00-12:00 will be extended for 2 hours to around 14:00''  (《少女前线》原计划于8月9:00-12:00进行的维护,将延迟2小时至14:00左右开服)" <ref>[http://gf.ppgame.com/web/pc/info.html?id=196 Maintenance extension notice on August 11]</ref>, which sparked some dissatisfaction in between some players, and the server was subsequently sometimes nicknamed "a similar one to Ubisoft's", "Another potato server". {{Spoiler|Furthermore, the English comma was mistakenly used with the accidental omittance of the date, which can still be found in the post, hinting about the dire situation on the MicaTeam side then.}}
+
+The server was back online at 2 PM, with large numbers of commanders on the Android client rushing in causing yet another problem for the server, with {{Spoiler|a large}} part of the players unable to login to the game, and the devteam soon released another notice on an "emergency upgrade in server bandwidth", but with unappreciable outcomes judging from the results. The devteam had to once again post "''A temporary maintenance is needed, from 15:55 to 16:15, lasting an estimated 20 minutes.'' (现需要临时进行服务器维护进行处理，维护时间15:55-16:15时，预计共20分钟。)", which further complicated matters about a sudden maintenance after only two hours of the server's opening, making the "potato server" a remembered moment.
+
+{{Spoiler|The v1.030 update then released was also far from perfect, with some commanders still suffering from the problem of being unable to fetch the server list, but was soon remedied by a new download link released by the devteam. The related notice-post, as it is still in that specific day, contained wording mistakes.}}
+
+There was another post on August 12 (with redacted contents):
+{{Cquote|
+''Starting from early morning today, the official server of the Android client has been suffering from malicious DDOS attacks, receiving large amounts of abnormal requests in a short timeframe, causing commanders to suffer from slow responses or the inability to login into the server. <br /> We strongly condemn the actions of the attacker, and regarding this the company has reported the case to public security offices and complied with the investications, we strongly believe that the attacker will be punished by law. <br />We hereby guarantee strengthened defense capabilities of the server to ensure a stable gaming environment as the issue is being solved. Lastly, we sincerely apologize for the inconvenience suffered from commanders. Thank you for your understanding and support.'' <br/> (自今天凌晨起，安卓官网服务器持续遭受到恶意DDOS攻击，短时间内收到大量异常请求，造成正常游戏的指挥官们卡顿或无法登录游戏。<br />我们对于攻击者的行为表示强烈谴责，对此公司已向公安机关报案并配合立案侦查，我们坚信恶意攻击者必将受到法律严惩。<br />我们在此承诺，在解决此次问题的同时，我们将加强服务器的防御能力，确保今后游戏环境的稳定。最后，对给指挥官造成游戏体验上的不便，我们向您致以诚挚的歉意，感谢您的理解与支持。)
+|''Girls' Frontline devteam'' (《少女前线》运营团队)<br />8月12日}}
+And it was swiftly announced that a maintenance would be scheduled from August 12 23:30 to 00:30, for all servers and all clients, involving commanders on the IOS servers. Another announcement then caught commanders off-guard who thought that everything had been over in the early morning of August 13:
+{{Cquote|
+''Starting from early morning today, the official server of the Android client has been suffering from worse DDOS attacks, causing commanders to suffer from slow responses or the inability to login into the server. Therefore a maintenance will be scheduled from 1:40 August 13 to 8:00, during which the game cannot be logged into. The actual end of maintenance will be brought forward or postponed according to work progress, apologies for the inconvenience!'' <br />(自今天凌晨起，安卓官网服务器又遭受到更恶劣的DDOS攻击，造成正常游戏的指挥官们卡顿或无法登录游戏。因此安卓官网服务器将于8月13日上午1:40-8：00进行维护，期间不能进入游戏，维护具体结束时间会根据工作进度推迟或提前，给您带来的不便敬请谅解！)
+|''Girls' Frontline devteam'' (《少女前线》运营团队)<br />8月13日}}
+
+By far, a total of 6 hours and 20 minutes had been lost to maintenance of the summer event of 2016, which, when including the 7-hour-and-a-half maintenance on August 13, totals to over 12 hours. {{Spoiler|Making some commanders who fail to login to outright forfeit and maintain their own command center for nearly 3 days.}}
+}}
+
+The picture takes direct inspiration of the issue, with the caption "''To save the potato server, Squad 404 decided to become rock stars. ''(为了拯救土豆服务器，404小队决定成为摇滚偶像)", possibly poking on the fact that the server was under quasi-constant maintenance.
+
+According to the artist, the picture takes inspiration from a screenshot of the MV of the 5th single of the Album ''V'' by Maroon 5 in August 2014, ''Sugar''. The description of this piece of furniture "''If this picture is real, does Squad 404 go to weddings and sing songs when not on a mission? Hmm let's wish the couple......'' (如果这张照片是真的，404小队在没有出任务的时候，会跑去婚礼唱歌？嗯让我们祝福新人……)" further verifies this.
+
+It is also worth noting that [[Girls' Frontline: PPSh-41|Papasha the Server Bomber]] is created earlier on, but perhaps Squad 404 is a better choice when it comes to wrecking servers xD
+
+=== Princess of the UMP nation ===
+Sometime later when UMP40 was introduced in July 2017 {{Spoiler|The exact time cannot be made sure as the post has been deleted}}, @SAAKE_ of weibo <ref>http://weibo.com/u/6273461057?is_hot=1</ref> drew a dojin picture that was accepted at an instant by everyone.
+{{Hide|Title=Mysterious past|Text=
+[[File:UMP国的公主.jpg|600px|thumb|left|The link is still valid but links to the notice that the post has been deleted.<ref>https://m.weibo.cn/6273461057/4131371766998190</ref>]]
+}}
+Which pokes on the personality of UMP40 herself: "''Has a mysterious sense of superiority concerning her background'' (对自身的出身有着莫名的优越感)", which, coupled with the position of the UMP series of submachineguns in the world and that UMP45 is the first member of the series, gives her the "Princess of the UMP nation" title.
+
+This immediately made many commanders to use their imagination, giving UMP9 the "Second Princess of the UMP nation", and the devs were not hesitating in giving the note "'''''The secretary general of.... the UMP nation! (I'm just saying'' (UMP国的……总理大臣！（我开玩笑的)'''" when forwarding a post from an expository post of @坦克装甲车辆杂志社<ref>http://weibo.com/tankarmour?is_hot=1</ref><ref>http://weibo.com/5064790962/FdRLz3Dp8?type=repost</ref>, making UMP40 the "secretary general" of the UMP nation.
+
+{{Spoiler|However the highlight is 416's expression at the bottom, which is screenshotted by many commanders and spread as picture-emojis xD. The secretary general as the main character sets a princess and a 416-emoji into fame.}}
+----
+{{SpoilerBar}}
+
+=== With HK416 ===
+The two appears to be verbally quarreling throughout the story. 416 is the only T-doll that protests 45's various actions, but she trusts the commanding capabilities of 45.
+
+45 always gets the upper hand when quarreling with 416, which is possibly the reason the latter always lets out the pressure on G11.
+
+===With M16A1===
+Answered her relationships with M16A1 during an interview.
+
+"''We are very close friends, I enjoy our various joint ops. But about how M16 feels....There's been some small misunderstandings before eh, she's just not straightforward like MK416......Really, at least I'm happy to see her again.'' (我们是关系非常好的朋友哦，之前的合作我都乐在其中呢。至于M16的感受……之前有一些小误会啦，那家伙只是和HK416一样不太坦率呢……真的啊，至少我很乐意再见到她呢。)"
+
+Leaked intel to M16 in episode 4-5.
+
+In operation Arctic, she worked together with the AR squad once more. M16A1 nicknamed her "little fox" in front of her, and called 45 "squinty eyes" in front of RO. M16A1 is highly cautious in the story, and seems to know 45 very well. When the AR squad gets their memory about 404 wiped, Helian mentioned that that of M16A1's cannot be wiped clean, while Kryuger stated that its the affairs before the 404. It can be inferred that 45 has been working with M16 long before, and according to the depth of understanding of "the squad" 416 had been in, it can be inferred that the two used to work together.
+
+=== Squad 404 ===
+{{cquote|<big><big>'''404 Not Found'''</big></big>|HTTP error code}}
+
+The Squad's name coincides with this HTTP error code, which takes the literal meaning of "Not Found". Regardless of the type of mission, all T-dolls in contact with Squad 404 will have their memories wiped. There may be word that the Squad is "exterminated", but it may be seen in the next operation.
+
+"''Just say that you folks are killed. I know the rules.'' (就说你们被干掉了，我知道规矩)" --From M16A1 who isn't memory-wiped.
+
+Squad 404 is called an expert shadow force below the table, with the exclusive authority to attack any T-doll that get in their way, be it friend or foe. The reason of its rise to fame more or less owes to UMP45's commanding, while the background of Squad 404 remains a mystery.
+
+=== Dark past? ===
+UMP45 has a darkened expression in the stead of expressions of suffering or embarrassment, with numerous hints in the story about that 45 is never a simple T-doll.
+
+45 has an extremely rational mind, with the principle of "Do Roman jobs in Rome", usually completing missions in the way with the highest calculated survivability. Therefore she never hesitates if sacrifices has to be made, leading the Squad to survive another day with a stone-cold ''modus operandi''.
+
+Which is the very thing that [[Girls' Frontline: MK416|MK416]] objects most. (<del>UMP9:I only listen to 45-sis. G11:I accept orders only, don't ask me.</del>), and is the reason why 416 is never fully part of the squad and why she's skeptical towards 45.
+
+45 also ordered 416 (then retreating) in Operation Cube to jump off a cliff that meant absolute death, when 416 replied:"''You finally taking us out of the picture?'' (你终于要把我们灭口了吗？)", which hints that 416 is clear of the past of UMP45.
+
+When [[Girls' Frontline: Executioner|Executioner]] made herself an abandoned pawn for the completion of the mission and tried to take Squad 404 with her, Executioner mocked the Squad's abandoning of Grifon echelons when retreating, causing 45 to fall into silence.
+
+45 attempted to again abandon everyone aside from the AR squad in Operation Arctic, and replied 416: "''Let go of your pitiful sense of righteousness and join us completely...It's only when we become their dark marks when they will really start to care about us.''  (放弃你那点可怜的矜持，完全融入到我们这边吧……我们只有成为他们的污点，他们才会真正的在乎我们。)"
+
+Evetually, [[Girls' Frontline: RO635|RO635]] chose to believe the commander, and rushed to the battlefield at all costs, saving everyone. Faced by the question from RO: "''Then...What's 'self'?'' (那么……‘自我’又是什么呢？)", 45 fell into silence again/
+
+"''Anyway, at least you are right in this op.'' (……无论怎样，至少这次行动里，你是对的。)", and subsequently 45 wiped RO's memory about Squad 404 as she shakes her hand. "''I'm really...quite envying you girls.'' (我真的……挺羡慕你们的。)" As 45 expresses her sense of hardship with these words, RO forgot everything about the squad.
+
+Inferring from these, this is the reason why 404 made it this far. It's a necessary step that 45 has no authority to decide. Squad 404 ''has'' to be "an existence that doesn't exist". It can also be inferred that UMP45 sacrificed much to live, possibly because of her past.
+
+===Operation Deepdive===
+The event "Operation Deepdive" succeeds the plot of Episode 8: M16's sangvisization, 404 taking the request from Persica to recover the drone containing related data shot down by Dreamer in Zone S15.
+
+It is stated that 45 had already touched the jammer, making her a carrier of the "Umrella" virus, which may be the reason why she started to recall those locked-down memories related to UMP40. In the recovery operation, 45 was spotted by Dreamer due to the virus, and she commanded Destroyer (who has entered the body of Cerberus) to approach 45 in order to connect and activate the virus, in an effort to gain complete control of UMP45. However the protocol is successfully overwritten, but 45 cannot be controlled.
+
+Without hope of recovery, Dreamer utilized the computational power of a high amount of servers, attempting to burn down 45 using offensive firewalls, while 45 used it to decrypt her own memory, and was subsequently spotted. At this dire moment, DSR-50 wrecked Destroyer in cooperation with G11, ensuring the safety of 45. However, though not completely damaged by the attack, 45's digi-mind was fragmented and needed recovery.
+
+Without 45's command, Squad 404 could not effect an assault, putting their stake on her recovery. UMP9 temporarily became the actual to cover MK416 and G11, while the latter entered the cybernetic network to collect the digi-mind fragments of 45 to upload to Seele and Deele for emergency recovery. Squad 404 was repeatedly backed into a corner by the relentless attack from Destroyer. 45 eventually recovered and led the assault, saving the lost T-dolls.
+
+==== Past ====
+It is mentioned in Operation Deepdive about 45's past.
+
+When she's still a rookie, she's a classified T-doll cloned and modified from [[Girls' Frontline: UMP40]] by unknown forces, and is the backup of UMP40, with the purpose of interfering with the cleanup person of a capture operation, but she was unaware of this.
+
+Due to the electronics warfare (EW) module mounted on 45 taking too much memory, she performed poorly in actual combat. Despite attempts to improve, she was never favoured by commanders. She cheered herself up with UMP40, hoping to make a name some day.
+
+Arranged by unknown forces, UMP40 and UMP45 infiltrated Grifon, and was redirected to "National Security Agency 6" to conduct an operation. They are to use their EW modules to hack in and kill other Grifon T-dolls, before self-destructing to cover their tracks.
+
+However, the plan went wrong when UMP40 knew the entire plan in advance, redirecting 45's commanding authority to herself <del>forcible use of the C language</del>, to make the military unable to initiate the security program of 45. At the end of the mission, UMP40, who's fated with ensured death, gave UMP45 one last lesson and chose to die under the latter's gun. 45, sensing the weight of life, engaged the cleanup person and escaped, making her an illegal T-doll.
+
+The recall mentions the cleanup person multiple times without giving a clear indication of who the person is. Some commanders concluded that it's [[Girls' Frontline: M16A1|M16A1]], otherwise there would be no reason why she lived. The matching scars seems to be telling about that past in silence.
+
+{{Hide|Title=I'm the sister!|Text=[[File:45才是姐姐.jpg|450px|center|thumb|]]
+<center>Weibo:@砧板13<ref>[http://weibo.com/1873343563/Fhc2hEyHm?filter=hot&root_comment_id=0&type=comment#_rnd1502848505347 Weibo:@砧板13]</ref></center>
+}}
+
+According to the dialogue between Angelia and UMP45 in Operation Singularity, the operation may well be '''"Operation Butterfly"''' that caused the death of Lyco and the wake of ELISA.
+
+===Operation Singularity===
+Squad 404 makes a search for a Sangvis database under the command of Angelia in order to lock onto ELISA's position. UMP45 was determined, thinking about "Operation Butterfly" she and 40 once endured. They encountered military T-dolls in the way, but the military, in an effort to resist the counterattack by the manifestation of OGAS system, was forced to activate Level I Active Defense, destroying all communications.
+
+The squad was surrounded by a sea of Sangvis forces under Gager's command. They eventually effected rendevous with M4A1, escaping the danger.
+
+Angelia used her ultimate method of detonating the collapse fluid, blaming it on the military while destroying its troops. M4A1 struck a deal with "a clear female voice" (manifestation of OGAS), with 45 ordered by Angelia to infiltrate and trace its signal, regarding it as an unknown Sangvis unit. As they attempt to capture ELISA, Yegor jacked into the comms, and the squad was attacked by full force of military machines. 45 saved 416 by taking a shot from a military tank, suffering heavy injuries, handing the detonator to M4A1.
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girl's Frontline<br />少女前线
+| <sm2>ump45_030.mp3</sm2>
+|-
+| Login
+| {{lang|ja|あら、お仕事ですか？まだ間に合うのかな…。}}<br />Alas, ready to work? Hope we've got enough time....<br />哎呀，准备好好工作了吗？希望来得及呢，嘻嘻♪
+| <sm2>ump45_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|UMP45（ゆーえむぴーよんご）が来ました。指揮官、仲良くやりましょう～。}}<br />UMP45, coming. Commander, you want to live well with me right♪?<br />UMP45，来了哦。指挥官，你是想和我好好相处的，对吗♪
+| <sm2>ump45_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|待ってたよ指揮官。}}<br />Commander, you know what I'm waiting for?<br />指挥官，你知道我在等什么吧？
+| <sm2>ump45_005.mp3</sm2>
+|-
+| {{lang|ja|「9（きゅう）」がいればもう十分でしょ？}}<br />It's enough to have 9 around right?<br />有"9"在的话，就不需要我提供什么了，对吗？
+| <sm2>ump45_006.mp3</sm2>
+|-
+| {{lang|ja|やさしくしてね指揮官～。}}<br />Be nice, commander~<br />好吧，请对我温柔一点，这对您的鼻子有好处哦，嘻嘻♪
+| <sm2>ump45_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Did I go out for long? Miss me? Then don't you make your expression more sincere....? Right, like this foolish face. This makes me rest assured, hmm....<br />我刚才出去了很久吗？想我了吗？那么表情不再真诚点吗……对，就是这个傻兮兮的样子，我才能放心呢，哼哼…… 
+| <sm2></sm2>
+|-
+| As adjutant (Outfit: "Only this time")
+| {{lang|ja|指揮官、これ、私からのチョコレート。もちろん、ちゃーんとみんなにも作ってきたんだから。やるでしょ？}}<br />Commander, this, is the chocolate I made. Of course, everyone made it for you. So, is mine ok?<br />指挥官，这是我做的巧克力。当然了，大家也都给您做了吧，我的是不是还凑合呢？
+| <sm2>ump45_017.mp3</sm2>
+|-
+| Dormitory (liftoff) 
+| {{lang|ja|わっ。}}<br />
+| <sm2>ump45_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|はははっ。}}<br />Smile
+| <sm2>ump45_032.mp3</sm2>
+|-
+| {{lang|ja|やるわね。}}<br />Admiration
+| <sm2>ump45_035.mp3</sm2>
+|-
+| {{lang|ja|ええ。}}<br />Agreement
+| <sm2>ump45_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|ししっまた戦場に向かうんだね？}}<br />To the battlefield?<br />嘻嘻♪又要让我去死了吗？（原文本如此。。。别问我。。。）
+| <sm2>ump45_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|いいから、行きますよ。}}<br />Okok, let's go.<br />好啦好啦，我们快走吧。
+| <sm2>ump45_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|始まるよ、「9」、ちゃんと見ててね。}}<br />Starting. "9", look carefully.<br />要开始了，"9"，注意看哦。
+| <sm2>ump45_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|フフン、やっと会えた…本当に殺したいやつ…。}}<br />Hum...Finally met...someone I really want to kill.<br />哼，终于遇到了……真正想抹杀掉的家伙。
+| <sm2>ump45_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|たまには休ませてよ、指揮官。}}<br />Give me a break, commander.<br />嘻嘻♪偶尔也让我放个假嘛。
+| <sm2>ump45_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|まあまあね、これで良かった？}}<br />So so. Is this ok?<br />嘻嘻♪马马虎虎的结果吧，能继续前进了吗？
+| <sm2>ump45_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|こんなこと・・・めったにないことだからね・・・}}<br />This...seems to be something uncommon.<br />这……似乎也不是常有的事呢，对吧……嘻嘻♪
+| <sm2>ump45_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|もう少し長生きしてよね。 }}<br />Live longer right?<br />诸位，还能再多活一会儿吧？
+| <sm2>ump45_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|はいはい、休ませてくれないのね。分かりましたよ。}}<br />I know, you just don't want me to rest.<br />我知道的，您就是不想让我休息呢。
+| <sm2>ump45_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ただいま。余裕よ。}}<br />I'm back, then?<br />我回来了哦，之后呢？{{Spoiler|Yǒ Yó Yo}}
+| <sm2>ump45_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|あら、新人？わたしのことなんてどうでもよくなっちゃった？}}<br />Alas, newbie? So you would forget me?<br />有了新人，你就会把我忘了吧？
+| <sm2>ump45_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|また増やしたの？まぁ、いいけど…。}}<br />One more? Well, one more....<br />又多了一个？嗯……多了就多了吧……
+| <sm2>ump45_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|これ、どう使えばいいんだろう？}}<br />For me? How can I use it....<br />给我的？要怎么使用才好呢……
+| <sm2>ump45_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|虫けらが！}}<br />Goodbye, maggot!<br />再见了，鼻涕虫！
+| <sm2>ump45_021.mp3</sm2>
+|-
+| {{lang|ja|うぬぼれないで！}}<br />Your sin is arrogance.<br />你的罪行，就是太自以为是呢。
+| <sm2>ump45_022.mp3</sm2>
+|-
+| {{lang|ja|立ったまま死ね！}}<br />Die standing!<br />不想求饶的话，也可以站着死哦。
+| <sm2>ump45_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|わたしの本性を知って、それでも受け入れようと思ったの？…ふふ、自分の将来を心配しなさいよ指揮官～。}}<br />Still want to accept me knowing who I am? ......Want to change me? Quit dreaming. Worry about your later life with me~♪<br />明知道我是这个样子，还想要接纳我吗？……想改变我？别妄想啦。和我在一起，您还是担心一下今后的日子吧，嘻嘻♪
+| <sm2>ump45_029.mp3</sm2>
+|}
+
+
+
+{{Girls' Frontline}}
+{{SideBarPic|url=RZ-ump45.png|width=360px|left=-110px}}
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Side ponytail]]
+[[Category:Pantyhose]]
