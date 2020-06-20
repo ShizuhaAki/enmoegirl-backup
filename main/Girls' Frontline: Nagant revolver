@@ -1,0 +1,236 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Alas Commander, you like people with experience like me. So special of you.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=Nagant Revolver
+|image=M1895.png
+|Caption=
+|Original name=Nagant M1895
+|Nickname=
+|Moe points=[[Loli]], [[Flat-chested]]
+|Hair color=Golden
+|Eye color=Red
+|CV=Shinohara Narumi
+|Type=HG
+|Rarity=★★
+|Country of Origin=Belgium
+|Manufactured by=Tula Armory<br/>IzhMash
+|Developed=1895
+|In service=1895-1952
+|Related person=Leon Nagant
+}}
+
+'''Nagant Revolver''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The '''Nagant revolver''' (Nagant M1895) was a revolver developed for Russia under Tsardom by Belgian Léon Nagant. It was originally produced in Belgium before production sites moved to Russia, and was issued to the Red Army in the Soviet era, and took part in the Great Patriotic War. It is still used by some regional police forces and private security forces.
+
+The revolver uses a special design to effectively accept a silencer, which is uncommon for revolvers. Its cylinder can also move back and forth, which is reported to have been designed so as to prevent jamming, reduce noise and raise its muzzle velocity.
+
+It has a capacity of 7 rounds, with a design capable of, though not so perfectly, accept cartridges of other models, such as the .32 S&W, .32 S&W Long, and the .32 S&W H&R, which would inevitably affect its hermetic performance.
+
+[[File:Nagant_M1895.jpg|400px]]
+
+===Specifications===
+*Overall weight: 0.75kg (empty)
+*Overall length: 230mm
+*Barrel length: 114mm
+*Cartridge: 7.62mm Nagant
+*Caliber: 7.62mm
+*Action: Single/Double
+*Rate of Fire: User-dependent (14-21 RPM practical)
+*Muzzle velocity: 272 m/s
+*Effective range: 46m
+*Feed system: 7-round cylinder
+*Sights: Fixed front post and rear notch
+
+=== Trivia ===
+The Nagant Revolver remained in service for a long time due to its sturdy design and high reliability, and appeared in many European and Eastern-bloc nations and regions. Short-barreled Nagant revolvers are equipped by secret police personnel of the USSR for its high concealability. Due to how it was mass-produced and equipped during WWII, and its {{ruby|signature|small}} profile, it was widely welcomed by Russians. A Nagant revolver with a red star even once became the highest honor a Soviet Communist Party member could receive. It was also featured in the movie ''Enemy at the Gates'' for its importance to the USSR in WWII.
+{{Hide|Title=Screenshot from the movie|Text=[[File:Nagant M1985 officer.jpg|400px]]}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Nagant Revolver'''
+|-
+! colspan=2 | '''Index number'''： No.005
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|23px]]/Soviet[[File:Flag_of_USSR.svg|23px]]'''
+! colspan=2 | '''Type: Handgun'''
+|-
+! colspan=2 | '''CV：Shinohara Narumi'''
+! colspan=2 | '''Illustrator: X布'''
+|-
+! colspan=4 | '''Stats(Growth：S)'''
+|-
+| '''Health (B)''' || 35→70  || '''Damage (A)''' || 11→32
+|-
+| '''Dodge (A)''' || 11→92 || '''Accuracy (C)''' || 6→46
+|-
+| '''Movement Speed''' || 15→15 || '''Rate of Fire (C)''' || 29→44
+|-
+! colspan=4 | '''Operational Effectiveness'''
+|-
+! colspan=4 | 130→2467
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10→30 || '''Rations''' || 10→30
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Firepower Suppression-N
+| colspan=3 |Suppresses 20% (35%) of hostile firepower for 5 (8) seconds at night.<br />Suppresses 12% (20%) of hostile firepower for 3 (5) seconds during the day.<br />Has an initial cooldown of 6 seconds and an interval of 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+{{Girls' Frontline effectblocks|5|2|4|8}}
+Keypads 2,4,8
+|-
+| '''Effect''' || colspan=3 | Applies to '''all T-dolls'''.<br/>Damage+16%(32%), Crit chance+8%（16%）
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 00:20:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|tab1=[[File:M1895.png|400px]]
+|tab2=[[File:M1895 D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Trivia==
+=== Is height a problem?===
+
+Different from [[Girls' Frontline:MP5|MP5-chan]] who's also a loli, Nagant Revolver never cared about her height, and is skeptical towards the saying that "Drinking milk helps growth".
+
+=== Excessive drops ===
+Nagant Revolver drops virtually ''everywhere'' in the game, with frequent cameos in HG-centered T-doll productions. However, with almost unequaled abysmal stats, she is almost inevitably fated with being sent to the powerup room. {{Spoiler|She's also described by a certain companion in a certain level as "A cheap T-doll that's old, outdated and everywhere.}}
+
+=== Antique, scavenger ===
+Nagant Revolver is apparently an antique T-doll with an old age, with a particular interest in collecting {{spoiler|and scavenging}}. Her post-oath link establishment line mentions "Look what I've found!". {{Spoiler|Which is also how she collected important intel in a certain Midnight episode.}}
+
+== Voicelines ==
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>M1895_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|戻ってきたか？お帰り！}}<br />You're back? Welcome back!<br />您回来了？欢迎回来！
+| <sm2>M1895_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|こんな年寄りを好みとは、お主は相当な変わり者じゃな。}}<br />Alas Commander, you like people with experience like me. So special of you.<br />哎呀指挥官，您居然喜欢我这种资历的人嘛，品味还真特别啊。 
+| <sm2>M1895_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|わしの身長がそんなに気になるか？デリケートな事は聞かないで欲しいの。}}<br />Care so much about my height? Don't always ask this kind of question.<br />对我的身高这么在意吗？别老是问这种问题呀。 
+| <sm2>M1895_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|わしの頭を撫でるんじゃない！子供扱いされるのは...心外じゃ！}}<br />Don't touch my head so often and take me as a child!<br />别随便摸我的头，居然敢拿我当小孩子！ 
+| <sm2>M1895_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|牛乳飲めば，身長が伸びるというのは本当か？…え，わしを騙すでないぞ。}}<br />Drinking milk helps growth...? Don't fool me.<br />喝了牛奶就能变高吗……别骗我啊。 
+| <sm2>M1895_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Commander commander! Look what I've found! Beautiful isn't it? It's for you, treat it well!<br />指挥官指挥官！看看我今天捡到了什么！很漂亮吧，这个也是专门给您的，要好好收藏哦！
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|こんな年寄りに頼るなんで...んふ、人使い荒いな！}}<br />Taking an aged doll like me to the front line.. Huh, stretched thin as you are!<br />还要赶着我这样的老骨头上前线，哼哼，您真是强人所难呢！
+| <sm2>M1895_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|お主待つんじゃ！わしは走るのが苦手なんじゃ！}}<br />Take it slow! I can't walk fast!<br />您慢点！我腿脚不方便啊！
+| <sm2>M1895_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|年寄りに無理をさせんでくれ。}}<br />Don't put an old one in a tight spot.<br />别总让上年纪的勉强嘛。
+| <sm2>M1895_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|年寄りばかりに…攻撃するとは…どういう事じゃ…}}<br />You target... the old... How could you....<br />竟然专盯着上年纪的打......岂有此理......
+| <sm2>M1895_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|では増員しよ，帽子よ，忘れるなよ。}}<br />Then I'll get more reinforcements, don't forget to get me more hats.<br />那我就先补充下人员吧，别忘记多准备几顶帽子。
+| <sm2>M1895_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|年の功は役に立ったじゃろ？}}<br />Old but not too old huh?<br />我就说我还宝刀未老吧？
+| <sm2>M1895_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|えん…わしの言うこと聞かせて…罰が当たったんじゃ…}}<br />Ehm...If you don't listen to me... You'll taste it.<br />呜......不听老人言，吃亏在眼前......
+| <sm2>M1895_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|皆の者，年長者の救援が，もうすぐ着くぞ！}}<br />Everyone, here comes the old to the rescue!<br />各位，我这老骨头这就前来增援！
+| <sm2>M1895_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|出発じゃ，見ておれ。}}<br />Setting out, just see.<br />出发咯，您瞧好吧。
+| <sm2>M1895_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|無事戻ったぞ，流石はわしじゃ。}}<br />All fine, I can do this.<br />平安归来啦，我还是有两下子的。
+| <sm2>M1895_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい若い娘が来たようじゃ。}}<br />Seems a new girl's coming.<br />好像来了个朝气蓬勃的大姑娘。
+| <sm2>M1895_BUILDOVER_JP.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|編成拡大？もし良いければ…背を高くしておくれ！}}<br />Establishment augmentation? Can I be made higher?<br />要扩大编队？能不能帮我再长高一点？
+| <sm2>M1895_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|お主なかなか分かっておるの，老人にとっては，エステが大事なんじゃ。}}<br />You're a pro. It's important for old people to improve their looks.<br />您也挺懂行的嘛。对老人来说，经常美容是很重要的。
+| <sm2>M1895_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|用意、撃て！}}<br />Aim, fire!<br />瞄准，开火！
+| <sm2>M1895_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|これは、年長者の貴重な意見じゃぞ！}}<br />This is the teachings from the old!<br />我这长者有必要告诉你们一点人生的经验！
+| <sm2>M1895_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|帝国時代の老兵の実力，思い知るが良い！}}<br />See what a Russian veteran can do!<br />让你见识下我这沙俄时代老兵的实力！
+| <sm2>M1895_SKILL3_JP.mp3</sm2>
+|-
+| Oath-link establishment
+| {{lang|ja|ほお?指揮官、お主そんな趣味があったとはなあ…大丈夫なのかの?とにかく…わしに異存はないが…まあ…良い、一緒にいろいろ…検討してみようぞ。}}<br />Huh? Can't think that you're someone with a taste like this. But, I don't have experience on this either... Just take it slow and easy, we can work this out together.<br />诶？长官，没想到您是这种口味的人呢。不过，我也没有这方面的经验……只有慢慢来了，我们可以一起研究嘛。
+| <sm2>M1895_SOULCONTRACT_JP.mp3 </sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=M1895 S.png|width=200px|left=-25px}}
+
+==References==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Cossack hat]]
+[[Category:Leg ring]]
+[[Category:Cloak]]
