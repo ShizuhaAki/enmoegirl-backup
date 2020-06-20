@@ -1,0 +1,781 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Tee-hee....I'm above you......</big></big>'''}}<br/>
+[[File:fairy.png|700px|right]]
+==Introduction==
+*The '''Tactical Fairy System''' is the latest tactical unmanned support system mounted with Artificial Intelligence developed by 16Lab, and incorporates holographic interfaces. Fairies act as support units and provides boosts to all T-dolls in the echelon one is attached to.
+
+*'''60 bronze medals''' are needed to unlock the fairy system, and '''equipment heavy production''' with it, in which there is a chance to produce a tactical fairy.
+
+*Fairies are divided into '''{{ruby|Battle Fairies|战斗妖精}}''' which affect a single battle, and '''{{ruby|Strategic Fairies|策略妖精}}''' which mainly influences the overall situation.
+
+*The combat capabilities of tactical fairies are divided into three parts: '''Boosts''', '''Ability''' and '''Trait'''.
+
+*'''Boosts''' have set types for a specific fairy, but the value increases with fairy level and its rarity, and takes effect '''every battle'''. It is applied multiplicatively.
+
+*The '''Ability''' is set for every fairy, and can be improved via training as that of T-dolls, and can be activated at the cost of support commands in every battle.
+
+*The '''Trait''' is variable for fairies, and can be rewritten with calibration vouchers. Available traits are mentioned below.
+
+*Each activation of the ability of tactical fairies costs '''support commands''', which can be replenished over time, the rate of which is affected by the infrastructure in the [[Girls' Frontline/Dormitory#Fairy house|Fairy house]].
+
+*<del>Now only Persica is bored enough to write AIs with their own personalities and appearances.</del>
+
+{{Hide|Title=Detailed introduction to the Tactical Fairy System <ref>[http://gf.ppgame.com/web/pc/info.html?id=1057 Detailed introduction to the Tactical Fairy System]</ref>|Text=
+[[File:战术妖精系统1.jpg|thumb|center|500px]]
+[[File:战术妖精系统2.jpg|thumb|center|500px]]
+[[File:战术妖精系统3.jpg|thumb|center|500px]]
+}}
+
+==List of fairies==
+*The value of boosts will raise according to fairy level and rarity.
+*Data in parentheses are the maximum possible value of the stat.
+
+{| class="wikitable sortable"  style="text-align:center"
+|-
+! Number||class="unsortable"| Name || Damage boost || Crit boost || Accuracy boost || Dodge boost || Armor boost || Growth level || Damage || Crit damage || Accuracy || Dodge || Armor ||class="unsortable"| Ability ||class="unsortable"|  Effect  || Introduced in || Production time
+|-
+| <font color="#FFA6FF">EXTRA</font>NO.01 || [[Girls' Frontline: Fairy#Yae Sakura|Yae Sakura / 八重樱]] ||S||S||E||C||C||C||  6.00%<br>（26.00%）||  8.00%<br>（32.00%） ||   ||  6.00%<br>（24.00%）|| 2.00%<br>（6.00%） || World of Crimson Hell ||  Summons a Crimson Hell Orb in the next battle, spawning fire pillars in a large radius near the enemy, lasting 2 seconds, dealing 20 (120) damage per 0.5 seconds to any enemy that comes into contact.  ||  17.11.16 || 
+|-
+| <font color="#FFA6FF">EXTRA</font>NO.02 || [[Girls' Frontline: Fairy#Kaguya Hime|Kaguya Hime / 辉夜姬]] ||E||A||A||C||A||C||  ||  8.00%<br>（32.00%） || 18.00%<br>（70.00%）||  6.00%<br>（24.00%）|| 4.00%<br>（15.00%） || Yata beam ||  Deploys multiple Yata mirrors in a radius of 2 round itself and launches laser beams that can be reflected, dealing 10% (20%) damage to 3 hostile units within the area randomly. Nullified against bosses. ||  17.11.16 || 
+|-
+| <font color="#FFA6FF">EXTRA</font>NO.03 || [[Girls' Frontline: Fairy#Chloe|Chloe / 柯萝伊]] ||A||E||A||A||C||C||  4.00%<br>（18.00%）||   || 14.00%<br>（55.00%）||  16.00%<br>（64.00%）|| 2.00%<br>（6.00%） || Mourning double ||  Summons 2 doubles with 150 (600) health, dealing 15 (100) damage to all hostiles each every 2 seconds. ||  17.11.16 || 
+|-
+| NO.01 || [[Girls' Frontline: Fairy#Warrior fairy|Warrior fairy / 勇士妖精]] ||A||E||A||B||B||B|| 5.00%<br>（25.00%）||  ||16.00%<br>（80.00%）|| 8.00%<br>（40.00%）|| 2.00%<br>（10.00%） || Combat effectiveness ||  Raises damage by 5% (20%) and Rate of Fire by 5% (20%) for the entire echelon in the next battle, lasts 20 seconds (cannot stack).  ||  17.7.27 || 04:30:00
+|-
+| NO.02 || [[Girls' Frontline: Fairy#Rage fairy|Rage fairy / 暴怒妖精]] ||B||A||E||B||B||B|| 3.00%<br>（15.00%）|| 8.00%<br>（40.00%） || || 8.00%<br>（40.00%） || 2.00%<br>（10.00%） || Lust for kill  ||  Raises accuracy by 10% (50%) and crit chance by 10% (25%) for the entire echelon in the next battle, lasts 20 seconds (cannot stack).  ||  17.7.27 || 04:35:00
+|-
+| NO.03 || [[Girls' Frontline: Fairy#Armor fairy|Armor / 盾甲妖精]]  ||A||A||E||E||S||B|| 4.00%<br>（22.00%）||4.00%<br>（22.00%）||  || || 5.00%<br>（25.00%）|| Riot-control enhancement ||  Improves riot-control capabilities for all SGs in the echelon in the next battle, raising their armor by 15% (50%), and lasts for 20 seconds.  ||  17.7.27 || 03:00:00
+|-
+| NO.04 || [[Girls' Frontline: Fairy#Shield fairy|Shield fairy / 护盾妖精]] ||A||E||A||S||E||B|| 4.00%<br>（20.00%）|| || 12.00%<br>（60.00%）|| 16.00%<br>（80.00%）||  || Energy shield ||  Deploys a shield for every SMGs in the echelon in the next battle, each absorbing 40 (150) points of damage.  ||  17.7.27 || 3:05:00
+|-
+| NO.05 || [[Girls' Frontline: Fairy#Defense fairy|Defense fairy / 防御妖精]] ||A||E||E||A||A||A|| 4.00%<br>（22.00%）|| |||| 14.00%<br>（80.00%）|| 4.00%<br>（20.00%） || Makeshift armor ||  Mitigates 10% (30%) of incoming damage for the echelon in every battle in a single round, lasts for 20 seconds.  ||  17.7.27 || 4:10:00
+|-
+| NO.06 || [[Girls' Frontline: Fairy#Taunting fairy|Taunting fairy / 嘲讽妖精]] ||B||B||B||C||C||A|| 3.00%<br>（18.00%）|| 4.00%<br>（25.00%） || 10.00%<br>（58.00%）|| 5.00%<br>（28.00%）|| 2.00%<br>（8.00%） ||  Taunting drone ||  Deploys a drone that draws enemy fire at the start of the next battle with 250 (1000) health.  ||  17.7.27 || 3:10:00
+|-
+| NO.07 || [[Girls' Frontline: Fairy#Sniper fairy|Sniper fairy / 狙击妖精]]  ||E||A||A||C||A||B|| || 7.00%<br>（36.00%） || 18.00%<br>（88.00%）|| 6.00%<br>（28.00%）|| 3.00%<br>（15.00%） || Sniping directive ||  Aims at the enemy unit with the highest hit points in the next battle, causing 2500 (20000) damage.<br>Has an intial cooldown of 10 seconds ||  17.7.27 || 3:30:00
+|-
+| NO.08 || [[Girls' Frontline: Fairy#Artillery fairy|Artillery fairy / 炮击妖精]] ||S||E||E||A||C||B|| 11.00%<br>（55.00%）|||||| 11.00%<br>（56.00%）|| 1.00%<br>（6.00%） || Bombardment directive ||  Launches a mortar shell dealing 200 (1200) damage to enemies in a 2.5 radius in the next battle. <br> Has an initial cooldown of 5 seconds.   || 17.7.27 || 3:35:00
+|-
+| NO.09 || [[Girls' Frontline: Fairy#Airstrike fairy|Airstrike fairy / 空袭妖精]]  ||A||E||C||C||C||A|| 5.00%<br>（30.00%）|||| 8.00%<br>（50.00%）|| 6.00%<br>（40.00%）|| 2.00%<br>（10.00%） ||  Lethal airstrike ||  Calls for an airstrike at the start of the next battle, dealing 80 (500) damage to all hostiles.<br>Has an initial cooldown of 1 second.   || 17.7.27 || 3:40:00
+|-
+| NO.10 || [[Girls' Frontline: Fairy#Reinforcement fairy|Reinforcement fairy / 增援妖精]]  ||C||C||E||A||C||A|| 2.00%<br>（12.00%）|| 2.00%<br>（15.00%） || || 14.00%<br>（88.00%）|| 2.00%<br>（12.00%） || Reinforcement T-doll ||  Gives the T-doll with the least percentage of health an extra dummy.<br>Raises dodge of the echelon by 3% (10%) in 1 round, lasting 20 seconds.  || 17.7.27 || 4:00:00
+|-
+| NO.11 || [[Girls' Frontline: Fairy#Airdrop fairy|Airdrop fairy / 空降妖精]] ||A||A||E||C||C||A|| 6.00%<br>（36.00%）|| 6.00%<br>（40.00%） || || 5.00%<br>（32.00%）|| 1.00%<br>（8.00%） ||  LZ liberation ||  Airdrops the current echelon to any LZ within a radius of 3, <br> while decreasing the damage, accuracy, dodge, armor and crit chance of the echelon by 90% (40%) in two rounds.|| 17.7.27 || 4:05:00
+|-
+| NO.12 || [[Girls' Frontline: Fairy#Minefield fairy|Minefield fairy / 布雷妖精]] ||S||E||B||S||E||C|| 6.00%<br>（25.00%）||  || 10.00%<br>（44.00%）|| 20.00%<br>（85.00%）|| || Mine ambush ||  Sets a mine that lasts two rounds on adjacent vacant nodes, dealing 20% (50%) damage of its current health if a hostile unit comes into contact with it. Nullified against bosses.  || 17.7.27 || 5:30:00
+|-
+| NO.13 || [[Girls' Frontline: Fairy#Rocket fairy|Rocket fairy / 火箭妖精]] ||E||S||B||E||S||C|| || 8.00%<br>（35.00%） || 10.00%<br>（44.00%）|| || 5.00%<br>（22.00%）|| Death in the Field ||  Deploys a launcher that lasts 2 rounds with 3 shots, <br> dealing damage equal to 10% (20%) of its current health if a hostile unit moves within a radius of 2. Nullified against bosses.  || 17.7.27 || 5:35:00
+|-
+| NO.14 || [[Girls' Frontline: Fairy#Fortification fairy|Fortification fairy / 工事妖精]] ||A||A||A||A||A||C|| 4.00%<br>（15.00%）|| 5.00%<br>（20.00%） || 12.00%<br>（50.00%）|| 10.00%<br>（40.00%）|| 2.00%<br>（10.00%） || Emergency bunker ||  Constructs an immobile bunker at the current position of the echelon, <br> raising the damage, accuracy, dodge, armor and crit chance of any friendly echelon battling here for 10% (30%) in three rounds.  || 17.7.27 || 5:40:00
+|-
+| NO.15 || [[Girls' Frontline: Fairy#Commanding fairy|Commanding fairy / 指挥妖精]] ||S||S||E||B||B||C|| 8.00%<br>（36.00%）|| 8.00%<br>（36.00%） |||| 8.00%<br>（32.00%）|| 2.00%<br>（8.00%） || Experience overflow ||  Raises XP gained by the echelon in the next battle by 5% (25%) (Nullified in Experience Exercises)|| 17.7.27 || 5:00:00
+|-
+| NO.16 || [[Girls' Frontline: Fairy#Search-and-Rescue fairy|Search-and-Rescue fairy / 搜救妖精]] ||S||E||S||S||E||C|| 8.00%<br>（32.00%）||  || 20.00%<br>（80.00%）|| 16.00%<br>（64.00%）|| || High-efficiency Search-and-Rescue ||  Causes a minor (massive) increase in acquiring a rare T-doll in the next battle. ||  17.7.27 || 5:05:00
+|-
+| NO.17 || [[Girls' Frontline: Fairy#Illumination fairy|Illumination fairy / 照明妖精]] ||E||S||S||B||B||B|| || 8.00%<br>（38.00%） || 20.00%<br>（90.00%）|| 7.00%<br>（32.00%）|| 2.00%<br>（8.00%）|| Nighttime illumination ||  Raises visibility by 0 (2) nodes during nighttime operations,<br> raising accuracy of the echelon by 10% (30%) for the entire duration, lasts for 20 seconds. || 17.7.27 || 5:10:00
+|-
+| NO.18 || [[Girls' Frontline: Fairy#Golden fairy|Golden fairy / 黄金妖精]] ||C||C||C||C||C||S|| 2.00%<br>（20.00%）|| 2.00%<br>（25.00%）|| 6.00%<br>（62.00%）|| 5.00%<br>（50.00%）|| 1.00%<br>（12.00%） || The Golden Rule ||  Inspiration from fate will fill you with determination.  ||  17.7.27 || Unable to be produced
+
+|}
+
+==Abilities==
+*Training fairies takes double the time compared to training T-dolls.
+*Ability level is unaffected by level or rarity of the fairy.
+*{{color|red|Battle fairies}} and {{color|blue|Strategic fairies}} have different resource costs, refer to the table below.
+
+{|class=wikitable
+||||Level||Data cost
+|-
+!rowspan=10| {{color|red|Battle<br>Fairies}}
+|1→2||Basic 200
+|-
+|2→3||Basic 400
+|-
+|3→4||Basic 600
+|-
+|4→5||Intermediate 200
+|-
+|5→6||Intermediate 400
+|-
+|6→7||Intermediate 600
+|-
+|7→8||Advanced 200
+|-
+|8→9||Advanced 400
+|-
+|9→10||Advanced 600
+|}
+
+{|class=wikitable
+||||Level||Data cost
+|-
+!rowspan=10| {{color|blue|Strategic<br>Fairies}}
+|1→2||Basic 200
+|-
+|2→3||Basic 400
+|-
+|3→4||Basic 600
+|-
+|4→5||Intermediate 240
+|-
+|5→6||Intermediate 400
+|-
+|6→7||Intermediate 600
+|-
+|7→8||Intermediate 800
+|-
+|8→9||Advanced 400
+|-
+|9→10||Advanced 600
+|}
+
+==List of traits==
+*Different traits may have different triggering possibilities, while the probability raises with the star rating of the fairy. Every trait has a 100% triggering probability when the fairy reaches a star rating of 5.
+*The '''{{ruby|Golden|黄金型}}''' trait cannot be acquired via calibrations
+{|class=wikitable
+!rowspan=2 | Name ||rowspan=2 | Effect || colspan=5 |Triggering chance 
+|-
+|1 star ||2 stars ||3 stars ||4 stars ||5 stars
+|-
+|{{ruby|Damaging|杀伤型}} I || Raises damage of the echelon by 12% || 40% || 60% || 80% || 90% || 100%
+|-
+|{{ruby|Damaging|杀伤型}} II || Raises damage of the echelon by 15% || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Accurate|精准型}} I || Raises accuracy of the echelon by 20% || 40% || 60% || 80% || 90% || 100%
+|-
+|{{ruby|Accurate|精准型}} II || Raises accuracy of the echelon by 25% || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Evasive|回避型}} I || Raises dodge of the echelon by 15% || 40% || 60% || 80% || 90% || 100%
+|-
+|{{ruby|Evasive|回避型}} II || Raises dodge of the echelon by 20% || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Armor|护甲型}} I || Raises armor of the echelon by 8% || 40% || 60% || 80% || 90% || 100%
+|-
+|{{ruby|Armor|护甲型}} II || Raises armor of the echelon by 10% || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Critical|必杀型}} I || Raises crit chance of the echelon by 40% || 40% || 60% || 80% || 90% || 100%
+|-
+|{{ruby|Critical|必杀型}} II || Raises crit chance of the echelon by 50% || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Charging|冲锋型}} || Raises damage by 8% and dodge by 12% for all SMGs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Assault|突击型}} || Raises damage by 10% and Rate of Fire by 8% for all ARs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Sharpeyed|瞄准型}} || Raises damage by 8% and Rate of Fire by 10% for all RFs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Resistant|坚韧型}} || Raises armor by 8% and crit chance by 20% for all SGs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Suppressive|镇压型}} || Raises damage by 10% and Rate of Fire and accuracy by 15% for all MGs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Agile|敏锐型}} || Raises dodge by 10% and crit chance by 30% for all HGs in the echelon || 30% || 50% || 70% || 90% || 100%
+|-
+|{{ruby|Agitating|激昂型}} || Raises damage of the entire echelon by 10% every 8 seconds, stacks up to 3 stacks || 20% || 40% || 60% || 80% || 100%
+|-
+|{{ruby|Golden|黄金型}} || Uses precious metal for the exterior of material. Unsuitable for tactical uses, but it looks great! || 40% || 60% || 80% || 90% || 100%
+|}
+
+{{Translation needed}}
+
+==Index of Fairies==
+'''Notes'''：
+*Boosts will improve as the star rating gets higher.
+*Data in parentheses are the maximum value possible.
+{{Girls' Frontline fairy
+|Name=Yae Sakura / 八重樱
+|Index Number=1<font color="#FFA6FF">EXTRA</font><br>
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Sakura_1.png|256px]]
+|Tier 2 pic=[[File:Sakura_2.png|256px]]
+|Tier 3 pic=[[File:Sakura_3.png|256px]]
+|Chibi 1=[[File:Sakura_11.png|256px]]
+|Chibi 2=[[File:Sakura_22.png|256px]]
+|Chibi 3=[[File:Sakura_33.png|256px]]
+|Damage=6%（26%）'''S'''
+|Crit damage=8%（32%）'''S'''
+|Accuracy=
+|Dodge=6%（24%）'''C'''
+|Armor=2%（6%）'''C'''
+|Ability=[[File:Sakura0.png|20px]]'''World of Crimson Hell / 绯狱幻世'''
+|Support command consumption=3
+|Effect=Summons a Crimson Hell Orb in the next battle, spawning fire pillars in a large area near the enemy, lasting 2 seconds, dealing 20 (120) damage every 0.5 seconds to any enemy that comes into contact.
+|Acquired by=Reward for finishing level "Thunder of Misfortune / 不详的雷电" during the [[Girls' Frontline: Collaboration event 2017 "Lone Wizard"|{{color|#1E90FF|collaboration event 2017 "Lone Wizard"}}]]<br>
+|Resource needed for every point of Development(Manpower)=
+|Resource needed for every point of Development(Ammo)=
+|Resource needed for every point of Development(Rations)=
+|Resource needed for every point of Development(Parts)=
+|Intro=Blossom, this pathetic world. / 绽放吧，这悲哀的尘世.
+|Description=Has the ability to create area-of-effect damage, spawning large numbers of fire pillars, dealing damage to enemies that come into contact. / 拥有群体伤害的能力，战斗中产生大量火柱，对接触到的敌人造成伤害。
+|Trivia=Sir [[Otto Apocalypse|{{color|green|Otto}}]]'s enemy for life
+}}
+{{Girls' Frontline fairy
+|Name=Kaguya Hime / 耀夜姬
+|Index Number=2<font color="#FFA6FF">EXTRA</font><br>
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Kaguya_1.png|256px]]
+|Tier 2 pic=[[File:Kaguya_2.png|256px]]
+|Tier 3 pic=[[File:Kaguya_3.png|256px]]
+|Chibi 1=[[File:Kaguya_11.png|256px]]
+|Chibi 2=[[File:Kaguya_22.png|256px]]
+|Chibi 3=[[File:Kaguya_33.png|256px]]
+|Damage=
+|Crit damage=8%（32%）'''A'''
+|Accuracy=18%（70%）'''A'''
+|Dodge=6%（24%）'''C'''
+|Armor=4%（15%）'''A'''
+|Ability=[[File:Kaguya0.png|20px]]'''Yata beam / 八咫辉光'''
+|Support command consumption=8
+|Effect=Deploys multiple Yata mirrors in a radius of 2 round itself and launches laser beams that can be reflected, dealing 10% (20%) damage to 3 hostile units within the area randomly. Nullified against bosses. / 在自身周围范围2的区域部署八咫镜并发射可折射的激光，随机对区域内的3队敌人造成当前血量10%（20%）的Damage，该Damage对BOSS无效。
+|Acquired by=Traded in the "time-limited collab store" during the [[Girls' Frontline: Collaboration event 2017 "Lone Wizard"|{{color|#1E90FF|collaboration event 2017 "Lone Wizard"}}]]<br>
+|Resource needed for every point of Development(Manpower)=
+|Resource needed for every point of Development(Ammo)=
+|Resource needed for every point of Development(Rations)=
+|Resource needed for every point of Development(Parts)=
+|Intro="With no name, dancing under the moon." / “淡漠无名，月下起舞。”
+|Description=Has the ability to cause damage on the map, dealing damage to at most 3 hostile units in a radius of no more than 2 in the map. / 拥有地图伤害的能力，在大地图中对范围不大于2的最多3队敌人造成伤害。
+|Trivia=
+}}
+
+{{Girls' Frontline fairy
+|Name=Chloe / 柯萝伊
+|Index Number=3<font color="#FFA6FF">EXTRA</font><br>
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Chloe_1.png|256px]]
+|Tier 2 pic=[[File:Chloe_2.png|256px]]
+|Tier 3 pic=[[File:Chloe_3.png|256px]]
+|Chibi 1=[[File:Chloe_11.png|256px]]
+|Chibi 2=[[File:Chloe_22.png|256px]]
+|Chibi 3=[[File:Chloe_33.png|256px]]
+|Damage=4%（18%）'''A'''
+|Crit damage=
+|Accuracy=14%（55%）'''A'''
+|Dodge=16%（64%）'''A'''
+|Armor=2%（6%）'''C'''
+|Ability=[[File:Chloe0.png|20px]]'''Mourning double / 悲恸人形'''
+|Support command consumption=2
+|Effect=Summons 2 doubles with 150 (600) health, dealing 15 (100) damage to all hostiles each every 2 seconds. / 下场战斗中召唤2个血量为150（600）的分身，每个分身每两秒会对全体敌人造成15（100）Damage。
+|Acquired by=Traded in the "time-limited collab store" during the [[Girls' Frontline: Collaboration event 2017 "Lone Wizard"|{{color|#1E90FF|collaboration event 2017 "Lone Wizard"}}]]
+|Resource needed for every point of Development(Manpower)=
+|Resource needed for every point of Development(Ammo)=
+|Resource needed for every point of Development(Rations)=
+|Resource needed for every point of Development(Parts)=
+|Intro=“Re Mi Re Mi Fa So Mi Mi Re”
+|Description=Has the ability to summon specters, summoning 2 with hit points in-battle, dealing damage to all enemies at an interval. / 拥有召唤幻影的能力，战斗中召唤2个拥有生命值的幻影，且每隔一段时间对全体敌人造成伤害。
+|Trivia=The “Re Mi Re Mi Fa So Mi Mi Re” line in the intro refers to the ''Devil's Trill Sonata'' composed by Italian violinist Giuseppe Tartini, in which this part can be heard in the beginning.
+}}
+{{Girls' Frontline fairy
+|Name=Warrior fairy / 勇士妖精
+|Index Number=1
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:fighting_1.png|256px]]
+|Tier 2 pic=[[File:fighting_2.png|256px]]
+|Tier 3 pic=[[File:fighting_3.png|256px]]
+|Chibi 1=[[File:Fighting 1 -0961.png|256px]]
+|Chibi 2=[[File:fighting_2 -0580.png|256px]]
+|Chibi 3=[[File:fighting_3 -0413.png|256px]]
+|Damage=5%（25%）'''B'''
+|Crit damage=
+|Accuracy=16%（80%）'''B'''
+|Dodge=8%（40%）'''A'''
+|Armor=2%（10%）'''A'''
+|Ability='''Combat efficiency / 战斗效率'''
+|Support command consumption=1
+|Effect=Raises damage by 5% (20%) and Rate of Fire by 5% (20%) for the entire echelon in the next battle, lasts 20 seconds (cannot stack). / 下场战斗中提升本梯队全体伤害5%（20%）和射速5%（10%），持续20秒（不可叠加）。
+|Acquired by={{color|red|Equipment heavy production}}<br>4:30:00
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=14
+|Resource needed for every point of Development(Rations)=3
+|Resource needed for every point of Development(Parts)=3
+|Intro="Nothing has ended! Nothing but holidays" / “什么都没结束！什么都没有，除了放假”
+|Description=Has the ability to increase supply efficiency. Can be used to arrange equipment during peacetime. / 拥有提高供给效率的能力，平日可用于整理装备。
+|Trivia=Her clothes, the ammo link and the [[Girls' Frontline: M60|{{color|#1E90FF|M60}}]] carried on her back in her Tier 1,2 outfit resembles Rambo from First Blood, while carrying an RPG-7 in her Tier 3 outfit, which, in addition to the compound bow found in Tier 1, are included in Rambo's arsenal. <br/>{{Spoiler|While the description resembles a typical Russian logistics man/woman}}
+}}
+{{Girls' Frontline fairy
+|Name=Rage fairy / 暴怒妖精
+|Index Number=2
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Crit 1.png|256px]]
+|Tier 2 pic=[[File:Crit 2.png|256px]]
+|Tier 3 pic=[[File:Crit 3 -0937.png|256px]]
+|Chibi 1=[[File:Crit 1 -0420.png|256px]]
+|Chibi 2=[[File:Crit 2 -0904.png|256px]]
+|Chibi 3=[[File:Crit 3.png|256px]]
+|Damage=3%（15%）
+|Accuracy=
+|Dodge=8%（40%）
+|Armor=2%（10%）
+|Crit damage=8%（40%）
+|Ability='''Infinitely strong rage / 怒无限强'''
+|Support command consumption=1
+|Effect=Raises accuracy by 10% (50%) and crit chance by 10% (25%) for the entire echelon in the next battle, lasts 20 seconds (cannot stack). / 下场战斗中提升本梯队全体命中10%（50%）和暴击率10%（25%），持续20秒（不可叠加）。
+|Acquired by={{color|red|Equipment heavy production}}<br>4:35:00
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=14
+|Resource needed for every point of Development(Rations)=3
+|Resource needed for every point of Development(Parts)=3
+|Intro="C'mon devil! Send ya to the real hell!" / “来吖魔鬼！把你送到真正的地狱中吖！”
+|Description=Has the ability to increase critical chance, can be used to broadcast messages and an assistant in verbal arguments. / 拥有提高暴击效率的能力，平日可用于喊话和吵架助理。
+|Trivia=Wields a Remington M870 {{spoiler|not found in the game}} in Tier 1, while a M134 "Minigun" familiar to FPS players, and outright an M202 FLASH in Tier 3. Oh btw, was there a teaser for incorporating launchers into the game....?
+
+After the maintenance on August 17, 2017, her ability "Lust for kill (杀意涌动)" was adjusted to "Infinitely strong rage (怒无限强)", taking inspiration from possibly the ability of '''Rugal Bernstein''' in The King of Fighters (rendered in Chinese as 怒意无限强), while dropping a character to have only 4. The intro line also takes inspiration from the series.
+}}
+{{Girls' Frontline fairy
+|Name=Armor fairy / 盾甲妖精
+|Index Number=3
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Armor 1.png|256px]]
+|Tier 2 pic=[[File:Armor 2 -0926.png|256px]]
+|Tier 3 pic=[[File:Armor 3.png|256px]]
+|Chibi 1=[[File:Armor 1 -0492.png|256px]]
+|Chibi 2=[[File:Armor 2.png|256px]]
+|Chibi 3=[[File:Armor 3 -0463.png|256px]]
+|Damage=4%（22%）
+|Accuracy=
+|Dodge=
+|Armor=5%（25%）
+|Crit damage=4%（22%）
+|Ability='''Riot-control enhancement / 防暴强化'''
+|Support command consumption=3
+|Effect=Improves riot-control capabilities for all SGs in the echelon in the next battle, raising their armor by 15% (50%), and lasts for 20 seconds. / 下场战斗中为本梯队内的所有霰弹枪加强防暴能力，Armor提升15%（50%），持续20秒。
+|Acquired by={{color|red|Equipment heavy production}}<br>3:00:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=3
+|Resource needed for every point of Development(Parts)=3
+|Intro="Remember, No Russian.... 'Cause I-I can't understand...." / “记住，别说俄语……因为我、我听不懂啊……”
+|Description=Has the ability to improve the armor of SG-type T-dolls, can be used for ground security during peacetime. / 拥有提高霰弹装甲的能力，平日可用于地面安保工作。
+|Trivia=Visually resembles Mash Kyrielight from Fate/Grand Order, including her equipment and the hair, but of course, she wields an ordinary riot shield in her hands.
+<br>While the "No Russian" phease comes from '''Vladimir Makarov''' in COD MW2. Considering the background of G&K's founding and the many German/Russian names found in NPCs throughout the game, it is speculated that G&K itself lies in a Russian-speaking area or that Kryuger himself speaks Russian. It must be hard for this fairy as she can't understand Russian. She wields a VANT-VM shield, an iconic piece of equipment of the Russian special forces in her Tier 3 outfit.
+}}
+{{Girls' Frontline fairy
+|Name=Shield fairy / 护盾妖精
+|Index Number=4
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Shield 1.png|256px]]
+|Tier 2 pic=[[File:Shield 2.png|256px]]
+|Tier 3 pic=[[File:Shield 3.png|256px]]
+|Chibi 1=[[File:Shield 1 -0568.png|256px]]
+|Chibi 2=[[File:Shield 2 -0231.png|256px]]
+|Chibi 3=[[File:Shield 3 -0766.png|256px]]
+|Damage=4%（20%）
+|Accuracy=12%（60%）
+|Dodge=16%（80%）
+|Armor=
+|Crit damage=
+|Ability='''Energy shield / 能量护盾'''
+|Support command consumption=3
+|Effect=Deploys a shield for every SMG in the echelon in the next battle, each absorbing 40 (150) points of damage. / 下场战斗中为本梯队内的所有冲锋枪张开护盾，每个护盾最多吸收40（150）点Damage。
+|Acquired by={{color|red|Equipment heavy production}}<br>3:05:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=3
+|Resource needed for every point of Development(Parts)=3
+|Intro="{{color|#1E90FF|There's nothing to be afraid of now.}}" / “{{color|#1E90FF|已经没有什么好怕的了。}}”
+|Description=Has the ability to deploy forcefield shields, can be used against rain, dust and harassment during peacetime. / 拥有力场护盾的能力，平日可用于防雨防尘防骚扰。
+|Trivia=The shape of her shield resembles the I-filed in the Gundam series, while the forcefield projector resembles the winged cannon of the V-gundam.
+}}
+{{Girls' Frontline fairy
+|Name=Defense fairy / 防御妖精
+|Index Number=5
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Defense 1.png|256px]]
+|Tier 2 pic=[[File:Defense 2 -0671.png|256px]]
+|Tier 3 pic=[[File:Defense 3.png|256px]]
+|Chibi 1=[[File:Defense 1 -0807.png|256px]]
+|Chibi 2=[[File:Defense 2.png|256px]]
+|Chibi 3=[[File:Defense 3 -0861.png|256px]]
+|Damage=4%（22%）
+|Accuracy=
+|Dodge=14%（80%）
+|Armor=4%（20%）
+|Crit damage=
+|Ability='''Makeshift armor / 临时装甲'''
+|Support command consumption=5, with a 1-round cooldown
+|Effect=Mitigates 10% (30%) of incoming damage for the echelon in every battle in a single round, lasts for 20 seconds. / 一回合内每场战斗中本梯队全体减伤10%（30%），持续20秒。
+|Acquired by={{color|red|Equipment heavy production}}<br>4:10:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=8
+|Intro="Are you not...telling a lie?" / “你们真的……不是在说谎吗？”
+|Description=Has the ability to improve defenses, can be used to keep secrets and emergency conditioning during peacetime. / 拥有提高防御的能力，平日可用于保守秘密和紧急护理。
+|Trivia=
+}}
+{{Girls' Frontline fairy
+|Name=Taunting fairy / 嘲讽妖精
+|Index Number=6
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Target 1.png|256px]]
+|Tier 2 pic=[[File:Target 2 -0262.png|256px]]
+|Tier 3 pic=[[File:Target 3.png|256px]]
+|Chibi 1=[[File:Target 1 -0813.png|256px]]
+|Chibi 2=[[File:Target 2.png|256px]]
+|Chibi 3=[[File:Target 3 -0430.png|256px]]
+|Damage=3%（18%）
+|Accuracy=10%（58%）
+|Dodge=5%（28%）
+|Armor=2%（8%）
+|Crit damage=4%（25%）
+|Ability='''Taunting drone / 嘲讽靶机'''
+|Support command consumption=2
+|Effect=Deploys a drone that draws enemy fire at the start of the next battle with 250 (1000) health. / 下场战斗开始时投放一个能够吸引敌方火力的靶机，靶机具有250（1000）点生命值。
+|Acquired by={{color|red|Equipment heavy production}}<br>3:10:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=3
+|Resource needed for every point of Development(Parts)=3
+|Intro="Gah! Gah! Idiot! Idiot!" / “嘎啊！嘎啊！白痴！白痴！”
+|Description=Has the ability to produce taunting drones, can be used for pranks during peacetime. 拥有制造嘲讽靶机的能力，平日可用于恶作剧。
+|Trivia=It appears to be a portrait of [[Girls' Frontline: 6P62|{{color|#1E90FF|daughter 6P62}}]] stuck to the screen of the drone. <br/>The fairy wore cat ears and a cat tail in Tier 3, {{spoiler|possibly a friend who likes taunting.}}
+}}
+{{Girls' Frontline fairy
+|Name=Sniper fairy / 狙击妖精
+|Index Number=7
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Sniper 1 -0863.png|256px]]
+|Tier 2 pic=[[File:Sniper 2 -0654.png|256px]]
+|Tier 3 pic=[[File:Sniper 3 -0809.png|256px]]
+|Chibi 1=[[File:Sniper 1.png|256px]]
+|Chibi 2=[[File:Sniper 2.png|256px]]
+|Chibi 3=[[File:Sniper 3.png|256px]]
+|Damage=
+|Accuracy=18%（88%）
+|Dodge=6%（28%）
+|Armor=3%（15%）
+|Crit damage=7%（36%）
+|Ability='''Sniping directive / 狙击指令'''
+|Support command consumption=2
+|Effect=Aims at the enemy unit with the highest hit points in the next battle, causing 2500 (20000) damage.
+Has an intial cooldown of 10 seconds / 下场战斗中瞄准敌方血量最高的角色，造成2500（20000）点Damage。
+|Acquired by={{color|red|Equipment heavy production}}<br>3:30:00
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=14
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=3
+|Intro={{color|#1E90FF|"What T-dolls can save are the affairs of their side." / “人形能救的，只有自己一方的事情。”}}
+|Description=Has the ability to pick off enemies. Can be used to calibrate weapons during peacetime. / 拥有狙击敌人的能力，平日可用于校准武器。
+|Trivia=Has an initial cooldown.<br/>{{Spoiler|And for commanders with bad luck, she can be used to hope that the equipment can be calibrated better.}}}}
+
+{{Girls' Frontline fairy
+|Name=Artillery fairy / 炮击妖精
+|Index Number=8
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Bombard 1.png|256px]]
+|Tier 2 pic=[[File:Bombard 2.png|256px]]
+|Tier 3 pic=[[File:Bombard 3.png|256px]]
+|Chibi 1=[[File:Bombard 1 -0805.png|256px]]
+|Chibi 2=[[File:Bombard 2 -0749.png|256px]]
+|Chibi 3=[[File:Bombard 3 -0350.png|256px]]
+|Damage=11%（55%）
+|Accuracy=
+|Dodge=11%（56%）
+|Armor=1%（6%）
+|Crit damage=
+|Ability='''Bombardment directive / 炮击指令'''
+|Support command consumption=3
+|Effect=Launches a mortar shell dealing 200 (1200) damage to enemies in a 2.5 radius in the next battle. 
+Has an initial cooldown of 5 seconds. / 下场战斗中发射一枚迫击炮弹，对2.5范围内的敌人造成200（1200）的伤害。(有开场cd)
+|Acquired by={{color|red|装备重型建造}}<br>3小时30分
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=14
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=3
+|Intro="He-he, for Grifon!" / “嘿嘿，为了格里芬！”
+|Description=Has the ability to operate mortars, can be used for clean sweeps during peacetime.拥有发动迫击炮的能力，平日可用于大扫除。
+|Trivia=She operates an M224 mortar with a 60mm caliber while she inflicts damage as if it was a 152- or 155-mm artillery cannon. Perhaps a distant relative of FAL's.<br/>{{Spoiler|Wait, sweeping with mortars...}}
+Her line possibly takes inspiration from World of Warcraft, {{ruby|"For the tribe"|Lok'Tar Ogar！!}}. {{Spoiler|Or {{ruby|"for the motherland"|за родину}}, for that matter.}}
+}}
+{{Girls' Frontline fairy
+|Name=Airstrike fairy / 空袭妖精
+|Index Number=9
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Air attack 1.png|256px]]
+|Tier 2 pic=[[File:Air attack 2 -0366.png|256px]]
+|Tier 3 pic=[[File:Air attack 3.png|256px]]
+|Chibi 1=[[File:Air attack 1 -0591.png|256px]]
+|Chibi 2=[[File:Air attack 2.png|256px]]
+|Chibi 3=[[File:Air attack 3 -0743.png|256px]]
+|Damage=5%（30%）'''B'''
+|Accuracy=8%（50%）'''S'''
+|Dodge=6%（40%）'''S'''
+|Armor=2%（10%）'''S'''
+|Crit damage=
+|Ability='''Lethal airstrike / 致命空袭'''
+|Support command consumption=3
+|Effect=Calls in an airstrike at the start of the next battle, dealing 80 (500) damage to all hostiles. / 下场战斗开场时呼叫空中打击，对全体敌人造成80（500）的伤害。(无开场cd)
+|Acquired by={{color|red|Heavy production}}<br>3:40:00
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=14
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=3
+|Intro="Tee-hee, you seem to have learnt nothing, aside from running away." / “嘻嘻，除了逃跑，你好像什么都没学到呢。”
+|Description=Has the ability to attack from the air, can be used for high-altitude works during peacetime.
+|Trivia=Resembles {{color|#1E90FF|The Fairchild Republic Thunderbolt II (A-10)}}, from the wings, landing gear, the AN/ALQ-131 ECM pod, the LAU-114/A dual air-to-air missle rack and an intact plane model next to it. The USAF made numerous attempts to retire her {{Spoiler|It's from the Army, and <del>ugly</del>}}, but the retirement has been postponed for numerous times. It appears that she is still in service even after 2060, judging from the synopsis of GF.
+
+Her primary armament is the renowned GAU-8 Avenger cannon capable of penetrating armor 50mm thick from 1 kilometer away, and can penetrate the top, the rear flanks, the rear ventilation port and other weaknesses of tanks, along with IFVs, {{Spoiler|However due to decreasing effectiveness, the distance and the angle of fire, the pilot manual of A-10s of the USAF has already mandated that Maverick missiles are to be used against well-armored tanks.}}with every 4 Armor-Piercing rounds accompanied by a High-Explosive round for dealing with soft targets such as constructions and personnel. Due to the size of the cannon itself, the ammo housing and the driving mechanism taking up virtually a third of the entire plane itself, with a recoil higher than the maximum power of a single engine, in addition to having almost now advanced technology and basic avionics found on the aircraft, she is dubbed a cannon instead of a plane. <br>
+However she never used the cannon in-game, instead using aviation bombs.<br/>
+}}
+{{Girls' Frontline fairy
+|Name=Reinforcement fairy / 增援妖精
+|Index Number=10
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Reinforce 1.png|256px]]
+|Tier 2 pic=[[File:Reinforce 2.png|256px]]
+|Tier 3 pic=[[File:Reinforce 3.png|256px]]
+|Chibi 1=[[File:Reinforce 1 -0889.png|256px]]
+|Chibi 2=[[File:Reinforce 2 -0023.png|256px]]
+|Chibi 3=[[File:Reinforce 3 -0966.png|256px]]
+|Damage=2%（12%）
+|Accuracy=
+|Dodge=14%（88%）
+|Armor=2%（12%）
+|Crit damage=2%（15%）
+|Ability='''Reinforcement T-doll / 增援人形'''
+|Support command consumption=2，1回合CD
+|Effect=Gives the T-doll with the least percentage of health an extra dummy.
+Raises dodge of the echelon by 3% (10%) in 1 round, lasting 20 seconds. / 本梯队中血量百分比最少的战术人形获得一个编制的增援，同时一回合内每场战斗中全队Dodge提升3%（10%），持续20秒。
+|Acquired by={{color|red|Equipment production}}<br>4:00:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=8
+|Intro="Go and win! Mercy is a type of weakness!" / “去获胜吧！怜悯可是一种软弱哦！”
+|Description=Has the ability to call reinforcement T-dolls, can be used for communications and emergency SOS calls during peacetime. / 拥有呼叫增援人形的能力，平日可用于通讯和紧急呼救。
+|Trivia=Her intro line takes inspiration from ''The Call of the Wild'' by Jack London in 1903.
+}}
+{{Girls' Frontline fairy
+|Name=Airdrop fairy / 空降妖精
+|Index Number=11
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Airborne 1.png|256px]]
+|Tier 2 pic=[[File:Airborne 2.png|256px]]
+|Tier 3 pic=[[File:Airborne 3 -0472.png|256px]]
+|Chibi 1=[[File:Airborne 1 -0525.png|256px]]
+|Chibi 2=[[File:Airborne 2 -0962.png|256px]]
+|Chibi 3=[[File:Airborne 3.png|256px]]
+|Damage=6%（36%）
+|Accuracy=
+|Dodge=5%（32%）
+|Armor=1%（8%）
+|Crit damage=6%（40%）
+|Ability='''LZ liberation / 机场解放'''
+|Support command consumption=5，5回合CD
+|Effect=Airdrops the current echelon to any LZ within a radius of 3, 
+while decreasing the damage, accuracy, dodge, armor and crit chance of the echelon by 90% (40%) in two rounds / 本梯队可空降至范围3以内的任意（图中任意）机场，同时两回合内全队伤害、命中、回避、装甲和暴击率降低90%（40%）。
+|Acquired by={{color|red|Equipment heavy production}}<br>4:05:00
+|Resource needed for every point of Development(Manpower)=14
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=10
+|Resource needed for every point of Development(Parts)=8
+|Intro="You jump first, or I?" / “你先跳，还是我先跳呢？”
+|Description=Has the ability to seize LZs. Can be used for laying fields during peacetime. / 拥有控制机场的能力，平日可用于布置场地。
+|Trivia=<del>Due to that parachutes aren't supplied, T-dolls receive damage upon impact and need time to get fixed.</del>
+Actually the debuff takes inspiration from the fact that parachuted soldiers have far worse reflexes than ordinary ground forces {{spoiler|since who knows where they'll land.}}{{Spoiler|But the real problem is that parachuted soldiers have parachutes hampering them and they themselves can only carry light equipment, which are targets for even low-speed aircraft.}}
+}}
+{{Girls' Frontline fairy
+|Name=Minefield Fairy / 布雷妖精
+|Index Number=12
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Landmines 1.png|256px]]
+|Tier 2 pic=[[File:Landmines 2 -0893.png|256px]]
+|Tier 3 pic=[[File:Landmines 3 -0877.png|256px]]
+|Chibi 1=[[File:Landmines 1 -0888.png|256px]]
+|Chibi 2=[[File:Landmines 2.png|256px]]
+|Chibi 3=[[File:Landmines 3.png|256px]]
+|Damage=6%（25%）
+|Accuracy=10%（44%）
+|Dodge=20%（85%）
+|Armor=
+|Crit damage=
+|Ability='''Mine ambush / 地雷阵线'''
+|Support command consumption=5, with a 3-round cooldown
+|Effect=Sets a mine that lasts two rounds on adjacent vacant nodes, dealing 20% (50%) damage of its current health if a hostile unit comes into contact with it. Nullified against bosses / 相邻无人的点上埋藏一枚存在两回合的地雷，当敌人触碰后会受到当前血量20%（50%）的伤害，该伤害对boss无效。
+|Acquired by={{color|red|Equipment heavy production}}<br>5:30:00
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=8
+|Intro="Hmm... Time for the battle to get more exciting." / “哼哼，是时候让战斗更刺激一点了。”
+|Description=Has the ability to lay mines, can be used for growing crops during peacetime. / 拥有布置地雷的能力，平日可用于栽种作物。
+|Trivia=Wields a Type 66 mine replicated from the M18A1 Claymore, which added a delayed fuse with a delay of 5-8 seconds.
+}}
+{{Girls' Frontline fairy
+|Name=Rocket fairy / 火箭妖精
+|Index Number=13
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Position 1.png|256px]]
+|Tier 2 pic=[[File:Position 2.png|256px]]
+|Tier 3 pic=[[File:Position 3.png|256px]]
+|Chibi 1=[[File:Position 1 -0134.png|256px]]
+|Chibi 2=[[File:Position 2 -0164.png|256px]]
+|Chibi 3=[[File:Position 3 -0946.png|256px]]
+|Damage=
+|Accuracy=10%（44%）
+|Dodge=
+|Armor=5%（22%）
+|Crit damage=8%（35%）
+|Ability='''Death in the Field / 阵地死神'''
+|Support command consumption=5，3回合CD
+|Effect=Deploys a launcher that lasts 2 rounds with 3 shots, 
+dealing damage equal to 10% (20%) of its current health if a hostile unit moves within a radius of 2. Nullified against bosses. (CAUTION:Friendly fire possible) / 部署一个存在两回合共3发的发射器，敌人在两格范围内移动时，会受到当前血量10%（20%）的伤害，该伤害对boss无效。(会攻击友军)
+|Acquired by={{color|red|Equipment heavy production}}<br>5:35:00
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=8
+|Intro="Tee-hee... I'm above you...." / “嘻嘻……我在你上面……”
+|Description=Has the ability to fire rockets, can be used for celebrations during peacetime. / 拥有发射火箭炮的能力，平日可用于庆典礼花工作。
+|Trivia=Takes inspiration from MLR systems, including the famous Katyusha, the M270 or TOS-1 playing a similar role to conventional artillery, but with a far larger total payload and fire coverage, a longer reload time and low accuracy (which is compensated by multiple rounds), which may reflect the reason she appeared as a Strategic Fairy, albeit resembling more of a short-range ballistic missile system than a typical MLRS.
+}}
+{{Girls' Frontline fairy
+|Name=Fortification fairy / 工事妖精
+|Index Number=14
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Fortress 1 -0545.png|256px]]
+|Tier 2 pic=[[File:Fortress 2.png|256px]]
+|Tier 3 pic=[[File:Fortress 3 -0469.png|256px]]
+|Chibi 1=[[File:Fortress 1.png|256px]]
+|Chibi 2=[[File:Fortress 2 -0557.png|256px]]
+|Chibi 3=[[File:Fortress 3.png|256px]]
+|Damage=4%（15%）
+|Accuracy=12%（50%）
+|Dodge=10%（40%）
+|Armor=2%（10%）
+|Crit damage=5%（20%）
+|Ability='''Emergency bunker / 紧急堡垒'''
+|Support command consumption=5 with a cooldown of 3 rounds
+|Effect=Constructs an immobile bunker at the current position of the echelon, 
+raising the damage, accuracy, dodge, armor and crit chance of any friendly echelon battling here for 10% (30%) in three rounds / 在梯队所在处建造一个不动的堡垒，三回合内我方在该点战斗时，伤害、命中、闪避、装甲和暴击率提升10%（30%）。
+|Acquired by={{color|red|Equipment heavy production}}<br>5:35:00
+|Resource needed for every point of Development(Manpower)=3
+|Resource needed for every point of Development(Ammo)=10
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=8
+|Intro="Work!Work!" “工作！工作！”
+|Description=Has the ability to construct bunkers. Can be used for repairs and building miniature facilities. / 拥有建造堡垒的能力，平日可用于维修和建造微型设施。
+|Trivia=According to her description she should be the one handling dormitory facilities.<br/>{{Spoiler|But commanders still use Papasha to work!}}{{Spoiler|But what if Papasha is given a holiday and just fires at the server again!}}
+}}
+{{Girls' Frontline fairy
+|Name=Commanding fairy / 指挥妖精
+|Index Number=15
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Command 1 -0806.png|256px]]
+|Tier 2 pic=[[File:Command 2 -0615.png|256px]]
+|Tier 3 pic=[[File:Command 3 -0281.png|256px]]
+|Chibi 1=[[File:Command 1.png|256px]]
+|Chibi 2=[[File:Command 2.png|256px]]
+|Chibi 3=[[File:Command 3.png|256px]]
+|Damage=8%（36%）'''C'''
+|Accuracy=
+|Dodge=8%（32%）'''A'''
+|Armor=2%（8%）'''A'''
+|Crit damage=8%（36%）'''C'''
+|Ability='''Experience overflow / 超量经验'''
+|Support command consumption=1，1回合CD
+|Effect=Increases XP gained by the echelon in the next battle by 5% (25%) (Nullified in Experience Exercises) / 下一场战斗本梯队获得经验增加5%（25%）（经验特训无效）。
+|Acquired by={{color|red|Equipment heavy production}}<br>5:00:00<br>Equipment heavy production achievement reward for conducting EHP once.
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=3
+|Intro={{color|#1E90FF|"With my methods, all it takes is to Rush!" / "学会了我的运营，剩下的只要Rush过去！"}}
+|Description=Has the ability to raise experience, can be used for assisting rehearsals and teachings.拥有提高经验的能力，平日可用于辅助演习和教学。
+|Trivia=}}
+{{Girls' Frontline fairy
+|Name=Search-and-Rescue Fairy / 搜救妖精
+|Index Number=16
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Rescue 1 -0680.png|256px]]
+|Tier 2 pic=[[File:Rescue 2 -0740.png|256px]]
+|Tier 3 pic=[[File:Rescue 3 -0435.png|256px]]
+|Chibi 1=[[File:Rescue 1.png|256px]]
+|Chibi 2=[[File:Rescue 2.png|256px]]
+|Chibi 3=[[File:Rescue 3.png|256px]]
+|Damage=8%（32%）
+|Accuracy=20%（80%）
+|Dodge=16%（64%）
+|Armor=
+|Crit damage=
+|Ability='''High-efficiency Search-and-Rescue / 高效搜救'''
+|Support command consumption=1，1回合CD
+|Effect=Causes a minor (massive) increase in acquiring a rare T-doll in the next battle. / 下一场战斗中本梯队获得稀有人形概率极小（极大）幅提升。
+|Acquired by={{color|red|Equipment heavy production}}<br>5:05:00
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=3
+|Intro="RFB you are playing games again!" / “[[Girls' Frontline: RFB|{{color|#1E90FF|RFB}}]]你又在打电动喔！”
+|Description=Has the ability to search for and rescue T-dolls, can be used to summon people before heading out or having meals.拥有搜救人形的能力，平日可用于叫大家集合外出或吃饭。
+|Trivia=Takes off her glasses in Tier 2 and wields a can of gas-of-luck in her Tier 3 outfit {{Spoiler|Psst-psst-psst}}{{Spoiler|Is it hinting that we should use random chance!?}}<br/>The reason she knows what RFB is doing is because she's the one who calls everyone together{{Spoiler|While RFB won't go out so easily....}}.<br/>
+}}
+{{Girls' Frontline fairy
+|Name=Illumination fairy / 照明妖精
+|Index Number=17
+|Fairy Type=Strategic Fairy
+|Tier 1 pic=[[File:Illumine 1 -0658.png|256px]]
+|Tier 2 pic=[[File:Illumine 2 -0616.png|256px]]
+|Tier 3 pic=[[File:Illumine 3.png|256px]]
+|Chibi 1=[[File:Illumine 1.png|256px]]
+|Chibi 2=[[File:Illumine 2.png|256px]]
+|Chibi 3=[[File:Illumine 3 -0858.png|256px]]
+|Damage=
+|Accuracy=20%（90%）
+|Dodge=7%（32%）
+|Armor=2%（8%）
+|Crit damage=8%（38%）
+|Ability='''Nighttime illumination夜间照明'''
+|Support command consumption=5，2回合CD
+|Effect=Raises visibility by 0 (2) nodes during nighttime operations,
+raising accuracy of the echelon by 10% (30%) for the entire duration, lasts for 20 seconds.  / 夜间作战时，两回合内每场战斗全队命中提升10%（30%），持续20秒。
+|Acquired by={{color|red|Equipment heavy production}}<br>5:05:00
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=3
+|Intro="The taken... is.. on the other side of the tunnel?" / “被掳走的人……在隧道的……另一边？”
+|Description=Has the ability to gain extra visibility at night, can be used for nighttime expeditions and signaling during peacetime. / 拥有夜间额外视野的能力，平日可用于夜间探险和打暗号。
+|Trivia=Her intro line matches a scene in the last chapter of the PSV horror game ''Yomawari:Night Alone'' in which on a note wrote ''The taken person is on the other side of the tunnel''(“被擄走的人在隧道的另一頭”). It is also speculated that it takes inspiration from the urban legend "Kisaragi station" from 2ch of Japan.}}
+{{Girls' Frontline fairy
+|Name=Golden fairy / 黄金妖精
+|Index Number=18
+|Fairy Type=Battle Fairy
+|Tier 1 pic=[[File:Golden 1.png|256px]]
+|Tier 2 pic=[[File:Golden 2.png|256px]]
+|Tier 3 pic=[[File:Golden 3.png|256px]]
+|Chibi 1=[[File:Golden 1 -0722.png|256px]]
+|Chibi 2=[[File:Golden 2 -0306.png|256px]]
+|Chibi 3=[[File:Golden 3 -0940.png|256px]]
+|Damage=2%（20%）
+|Accuracy=6%（62%）
+|Dodge=5%（50%）
+|Armor=1%（12%）
+|Crit damage=2%（25%）
+|Ability='''The Golden Rule / 黄金律法'''
+|Support command consumption=0
+|Effect=Inspiration from fate will fill you with determination. / 来自命运的启示将会使你充满决心
+|Acquired by=Ranked reward in [[Girls' Frontline: Summer event 2017 "DEEPDIVE"|{{color|#1E90FF|Summer event 2017 "DEEPDIVE"}}]]
+|Resource needed for every point of Development(Manpower)=10
+|Resource needed for every point of Development(Ammo)=3
+|Resource needed for every point of Development(Rations)=14
+|Resource needed for every point of Development(Parts)=3
+|Intro="This world has only money and wisdom" “这个世界只有金钱与智慧”
+|Description=Has... perhaps the ability to show off, at least during peacetime! / 拥有......也许拥有炫耀的能力，至少平日是可以这样啦！
+|Trivia=The image on the banknote appears to be [[Girls' Frontline: 6P62|{{color|#1E90FF|daughter 6P62}}]] again......double kill
+}}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=position_3.png|width=300px|left=-50px|bottom=10px}}
+
+==妖精相关==
+
+
+
+==外部链接与注释==
+=== 参考资料 ===
+
+=== 注释 ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Fairy]]
