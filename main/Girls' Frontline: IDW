@@ -1,0 +1,553 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Girls' Frontline profile
+|Name=IDW
+|image=IDW 19.JPG
+|Caption=<center>Artist:十九<ref>[https://www.pixiv.net/member.php?id=7057787 Artist:十九]</ref></center>
+<center>Pixiv ID:63035241<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63035241 Pixiv ID:63035241]</ref></center>
+|Original name=IDW sub-machine gun
+|Moe point=
+|Hair color=Yellow
+|Hair color=Green
+|CV=Itou Asuka
+|Type=SMG
+|Rarity=★★→★★★★
+|Country of Origin=United Kingdom
+|Manufactured by=Parker-Hale
+|Developed=1990 
+|In service=1990- <ref>Though Parker-Hale hoped that the British armed forces adapt this weapon as the self-defense weapon for non-frontline personnel, the Parker-Hale IDW is still positioned in the market as for security purposes. Still, there is little prospect.</ref>
+|相关人士=
+}}
+
+'''IDW''' is a character from the tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The IDW is a British 9mm-caliber sub-machinegun chambered in 9mm Parabellum in 1990.
+
+===Specifications===
+*Overall weight: 2.9kg
+*Overall length: 276mm
+*Barrel length: 83mm/152mm/254mm
+*Cartridge: 9×19mm Parabellum
+*Caliber: 9mm
+*Action: Gas-driven
+*Theoretical rate-of-fire: 100-1400 RPM <ref>Unless specified otherwise by customers, the weapon is normally set to 450 RPM.</ref>
+*Effective range: 100m
+*Feed system: 20- or 32-round box magazine
+
+{{Hide|Text=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's perspective. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     1.87 kg
+ Length                     300 mm
+ Barrel length              164 mm
+ Cartridge                  9×19mm
+ Action                     Straight blowback. closed bolt
+ Rate of fire               1400 rounds per minute 
+ Muzzle velocity            715 m/s 
+ Effective firing range     50 m 
+ Feed system                20-round box magazine
+}}
+
+=== Hostory ===
+The United Kingdom introduced a 9mm-caliber submachine gun named ''Buschman'' in 1990, with its design originating from the then newborn PDW concept introduced by NATO. The Buschman SMG was roughly on the same period with the FN P90, the Steyr TMP, among other PDW-type firearms, but with the exception of the FN P90 utilizing new types of cartridges being partially successful, the other PDWs using 9x19mm Parabellum cartridges, including the Buschman SMG, were failures.
+
+The prototype of the Buschman SMG had a rate-of-fire of a staggering 1400 RPM, while designers deemed it relatively ideal if it was lowered to 450. However, the gun had a compact design with a bolt only 227 grams in weight, with its travel distance unable to be lengthened due to the length of the receiver. Even traditional decelerating mechanisms cannot achieve such a feat. Eventually an electronic regulating device was installed in the grip which controls the sear to reduce the rate of fire. The rate of fire can be adjusted between 100 RPM to 1400 RPM, but unless specified otherwise by customers, it is defaulted to 450 RPM. This type of electronic regulating device has a service life of 30,000 rounds, and theoretically does not impact the rate-of-fire in any way even when using different cartridges. If not replaced in time when the batteries go dead, the weapon would fall into a semi-auto only mode.
+
+Due to the constant marketing problem faced by the Buschman SMG, the design and the patent of the weapon was bought by an American named George Ealovega, which removed the regulator of the weapon, replacing the return spring with a hydraulic system similar to the suspension found on automobiles, lowering the rate of fire. When high rates of fires are needed, the user can replace the system with a traditional return spring in under a minute. The new weapon has two independent mechanical safeties, one located in the grip and the other as a safety level in front of the trigger guard. He also modified the outline of the weapon, installing a picatinny rail on the top of the receiver for mounting optics, with the new telescopic stocking foldable for use by users wearing armor or with a smaller profile.
+
+This improved Buschman SMG was renamed IDW (Individual Defence Weapon), with a variant chambered in 10mm AUTO available for sale. Marketing was handled by Rheinlander Instrument Corp, aiming for use by bodyguards, but was still met with difficulties.
+
+The current design of the IDW was bought by Parker-Hale, re-marketed under the same name with a few improvements in the shape of the stock, but only available in the 9mm version. Though Parker-Hale had hoped that the British Armed Forces would purchase the weapon as the standard-issue self-defense weapon for non-frontline personnel, but still, it had little prospect.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''IDW'''
+|-
+! colspan=2 | '''Index number'''： No.093'''
+! colspan=2 | '''Rarity'''：★★→★★★★
+|-
+! colspan=2 | '''Nationality:British[[File:Flag_of_United Kingdom.svg|20px]]'''
+! colspan=2 | '''Type: Submachine gun'''
+|-
+! colspan=2 | '''CV：[[Itou Asuka]]'''
+! colspan=2 | '''Illustrator: Ki桑'''
+|-
+! colspan=4 | '''Stats(Growth：S)'''
+|-
+| '''Health (C)''' || 75→150→152→153→154 || '''Damage (C)''' || 9→26→27→27→27
+|-
+| '''Dodge (A)''' || 10→85→90→91→92 || '''Accuracy (A)''' || 2→15→16→16→16
+|-
+| '''Movement speed''' || 12→12 || '''Rate of fire (C)''' || 49→75→75→75→75
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 177→3643
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Evasion concentration / 掩护专注
+| colspan=3 | Raises dodge by 60%→70%(110%)→(130%), lasting 3 (5) seconds. <br />Has an initial cooldown of 6 seconds and can be activated at an interval of 10 (8) seconds.
+|-
+| Electrical frenzy / 电光大狂欢 (acquired after digi-mind update)
+| colspan=3 | Possesses 3 charges of electricity at the start of the battle.<br>Each charge provides an extra 6%(10%) boost to rate of fire and a 12%(20%) boost to firepower.<br> A charge is consumed every 1(2) second(s), and is fully replenished when ''Evasion concentration'' is activated.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 1,4,7
+|-
+| '''Effect''' || colspan=3 | Affects '''AR'''s only, <br />Raises dodge by 20%, crit chance by 10%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 01:10:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Normal (modified)
+|bt4=Damaged (modified)
+|tab1=[[File:IDW.png|400px]]
+|tab2=[[File:IDW_D.png|400px]]
+|tab3=[[File:pic_IDWMod.png|400px]]
+|tab4=[[File:pic_IDWMod_D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+{{Hide|Title=“IDW modified” chibi version animation|Text=[[File:MODIDW_Q.gif]]}}
+[[File:idw&M500_Pid61200418.jpg|350px|thumb|
+<center>Artist:K箱<ref>[https://www.pixiv.net/member.php?id=317823 Artist:K箱]</ref></center>
+<center>Pixiv ID:61200418<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61200418 Pixiv ID:61200418]</ref></center>
+]]
+
+==Trivia==
+===Personality===
+{{Hide|Title={{color|red|Cafeteria stories}}_{{color|blue|IDW's update / IDW改造}}|Text=
+<poem>
+<big><big><big>Prior to update / 改造前</big></big></big>
+
+……Grifon headquarters. / 格里芬基地。
+IDW: ''Now we are here-here! This is where our new squad should be stationed at!'' / 到啦到啦！这里应该就是新小队的驻地啦！
+IDW:''Don't know who my new teammates are?'' / 不知道新队友都是怎样的人形呢？
+IDW:''Anyway! I'll just head inside and have a look!'' / 总之！先进去看看吧！
+''Inside T-doll dormitory.'' / 人形宿舍内。
+IDW:Good Afternoon！''Anyone here--?'' / 有人在吗——！
+IDW:''That Miss over there, look here-look here!'' / 那边的小姐，看这里看这里！
+IDW:''Umm... She doesn't seem to notice me... Then just head over and say hello.'' / 咦……她好像没注意到人家啊……那就过去打招呼好啦。
+''IDW headed towards the T-doll beside the bar.'' / IDW走向坐在吧台旁边的人形。
+IDW:''Hello!'' / 你好哦！
+？？？:''Wah!'' / 呜哇！
+？？？:''Who was that!?'' / 是谁！？
+？？？:''Ah... Freaked me out, almost spilled my black tea.'' / 啊……吓死我了，红茶差点都洒了。
+？？？:''Well... You are...?'' / 那个……你是……？
+IDW:''IDW da-meow!'' / IDW哒喵——！！
+IDW:''Sir's wanting me to report in here!'' / 长官要我来这里报到呢！
+？？？:''Da... da-meow?'' / 哒……哒喵？
+？？？:''Ah... So you are the one who's going to join us today.'' / 啊……你就是今天要加入我们的人形呀。
+L85A1:''Greetings, I'm L85A1. We are sisters-in-arms from now on.'' / 初次见面，我是L85A1。从今往后就是一个小队的战友了，请多关照。
+IDW:''Ok, same, L85A1!'' / 好哒，也请多指教哦，L85A1！
+？？？:''What's that down there, it's too loud.'' / 下面在做什么，吵死了。
+L85A1: ''Bren, here comes our new mate.'' / 布伦，新的战友来了呢。
+IDW:''Hello! IDW here, from now on part of the team da-meow!'' / 你好哦！人家是IDW，从今往后就是小队的一员了哒喵！
+Bren: ''So this noisy thing... is the new replacement member?'' / 布伦:这个吵闹的家伙……就是新补充进来的队员？
+Bren: ''Headquarter's stretched thin.'' / 布伦:总部那边真是无人可用了啊。
+IDW:''Don't downplay me, I'm a professional bodyguard!'' / 别看人家这样，人家可是专业的保镖哦！
+Bren / 布伦:''A stunted one like this? ...Hard to imagine.'' / 这样的小不点？……难以想象。
+Bren / 布伦:''The op's beginning soon, take care of yourself first.'' / 行动马上要开始了，还是先照顾好你自己吧。
+IDW:''I'm very capable!'' / 人家明明是很能干的！
+？？？:''Then prove yourself in battle, rookie.'' / 那就在战斗中证明你的价值吧，新人。
+L85A1:''Wah!'' / 哇啊！
+L85A1:''Phew... It's Echelon Leader Welrod.'' / 呼……原来是维尔德队长啊。
+L85A1:''Now please just say hello when you show yourself once.'' / 真是的，不要每次出现都不打招呼啊……
+Welrod:''That's my job, it is normal to remain undetected.'' / 维尔德: 我的工作就是这样，难以被觉察是理所当然的。
+Welrod:''Now isn't the time for trash talk. The briefing's here.'' / 维尔德:现在不是闲聊的时候，任务已经来了。
+Welrod:''Get yourselves ready, we'll assemble in three hours.'' / 维尔德:都去准备一下，三小时后集合。
+——''Three hours later.'' / 三小时后。
+IDW:''Must have spent my luck to have a mission on-hand right after I came!'' / 刚来就遇到任务，我的运气还真好呢。
+IDW:''He-he, I'll be able to show myself this soon!'' / 嘿嘿，这么快就能大显身手啦！
+Welrod:''Bren and L85A1, you are to exterminate hostiles after I do my recon part.'' / 维尔德:布伦和L85A1，你们两个负责歼灭敌人，由我来负责侦查。
+Welrod:''Move out if you got it.'' / 维尔德:明白了的话，现在出发。
+IDW:''What about me, Echelon Lead?'' / 队长，那我呢？
+Welrod:''Oh, there's you...'' / 维尔德:哦，还有你啊……
+Welrod:''You'll just stick with them, and cover them if necessary.'' / 维尔德:你就跟着她们两个，有需要的话掩护她们。
+Bren:''Huh. I alone will suffice.'' / 布伦:哼，光靠我就足够了。
+IDW:''I'll do my job! I'll show you how capable a professional bodyguard is!'' / 人家会好好掩护的！会让你们看到专业保镖的实力的！
+
+<big><big><big>First update / 第一次改造</big></big></big>
+
+……
+IDW:''Can't hear gunshots.'' / ……听不到枪声了。
+IDW:''Has the battle... Ended?'' / 战斗……结束了吗？
+Panicking female voice: ''...you ok? IDW!?'' / 慌张的女声:……你没事吧？IDW？！
+Panicking female voice: ''Bren... Now what? She's heavily wounded!'' / 慌张的女声:布伦……怎么办，她伤的很重啊！
+IDW:''Ugh... Who's that...'' / 唔……是谁啊…… 
+IDW:''Eyes... Can't open...'' / 眼睛……睁不开……
+Majestic female voice: ''Losing her digi-mind records right after coming here?....What a problem...'' / 高傲的女声:刚来就丢掉云图记录吗……真是麻烦……
+Majestic female voice: ''Got a quick-fix kit on hand, use it on her.'' / 高傲的女声:手头有个快修组件，给她用掉吧。
+''IDW opened her eyes.'' / IDW睁开了眼睛。
+L85A1:''Great, look's like she's ok...'' / 太好了，看来她没事……
+IDW:''Did we win, L85A1?'' / L85A1，我们赢了吗？
+L85A1:'''Course. But now isn't the time to care about this.'' / 当然啦……可现在不是管这个的时候啊。
+L85A1:''You almost got wasted... Scared the thing out of me.'' / 你差点就报废了……真是吓死我了。
+Bren: ''It doesn't matter, but I'm not getting disturbed by her self-introduction ever again.'' / 布伦:报废掉也无所谓，但我可不想再被她的自我介绍吵一次。
+L85A1:''Please don't say so, Bren, she was covering us and...'' / 请别这么说，布伦，她为了掩护我们才……
+''It's trouble for others if this kind of person runs out at that time.'' / 布伦:不清楚自己有几斤几两的人，那个时候跑出来也是给别人添麻烦。
+IDW:''I'm... I'm not wanting to cause trouble.'' / 人家……并不想给大家添麻烦。
+IDW:''I'm just wanting to fulfill my duties as a bodyguard...'' / 人家只是想要履行身为保镖的义务而已啊……
+Bren: ''But can you?'' / 布伦:可是你真的能保护别人吗？
+Bren:''You were a pile of junk after getting the slightest bruise.'' / 布伦:明明自己稍微被碰一下就变得破破烂烂的了。
+Bren:''You got here simply because you are useless, right?'' / 布伦:就是因为没用，才会在其他小队待不下去的吧。
+IDW:''I... am not useless!'' / 我……才不是没用的！
+IDW:''Anyway, a bodyguard should do her best to protect all of us!'' / 而且，保镖本来就应该拼尽全力保护大家才对啊！
+Bren:''Only thouse strong enough can say something like protecting others.'' / 布伦:保护他人这种话，只有足够强大的人才有资格说出口。
+L85A1:''Bren! Where're you going?'' / 布伦！你去哪里？
+Bren: ''Eche-lead needs some support, I'm going there.'' / 布伦:队长那边还需要接应，我过去了。
+Bren: ''I'll just leave this thing to you.'' / 布伦:这个拖后腿的家伙就交给你了。
+''Bren left.'' / 布伦离开了。
+L85A1:''IDW... If you don't mind, Bren's that kind of aggressive one...'' / IDW……你不要介意，布伦就是那种要强的性格……
+L85A1:''Can you walk? I'll get you home.'' / 你还能走吗？我扶你回去吧。
+IDW:''Ahaha...It's fine.'' / 啊哈哈……没事啦。 
+IDW:''I'm... indeed weak, and insignificant...'' / 反正人家……的确是很弱，也不起眼……
+IDW:''Often ignored in my former team, and couldn't help out...'' / 在以前的小队也总是被无视，帮不上大家的忙……
+L85A1:''You've been brave.'' / 你已经很勇敢啦。
+L85A1:''Running out to draw fire? I'm not doing that.'' / 冲出来吸引敌人火力这种事，我可不敢做呢。
+IDW:''Even if I seem useless, I still wanted to just, help out..'' / 就算人家看上去很没用……但还是希望能帮上大家的忙。
+IDW:''Why am I produced if I am of no use?'' / 如果没用的话，人家是为什么被做出来呢……
+L85A1:''Why produced... I'm not knowing much about this.'' / 为什么被做出来……这种事情我是不太懂。
+L85A1:''But to me, we are of some use to the people at Grifon, since we came here..'' / 不过我觉得，既然我们能来到这里，就说明格里芬的人觉得我们是有用处的。
+IDW:''Really?'' / 真的吗？
+L85A1:''Otherwise we would be sent to become civilian A-dolls, right?'' / 不然的话，不是早就会被送去改装成民用人形了吗？
+IDW:''Hmm...'' / 嗯……
+IDW:''Thanks, L85A1, I'll work hard to prove myself!'' / 谢谢你安慰人家，L85A1，人家也会努力让自己能派上用场的！
+L85A1:''We are teammates, we should help each other out in the first place.'' / 我们是队友，本就该互相帮助呢。
+L85A1:''Get fixed and come back into combat.'' / 快点修复好，再回来战斗吧。
+IDW:''Ok! I'll be quick!'' / 嗯！人家会尽快回归的！
+
+<big><big><big>Second update第二次改造</big></big></big>
+
+''A few days later, in another firefight between the Welrod team and Sangvis forces.'' / 几天后，维尔德小队与铁血的另一场交战中。
+Bren: ''Kinda bad to be pinned down in this kind of place.'' / 布伦:被堵在这种地方真是不妙啊……
+L85A1:''Bren, I've sealed all doors in the rear safety passage.'' / 布伦，我把后面安全通道的门都关上了。
+L85A1:''Now let's just pray that they don't have excessive forces flanking us...'' / 现在只能祈祷它们没有多余的兵力从后面包抄我们了……
+IDW:''Uwah! Almost got hit..'' / 呜哇！差点就被打到了……
+IDW:''Bren, I'm running dry!'' / 布伦，人家要没有子弹了！
+Bren:''...Too noisy.'' / 布伦:……吵死了。
+Bren:''You annoying wild cat! Can't you just shut up for a second!'' / 布伦:你这个烦人的野猫！就不能安静一秒吗！
+IDW:''But there's too many of them there!'' / 可是对面火力好猛啊！
+IDW:''We'll run dry sooner or later if we stay here!'' / 再待在这里，很快会弹尽粮绝的！
+Bren: ''I know even if you don't say!'' / 布伦:这种事不用你说我也知道！
+''A voice emerges from the comms channel.'' / 从通讯频道中传来了声音。
+Welrod: ''Bren, what's your status?'' / 维尔德:布伦，你们那边情况怎么样？
+Bren: ''There're some discrepancies in the intel, we are pinned down in the safety passage in the abandoned base by Sangvis.'' / 布伦:之前的情报有些误差，我们被铁血堵在废弃基地的安全通道里了。
+Welrod: ''I'm encountering more than expected hostiles here, it'll take some time to take them out.'' / 维尔德:我这边也遇到了比预想中多的恶党，要剿灭他们需要一点时间。
+IDW:''So... Team-lead can't support us right now?'' / 就是说……队长现在没法支援我们吧？
+Welrod: ''Not now, sorry.'' / 维尔德:暂时不行，抱歉了。
+Welrod: ''I'm forwarding the structural map of the base around you, think of a way.'' / 维尔德:我把你们周边的基地结构图发送过去，想想还有什么办法吧。
+Bren: ''I know the interior, there's no way out!'' / 布伦:里的大致地形我都知道，没有能够撤退的道路！
+IDW: ''Let me check, perhaps there's some details that got overlooked!'' / 让我看看吧，也许会有什么漏掉的细节！
+Welrod: ''That's it, IDW, use your wisdom!'' / 维尔德:没错，IDW，运用你们的智慧吧！
+IDW:''You have it, lead, I won't give up until the very last moment!'' / 放心吧，队长，直到最后一刻我也不会放弃的！
+Welrod: ''I believe in you, you all, the light in your hearts will sure pierce the darkness in front of you!'' / 维尔德:我相信你，相信所有人，你们心中的光明一定能贯穿眼前的黑暗！
+IDW: ''Oooh! I'm feeling as if on fire!'' / 哦哦哦！人家也觉得热血沸腾了！
+Bren: ''Why do you two...'' / 布伦:你们两个……
+Bren: ''Work so well together!?'' / 布伦:怎么会这么合拍啊！
+IDW: ''Come on, Miss Bren, we'll handle these damned mechanic monsters!'' / 来吧，布伦小姐，我们一定会搞定这些可恶的机器怪物的！
+Bren: ''Wait what's all this confidence coming from!'' / 布伦:等等，你这从哪儿来的自信啊！
+Welrod: ''Go ahead, it's time to protect justice in your hands. Hold them off until I reach your position!'' / 维尔德:上吧，守护手中紧握的正义的时刻到了！大家一定要坚持到我过去！
+Bren: ''Wait a minute, eche-lead Welrod!'' / 布伦:……等一下，维尔德队长！
+''Welrod ended her transmission, while everyone on the scene received a layout of the area.'' / 维尔德结束了通讯，同时在场的每个人都收到了一份设计图。
+L85A1:''Don't know why, feeling a bit desperate.'' / ……不知道为什么，觉得有些绝望啊。
+L85A1:''Uh... missing the black tea at the base.'' / 呜……我好想念基地的红茶。
+L85A1:''I just bought a new tea cup last week...'' / 上周我才刚刚买了新的茶杯……
+Bren: ''L85A1 get yourself together!'' / 布伦:L85A1！振作一些！
+Bren: '' We must concentrate and think of an assault plan.'' / 布伦:我们现在必须集中注意力，想办法突围。
+L85A1:''But how...'' / 可是要怎么办……
+L85A1:''I've only got two mags left, and with lead occupied...'' / 我也只剩两个弹夹了，队长又没办法来增援……
+L85A1:''Now we get shot if we peek our heads out, and it's death if we just rush out...'' / 现在我们只要一探出头就会被打，直接冲出去就是送死……
+Bren: ''Dammit, isn't there anything that we can use around here?'' / 布伦:可恶……这附近就没有什么能用的东西吗……
+IDW:''Hehehehe...'' / 哼哼哼哼……
+Bren:''IDW you freaked out or what? What are you laughing at like a--'' / 布伦:IDW，你是吓坏了吗？在那儿傻笑个什……
+IDW: ''Everyone! Just let the professional bodyguard do the assault job!'' / 诸位！突围的事情就交给专业保镖吧！
+Bren: ''What's all this shouting!?'' / 布伦:突然喊什么啊，吓我一跳！
+Bren: ''And it's not the time to get arrogant!'' / 布伦:而且现在不是说大话的时候！
+IDW: ''I'm not arrogant!'' / 人家可不是说大话啊！
+IDW:''It's on the layout, we have ventilation shafts all around here. + we can crawl out along the shafts!'' / 设计图上写着，这里沿路都有通风管的。 +咱们可以沿着通风管偷偷爬出去呀！
+Bren: ''Ventilation shafts? Can we even fit inside?'' / 布伦:通风管……？那种东西我们钻得进去吗？
+L85A1:''We have to give it a try!'' / 总得试试看吧！
+IDW:''Come on! We won't get spotted if we are careful!'' / 快点！我们小心一些的话，敌人应该发现不了的！
+''IDW found the position of the ventilation port by comparing it with the layout.'' / IDW对照设计图寻找通风口的位置。
+IDW: ''Found it, this is the shaft!'' / 找到了，这里是通风口！
+IDW:''I'll just get this wire netting off...'' / 人家先把这个铁丝网拆下来……
+L85A1:''This looks so narrow...'' / 这看上去好窄啊……
+L85A1:''No I'm not fitting inside.'' / 不行，这个大小我过不去。
+Bren: ''Let alone me if L85A1 can't do it.'' / 布伦:L85A1都过不去，那我更不可能了。
+Bren: ''There's no other way, just kill ourselves a way out!'' / 布伦:没别的办法了，直接杀出去吧！
+IDW:''Wait! Let me try!'' / 等等！让人家来试试！
+IDW:''Uh.. Can fit inside-meow!'' / 唔唔，可以钻进去的喵！
+Bren: ''Now you are really a cat, crawling into every place...'' / 布伦:你这家伙还真是只猫啊，哪都能钻……
+Bren: ''But...'' / 布伦:可是……
+IDW:''I'll go first this way.'' / 这样的话，那人家一个人先过去吧。
+IDW:''I'll flank them, and when they aren't looking here, you'll just run out!'' / 人家会绕到敌人后面发动攻击的，等他们注意力不在这边，你们再趁机冲出来就好啦！
+Bren: ''What's in your mind! Going there alone!?'' / 布伦:你在想什么！要一个人进去吗！
+Bren: ''Someone like you will become a pile of salvage the moment you go out.'' / 布伦:你这样的家伙，一出去就会变成破铜烂铁的。
+IDW:''Hehe, I'm a bodyguard.'' / 嘿嘿，人家是保镖嘛。
+IDW:''Though I can only do something like drawing fire, I can still protect you!'' / 虽然只能做吸引火力这种事，但是人家也能保护你们的！
+Bren: ''You need a mental fix, stupid cat.'' / 布伦:……蠢猫，你云图坏掉了吧。
+IDW:''It's my specialty to take risks, I have to use it sometime!'' / 冒险是人家的特长啊，偶尔总要发挥一下嘛！
+IDW:''So, see ya later!'' / 那么，一会儿见喽！
+Bren: ''Hey, IDW! Wait a sec--!'' / 布伦:喂，IDW！等一下——！
+''IDW crawled into the ventilation shaft, moving forward carefully.'' / IDW钻进了通风管，小心翼翼地向前移动。
+IDW:''I... am an idiot.'' / 人家……的确是笨蛋啊。
+IDW:''Even that I'm prone to damage... and unable to get other's attention...But I have my value...'' / 就算总是容易被打坏……也无法得到别人的关注…… 但是我也是有价值的……
+IDW:''If I can prove this...'' / 只要能证明这一点……
+''IDW got out of the shaft.'' / IDW爬出了通风口。
+IDW: ''I can get my place, eh?'' / 就能得到自己的容身之处了吧？
+IDW: ''Sangvis idiots! Behold, the professional bodyguard!'' / 铁血的笨蛋们！专业的保镖，登场了！
+…………
+''Battle ended, an hour later.'' / 一小时后，战斗结束。
+''En route back to base...'' / 队员在返程途中……
+Bren: ''Oy, stupid cat. Still alive?'' / 布伦:喂，蠢猫。还活着吗？
+IDW:''Ugh... It hurts..'' / 呜……好痛……
+IDW:''Um, there's no gunshot... Has the battle ended?'' / 咦，没有枪声了……战斗结束了吗？
+Bren: ''Long ago.'' / 布伦:早就搞定了。
+Bren: ''Looks like the digi-mind's still intact... You're one lucky bastard.'' / 布伦:看来云图没被坏……你运气还算不错。
+IDW:''Hehe... I'm a bit lucky sometimes.'' / 嘿嘿……人家偶尔还是有那么点小幸运的！
+Bren:''Even missing your limbs...'' / 布伦:缺胳膊少腿了还笑得出来……
+Bren: ''Why am I having a teammate like you.'' / 布伦:我怎么会有你这种队友。
+Bren crouched down and carried IDW on her back.'' / 布伦蹲下身，把IDW背了起来。
+IDW:''Bren....'' / 布伦……
+IDW:''I thought you always... disliked me?'' / 你不是一直……讨厌我吗？
+Bren: ''I'm just not interested in meaningless weak ones.'' / 布伦:我只是对毫无价值的弱者没兴趣而已。
+Bren:''But you... Are useful more or less.'' / 布伦:而你……多少还算是有点用。
+Bren: ''For now.'' / 布伦:……现在而言。
+L85A1:''Bren, get honest now.'' / 布伦，这个时候就坦诚点嘛。
+Bren:''Why not scan the horizon when you got the time to chat, L85A1.'' / 布伦:L85A1，有闲聊的工夫不如好好警戒周围。
+Bren: ''It's hard to fight with this stupid cat on my back!'' / 布伦:背着这个笨猫，战斗起来很不方便的！
+L85A1: ''Ok, I know.'' / 嗯嗯，我知道的。
+Bren: ''You--what are you smiling for?'' / 布伦:你，你在笑什么啊
+L85A1:''Ah... just thinking about the hot black tea I'm able to enjoy back at base, feeling happy about it.'' / 啊……我只是想到回去之后又能喝上热腾腾的红茶，感到很高兴而已。
+IDW:''I want that too, L85A1!'' / L85A1，我也想喝！
+L85A1:''It's fine. +4 cups for the new set, it's one for every one of us.'' 没问题哦。 +新买的茶具一共四个杯子，刚好一人一杯呢。
+Bren: ''That's after you get out of the restoration slot, stupid cat.'' / 布伦:等你从修理槽里出来再说吧，蠢猫。
+IDW:''Then... I'll book the black tea first, with desserts!'' / 那，人家就先预订L85A1的红茶，还要小点心！
+L85A1:''Rest assured, IDW. You'll have your share.'' / 放心吧，IDW。 红茶和点心，一定会有你的一份。
+
+<big><big><big>Third update / 第三次改造</big></big></big>
+
+L85A1:''Umm... A perfect blend for today.'' / 唔……今天的味道也是恰到好处呢。
+L85A1:''Black tea and desserts, that's how to spend a warm afternoon...'' / 红茶和点心，温暖的下午就是应该这么度过啊……
+IDW:''Chiang-chiang!'' / 锵锵——！！
+IDW:''Behold, the new IDW da-meow!'' / 崭新的IDW，闪亮登场哒喵！
+L85A1:''Uwa! Scared me, almost spilled my black tea.'' / 呜哇！……吓死我了，红茶差点都洒了。
+L85A1:''IDW!? Is that you?'' / IDW！？真的是你吗？
+IDW:''Check it out, L85A1!'' / L85A1，快看快看！
+IDW:''How's all this equipment looking?'' / 人家这身装备怎么样？
+L85A1:''Looks awesome, where did you get it?'' / 看上去很帅气呀，你这是从哪里弄的？
+IDW:''Took me a lot to get stronger.'' / 人家为了变强，花了不少心思呢~
+IDW:''Asked our leader where can I get improved and asked Miss Kalina for all this...'' / 问了队长人家哪里可以加强一些，还去拜托了格琳小姐做改装……
+IDW:''Cost me some months' of pay, but it feels awesome to get stronger!'' / 虽然花掉了好几个月的薪水，不过变强的感觉真是太棒啦！
+IDW:''Now am I more like a professional bodyguard?'' / 现在的人家，是不是更像专业的保镖了？
+L85A1:''Are you not one in the first place?'' / 你本来不就是专业的保镖吗？
+L85A1:''But indeed looking more reliable now.'' / 不过现在看起来，的确更可靠了。
+IDW:''Hehe, I want to have a task now...'' / 嘿嘿，人家好想现在就接到任务啊……
+IDW:''So you get to see the stronger me!'' / 这样就能让你们看看变强的人家了！
+Bren: ''Now I've been thinking what's all this... So it's the stupid cat back.'' / 布伦:我还在想怎么这么吵……原来蠢猫回来了啊。
+IDW:''Bren, I'm totally different from what I was!'' / 布伦，人家现在的实力可是和以前有天壤之别的！
+Bren: ''And careful not to get hit into a pulp if you keep on being this arrogant.'' / 布伦:得意忘形的话，小心又被打成筛子了。
+IDW:''Huh, you must be getting jealous about my equipment.'' / 哼哼，你一定是嫉妒人家的新装备了。
+Bren: ''If you want me to, you gotta have some satisfying results.'' / 布伦:要我嫉妒的话，也得你拿出满意的战果才行。
+Bren: ''Though I want to grab you this lazy thing to the training grounds....'' / 布伦:虽然想抓着你这个懈怠的家伙去训练……
+Bren: ''But since you just came back, I'll just have you drink a cup of black tea L85A1 just made.'' / 布伦:不过看在你刚回来的份上，就让你喝一杯L85A1泡的红茶吧。
+IDW:''I've been looking forward to this for soooo long!'' / 人家可是期待好久了！
+IDW:''Wow--!It tastes soooo great!'' / 呜哇——！真是太美味了！
+IDW:''So I just stayed in Welrod's team...'' / 就这样，人家留在了维尔德队长的小队里……
+IDW:''Though Bren's always like that, with L85A1 sometimes being foolish, and Eche-lead Welrod saying some stuff I can't really understand...'' / 虽然布伦总是很凶，L85A1有时候傻傻的，维尔德队长也总是说些让人听不太懂的话……
+IDW:''But I'm having a happy day every day! It feels super awesome having my place!'' / 但是人家每天都过得很开心！有容身之所的感觉，感觉超级棒哦！
+IDW:''I'll work even harder from now on da-meow!'' / 人家今后也要加倍努力哒喵——！
+L85A1:''So what's all this da-meow thing...'' / 所以说……“哒喵”到底是什么意思啊……
+</poem>
+}}
+
+===Thanksgiving ritual to IDW===
+IDW works poorly as an SMG, though boasting nice stats, the buffs she provides to the ARs can be considered zero, with an almost useless skill. What's more, her production timer, 1:10, coincides with that of Grizzly Mk V, a 5-star HG-type T-doll, causing commanders who constantly construct HG T-dolls to have a moment's joy after seeing the timer, only to see merely two stars.{{Spoiler|And then sending her to the enhancement room as powerup material.}}
+
+During the early phases IDW did not have a voice actor, and did not attract much attention among 2-star characters, and was not mentioned frequently in the local player community. After the second batch of voicelines went live in January 2017, different from her arrogant expression found in her illustration, the large number of meow-related speech habits and high-pitched sounds brought huge differences and left deep impressions, making her the prime representative for virtually all 2-star characters when the Taiwanese and the Korean version went live, which already included the voicelines. She was starred prominently in a staggering number of spin-off artworks, and reversely raised her influence in the original Chinese player community.
+
+{{Hide|Title=All the same with animal ears, but...|Text=
+
+[[File:Bae1a0035aafa40f1ea353bba164034f78f01905.jpg|450px|]]
+<center>Artist:春春丸<ref>[https://www.pixiv.net/member.php?id=18873943 Artist:春春丸]</ref></center>
+<center>Pixiv ID:l21042660<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63179877 Pixiv ID:l21042660]</ref></center>
+}}
+
+{{Hide|Title=When producing 5-star HG T-dolls|Text=
+
+[[File:4e10838a87d6277fe7e6ae5e22381f30e824fcf7.jpg|450px|]]
+
+}}
+
+Appeared as the T-doll of other commanders in Episode 5-4.
+
+Perhaps as a hint to her massive influence, in the code key activity which rewards a new outfit for Kalina in August 2017, IDW was designated as a necessary factor in acquiring a code key, making a lot of commanders begging for her pardon, hoping that everything isn't too late. xD
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>idw_030.mp3</sm2>
+|-
+| Login
+| {{lang|ja|おはよう、指揮官！手伝ってあげますにゃー！}}<br />Morning, sir! Let me help out today, at least with housekeeping!<br />早啊，长官！今天就让人家来打下手吧，至少看家是没问题的！
+| <sm2>idw_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja| IDW（あいでぃだぶりゅー）だにゃ。引き取ってくれるのかにゃ？指揮官。よかったにゃー！}}<br />I-D-W-da meow!Are you the commander who's willing to accept me? I'll work hard!<br />IDW哦！您就是那位肯收留人家的长官吗？我会努力的！
+| <sm2>idw_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、ねこは好きかにゃ？じゃあ私は？}}<br />Sir, do you like cats? So how about me?<br />长官，喜欢猫嘛？喜欢人家嘛？
+| <sm2>idw_005.mp3</sm2>
+|-
+| {{lang|ja|え？年齢？指揮官と出会ったときが私の誕生日だにゃ。}}<br />Hmm? Age? The day we met is my birthday-da meow.<br />咦？出生地？哎呀，被长官选中的地方，就是出生地！
+| <sm2>idw_006.mp3</sm2>
+|-
+| {{lang|ja|もっと上…そうそう、そこ！そこがかゆい！あ～よかった、ありがとうにゃー！}}<br />A bit higher! That's it that's it, it's here! Ah-great, <nowiki>[finally not itchy]</nowiki>, thanks-meow!<br />再靠上一点！没错没错，就是这里！终于不痒啦，多谢长官喵！
+| <sm2>idw_007.mp3</sm2>
+|-
+| rowspan=3 | As adjutant (after modification)
+| {{lang|ja|}}<br />Whether the cute me or the awesome me, commander likes both eh?<br />不管是可爱的我还是帅气的我，指挥官都会喜欢人家的对吧？
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />It's IDW here!Are we on a mission?I'm ready to go anytime~OVER!<br />这里是IDW！要进行任务了吗？人家随时都准备着登场哦~OVER！
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Love commander's massage~Where do we start today?<br />最喜欢长官的按摩啦~今天要从哪里开始呢？
+| <sm2></sm2>
+|-
+| As adjutant (post-oath link establishment) 
+| {{lang|ja|}}<br />Commander, how's the weather outside? Go out and enjoy the sun together, it's the very moment I'm looking forward to most every day!<br />指挥官，外面的天气怎么样？一起去晒太阳吧，我每天最期待的就是这个时候啦！
+| <sm2></sm2>
+|-
+| Dormitory(liftoff)
+| {{lang|ja|にゃにゃっ！？}}<br />Nya-nya!?
+| <sm2>idw_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory(touch)
+| {{lang|ja|にゃははっ。}}<br />Nya-haha.
+| <sm2>idw_032.mp3</sm2>
+|-
+| {{lang|ja|やるにゃー。}}<br />Nice-nya.
+| <sm2>idw_035.mp3</sm2>
+|-
+| {{lang|ja|にゃっ。}}<br />Nya.
+| <sm2>idw_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja| IDWの出番だにゃー！}}<br />It's IDW's turn nya!<br />也轮到IDW大显身手了！
+| <sm2>idw_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|任務、始めるにゃー！}}<br />Mission, starting-nya!<br />护卫任务，出发啦！
+| <sm2>idw_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|奴らを追っ払うにゃ！}}<br />Drive those competitors away-nya!<br />是抢饭碗的家伙！快赶走吧！
+| <sm2>idw_010.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|やばいよ、このままじゃ捨てられるにゃ…}}<br />Bad, I'm not getting welcome this way...<br />糟糕啦！这样下去，又要卖不出啦！
+| <sm2>idw_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|うぐぅ…誰にも言わないで欲しいにゃ。嫌われちゃうにゃー。}}<br />Ummm...Please don't say it to anyone, I'll get frowned upon-nya.<br />呜……长官，请不要说出去，不然又卖不出去了。
+| <sm2>idw_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|大勝利！指揮官、よくできましただにゃー！}}<br />Great win!Sir, I get to pay you back-da meow!<br />大胜利！长官，这样的结果，是不是稍稍可以报答您了？
+| <sm2>idw_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|失敗にゃ・・・人気がなくなるにゃ…。}}<br />A defeat-nya...Without anyone liking-nya...<br />呜……失败了，明明已经没什么人气了……
+| <sm2>idw_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|ボディガードのお出ましにゃん！}}<br />Don't worry, the professional bodyguard is on-scene!<br />不要担心！专业保镖登场啦！
+| <sm2>idw_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|エサを探しに行くにゃー！}} <br />Time to scavenge for a while-nya!<br />出门觅食了！
+| <sm2>idw_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ただいまなのにゃ。お腹いっぱいだにゃー！}}<br/>Back-nya. I'm full now-nya!<br />回来了！肚子饱饱的啦！
+| <sm2>idw_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい友達、一緒に遊ぶにゃ！}}<br />A new friend, come play together-nya!<br />新的朋友哦！来和人家玩吧！
+| <sm2>idw_008.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|ねこ耳がいっぱいにゃ！}}<br />More cats are great-nya!<br />哇！更多的人家！可以愉快地抱团啦！
+| <sm2>idw_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|強くなったにゃ！かわいがって貰えそうにゃ！}}<br />Stronger I am-nya!A better price to be sold at-nya!<br />变得更强啦！能卖个好价钱啦！
+| <sm2>idw_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|私の番だにゃー！}}<br />It's my turn-nya!<br />轮到人家的回合啦！
+| <sm2>idw_021.mp3</sm2>
+|-
+| {{lang|ja|いかせないにゃ！}}<br />I won't let you have it-nya!<br />不会让你们得逞的！
+| <sm2>idw_022.mp3</sm2>
+|-
+| {{lang|ja|拳銃扱いしないで欲しいにゃ！}}<br />Don't take me as a pistol-nya!<br />别把人家当成手枪！明明是很可靠的！
+| <sm2>idw_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|えっ？本当かにゃ？私は…ただ居場所が欲しいだけにゃ。指揮官を独り占めなんて…でも、それは指揮官の望みなら…喜んで。}}<br />Ehh? Really-nya?I-I just want to find a place to stay-nya, never wanting to take Sir for myself...But if it's sir's choice, I'll just go with it.<br />诶？——骗人的吧？我……我只是想找到容身之所，从没想过把长官从大家身边抢走的！但是，既然是长官的选择，人家就不客气啦！
+| <sm2> idw_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_IDWMod_D.png|width=500px|left=-150px|bottom=-80px}}
+
+== 外部链接及注释 ==
+===  参考资料 ===
+* [http://www.firearmsworld.net/britain/phidw/idw.htm 枪炮世界：IDW冲锋枪]
+
+=== 注释 ===
+<references/>
+[[Category:少女前线]]
+[[Category:机娘]]
+[[Category:猫耳]]
+[[Category:下双马尾]]
+[[Category:短裤]]
+[[Category:护膝]]
