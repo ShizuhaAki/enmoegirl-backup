@@ -1,0 +1,269 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Commander, it's so great to see you. The lighter me have come to serve you.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=PPS-43
+|image=PPsh43.png
+|Caption=
+|Original name=PPS-43
+|Nickname=
+|Moe point=Loli
+|Hair color=Pink
+|Eye color=Pink
+|CV=Uesaka Sumire
+|Type=SMG
+|Rarity=★★★
+|Country of Origin=USSR
+|Manufactured by=Leningrad Armory
+|Developed=1941
+|In service=1943-1945
+|Related person=
+}}
+
+'''PPS-43''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historicla basis ==
+The PPS-43 was the product of the USSR in the course of the Great Patriotic War, during the hardest times.
+
+The PPS-43 was born in Leningrad, and this city named after the creator of the USSR was under German siege all the way from the outbreak of the Great Patriotic War, spanning 900 days. Due to extreme shortages of material, the Leningrad Armory began modifying PPSh-41 submachine guns for production with the apparatus and material found within factories.
+
+The PPS-43 replaced the wooden stock found on the PPSh-41 with a folding one made of metal, while modifying the weapon to accept 35-round box magazines only. The entire weapon can be made from sheet-pressed, welded steel, with the resource for producing a single PPSh-41 capable of producing two PPS-43 instead.
+
+However production ceased when WWII ended, and large numbers of PPS-43 submachine guns are sent to other socialist states for replication, where it took part in the Korean War. Due to its small size, it was easy to use in narrow trenches, and soldiers also bound flashlights to the gun to deal with the night. China replicated the PPS-43 as the Type 54.
+
+=== Specifications ===
+*Caliber:7.62mm
+*Cartridges:
+**7.62mm Tokarev
+**7.63mm Mauser
+*Muzzle velocity:500m/s
+*Effective range:200m
+*Muzzle energy:654.3 J
+*Rate of fire:
+**650 RPM (cyclic)
+**100 RPM (practical)
+*Action: Simple blowback
+*Firing mode:Auto
+*Feed system: 35-round detachable box magazine
+*Length: 820mm/ 615mm (Stock extended/folded)
+*Barrel length:254mm
+*Rifling: 4, right-hand twist at 240mm
+*Overall weight: 3.36kg (empty)
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion on the weapon. For reference only.'''
+ Type                       Submachine Gun
+ Weight                     3.04 kg (6.7 lb)
+ Length                     820 mm (32.3 in) stock extended / 615 mm (24.2 in) stock folded
+ Barrel length              243 mm (9.6 in)
+ Cartridge                  7.62×25mm Tokarev
+ Action                     Blowback. open bolt
+ Rate of fire               500-600 rounds/min (cyclic rate)
+                            100 rounds/min (effective rate)
+ Muzzle velocity            Approx. 500 m/s (1.640 ft/s)
+ Effective firing range     100 m - 150 m
+ Maximum firing range       200 m
+ Feed system                35-round detachable box magazine
+ Sights                     Flip rear sight. fixed blade front sight
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PPS-43'''
+|-
+! colspan=2 | '''Index number'''：NO.022 
+! colspan=2 | '''Rarity'''：★★★
+|-
+! colspan=2 | '''Nationality: Soviet[[File:Flag_of_USSR.svg|20px]]'''
+! colspan=2 | '''Type: Submachine gun'''
+|-
+! colspan=2 | '''CV：[[Uesaka Sumire]]'''
+! colspan=2 | '''Illustrator: 两卡车'''
+|-
+! colspan=4 | '''Stats(Growth:B)'''
+|-
+| '''Health (B)''' || 88→176 || '''Damage (S)''' || 13→33
+|-
+| '''Dodge (A)''' || 9→65 || '''Accuracy (A)''' || 2→13
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (B)''' || 52→74
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 197→3676
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Hand grenade
+| colspan=3 | Throws a grenade that deals 2x (6x) damage to enemies within a 2.5 radius. <br />Has an initial cooldown of 6 seconds and can be activated at an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 1,4,7
+|-
+| '''Effect''' || colspan=3 | Applies to '''AR'''s,<br />Damage+12%。
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 02:10:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored Damaged
+|tab1=[[File:PPsh43.png|400px]]
+|tab2=[[File:PPsh43 D.png|400px]]
+|tab3=[[File:Pic PPS43 Dhx.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+== Trivia ==
+
+It can be found in the dormitory that PPS-43 sleeps with her eyes open, reflecting how dangerous the situation is back when she was first born.
+
+== Voicelines ==
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线。
+| <sm2>PPS43_TITLECALL_JP.mp3</sm2>
+|-
+| Upon Login
+| {{lang|ja|早く入りなさいよ、待つのは嫌いよ。}}<br />Come on in, I'm impatient.<br />快点进来，我没多少耐心。
+| <sm2>PPS43_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|同志、お会いできて光栄です。私は軽いのが取り柄であります。}}<br />Commander, it's great to see you. The lighter me have come to serve you.<br />指挥官,能见到您太好了,更加轻巧的我,为您效劳。 
+| <sm2>PPS43_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|何見てんの?}}<br />What are you looking at?<br />在看什么呢？ 
+| <sm2>PPS43_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|私、姉さんがいるの。}}<br />I'm fine as long as sister is here.<br />只要有姐姐在，对我而言就足够了。
+| <sm2>PPS43_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|遅刻する奴はみんな処刑よ!文句ある?}}<br />Those who arrive late should be tried in court! Anything wrong?<br />迟到的家伙就应该处以极刑，有问题吗？ 
+| <sm2>PPS43_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Commander, what are doing, let me help out. Since I'm chosen, I have to be smarter from now on.<br />指挥官，您在做什么，我也来帮忙。既然被您选中了，今后就必须得机灵点了。 
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Formation
+| {{lang|ja|やっと出番ね、待ちくたびれたわ！}}<br />Finally my turn. I just can't wait!<br />终于轮到我上场了，等的都快不耐烦了！
+| <sm2>PPS43_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|十秒で片つけるわよ！}}<br />Give me 10 seconds and I'll get them!<br />给我十秒我就能收拾了他们！
+| <sm2>PPS43_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|一気に決めてやるだから！}}<br />Wipe them out in one breath!<br />一口气消灭他们！
+| <sm2>PPS43_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|この…倍返しよ！}}<br />You....I'll pay you back!<br />你们竟敢......我一定加倍奉还！
+| <sm2>PPS43_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|ああ、またやっちゃった...姉さんには言わないでね。}}<br />A-ahh, I did it a bit too much...Don't tell this to sister.<br />呜呜，我又做过头了，别跟我姐说哦。
+| <sm2>PPS43_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|あーあ、時間の無駄だったわね。}}<br />Ah, what a waste of time.<br />唉，真是浪费时间。
+| <sm2>PPS43_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|ムカつくな！}}<br />Now you got me angry!<br />气死我了！
+| <sm2>PPS43_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|ね、PPsh-41お姉さん、こんな時は、私に任せて！}}<br />Hey, Papasha sister, just leave this kind of situation to me!<br />波波沙姐姐听我说，这种情况交给我就行了！
+| <sm2>PPS43_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|じゃあね、すぐ帰ってくるわ。}}<br />I'll be right back.<br />我去去就回。
+| <sm2>PPS43_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|帰ったわよ。姉さん、待ってた？}}<br />I'm back. Have you waited for long, sister?<br />我回来咯。让你久等了，姐姐。
+| <sm2>PPS43_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|製造完了、また新しい子に浮気？}}<br />Production complete. Are you swaying over stuff again?<br />制造完成，你又开始朝三暮四了吗？
+| <sm2>PPS43_BUILDOVER_JP.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|編成拡大、凄いな！}}<br />Establishment expanded, nice!<br />编队扩大了，好厉害！
+| <sm2>PPS43_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|ありがとう。}}<br />Thanks.<br />多谢。
+| <sm2>PPS43_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Ability
+| {{lang|ja|ウラー！}}<br />Ura!<br />冲啊！
+| <sm2>PPS43_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|MP如きが、私だちと腕比べでしよでの？}}<br />Those like MP40 dare to compete with us?<br />就凭MP40之辈，也想和我们一争高下？
+| <sm2>PPS43_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|あんただちに、チャンスなんでやらないからね！}}<br />You don't stand a chance!<br />你们根本没有胜算的！
+| <sm2>PPS43_SKILL3_JP.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|おお、これをPPsh-41姉さんに渡せばいいのね?ええ、何、私に?!いいの?ああ、大きくなりたいことばかり考えてた私が、なんだか馬鹿みたい、っはは。}}<br />O-oh, is this for sister PPSh-41? Eh? What-for me?! Really? Ah, now screw that "want to grow up" thing, I'm just such an idiot, haha.<br />指挥官，这个，是给41姐的吗？什么？！给我的？真是的……亏我还一直盼着长大，真是个笨蛋，哈哈♪
+| <sm2>PPS43_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=PPsh43.png|width=450px|left=-125px}}
+
+==External links and references==
+
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Hair ornament]]
