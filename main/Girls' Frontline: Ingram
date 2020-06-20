@@ -1,0 +1,306 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>If it's the Commander's orders...then I, Ingram MAC-10...would be delighted to serve.</big></big>'''}}
+{{Girls' Frontline profile
+|Title=Ingram
+|image=gfmac10_1.jpg
+|Caption=[http://jhlee1374.egloos.com Artist: Knuts92]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=64007768 Pixiv：64007768]
+|Original name=Military Armament Corporation Model 10
+|Nickname(s)=M-10, Ingram
+|Moe point(s)=[[Yandere]]
+|Hair color=Black
+|Eye color=Green
+|CV=Yui Ogura
+|Type=SMG
+|Rarity=★★★
+|Country of origin=USA
+|Manufactured by=Military Armament Corporation
+|Developed=1964
+|In service=1970
+|Related to=Gordon B. Ingram
+}}
+ 
+'''MAC-10''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Sunborn Games and its derivatives.
+
+== Historical basis ==
+
+The '''MAC-10''' (officially the Military Armament Corporation Model 10) is an open-bolt, blowback-operated light submachine gun (or machine pistol) developed by Gordon B. Ingram in 1964 for spec ops units.
+
+The MAC-10 is almost entirely made from stamped sheet steel, with the notable exception of the bolt, which is precision-forged. The cocking handle protrudes from the top of the receiver, which locks the bolt if turned 90 degrees, preventing the weapon from misfiring should the system fall to the ground or fire prematurely due to its open-bolt nature. The weapon rarely malfunctions because of its simple yet sturdy design. The MAC-10 uses a rectangular receiver, an L-shaped telescoping bolt which covers part of the barrel inside the bolt, and a magazine housed inside the pistol grip to reduce length and shift the center-of-gravity, all of which contributed to the weapon's compactness and concealability. A knob-type selector is positioned on the left of the receiver which sets the weapon to safe, semi- or full-auto mode.
+
+The MAC-10 possesses a high rate of fire due to its open-bolt design and the light weight of the bolt itself. However, the weapon is prone to malfunctions such as misfeeds due to its short recoil length, small receiver and high rate-of fire.
+
+The barrel is threaded to accept its exclusive silencer, which reduces the sound of discharge ''without'' lowering the muzzle velocity of the rounds, in addition to shifting the center-of-gravity to assist balancing. To reduce design costs, the .45-caliber MAC-10's use the same magazine as that of the M3 Grease Gun.
+
+The MAC-10 can also be fitted with a small telescopic stock to mitigate the recoil. However, it was deemed an ideal close-quarters weapon when it was first introduced. There are also rumors that the MAC-10 would be the ideal weapon for gangs and terrorists due to its high concealability and its superior firepower in cramped indoor spaces. However, the weapon's poor accuracy makes it "fit only for combat in a phone booth", per David Steele, weapons researcher of International Association of Police Chiefs.
+
+===Specification===
+*Empty weight: 2.84 kg (without silencer)
+*Length (without silencer): 269mm (without stock) / 295mm (stock folded) / 548mm (stock extended)
+*Barrel length: 146mm
+*Cartridge:
+**.45 ACP
+**9mm Luger
+*Caliber: 
+**11.43mm (.45 ACP)
+**9mm (9mm Luger)
+*Action: Blowback-operated, open-bolt
+*Rate of fire:
+**1,145 RPM (.45 ACP)
+**1090 RPM (9mm Luger)
+*Muzzle velocity:	
+**280 m/s (.45 ACP)
+**366 m/s (9mm Luger)
+*Effective range:	
+**50m (.45 ACP)
+**80m (9mm Luger)
+*Maximum range: 100m (.45 ACP)
+*Feed system:	
+**30-round detachable magazine (.45 ACP)
+**32-round detachable magazine (9mm Luger)
+*Sights: Fixed iron sights, rear-aperture front-post
+*Sight radius: 148mm
+
+{{Hide|Title=Specifications found in-game|Text=
+ Type                       Machine Pistol
+ Weight                     2.84 kg (6.26 pounds) empty without suppressor
+ Length                     269 mm (10.7 inches) with stock removed
+                            295 mm (11.6 inches) with stock retracted
+                            548 mm (1 foot 9.6 inches) with stock extended
+                            545 mm (1 foot 9.45 inches) with stock retracted
+                            w/suppressor
+                            798 mm (2 feet 7.4 inches) with stock extended with
+                            suppressor
+ Barrel length              146 mm (4.49 inches)
+ Cartridge                  .45 ACP (11.43x23mm)
+                            9×19mm Parabellum
+ Action                     Straight blowback
+ Rate of fire               1.250 rounds/min. (9mm)
+                            1.090 rounds/min. (.45 ACP)
+                            1.380 rounds/min. (.380 ACP)
+ Muzzle velocity            366 meters/second (1.201 feet/second) for 9mm
+                            280 meters/second (919 feet/second) for .45 ACP
+ Effective firing range     50 meters (.45 ACP)
+                            70 meters (9×19mm Parabellum)
+ Maximum firing range       100 meters (for .45 ACP)
+ Feed system                30-round detachable box magazine (.45 ACP)
+                            32-round detachable box magazine (9mm)
+ Sights                     Iron sights
+}}
+
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Ingram'''
+|-
+! colspan=2 | '''Index number''': No.018
+! colspan=2 | '''Rarity''': ★★★
+|-
+! colspan=2 | '''Nationality: American[[File:Flag_of_United_States.svg|20px]]'''
+! colspan=2 | '''Type: Submachine gun'''
+|-
+! colspan=2 | '''CV: Yui Ogura'''
+! colspan=2 | '''Illustrator: SA'''
+|-
+! colspan=4 | '''Stats (Growth: A)'''
+|-
+| '''Health (B)''' || 88→176×5 || '''Damage (B)''' || 11→28
+|-
+| '''Evasion (A)''' || 9→68 || '''Accuracy (C)''' || 2→11
+|-
+| '''Movement Speed''' || 12→12 || '''Rate of Fire (A)''' || 63→91
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 197→3728
+|-
+! colspan=4 | '''Resource demandss'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Smoke Grenade
+| colspan=3 |Launch a smoke grenade that decreases the enemies' rate of fire by 20% (36%) and <br />movement speed by 30% (50%) within a radius of 2.5 units for 2.5 (4) seconds. <br />Initial cooldown 1 second / Cooldown 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 1,4,7
+|-
+| '''Effect''' || colspan=3 | Buffs '''AR'''<br />Damage +12%
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | 02:00:00
+|-
+| '''Drops''' || colspan=3 |
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+|tab1=[[File:MAC10.png|400px]]
+|tab2=[[File:MAC10 D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Trivia==
+*Despite the monstrous rate-of-fire (~1100 RPM for all variants) in reality, Ingram's Rate of Fire in-game of 91 is lower than that of PPSh-41 (at 93, 900-1000 RPM in reality).
+
+*Scars are visible on the right calf, right abdomen, left arm and below the left eye of Ingram.
+
+*Ingram's left eye (usually obscured) shines in her heavily damaged illustration, alongside a strange smile on her face.
+
+*The illustration alongside her quotes reveal Ingram to be a nonchalant and lonely character.
+
+:Despite so, one of her quotes reminding the commander of an ant narrowly escaping death may hint at a potentially kinder side of her personality.
+
+*Ingram visibly lays herself onto a sofa/chair should they be present in the dormitory.
+{{Hide|Title=Ingram in the dorm|Text=[[File:英格拉姆葛优躺.jpg|400px]]}}
+
+*She is also portrayed as part of the "mysterious doll" that shows up when players claim their produced T-dolls.
+
+{{Hide|Title=The mysterious doll|Text=[[File:Mystery shadow.png|400px]]}}
+
+:With incisive research the player community had put together various parts of different dolls, which eventually revealed the true identity of the "mysterious doll" as an amalgation of '''Ingram''', [[Girls' Frontline: Bren|'''Bren''']], '''[[Girls' Frontline: FAL|FAL]]''' in her old design, '''[[Girls' Frontline: Type 92|Type 92]]''', '''[[Girls' Frontline: WA2000|WA2000]]''' and '''[[Girls' Frontline: SAA|SAA]]''' from top to bottom.
+
+{{Hide|Title=The mysterious doll revealed|Text=[[File:Mystery.png|400px]]}}
+
+*She's one of the injured transported back at the end of chapter 1-3, claimed to have survived only because she's not the target of Agent.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>MAC10_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|お帰りなさい。}}<br />''Welcome back.''<br />欢迎回来。
+| <sm2>MAC10_HELLO_JP.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|指揮官のご指示であれば…イングラムM10は…喜んでお受けしますよ。}}<br />If it's the Commander's orders...then I, Ingram MAC-10...would be delighted to serve.<br />哼哼♪我的指挥官,您想干掉谁呢？英格拉姆乐意效劳。
+| <sm2>MAC10_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、足元に気を付けて、危うく蟻達を踏むところだよ。}}<br />Commander, please watch your step. You nearly stepped on an ant...<br />指挥官，请注意脚下，差点踩到蚂蚁了……
+| <sm2>MAC10_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|友達?興味ないです、そんなもの…}}<br />Friends? I'm not interested in such a thing...<br />朋友？那种东西有什么意思呢？
+| <sm2>MAC10_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|皆に好かれたいなんて…一度も思ったことないです。強い者はいつだって…孤独ですから。}}<br />To be liked by everyone...not once have I ever thought of wanting such a thing. The strong...are lonely.<br />从没打算过能被大家喜欢，反正强大的人总是孤独的吧。
+| <sm2>MAC10_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|}}<br />Commander, are you heading out? As your family, should I be giving you a "goodbye kiss"? You were looking forward to it, right?! I saw it in your eyes!<br />指挥官，什么时候再出去玩吧？有你在，路上才能变得有趣一点呢，哼哼……
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (toucn)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|指揮官の期待に、応えますね。}}<br />''I must repay the Commander's orders.''<br />我必须要回报指挥官的期待呢。
+| <sm2>MAC10_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|弱い奴は壊したくなる。}}<br />''Wanna wreck those weakies.''<br />好想把那些弱仔都打爆。
+| <sm2>MAC10_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|敵軍…潰しじゃってもいいよね。}}<br />''Enemies...would be good if we plow through them.''<br />敌军......全部碾碎也可以吧？ 
+| <sm2>MAC10_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|うぅ…やられた分は、百倍にして返す！}}<br />''Uuuu...your damages to me, I shall return it a hundred times worse!''<br />呜呜，你打伤我的份，我一定百倍奉还！
+| <sm2>MAC10_BREAK_JP.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|ふん、次は見てなさい。}}<br />''Humph, we'll see.''<br />哼，下次走着瞧。
+| <sm2>MAC10_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|弱肉強食は当たり前です。}}<br />''That the strong eats the weak is for granted.''<br />弱肉强食是理所当然的。
+| <sm2>MAC10_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|私が弱いなんで…認めない…}}<br />''I'm the weak....Impossible...''<br />我居然是弱者......这不可能......
+| <sm2>MAC10_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|このイングラムにも、楽しみを分けて下さいな。}}<br />''Allow me Ingram to share your joy.''<br />也让我英格拉姆来分享下你们的乐子吧。
+| <sm2>MAC10_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|分かりました、お任せください。}}<br />''Understood, leave it to me.''<br />明白，就请交给我吧。
+| <sm2>MAC10_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|戻りました。私の留守中に何も起きないですか。}}<br />''I'm back. Did anything not happen when I was gone?''<br />我回来了。我不在的时候什么都没发生吗？
+| <sm2>MAC10_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|今度の子は強いかしら。}}<br />''Is the kid this time strong enough?''<br />这次的人形够不够强呢？
+| <sm2>MAC10_BUILDOVER_JP.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|そうなの、楽しさ倍増ですね！}}<br />''This way, I'll have extra fun!''<br />这样啊，那就能翻着倍找乐子了！
+| <sm2>MAC10_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|メンテは大事です。}}<br />''Maintenance is big deal.''<br />维护保养很重要。 
+| <sm2>MAC10_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|行け行け！}}<br />''Go go!''<br />上啊上啊！
+| <sm2>MAC10_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|安心して死んでください。}}<br />''Just die assured.''<br />放心上路吧。
+| <sm2>MAC10_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|さーて、皆殺しの準備をしましょうか。}}<br />''Ok, ready to slaughter them all.''<br />好啦，准备下把他们全宰了吧！
+| <sm2>MAC10_SKILL3_JP.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官、こんな私でも、受け入れてくださるの?分かりました、指揮官、私と一緒に楽しいことを、探しましょうね。}}<br />Commander, you would accept even a person like me? Alright, I understand, Commander. Let us look for fun things to do together.<br />指挥官，就算是这么危险的我，您也能接受吗？明白了，和我拥有同样乐子的人，我终于……终于找到了！指挥官！
+| <sm2>MAC10_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=MAC10 D.png|width=420px|left=-100px}}
+
+==References==
+<references/>
+ 
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
