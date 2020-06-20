@@ -1,0 +1,280 @@
+{{Girls' Frontline navabr}}
+{{Girls' Frontline replenish|}}
+{{Girls' Frontline info|'''<big><big>SPP-1 Underwater Pistol, reporting! I can work on land, but I'll show you what I can really do when we're underwater!</big></big>'''}}
+{{Girls' Frontline profile
+|Title=SPP-1
+|image=59602350 p2.png
+|Caption=<center>Artist: predict<ref>[http://www.pixiv.net/member.php?id=6590423 作者:predict]</ref></center>
+<center>Pixiv ID:59602350<ref>[http://www.pixiv.net/member_illust.php?mode=medium&illust_id=59602350 Pixiv ID:59602350]</ref></center>
+|Original name=SPP-1
+|Nickname(s)=
+|Moe point(s)=[[Heterochromia]]
+|Hair color=Blue
+|Multiple eye colors=Blue, Golden
+|CV=Yuka Ootsubo
+|Type=HG
+|Rarity=★★★★
+|Country of origin=USSR
+|Manufactured by=Tula Arsenal
+|Developed=1960s
+|In service=1971- (as SPP-1M)
+|Related to=Vladimir Simonov
+}}
+ 
+'''SPP-1''' is a character from the SLG game '''[[Girls' Frontline]]'' developed by MicaTeam and published by Sunborn Games and its derivatives.
+
+== Historical basis ==
+The '''SPP-1''' is a special-purpose four-barrel pistol designed by pistol expert Vladimir Simonov for use in covert underwater operations by Soviet frogmen.
+
+To gain a bigger tactical advantage when combatting with hostile frogmen, the Navy of the former Soviet Union demanded that the Central Scientific-Research Institute for Precision Machine Engineering (often known in short as {{ruby|ЦНИИТочМаш|TsNIITochMash}}) develop a dedicated underwater pistol, designated the SPP-1, where SPP is {{ruby|Специальный Подводный Пистолет|Spetsial'nyy Podvodnyy Pistolet}}, or "Special Underwater Pistol", first fielded by combat frogmen of the Navy of the former USSR in 1971. The SPP-1M (M for modernized) is currently in service with the Russian Navy Special Forces, and is available for export via the state-controlled weapon exporter RosOboronExport.
+
+The SPP-1 uses the dedicated SPS underwater ammunition, firing long, thin bolts. The SPS consists of a 40mm-long watertight casing with a low-carbon steel bolt 4.5mm in diameter and 115mm in length, weighing 12.8 grams. The entire cartridge measures 145mm long and weighs 17.5 grams. The tip of the bolt is flat and is fired from a smooth barrel, stabilizing itself in water via fluid dynamics. Due to how it is fired by gunpowder rather than compressed air, the effective range and penetration of the SPS is greater than spearguns formerly used by frogmen, capable of easily piercing insulating diving suits or 5mm-thick plastic masks before causing serious injury to the diver. However the bolt is unstable in air, which limited its range above-water, and should be fired only as a last resort.
+
+=== Specifications ===
+*Weight: 950g (34 oz) empty / 1,030 grams (36 oz) loaded
+*Length: 245mm (9.6 in)
+*Barrel length: 205mm (8.1 in)
+*Height: 135mm (5.4 in)
+*Cartridge: 4.5x40mmR SPS
+*Action: Double-action
+*Muzzle velocity: 250m/s (in air)
+*Effective range: 17m (5m underwater), 11m (20m underwater), 6m (40m underwater)
+*Feed system: 4 barrels with a cartridge each
+
+{{Hide|Title=Specification found in-game|Text=
+*'''The following data may contain errors and represent only the game's understanding of the weapon. For reference only.'''
+ Type                       Underwater pistol
+ Weight                     950 g
+ Length                     244 mm 
+ Cartridge                  4.5×40mmR
+ Action                     Double action
+ Muzzle velocity            240 to 250 metres per second
+ Effective firing range     in air. 15 to 20 metres
+                            in water.
+                            17 metres (56 ft) at depth of 5 metres (16 ft);
+                            11 metres (36 ft) at depth of 20 metres (66 ft);
+ 
+                            6 metres (20 ft) at depth of 40 metres (130 ft)
+ Feed system                4 barrels with a cartridge in each
+}}
+
+
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''SPP-1'''
+|-
+! colspan=2 | '''Index number'''： No.98
+! colspan=2 | '''Rarity''': ★★★★
+|-
+! colspan=2 | '''Nationality: Soviet[[File:Flag_of_USSR.svg|20px]]'''
+! colspan=2 | '''Gun Type: Handgun'''
+|-
+! colspan=2 | '''CV：Yuka Ootsubo'''
+! colspan=2 | '''Illustrator: 麻将'''
+|-
+! colspan=4 | '''Stats (Growth: S)'''
+|-
+| '''Health (A)''' || 38→76×5 || '''Damage (A)''' || 12→35
+|-
+| '''Evasion (C)''' || 9→75 || '''Accuracy (A)''' || 7→61
+|-
+| '''Movement speed''' || 15→15 || '''Rate of Fire (C)''' || 31→48
+|-
+| '''Crit rate''' || 20% → 20% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 141→2642
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10→30 || '''Rations''' || 10→30
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Cover Suppression
+| colspan=3 | Decrease all enemies' evasion by 40% (55%) for 5 (8) seconds. <br />Initial Cooldown 6 seconds / Cooldown 12 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 1,2,7,8
+|-
+| '''Effect''' || colspan=3 |  Buffs All Types<br>Accuracy+45% (90%), Damage +6% (12%).
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 | '''N/A'''
+|-
+| '''Drops''' || colspan=3 | N/A
+|-
+| '''Other''' || colspan=3 | Reward for clearing ''Corner Breaker'' in Operation Cube
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily Damaged
+|tab1=[[File:SPP-1.png|400px]]
+|tab2=[[File:69EB7D405B716D013874F028FC094F35.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Tips==
+*Her skill pairs well with an MG team as most MGs have poor accuracy while her skill reduces enemy evasion after a 6-second startup.
+**This makes her more useful in midnight MG echelons as it makes hostile scouts less of a problem to take down.
+**However, her use hardly goes beyond this point and is mostly a "trophy raifu".
+
+==Trivia==
+{{Cquote|
+<big>'''''More serious and calm than her appearance and dislikes being treated as a child. Highly active in self-improvement, but often meets failure, showing an awkward side of her personality. (比外表更加严肃冷静，不喜欢被当做小孩子看待，对于自我改进方面十分上进，但经常遭遇失败，会露出别扭的一面。)'''</big>
+|From the official artbook ''The Art of Girls' Frontline''}}
+
+*In ''Layer Collapse'' in [[Girls' Frontline: 2018 Summer event "Operation Cube"|Operation Cube]] she is brought to meet Squad 404 by UMP45 as the scout in Area S06.
+
+**She is also the one who provided Squad 404 with a stealth transport and the intel on the Sangvis ringleader and the coordinates for the jammer.
+
+**She was originally paired with OTs-14 when operating in Area S06, but were separated for reasons unknown.
+
+*How SPP-1 manages to hit enemy units above-water is unknown.
+
+**It is plausible that SPP-1 may simply engage enemy units in ranges her weapon allows, however this would place SPP-1 and her front-line teammates at significant risk inherited from the short range of her weapon.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline<br />少女前线
+| <sm2>spp1_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官、今日は水中任務ありますか？}}<br />''Commander, are there any underwater assignments today?''<br />指挥官，SPP-1式等候命令，今天有水下任务吗？
+| <sm2>spp1_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|水中作戦専用SPP-1（えすぴーぴーいち）水中拳銃、地上でも使えるけど、水中こそあたしの見せ場だよ。}}<br />SPP-1 Underwater Pistol, reporting! I can work on land, but I'll show you what I can really do when we're underwater!<br />特种水下手枪，简称SPP-1。指挥官，请让我留在这里，努力改进技艺吧。
+| <sm2>spp1_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|あら指揮官、もう仕事ですか？}}<br />Oh? Commander, are you starting work?<br />哦？指挥官，要开始工作了吗？
+| <sm2>spp1_005.mp3</sm2>
+|-
+| {{lang|ja|見てください、あたしのダイビング。}}<br />Please come and watch my diving training when you get a chance next time.<br />下次有机会，来看看我的下潜训练吧。
+| <sm2>spp1_006.mp3</sm2>
+|-
+| {{lang|ja|やめてよ、息を止める訓練なのに。もうっ！}}<br />Stop it, Commander! Don't make jokes when I'm practicing my breath-holding! Seriously!<br />别这样啊指挥官！明明看到我在练习闭气还开这种玩笑！真是的！
+| <sm2>spp1_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|}}<br />Commander, how's your breath-holding training going? We're tackling deeper waters next time. If you're lacking in training, I can train you myself.<br />指挥官，闭气练得怎么样了？下次我们要挑战更深的水域呢，来不及的话，我可要对您进行特训了哦。
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br />
+| <sm2>SPP1_MOOD2_JP.wav</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|あははっ。}}<br />''Ahaha.''
+| <sm2>spp1_032.mp3</sm2>
+|-
+| {{lang|ja|すごいね。}}<br />''Great.''
+| <sm2>spp1_035.mp3</sm2>
+|-
+| {{lang|ja|うん。}}<br />''Um.''
+| <sm2>spp1_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|SPP-1、作戦部隊に入ります！}}<br />''SPP-1, joining combat ranks!''<br /> SPP-1式，加入队伍，希望有水下的作战呢！
+| <sm2>spp1_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|潜入作戦ですか？}}<br />''Is it a dive-in operation?''<br />是潜入行动嘛？总之，先出发！
+| <sm2>spp1_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|あたしのサインを見て行きましょう！}}<br />''Watch my signs and go!''<br />准备作战，各位，记住我的手势！
+| <sm2>spp1_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|うぅ…さすがです…。}}<br />''Uuuu...you got me...''<br />唔……好吧，算你厉害咯。
+| <sm2>spp1_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|そんな場所まで行かされて、どうするっていうの？}}<br />''Now you should reconsider sending me to that kind of place right...?''<br />抱歉啦……不过派我去那种地方，您也该稍稍反省下吧。（嘟囔的语气）
+| <sm2>spp1_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|作戦成功だね。こういう作戦こそあたしにふさわしい。}}<br />''The battle's a success, perhaps this kind of battles suit me well.''<br />作战很成功呢，大概这样的改进比较适合我吧。
+| <sm2>spp1_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|あたしに向いてない作戦ですね…。}}<br />''I'm no fit for this battle.....''<br />哼，早知道，我就不该来这种地方，根本不适合我……
+| <sm2>spp1_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|回り込みよ！}}<br />''Back in!''<br />从这里进攻吧，在对方反应过来之前！
+| <sm2>spp1_028.mp3</sm2>
+|-
+| Beginning logisitic support
+| {{lang|ja|これ、防水なのかしら？}}<br />''Is this, waterproof?''<br />我出发了，顺便一问，货物是防水的嘛？
+| <sm2>spp1_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ただいま。濡れてるけど。}}<br />''I'm back, it hasn't been soaked yet.''<br />我刚刚回来，呼，货物还好没弄湿呢。
+| <sm2>spp1_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい仲間が入ってますよ。一緒に頑張ろう！}}<br />''A new friend is here, let's keep up together!''<br />新的同伴加入了，一起努力改进吧！
+| <sm2>spp1_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|おおっ？指揮官、そんなに水中拳銃が必要なの？}}<br />''Oh? Commander, do you need that many underwater pistols?''<br />哦？指挥官，原来您需要这么多水下武器吗？
+| <sm2>spp1_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|強化ありがとう、プールに行って練習します～。}}<br />''Thanks for the enhancement, I'll head to the pool to practice.''<br />多谢您的改进，我这就去泳池实践一下。
+| <sm2>spp1_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|スキあり！}}<br />''Got your flaw!''<br />破绽太大了。
+| <sm2>spp1_021.mp3</sm2>
+|-
+| {{lang|ja|消えろ！}}<br />''Disappear!''<br />在沉默中……消失吧！
+| <sm2>spp1_022.mp3</sm2>
+|-
+| {{lang|ja|射程（しゃてい）にはいった！もう逃がさない！}}<br />''In range! You aren't escaping!''<br />进入射程了，你躲不掉的！
+| <sm2>spp1_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|指揮官、ちょっと水から出たばっかりでよく聞こえない…えっ？はぁ？急に何言ってるの？もう…抱きしめるって、まだびしょ濡れだよ…。}}<br />Commander, give me a second, I just got out of the water... Eh? What?! Wait! Why are you suddenly bringing this up? Seriously, I'm still wet all over, if you hug me now... Well, if you don't mind, then okay...<br />指挥官，要说什么请等一下，我刚刚从水里出来……诶？什么？！等一下！怎么突然说起这个啊！真是的，我全身还湿漉漉的，要是拥抱的话……好吧，你不介意的话，也没问题啦……
+| <sm2>spp1_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=pic_SPP1_1703.png|width=500px|left=-170px}}
+
+===Read more===
+*[http://guns.wikia.com/wiki/SPP-1 SPP-1 at Guns Wikia]
+=== 注释 ===
+<references/>
+ 
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Heterochromia]]
+[[Category:Loli]]
