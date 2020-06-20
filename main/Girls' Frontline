@@ -1,0 +1,357 @@
+{{italic title}}
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info}}
+{{Video Game Infobox
+|title = 少女前线
+|image = GF logo.png
+|caption = LOGO
+|original name = 少女前线
+|official translation = Girls' Frontline
+|type = SLG game
+|platform = iOS/Android<br />Online(Public testing started)
+|series = 
+|developer = Shanghai Sunborn Network Technologies Co., Ltd.<br />(Formerly Jiaxing Labuxiong Network Technologies Co., Ltd.)
+|publisher = <del>Shanghai Zhenmian Network Technologies Co., Ltd.</del><br />Chengdu Digital Sky Technologies Co., Ltd.<br />
+|director =
+|producer = 羽中
+|designer = 
+|writer = 
+|programmer = 
+|artist = 
+|music = Vanguard Sound
+|engine = unity3d
+|mode = 
+|publication date = Advanced public test server(2016.01.25)<br />Official android public test server (2016.5.20)<br />iOS public test server (Late June-Early July 2016)
+|linked works = [[Code name:Bakery girl]]
+}}
+
+'''Girls' Frontline''' is an SLG game developed by MicaTeam, published by Digital Sky / Sunborn Games.
+
+== Brief introduction ==
+Girls' Frontline is an independently-developed Chinese SLG game by MicaTeam, published by Digital Sky, or Sunborn Games in the US. [[File:GF All T-dolls.jpg|thumb|right|T-dolls of Girls' Frontline]]
+
+The game follows the synopsis of the independent game "''Code name:Bakery girl''", set in a severely devastated human society after the 3rd World War, with the peace of the world completely reliant on private security contractors. The player-character, as a commander of a private security contractor, must guide his/her T-dolls to complete combat missions.
+
+== Synopsis ==
+:'''Main article: [[Girls' Frontline: Synopsis]]'''
+
+The USSR (then Tsarist Russia) first unearthed an artifact of an unknown being in 1905 and subsequently conducted research on it, marking the first contact between humans and the collapse/countercollapse technology.
+
+Seven middle-school students trespassed the Beilan Island Lockdown Area and were attacked by those infected by {{ruby|E.L.I.D.|Euroky Low-emission Infectious Disease}}, a byproduct of the leakage of the artifact matter(also known as the '''''collapse fluid'''''). The Special Security Police squad sent in to effect rescue failed to conduct their operation, causing a complete leak of the collapse fluid within the artifact. Due to the effects of E.L.I.D., the total area habitable for humanity plunged, provoking the devastating 3rd World War for the remaining habitable land.
+
+Tensions between nations were high even after the war concluded, with individual countries no longer powerful enough to maintain stability within their own territories, relying on private security contractors/private military contractors instead. The story of Girls' Frontline is set during this period, where players act as commanders under the command of a contractor, commanding their T-dolls to help bring the world back in line.
+
+== Gameplay contents ==
+''Girls' Frontline'' shares the same general ideas of wargames, and redesigned a set of wargame rules to satisfy gameplay experiences on mobile platforms.
+[[File:GF_Building_C1.png|300px|thumb|right|Base area]]
+=== Combat ===
+[[File:GF CombatRoom.jpg|300px|thumb|right|Combat room]]
+==== Combat missions ====
+Combat missions are battles that help the story progress, and are divided into '''Normal''', '''Emergency''' difficulties, as well as the '''Midnight''' mode. It is possible to have T-doll drops on Normal and Emergency difficulties, while these drops are replaced with equipment in Midnight mode. Combat is generally split into two parts, "tactical pushforward" and "real-time battle". 
+
+*How T-dolls don't drop at night remains a mystery. There are speculations that either they don't get lost at night or they never made it back however.
+
+During the tactical pushforward phase, the player needs to deploy combat echelons, send different combat orders within the scope their '''action points''' (number of moves) allow, or, in the case of fairies<sup>Not yet available in EN build</sup>, activate their abilities without using up the remaining support command points to achieve different combat objectives. While during the real-time battle phase the player is tasked with adjusting their units' positions to balance the damage taken by different units.
+
+In '''Normal''' and '''Emergency''' difficulties, the requirement for a mission to be completed is to occupy the hostile command post, and up to 3 different medals are rewarded according to how the mission is executed. Note that each medal can only be earned once.
+:A '''gold medal''' is earned if the mission is completed with a rating of S, and will raise the tier of rewards for mission completion. It requires that no echelons are withdrawn or lost in combat, and that a sufficient number of hostile units are eliminated within a give round limit. The chance of a higher-rarity T-doll reward post-mission will be raised if the mission is completed with a rating of S. <br />A '''silver medal''' will be awarded if all nodes are captured by friendly forces, while a '''bronze medal''' will be awarded as long as the mission is completed.
+
+The objective of '''Midnight''' mode, different from the aforementioned one, is to eliminate all hostile units within a given turn limit.
+
+*<big>Tactical pushfoward</big><br /> Tactical pushforward is turn-based, with Grifon and Sangvis Ferri forces taking turns, and costs 1/10 of the maximum rations for each individual echelon(that is, the echelons lose their ''own'' rations, and is thus not reflected in the commander's resource status).<br />Different icons stand for different installations on the map:
+
+*[[File:GF CC.png|100px]]The command post is the base of frontline troops. When a side's command center is captured, the side is instantly defeated ''even if the other side's command center is already surrounded in the current round''. Echelons can be deployed and resupplied here.
+
+*[[File:GF LZ.png|100px]]The helipad is a type of shortcut supporting access from the base to the battlefield. Echelons can be deployed and resupplied here as long as it is captured. Emergency repairs to T-dolls can also be executed here, which are instantaneous but {{color|red|cost double the resources, an instant-repair contract and disqualifies you from earning a gold medal}}.
+
+*[[File:GF RN.png|100px]]A {{ruby|random|unknown}} node triggers an event that can range from gaining/losing resources, triggering a battle with a previously unknown hostile unit, <del>to forcing the echelon on it to retreat(But this doesn't count towards the total number of echelons lost and withdrawn.)(Suspected to be now obsolete) </del>.  
+
+*[[File:GF NN.png|100px]]A normal node allows for movement and serves no other purpose.
+
+Each round is made up of the player's (G&K) and Sangvis Ferri's respective phases, with the player starting first. At the start of a phase the system automatically captures surrounded nodes to the surrounding side, before handing the map over to the controlling side. After the said side ends its phase, all nodes with a unit of its side standing on will be captured, and the other side's phase starts. {{Spoiler|Which means that if you want to try to play "countersurrounding" by occupying a surrounded node, you'll--surprisingly--find that the color gets switched twice. <del>Beautiful</del>.}}
+
+If the command center of a side is captured by surrounding, the start of a new round will not be triggered. {{Spoiler|Which have led to tactful captures by some {{ruby|crafty|<del>greedy</del>}} commanders who try to get both the gold and the silver medals at the same time...}}
+
+*<big>Real-time battle</big> is triggered when units of two sides conflict on a single node, and is a net-like battlefield spanning 3×N gridss (with 3×3 for the player and the rest for the hostiles). Players can change the position of T-dolls ''without losing the effects of the preset formation'' freely. When a T-doll is hit by hostile fire she takes damage, and when her total hit points (HP) drops below 30% the "damaged" mode is activated. Once a T-doll's HP drops to 0 she is eliminated from the battle and cannot take part in further combat. {{Spoiler|But, on the bright side, you don't lose them in your inventory. Nice.}} Each battle costs 1/10 of the maximum ration and 1/5 of the maximum ammo for the echelon involved, which makes resupplying at captured LZs and capturing LZs themselves critical for adequate combat readiness.
+
+Real-time battle phase has several features to note:
+* '''Initial contact''' is the time between the first shots fired and the start of the battle.
+* '''Movement speed''' is the speed at which T-dolls in an echelon can move during combat. When advancing as a group it is automatically synchronized to the lowest of the echelon, but it still takes effect when trying to move individual T-dolls to other grids. T-dolls are unable to fire on the move.
+* '''Bullet time''' is a slow-motion phase that is activated when a player presses on a T-doll and holds. This slows down all actions and makes it easier to move T-dolls. 
+* '''Resulting phase''' is entered as battle ends. If all T-dolls of the echelon are eliminated, or if hostile units breached the rear (passing the entire length) of the battlefield or if the player chooses to retreat wholly, a loss/withdrawal is counted. This forcibly removes the echelon from the map and causes it to lose all the ammo and rations it's carrying. Otherwise a win is counted and rewards are given.
+
+<gallery>
+GF woods.png|<center>Battlefield--Woods</center>
+GF airfield.png|<center>Battlefield--Airfield</center>
+GF streets.png|<center>Battlefield--Streets</center>
+GF snowland.png|<center>Battlefield--Snow land</center>
+GF bridge.png|<center>Battlefield--Bridge</center>
+GF frozenlake.png|<center>Battlefield--Frozen lake</center>
+</gallery>
+
+====Auto-battling====
+Once all 3 medals of a certain level is earned, one or two echelons (depending on the map in question) can be sent for auto-battling, earning an amount of experience and T-dolls/equipment (depending on mode) at completion. {{Spoiler|Which is just a prolonged, restoration-free version of combat for some [[Africans]]. <del>No there's no map-specific drops at all.</del>}}Echelons sent must have an operational effectiveness above the set threshold to be able to participate. Normal combat is unaffected for any map that is ''not'' in auto-battle. There can only be 1 map in auto-battle at the same time.
+
+==== Logistic support ====
+A maximum of 4 echelons can be sent out simultaneously to run logistic support missions, which yields resources, contracts and other items. {{Spoiler|Of course there's another real-world-currency alternative but <del>it's not advised to do so</del>.}}
+
+==== Combat simulation ====
+Combat simulation is available for commanders of level 12 onwards and consists of 5 types of simulations: '''EXP training''', '''Enhancement exercise''', '''Data sampling''', '''Defence drill''' and '''Neural Cloud corridor'''. 3 difficulties are provided, labeled "Beginner", "Intermediate" and "Advanced" (sans the defense drill, which has no difficulty levels). T-dolls will not require restoration and do not lose their affection even if they are eliminated in simulations. '''Kinetic modules''' are spent for access to combat simulation, with "Beginner", "Intermediate" and "Advanced" difficulties costing 1, 2, and 3 modules respectively. These kinetic modules are replenished over time, at a current rate of 1 module/2 hours. Each player has an upper threshold of 6 modules. '''Superconductive modules''', on the other hand, are stored permanently and have no upper limit on their number, and do not in any way affect the replenishment of kinetic modules. {{Spoiler|However they require purchase by gems which are, normally, linked with real-world currency, therefore, again, it is ill-advised to deliberately purchase them for stockpiling purposes.}}<br />
+*EXP training<br />
+Open every '''Wednesday''', '''Saturday''', '''Sunday'''.<br />
+EXP training consists of the player deploying a number of echelons and eliminating all hostile units on the map. It has a pre-set total XP value, which is divided evenly between T-dolls after one run, and is not related to number of battles each echelon fights. T-dolls eliminated mid-simulation will still receive their share of the total XP.{{Spoiler|Which means that a single T-doll may receive as many as 40k XP after a successful run with the assistance of another echelon. How smart.}} The XP earned by every T-doll is calculated as follows:<br />
+Successful run: XP=FLOOR(Total XP/Number of T-dolls)<br />
+Failed run: XP=FLOOR(0.5 * Total XP * Hostile units eliminated / Total number of hostile units / Number of T-dolls);<br />
+Commander XP is earned as well, being 1% of the XP earned by a single T-doll.<br />
+*Enhancement exercise<br />
+Open every '''Monday''', '''Thursday''', '''Sunday'''. <br />
+Enhancement exercise consists of the player dispatching an echelon to advance within the simulation zone and defeat the hostile unit at the end node to earn '''amplification capsules'''. There are 1/2/3 (depending on difficulty) unknown nodes present on the map, which awards players with resources or a number of amplification capsules (with their number depending on difficulty). {{Spoiler|T-doll drops are also possible on these nodes during special events.}} 1/2/3 capsules (depending on difficulty) will be awarded after the hostile unit is defeated.
+*Data sampling<br />
+Open every '''Tuesday''', '''Friday''', '''Sunday'''.<br />
+Data sampling is a combat simulation by 5 T-dolls chosen by the player firing at a static target. Any T-doll may be selected for use. Basic, Intermediate and Advanced data sampling yields Basic, Intermediate and Advanced training data, respectively. A time limit of 30 seconds is given to eliminate the target, with more data rewarded if completed in a shorter timeframe. If the T-dolls fail to eliminate the target, a {{Spoiler|low}} fixed amount of data will be instead rewarded to the player.
+*Defence drill<br />
+Open 24/7.<br />
+NOTE:'''Defence drills are not reset.'''<br />
+Defence drill is another simulation mode available after the player completes Episode 2-4N (Midnight 2-4), and is the primary source of equipment calibration vouchers. A maximum of 4 echelons can be dispatched to participate in combat, and must stem the tide of waves of hostile units. It costs 5 modules and has a checkpoint every 10 waves. Resources and additional calibration vouchers will be awarded if a checkpoint is newly reached. If the echelon chosen by the player fails to stand against the enemy or if the player voluntarily chooses to quit, the drill ends and rewards are given. The drill will start from the last checkpoint reached the next time the player enters. {{Spoiler|The current maximum number of waves is 109.}}<br />
+
+=== Formation ===
+Formation is used for forming echelons and pre-setting their formation for maximum effectiveness. Changing the position of the T-dolls mid-combat will '''not''' affect the buff effect of the formation preset. A maximum of 10 echelons are available, with echelon 5 onwards needing purchase by gems, and is set at 480 gems for echelon 5, and 880 for echelon 6 onwards.
+
+{{Spoiler|Of course patience by stockpiling gems earned from logins can get 10 echelons with no additional cost.}}
+==== Formation preset ====
+A maximum of 5 T-dolls are allowed within an echelon. Arranging T-dolls to different grids affects the output performance of other T-dolls. Effect tile diagrams provided by the game and in this wiki uses white to designate the location of the T-doll, cyan blocks for the grids relative to its position that can be affected. The damage output, rate of fire and dodge rating of T-dolls can be positively influenced. There can be great improvement over the operational effectiveness of the entire echelon if proper T-dolls as well as proper formation is arranged.
+
+=== T-doll types and their specialities ===
+All T-dolls, aside from health, have seven stats, six of which are unique to themselves, which are:
+
+*Damage: How much damage a single T-doll (not counting dummies) does if a hit is counted. Note that for gameplay purposes, the damage dealt each time can be randomized to a value within a 15% margin from the listed value. It can be further boosted by equipping corresponding ammo-type equipment, such as high-velocity rounds.
+
+*Dodge: The likelihood of a T-doll evading incoming fire, and the hit probability is calculated as '''2*Accuracy / (2*Accuracy + Dodge)'''.
+
+*Accuracy: The likelihood of a T-doll to score a hit on hostile units. The hit probability formula is listed above.
+
+*Rate of Fire: How fast a T-doll fires ({{color|red|which is how fast damage is dealt, instead of how fast the "bullets" are spewed out of the muzzle}}). The rate at which a T-doll attacks is calculated as '''30 * (50 / Rate of Fire)''' ticks, rounded down to the nearest integer, where 30 ticks equal to 1 second. However if the (50 / Rate of Fire) part returns an integer, {{color|red|'''a value of 1 would be subtracted'''}} after multiplying it with 30. It also affects how fast MG T-dolls reload, with the value being approximately '''4 + 200 / Rate of Fire''' seconds. 
+
+*Armor: {{color|red|Unique to Shotgun(SG) T-dolls {{spoiler|and M16A1}} and armored Sangvis/Military units.}} They provide extra protection against incoming damage by nullifying some of it. 
+**In the case of damage done to armored units:
+**The system first calculates how much '''Armor Penetration''' the attack has left by '''subtracting the target's armor value from it'''. Note that negative values ''are accepted''.
+**This value is then compared with '''2''' and the '''smaller value''' is chosen.
+**The randomized damage is then added to this value, and then compared with '''1'''.
+**The bigger value is then chosen as the actual damage done to the unit.
+
+*Rounds:{{Color|Red|Unique to MG/SG T-dolls}}. The value defines how many attacks are done before a reload is initiated. The value can be further boosted for MG T-dolls by equipping ammo boxes, at the cost of reducing their already mostly-abysmal dodge values. This value is also linked to how fast SG T-dolls reload, with a time of approximately '''(2 + 0.5*Rounds)''' seconds.
+
+*Movement speed:This value is shared among T-dolls of the same type. Note that the movement speed of an echelon is automatically synced to the ''lowest'' one when moving as a whole (such as moving into position at the start of the battle). It defines how fast a T-doll moves when switching positions (tiles) in-battle. As T-dolls cannot fire on the move, it effectively defines the ability of the T-doll to relocate and return fire.
+
+
+*'''H'''and'''g'''uns (HG)
+**Mainly buff-providers, while having sub-par health and damage, average accuracy, they possess high dodge ratings and high movement speed and do not cost much to maintain.<br />
+**Buffs apply to '''all T-dolls''' on their effect tiles, and handguns have highly supportive abilities.<br />
+**{{Spoiler|But as powerup material, their use is also the most average.}}<br />
+**Their abilities are mostly team buffs or debuffs to the opposing unit.<br />
+**<del>This had led to highly-effective multi-HG teams by stacking handguns with compatible effect tiles.</del>{{Spoiler|And soon became history with updates.}}<br />
+**<del>The very first T-doll of every commander falls under this category, the M1911.</del>
+
+*'''S'''ub '''m'''achine'''g'''uns (SMG)
+**Submachineguns are meat shields in the game, with high health and dodge rating at the cost of low accuracy and damage. They have high movement speeds and relatively high resource demands.<br />
+**A must for early development, {{Spoiler|with two 3-stars given as rewards of quests,&nbsp;}}they are reliable front-line shields in the early stages.<br />
+**SMGs have bias towards dodge and rate-of-fire when used as powerup material.<br />
+**Their effect tiles provide buffs only to ARs.<br />
+**Their abilities mainly concentrate on assisting survival of themselves or rapid elimination of low-health hostiles. Examples: Force shield and grenades.<br />
+**They rely heavily on ARs and vice versa.<br />
+
+*'''R'''i'''f'''les (RF)
+**The main damage output units of the game, with high accuracy, high damage and high critical hit chances, but offset by low health and dodge rating, sub-par movement speeds and average resource demands.<br />
+**RFs prioritize in engaging targets at long ranges, <del>are the core of the echelon and the kingpin of damage output.</del> They are nearly capable of handling all kinds of hostiles, putting themselves in a higher position.<br />
+**Have bias towards accuracy and damage output when used as powerup material.<br />
+**Provides cooldown reduction buffs to HGs on their effect tiles{{Spoiler|&nbsp;to a maximum of 30% and applies even to initial cooldown.}}<br />
+**Abilities concentrate on self-sustainability or bursts of output.<br />
+**They team well with HGs, but work fine even without them.<br />
+
+*'''A'''ssault '''R'''ifles (AR)
+**All-rounders, average stats in all aspects, average accuracy, damage, critical hit chance... Every stat is average, including resource demands. So-called "Jacks of all trades".<br />
+**Another type of output units, with appreciable damage output from their high rate of fire. Suited for cleaning out high-speed, low-health hostiles, the mainstay of dealing with unarmored units at nighttime.{{Spoiler|It was reported that a commander tried to use RFs to handle hostile Scouts at night and... Things are bad these days, you know.}}<br />
+**Pair well with SMGs, <del>though HGs work as well.</del><br />
+**Favor accuracy and dodge ratings as powerup material.<br />
+**Provide buffs only to SMGs with their effect tiles. {{Spoiler|M4A1 & Ribeyrolles: ??????????}}<br />
+**Abilities mainly concerns buffing self or small-area Area-Of-Effect damage.<br />
+
+*'''M'''achine'''g'''uns (MG)
+**Damage output done in bursts, with very high rate of fire and damage, low accuracy and movement speed, high-healthed but have low dodge ratings. Very high damage output in short timeframes. An ammunition system exists for MGs, causing them to reload after several hits are made. They cannot use their abilities or attack hostiles during their reloads.<br />
+**Are couples with SGs, but, as always, HGs can get involved.{{Spoiler|Furthermore, HGs are everywhere.}}<br />
+**Emphasize on damage output and rate of fire when used as powerup material.<br />
+**Provide mainly damage and accuracy buffs to SGs with their effect tiles, with a handful rare ones providing extra armor.<br />
+**Complete bias to damage buffs in terms of abilities.<br />
+
+*'''S'''hot'''g'''uns (SG)
+**Heavy T-doll production-only T-dolls. Extremely high health and critical hit chance, offset by extremely low dodge rating and accuracy. Have their unique armor systems {{Spoiler|M16A1:?}} and can<del>, with a very low chance of happening, </del>knock back hostiles. Very high resource demands.<br />
+**Mainly utility units, specialize in blocking damage with their armor.{{Spoiler|AKA I'm the boss as long as you don't penetrate my armor.}}{{Spoiler|And it is strongly advised against going head-on with bosses.}}<br />
+**Have an ammunition system that functions identical to that for MGs. Incapable of dealing damage and using abilities when reloading.<br />
+**Abilities include armor buffs, forced fixed-damage knockbacks. Area-of-effect damage output and single-target abilities also exist.<br />
+**<del>As powerup ma--</del>……Wait are you, ''seriously'', trying to use SGs as powerup material?<br />
+**Buff accuracy and damage of MGs standing on their effect tiles.<br />
+**Though dedicated mates for MGs, they are still able to mix up with HGs.<br />
+
+=== Factory ===
+[[File:GF FactoryB.png|300px|thumb|right|Factory area]]
+The game provides over 100 different T-dolls for collection by players. Commanders usually need the cooperation between different types of T-dolls in order to achieve the operation missions given by the company.
+
+Usually, newly-acquired T-dolls are not capable of fulfilling the need in high-level battles. Players can raise their operational effectiveness by leveling them up, powering them up and expanding their dummies.
+
+==== T-doll production ====
+**Capable of producing T-dolls. Yields T-dolls with resource investments. 2 slots are open by default, and can be expanded to a maximum of 8. Divided into normal production and heavy production.
+**Normal production requires at least 30 and at most 999 units of each type of resource.
+**3 tiers exist for heavy production. Tier 1 costs 1 T-doll production contract and 3 cores. Tier 2 costs 20 contracts and 5 cores, while Tier 3 costs 50 contracts and 20 cores. Only 4-to-5-star T-dolls will appear on Tier 3.
+
+**Normal production yields 2-to-5-star T-dolls, while heavy production yields T-dolls with a rarity of 3 stars or above.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''Main article:[[Girls' Frontline/T-doll production]]''
+
+==== Dummy expansion ====
+Resource costs for resupplying is increased after a T-doll has undergone a dummy expansion, with costs roughly proportional to the number of expanded dummies, to a maximum of approximately 3× the original costs.
+
+T-dolls of the same model (AKA weapon) can be used to expand T-dolls who have reached a certain level. A new T-doll will appear on the expanded T-doll's grid, up to a maximum of 5 T-dolls occupying a single grid. The resource costs will be raised correspondingly. Losing a dummy in combat does not in any way affect the resource use in combat.
+
+Cores can be used as a substitute if there are no T-dolls of the same model.
+
+All T-dolls start at 1-expansion and the expansion criteria are listed as follows:
+*1→2 needs one T-doll, available at level 10.
+*2→3 needs one T-doll, available at level 30.
+*3→4 needs two T-dolls, available at level 70.
+*4→5 needs three T-dolls, available at level 90.
+
+The costs for the cores vary by the T-doll's rarity. Each missing T-doll for expansion needs the following number of cores to take her place:
+
+*2-star: 1 core
+*3-star: 3 cores
+*4-star: 9 cores
+*5-star: 15 cores
+
+NOTE: HGs have 20% of their maximum buff effect at 1-expansion. This is increased by 20% each time it gets expanded, reaching full potential at 5-expansion.
+
+==== T-doll powerup ====
+The health of T-dolls vary with levels, but other stats do not. The other stats simply have their upper limit raised as the T-doll levels, making T-doll powerups a vital way to enhance the T-dolls' operational effectiveness.
+
+Combining other T-dolls into a certain T-doll {{Spoiler|known as feeding if one digs through the game files}} gives the said T-doll a stats enhancement depending on the number and the types of T-dolls used.
+
+But it is useless investing only a few T-dolls during a powerup. Multiple T-dolls are needed for the weakest effect to show. The exact powerup effects are listed to the interface's right side, with a yellow number denoting that the stat has reached its current upper limit.
+
+==== T-doll retiring ====
+This dismantles the T-doll's armament and their fire-control cores, and reassigns them for civilian uses {{Spoiler|such as coal-digging, serving as waitresses in cafes}}. This refunds resources to the player. Cores are also refunded if a 3-star or rarer T-doll is retired. The exact number of cores refunded by dismantling a T-doll is listed as follows:
+*3-star: 1 core
+*4-star: 3 cores
+*5-star: 5 cores
+
+==== Equipment production ====
+This enables players to produce equipment for T-dolls, and generally works in the same way with T-doll production. It is defaulted to 2 open slots and up to a total of 8 slots can be available.
+
+Equipment heavy production is also available for commaders who have '''completed 60 different levels''', and works in a similar way to T-doll heavy production, albeit with lighter core demands and has a chance to yield tactical fairies.
+
+Each T-doll has 3 equipment slots, unlocked at level 20, 50 and 80, for attaching equipment. It is worth noting that the types of equipment compatible for a T-doll vary with the T-doll type, thus requiring adequate planning and arrangement to exploit the maximum potential.
+
+==== Equipment recycling ====
+Recycling equipment dismantles them and refunds {{Spoiler|a negligible amount of}} resources.{{Spoiler|Might be better to use them to strengthen some equipment instead.}}
+
+==== Equipment strengthening ====
+Strengthening equipment requires resources and other equipment used as strengthening material. This raises the parameters of the strengthened equipment. If the strengthening material has the same rarity and the same classification as the strengthened equipment, an amount of XP 3 times the normal value will be granted for the strengthened equipment.
+
+==== Equipment calibration ====
+This calibrates the equipment which is not perfect among the same type. Calibration vouchers and resources are required, with the former available in defence drills. Each calibration has a chance to alter the parameters of the equipment, and can be reverted if the player is not satisfied with the calibration. However, spent vouchers and resources ''will not'' be refunded.
+
+In the case of tactical fairies, calibrating produces a random trait which can overwrite the current trait of the fairy.
+
+=== Research ===
+Available for commanders from level 12 onwards, this enables commanders to spend training data to enhance the abilities of T-dolls. The data is available in [[Girls' Frontline#Combat simulations|combat simulations]]. This takes an amount of time, but can be instantly completed via instant training contracts.The amount of data needed for training is listed as follows:
+{| class="wikitable"
+|-
+! Level !!Data needed!!Time needed 
+|-
+|LV.1→LV.2||100 basic training data||1 hour
+|-
+|LV.2→LV.3||200 basic training data||2 hours
+|-
+|LV.3→LV.4||300 basic training data||3 hours
+|-
+|LV.4→LV.5||120 intermediate training data||4 hours
+|-
+|LV.5→LV.6||200 intermediate training data||6 hours
+|-
+|LV.6→LV.7||300 intermediate training data||9 hours
+|-
+|LV.7→LV.8||400 intermediate training data||12 hours
+|-
+|LV.8→LV.9||200 advanced training data||18 hours
+|-
+|LV.9→LV.10||300 advanced training data||24 hours
+|}
+
+=== Restoration ===
+T-dolls need timely restorations after they take damage, which requires an amount of manpower and parts and time. The resources spent are linked to the amount of health the T-doll has lost. Once the HP of a T-doll drops below 30% the said T-doll enters "damaged" status, causing the resource needed to rise rapidly. 4 restoration slots are open by default, and a maximum of 8 is available.
+
+T-dolls with oath link established will see their restoration time reduced by 30%.
+
+*Normal T-dolls have a basic restoration value of '''Percentage of HP lost * Number of expansions * 10 * 0.5'''.
+*Damaged T-dolls, on the other hand, have a basic restoration value of '''Percentage of HP lost * Number of expansions * <nowiki>[10+(Percentage of HP lost - 0.7) * 40]</nowiki> * 0.5''', making resource costs skyrocket if a high percentage of health is lost.
+*Each model of T-dolls has a dedicated resource cost multiplier, multiplying this with the aforementioned restoration value yields the resource needed for restoration. Therefore it is optimal to restore T-dolls immediately after a mission.
+
+=== Dormitory ===
+*The main entertainment and interactive system of the current game
+*Dormitory 1 and 2 are unlocked by default, to a maximum of 10. Each dormitory houses the T-dolls of the corresponding echelon.
+*Furniture and T-doll outfits can be acquired in dormitories.
+*It is possible to {{ruby|visit|steal batteries from}} dormitories of friends and {{ruby|welcome visiting friends|send visitors away}}.
+
+=== Affection ===
+The affection of T-dolls towards the commander. Every new T-doll starts at 50 affection, to a maximum of 100 and a minimum of 0. Each combat victory will raise the affection of participating T-dolls, with the leader of the echelon and the MVP T-doll receiving additional affection boosts. If a T-doll is eliminated from the combat (by having her health dropped to 0) in non-boss combat, the said T-doll loses 10 affection and the rest of the team loses 5. Multiple eliminations within the same battle does not stack. If a T-doll is eliminated in a boss fight, the affection will not be affected. A 100-affeciton T-doll will make {{ruby|oath link establishment|marriage}} possible. The upper affection limit will be raised to 150 post-establishment. A low level of affection (<10) will bring negative effects to the T-doll, decreasing her damage, accuracy and dodge rating. A high level of affection (>90) will, conversely, positively affect the performance of the T-doll by raising her damage, accuracy and dodge rating by 5% of her base value (the value is rounded to integers and do not count boosts by equipment). An even higher level of affection (>140) will further increase the T-doll's damage, accuracy and dodge rating by another 5%.
+
+=== Quests ===
+Divided into daily/weekly quests and main quests, rewarding players as they complete them. Daily/weekly quests award players with procurement tokens, resources, T-doll production contracts, equipment production contracts, instant-production contracts, instant-restoration contracts and cores. Main quests award all the above sans the tokens, and award players with gems {{Spoiler|by earning gold medals on maps, 10 gems for every gold medal on normal, 20 for every gold medal on emergency and episode 0}}.
+
+=== Limited-timespan events ===
+'''Main article: [[Girls' Frontline/Limited-timespan events]]'''
+
+Active in certain seasons, with dedicated limited-timespan combat missions (events), called spring/summer/autumn/winter events according to the season it is activated in.
+
+Difficulty of limited-timespan combat missions are usually higher, rewarding players with T-dolls or equipment normally unavailable for a long interval.
+
+== Illustrators and CVs ==
+'''Main article：[[Girls' Frontline: List of illustrators and voice actors|Girls' Frontline: Illustrators and CVs]]'''
+
+== Related media works ==
+=== Original soundtracks ===
+Attached with the design collection in 2017 which is now available on the online e-shop and comic events. {{Spoiler|For copyright protection reasons they are excluded here, please purchase the official design collection to support the official version.<del>Not because we are lazy!</del>}}
+
+=== Manga ===
+*'''Dojin works'''
+:There are multiple illustrators working on dojin mangas. They are listed as follows and the order is arbitrary.
+
+:[https://www.pixiv.net/member.php?id=6982245 '''AC130''']：One of the first dojin manga creators of Girls' Frontline, with part of the works shown on the startup loading screen in-game.
+
+:[http://weibo.com/blackz13?refer_flag=1001030101_&is_hot=1 '''砧板13''']：One of the dojin manga creators, with chibi characters and interesting plots.
+
+:[https://www.pixiv.net/member.php?id=3152709 '''布肝維爾島''']：One of the dojin manga creators, the author of ''Galil and those strange things''.
+
+:[http://weibo.com/u/5327598743?refer_flag=1005055014_&is_hot=1 '''草草冬子''']：One of the dojin manga creators, with cute chibi characters.
+
+:[https://www.pixiv.net/member.php?id=688382'''FatKE''']：One of the dojin manga creators, authors of ''The walk-off couple - the room-sharing diary'' (The story of [[Girls' Frontline: Weaver|Weaver]] and [[Girls' Frontline: AR-15|AR-15]] living together), with cute chibi characters.
+
+(WIP)
+
+=== Anime ===
+{{Spoiler|Planned since the internal testing phase, but got interrupted for some reasons.}}
+
+It is revealed that there will be an anime of Girls' Frontline in the 1-year anniversary live video broadcast on 2017.4.8, along with a few released designs of the anime. It is further revealed that it will be released with the cooperation of Guangzhou <del>Kaojiji</del> Anime on July 21, and a section of the anime for preview was released the same day.
+
+{{Girls' Frontline}}
+
+== External links and references ==
+<references/>
+* [http://gf.ppgame.com/ Official website]
+* [http://www.weibo.com/shaonvqianxian Official microblog]
+
+[[Category:Chinese games]]
+[[Category:Works by MicaTeam]]
+[[Category:Girls' Frontline]]
+[[Category:Military-themed]][[Category:War-themed]]
+[[Category:Post-apocalyptic-themed]]
+[[zh:少女前线]]
