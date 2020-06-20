@@ -1,0 +1,287 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Are you my commander? Please take care from now on.</big></big>'''}}
+{{Girls' Frontline profile
+|Name=Tokarev
+|image=TT33.png
+|Caption=
+|Original name=Tokarev TT-30/33
+|Nicknames=
+|Moe points=
+|Hair color=White
+|Eye color=Red
+|CV=Sakuma Akumi
+|Type=HG
+|Rarity=★★★
+|Country of Origin=USSR
+|Manufactured by=Tula Armory 
+|Developed=1903
+|In service=1930-1951
+|Related persons=Fedor Tokarev<br/>Type 51<br/>Type 54
+}}
+
+'''Tokarev''' is a character from the Tactical SRPG ES game [[Girls' Frontline]] and its derivatives developed by MicaTeam and published by Digital Sky.
+
+== Historical basis ==
+The predecessor to the TT-33 was the M1929 developed by Tokarev in 1929, which had two variants: one was the relatively larger combat pistol, while the other was a smaller pistol for self-defense. However, both variants had defects such as poor ergonomics and large sizes.
+
+Tokarev did not improve his M1929, instead combining some features found on the M1929 and the basis of the M1900 developed by Browning to yield a new weapon, but was not successful. He attempted to take inspiration from the Steyr M1912 the next year, but was not satisfying despite being more successful than the previous attempt.
+
+Tokarev then attempted to replicate the M1911 to yield the M1930, the predecessor to the TT-30/33, which had two variants: One had its recoil spring shrouding the barrel, while the other one had its recoil spring positioned below the barrel as found on the M1911.
+
+It was later found that stoppages were caused by the feed lips on the magazine, where pressure was applied for long durations, and small deformations could render the weapon unreliable. To counter this, Tokarev used high-strength steel to make the feed lips, and smoothened the contact surface with cartridges to reduce stoppages. The M1930 did not retain the dual safety (manual and mechanical) mechanisms found on the M1930, instead only the mechanical safety was retained. {{color|red|This makes the weapon practically without a safety! But it never fired a round by accident!}} The three springs found on the M1911's hammer and firing pin was also simplified to two asymmetrical springs.
+
+The M1930 was chosen as the service pistol of the Red Army. Based on complaints from the Military Committee regarding the weapon's poor accuracy, the need to improve the sights, to add a safety on the hammer mechanism, to reduce the pull force on the trigger, Tokarev continued to improve his weapon, and made the final experiment on 7 January, 1931, and was successful. Mass production of the M1930 started on 12 February, 1931 as the TT-30. Tokarev introduced an improved model featuring simplified trigger springs, an improved grip and barrel, and lower overall weight in 1934, which was designated TT-33. Though designated then, the TT-33 did not enter mass production until the Second World War erupted. It was called a reliable friend of the Red Army for its simple design, high power and high accuracy, and took part in numerous conflicts against the Nazis. It was replaced by the PM Makarov in 1951.
+
+=== Specifications ===
+*Caliber: 7.62mm
+*Muzzle velocity: 420m/s
+*Effective range: 50m
+*Maximum (practical) rate of fire: 25发/min
+*Magazine capacity: 8 rounds
+*Length: 195mm
+*Weight: 0.85kg (with empty magazine)
+*Barrel length: 116mm
+*Sight radius: 156mm
+*Catridge: 7.62x25mm Tokarev
+
+{{Hide|Title=In-game specifications|Text=
+*'''The following data may have errors, and only represent the understanding in-game. For reference only.'''
+ Type                       Semi-automatic pistol
+ Weight                     854 g (30.1 oz)
+ Length                     194 mm (7.6 in)
+ Barrel length              116 mm (4.6 in)
+ Height                     134 mm (5.3 in)
+ Cartridge                  7.62×25mm Tokarev
+ Action                     Short recoil actuated. 
+                            locked breech. single action
+ Muzzle velocity            480 m/s (1.575 ft/s)
+ Effective firing range     50 m 
+ Feed system                8-round detachable box magazine
+ Sights                     Front blade. rear notch
+                            156 mm (6.1 in) sight radius
+}}
+
+=== Weapon-related ===
+The Tokarev pistol was replicated in high numbers in China, and was designated the Type 51/54 pistol, and took part in numerous conflicts, equipped in large numbers.
+
+But it had defects such as having too much penetrative capabilities, resulting in insufficient stopping power................
+
+==In-game stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''Tokarev'''
+|-
+! colspan=2 | '''Index number'''：No.006
+! colspan=2 | '''Rarity'''：★★★
+|-
+! colspan=2 | '''Nationality: Soviet[[File:Flag of USSR.svg|20px]]'''
+! colspan=2 | '''Type: Handgun'''
+|-
+! colspan=2 | '''CV：佐久间比吕美'''
+! colspan=2 | '''Illustrator: 废人'''
+|-
+! colspan=4 | '''Stats(Growth：B)'''
+|-
+| '''Health (S)''' || 43 → 86 || '''Damage (A)''' || 12 → 31
+|-
+| '''Dodge (B)''' || 9 → 66 || '''Accuracy (B)''' || 7 → 47
+|-
+| '''Movement Speed (B)''' || 15 → 15 || '''Rate of Fire (B)''' || 36 → 52
+|-
+! colspan=4 | '''Operational Effectiveness'''
+|-
+! colspan=4 | 147 → 2573
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 10 → 30 || '''Rations''' || 10 → 30
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Covering command
+| colspan=3 | Raises Dodge of the entire echelon by 32% (55%) for 5 (8) seconds. <br />Initial cooldown at 6 seconds at an interval of 15 (12) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect blocks''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypad 2,3,8,9
+|-
+| '''Effect''' || colspan=3 | Affects all T-dolls<br />Raises Rate of Fire by 10% （20%）<br />Raises accuracy by 25%（50%）。<br/>
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 00:45:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+'''Notes''':
+*The buff effect of handguns will be improved when they undergo dummy expansions.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+*Data in parentheses ("()") is the maximum possible value of the stat
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored damaged
+|bt4=The Journey of Two
+|bt5=The Jounrey of Two-Damaged
+|tab1=[[File:TT33.png|380px]]
+|tab2=[[File:TT33_D.png|380px]]
+|tab3=[[File:Pic TT33 D.png|400px]]
+|tab4=[[File:Tokarev White oath.png|400px]]
+|tab5=[[File:Tokarev White oath_D.png|400px]]}}
+</div>
+{{-}}
+
+== Trivia ==
+{{Cquote|
+<big>'''''Subtle, easy to get acquainted with, a bit soft-hearted, will not forcefully demand others to do something for her. Conversely, she won't demand others to do those she herself can handle.'' (为人温和，容易接近，有些心软，不会特别强硬地去要求别人做什么事情。相对的，能自己做的事情也绝对不会去要求别人。)'''</big>
+|From the official collection ''THE ART OF GIRLS'FRONTLINE UNTIL THE STARS''}}
+
+As a 3-star Handgun she is positioned similarly to P7, and can be considered her lower-tier substitute. She is relatively easy to acquire, and can be expanded in an easier way than the P7 {{Spoiler|Though P7 herself are also found frequently in the first place}}. Performs well in pure-fleet HG echelons or mixed echelons.
+
+{{Spoiler|Used by AK in a certain comic as a mobile flashlight in Operation Cube.}}
+
+== Voicelines ==
+
+{| class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.
+| <sm2>TT33_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官、お元気のようで、何よりです。}}<br />您好指挥官，真高兴看到您这么精神。<br />Hello, commander. It's happy to see you being so energetic.
+| <sm2>TT33_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|あ、指揮官、よろしくお願いしますね。}}<br />您就是我的指挥官吗？今后请您多多照顾了。<br />Are you my commander? Please take care from now on.
+| <sm2>TT33_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | Adjutant
+| {{lang|ja|指揮官、ちょっとよろしいですか？紳士たるもの、ボディータッチは謹んでください。}}<br />指挥官，听好，作为绅士是不能随便乱摸别人的。 <br />Commander, please listen, a gentleman cannot touch others' bodies.
+| <sm2>TT33_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|鼻の下、伸びてますよ？}}<br />真是……不守规矩呢……<br />So... misbehaving...
+| <sm2>TT33_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|指揮官、仕事に集中してください。}}<br />指挥官，还是请您专心工作吧。<br />Commander, please concentrate on your work.
+| <sm2>TT33_DIALOGUE3_JP.mp3</sm2>
+|-
+| Adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />如果今晚您还是不肯安心休息，我是不会离开的。既然和您约定好了，我就一定要为您负责到底。<br />If you won't rest well tonight, I won't leave. Since I've made an agreement with you, I must be responsible for you.
+| <sm2></sm2>
+|-
+| Adjutant (Outfit: The Journey of Two) 
+| {{lang|ja|指揮官、今日は…これをどうぞ。大したものじゃないけど、受け取って頂けますか？ホッ…よかった…私、嬉しいです。}}<br />指挥官……这个送你！不是什么值钱的东西，您可以收下吧？……太好了，真开心啊……<br />Commander...This is for you! Not something of too much a value, can you take it?...Great, so happy...
+| <sm2></sm2>
+|-
+| Dormitory (liftoff) 
+| {{lang|ja|}}<br />
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja| }}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja| }}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja| }}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|私でいいですか？}}<br />您让我来么？<br />Did you summon me?
+| <sm2>TT33_FORMATION_JP.mp3</sm2>
+|-
+| Mission start
+| {{lang|ja|トカレフTT-33自動拳銃、参ります！}}<br />托卡列夫TT-33手枪，准备作战！<br />Tokarev TT-33 pistol, ready to go!
+| <sm2>TT33_GOATTACK_JP.mp3</sm2>
+|-
+| Battle begin
+| {{lang|ja|敵軍です！目を開えて、よく狙って撃ってください！}}<br />发现敌军，睁大眼睛，好好瞄准再开火！<br />Enemy spotted! Eyes open, fire when you get to aim!
+| <sm2>TT33_MEET_JP.mp3</sm2>
+|-
+| Damaged
+| {{lang|ja|ぎゃ！い…痛いです…}}<br />呀！好痛……<br />Argh! It hurts...
+| <sm2>TT33_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|ごめんなさい、迷惑…掛けましたね。ちゃんと、お返ししますから……}}<br />不好意思，给您添麻烦了，您的厚爱我必将重报。<br />Sorry for the inconvenience...Your care will be repaid.
+| <sm2>TT33_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|指揮官のおかげで、勝てました！}}<br />多亏指挥官，才能大获全胜。<br />The victory is thanks to the commander!
+| <sm2>TT33_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|力不足て、ごめんなさい…}}<br />都怪我软弱无能，万分抱歉……<br />Apologies, for my incompetence...
+| <sm2>TT33_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|今回は、私が皆を守ります。}}<br />这次由我为各位保驾护航。<br />It's me to protect everyone this time.
+| <sm2>TT33_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|ダスヴィダーニィヤ。指揮官、ご安心を。}}<br />до свидания（再见），请放心，指挥官。<br />''Do svidaniya''(Goodbye), please rest assured, commander.
+| <sm2>TT33_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|ハラショー！指揮官、留守中はご無事ですか？}}<br />хорошо（太好了）！指挥官，我不在时您一切可好？<br />''Khorosho''(Great)! Commander, is everything ok when I was gone!
+| <sm2>TT33_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|製造が完了したようです。新しいチームメンバーは何方でしょう？}}<br />看来有人完工了，新的成员会是什么样的呢？<br />Someone's finished production. What would she be like!
+| <sm2>TT33_BUILDOVER_JP.mp3</sm2>
+|-
+| Expansion
+| {{lang|ja|編成拡大…ですか？では指揮官、お願いしますね。私、ちゃんと嬉しますから。}}<br />您要为我扩大编队吗？那有劳了，指挥官，我必将让您称心如意的。<br />Expansion...? Thanks, commander. I will sure satisfy you.
+| <sm2>TT33_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|強化が完了したみたいです、一歩前進ですね。}}<br />强化成功，又向前迈进了一步。<br />Powerup successful, a step forward.
+| <sm2>TT33_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|自由射撃、開始！}}<br />开始自由射击！<br />Fire at will!
+| <sm2>TT33_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|悪いけど、私は安いだけが取り柄じゃないですからね。}}<br />不好意思，我的长处可不只有低廉而已。<br />Sorry, my advantages are not just being cheap.
+| <sm2>TT33_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|ここだけの話、一応かの時代にはスタンダードとして実力を認められていたんですよ。}}<br />实不相瞒，我在那个年代好歹也是有口皆碑的制式武器。<br />To be honest, I was a welcomed service pistol in that era.
+| <sm2>TT33_SKILL3_JP.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|あら、指揮官、ここは私一人で平気ですよ。え？なんですって？二人の間の事？よく分からないですけど、教えて下さいますか？}}<br />诶，指挥官，您怎么在这儿？这里有我一个人就好了……诶？您说什么？两个人之间的事？我不太懂。不过，您会教给我吧？<br />Alas, Commander, it's ok for me to be alone here... Eh? What? Affairs between us two? I don't understand. But, you'll teach me?
+| <sm2>TT33_SOULCONTRACT_JP.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+== 外部链接及注释 ==
+===参考资料===
+*《轻兵器》杂志2010年4月下
+=== 注释 ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:机娘]]
+[[Category:长直]]
+[[Category:大蝴蝶结]]
+[[Category:连裤袜]]
+[[Category:领结]]
+[[Category:连衣裙]]
