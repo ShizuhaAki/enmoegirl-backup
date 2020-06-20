@@ -1,0 +1,273 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>Commander, I have tidied up my room. Would you like to come and have a break?</big></big>'''}}
+{{Girls' Frontline profile
+|Title=PSG-1
+|image=PSG-1-59586835_p0.png
+|Caption=<center>Artist: 裕珍<ref>[https://www.pixiv.net/member.php?id=17648188 Artist: 裕珍]</ref></center>
+<center>Pixiv ID:59586835<ref>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59586835 Pixiv ID:59586835]</ref></center>
+|Original name=PSG-1 Rifle
+|Nickname(s)=
+|Moe point(s)=[[Black silk]]
+|Hair color=Silvery
+|Eye color=Grey
+|CV=Asami Imai
+|Type=RF
+|Rarity=★★★★
+|Country of origin=Germany
+|Manufactured by=Heckler & Koch
+|Developed=
+|In service=1972-
+|Related to=
+}}
+
+'''Gr PSG-1''' is a character from the SLG game '''[[Girls' Frontline]]''' developed by MicaTeam and published by SUNBORN Network Technology Co., Ltd. and its derivatives. She is based on the Hecker & Koch PSG-1.
+
+== Historical basis ==
+
+The development of the PSG-1 was allegedly related to the Munich massacre in 1972. The West German police considered the need for a high precision semi-automatic sniper rifle for quicker reaction should a similar event occur. Heckler & Koch developed PSG-1 sniper rifle that year. The designation "PSG" denotes '''''P'''räzisions'''s'''chützen'''g'''ewehr'', or "Precision shooter rifle".
+
+The barrel of the PSG-1 is based on that of the HK G3, but is free-floating. The barrel is also thickened with the receiver reinforced to improve accuracy. Though rudimentary, the method paid off. The claimed accuracy of 1 Minute-of-Arc (MOA) of the PSG-1 might not sound significant today, however in its era hardly were there any ''bolt-action'' sniper rifles that could rival the PSG-1 (which is ''semi-automatic'') in terms of accuracy. 
+
+The PSG-1 compared to the G3 is a little heavier because of the thickened barrel. The use of a heavy barrel is mainly to decrease its vibration when fired. The PSG-1 also lacks a muzzle device for the same reason, which is common practice for sniper rifles in the 1970s, primarily out of concern that a muzzle device would impact a bullet's ballistic performance, while modifying the barrel length would in turn affect the optimal propellant load for a cartridge. The PSG-1 also has a low-noise bolt-closing device (essentially a forward assist similar to that of the M16). Due to the presence of vertical grooves in the chamber of the PSG-1, fired cartridges cannot be re-loaded for later use (a common problem for G3-pattern rifles). The PSG-1 is also non-compatible with subsonic rounds if a suppressor is present.
+
+The grip of the PSG-1 is match-grade with an adjustable plastic stock, whose cheekrest can be adjusted to personal preference. The adjustable trigger pull of the PSG-1 is substantially lighter than that of the G3, nominally at roughly 1.5 kgf (~3.3 lbf).
+
+=== Specfications ===
+*Weight: 7.2 kg
+*Length: 1230 mm 
+*Width: 59 mm
+*Barrel length: 650 mm
+*height: 258 mm
+*Cartridge: 7.62×51mm NATO
+*Action: Semi rigid roller-delayed blowback
+*Muzzle velocity: 868 m/s 
+*Effective range: 800 m
+*Feed system: 5-round detachable magazine OR 20-round detachable magazine of the G3
+*Sight: Hendsoldt ZF 6x42 PSG1 telescopic sight with illuminated reticle
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's opinion.'''
+ Type                       Sniper rifle
+ Weight                     7.2 kg (15.87 lb)  
+ Length                     1.230 mm (48.4 in)
+ Barrel length              650 mm (25.6 in)
+                            600 mm (23.6 in) (MSG-90)
+ Cartridge                  7.62×51mm NATO
+ Action                     Roller-delayed blowback
+ Muzzle velocity            868 m/s (2.848 ft/s)
+ Effective firing range     800 m (2.625 ft)
+ Feed system                5. 10 or 20-round detachable box magazine. 50 round drum also compatible
+ Sights                     Hensoldt ZF 6×42 PSG1 telescopic sight with illuminated reticle
+}}
+
+== Stats ==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PSG-1'''
+|-
+! colspan=2 | '''Index number''': No.117
+! colspan=2 | '''Rarity''': ★★★★
+|-
+! colspan=2 | '''Place of origin: Germany[[File:Flag of Germany.svg|20px]]'''
+! colspan=2 | '''Gun Type: RF'''
+|-
+! colspan=2 | '''CV: [[Asami Imai]]'''
+! colspan=2 | '''Illustrator: CanceR'''
+|-
+! colspan=4 | '''Stats (Growth: B)'''
+|-
+| '''Health (B)''' || 47→93×5 || '''Damage (A)''' || 47→120
+|-
+| '''Evasion (C)''' || 4→26 || '''Accuracy (S)''' || 10→73
+|-
+| '''Movement speed''' || 7→7 || '''Rate of Fire (A)''' || 27→39
+|-
+| '''Crit rate''' || 40% → 40% || colspan=2 |
+|-
+! colspan=4 | '''Combat effectiveness'''
+|-
+! colspan=4 | 183→3716
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Skill'''
+! colspan=3 | '''Description'''
+|-
+| Steady Shot
+| colspan=3 | Aim for 1.5 seconds and shoots the furthest target for 3x (6x) damage.<br />Initial cooldown 10 seconds / Skill cooldown 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Formation buffs''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypad 9
+|-
+| '''Effect''' || colspan=3 | Buffs '''HG'''<br>Skill Cooldown -12%
+|-
+! colspan=4 | '''Obtained from'''
+|-
+| '''Production''' || colspan=3 |
+|-
+| '''Drops''' || colspan=3 | Exclusive drop for E4 ''Side Collapse'' in ''[[Girls' Frontline: 2018 Summer event "Operation Cube"|Operation Cube]]''
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily damaged
+
+|tab1=[[File:PSG-1.png|400px]]
+|tab2=[[File:Pic PSG1 D.png|400px]]
+
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+== Trivia ==
+*Gr PSG-1 possesses some of the more awkward stat-skill combinations, peaking at a meager '''720''' upon skill activation. Her DPS of '''93.6'''/sec places her at 6th among RFs, behind '''SVD'''.
+**However, should Springfield opt to load exclusive ammo, the RoF boost (at +10) can easily boost her DPS to '''107.52''', surpassing all RFs in a shootout.
+**This has made Gr PSG-1 more or less a rarer "better-damage slower-firing variant" of M14 with marginally better stats DPS-wise, and therefore mostly a "trophy raifu".
+*Gr PSG-1 mentions the intricacy of her weapon in one of her quotes.
+**This may arise from the fact that the PSG-1 in reality comes with a dedicated scope, therefore making it incompatible with any other sight.
+***Therefore, Gr PSG-1 may be reminding the commander to not damage the scope she relies on for precision-shooting, as such scopes are only rarer to find/make [[Girls' Frontline: Synopsis|in a ravaged world]] without much resource.
+*Gr PSG-1 may also have a habit of tidying up her room considering the frequency of mentioning such works in her quote.
+
+== Quotes ==
+{{Girls' Frontline quotes}}
+{| class="wikitable"
+|-
+! Case !! Quote !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.<br />少女前线
+| <sm2>PSG1_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|指揮官、歓迎します。お待ちしておりました。}}<br />''Welcome, commander. I've been waiting here for long.''<br />指挥官，欢迎您，在此等候多时了
+| <sm2>PSG1_002.mp3</sm2>
+|-
+| Introduction
+| {{lang|ja|こんにちは，私はセミオートマチック(semiautomatic)狙撃銃PSG-1です。信頼してくれで感謝します、この機会、大事にします！}}<br />Nice to meet you, I am PSG-1. Thank you for placing your trust in me, I'll be sure to make the most out of this opportunity you've given me.<br />您好，我是PSG-1.感谢您的信任，我会珍惜这次宝贵的机会的。
+| <sm2>PSG1_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|指揮官、次の行動も任せてください！}}<br />Commander, please leave the next mission to me as well.<br />指挥官，接下来的行动也交给我吧？
+| <sm2>PSG1_005.mp3</sm2>
+|-
+| {{lang|ja|お部屋の整理しますか？いや、また今度で...}}<br />Should I tidy up my room now...? Nah, I'll do it next time.<br />该不该整理下房间了呢……还是下次吧
+| <sm2>PSG1_006.mp3</sm2>
+|-
+| {{lang|ja|指揮官、私の武器は精密の構造なので、勝手にいじらないでぐださい！よろしいですか？}}<br />Commander, my weapon is extremely intricate, so please don't touch it, okay?<br />指挥官，我的武器十分精密，请不要随便摆弄，了解吗？
+| <sm2>PSG1_007.mp3</sm2>
+|-
+| As adjutant (post-oath)
+| {{lang|ja|}}指揮官、私の部屋を見に来ますか？今回はちゃんと整理しましたよ、この前みたいにはなりませんから。<br />Commander, will you come visit my room tonight? I tidied it up properly, so it won't be all messy like last time...<br />指挥官，要来看看我的房间吗？这一回我可是好好整理过了哦，不会像以前那样了
+| <sm2>PSG1_041.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}なに？<br />''What? ''<br />什么？
+| <sm2>PSG1_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />[Smile]
+| <sm2>PSG1_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Admiration]
+| <sm2>PSG1_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />[Agreement]
+| <sm2>PSG1_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|PSG-1、作戦に移ります！}}<br />''PSG-1 joins the battle!''<br />PSG-1，加入作战！
+| <sm2>PSG1_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|PSG-1、戦場に到着！}}<br />''PSG-1 reaches the battlefield!''<br />PSG-1，登上战场！
+| <sm2>PSG1_009.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|敵発見、迎撃開始！}}<br />''Contact, open fire!''<br />发现敌人，开始迎击！
+| <sm2>PSG1_010.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|状況発生！支援頼む！}}<br />''Something unexpected happens. Need support, please!''<br />发生意外情况，支援，拜托了！
+| <sm2>PSG1_013.mp3</sm2>
+|-
+| Repairing
+| {{lang|ja|わかりました、調子を整いていきます。}}<br />''Got it, just go with the plan.''<br />我知道了，按部就班进行吧。
+| <sm2>PSG1_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|厳しい状況下の勝利でした、皆に感謝します！}}<br />''We emerged victories in a dire situation, thanks to you all!''<br />在严峻的情况下取得了胜利，这都要谢谢大家！
+| <sm2>PSG1_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|すみません、きっと調子が悪かったのです。}}<br />''I'm sorry. I must have not been in my best condition.''<br />对不起，一定是我状态不好。
+| <sm2>PSG1_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|仲間は傷つけさせません！}}<br />''I won't allow my teammates to get hurt!''<br />我不会让同伴受伤的
+| <sm2>PSG1_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|え？ちょっと今、荷造り中なんですけど...}}<br />''Eh? I'm packing my luggage.''<br />诶？我正在收拾行李呢......
+| <sm2>PSG1_024.mp3</sm2>
+|-
+| Finishing logisitic support
+| {{lang|ja|はあ、しんどかったです。}}<br />''Ah~ I'm exhausted.''<br />哈啊~，真是累坏了...
+| <sm2>PSG1_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|新しい戦友が入るのを待ってました。}}<br />''I'm waiting for the new ally to join us.''<br />早就等着有新战友加入了呢
+| <sm2>PSG1_008.mp3</sm2>
+|-
+| Dummy link
+| {{lang|ja|こんな派手な配置、結構大変だったんじゃ...？}}<br />''Will I change much after such a luxurious setup?''<br />这样华丽的配置，会不会很辛苦啊...？
+| <sm2>PSG1_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|不足した部分を補えました、感謝します。}}<br />''Thank you for making up for my shortcomings.''<br />补充了不足的部分，谢谢你
+| <sm2>PSG1_004.mp3</sm2>
+|-
+| rowspan=3 | Skill activation
+| {{lang|ja|消えなさい！}}<br />''Disappear!''<br />消失吧！
+| <sm2>PSG1_021.mp3</sm2>
+|-
+| {{lang|ja|失敗はしません！}}<br />''I won't fail!''<br />我不会输的！
+| <sm2>PSG1_022.mp3</sm2>
+|-
+| {{lang|ja|逃がしませんよ！}}<br />''There's no escaping!''<br />别想逃！
+| <sm2>PSG1_023.mp3</sm2>
+|-
+| Oath
+| {{lang|ja|作戦の時も、普段の生活も、お世話になってばかりで、いっぱい迷惑をかけましたね。それでもあなたはずっと支えてくれました、ありがとうございます。指揮官、今こそ恩返しの時が来たようですね。}}<br />''Thank you very much for looking after me all this time, as I've always inconvenienced you in battle and in daily life. Yet, regardless of all the trouble I've caused you, you were always there to encourage me... Thank you, Commander, the time to repay you is drawing near.''<br />作战的时候也好，平时的生活也罢，一直都被你照顾，给你添了很多麻烦呢。即使如此你还是一直支持着我，真的很谢谢你。指挥官，现在轮到我来报恩了
+| <sm2>PSG1_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=PSG-1-p59586835.png|width=385px|left=-120px}}
+
+==External links==
+*[http://www.firearmsworld.net/german/hk/psg1/PSG1.htm Entry of the PSG-1 on firearmsworld.net]
+
+=== References ===
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+
+[[zh:少女前线:PSG-1]]
