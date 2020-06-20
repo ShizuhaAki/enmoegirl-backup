@@ -1,0 +1,253 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''Hello, commander. Any problems? Leave them to me.''</big></big>'''}}
+{{Girls' Frontline profile
+|Title=DP28
+|image=gfdp28_1.jpg
+|Caption=[http://weibo.com/1896907187 Artist：@左手王ZSW]<br>[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66064467 Pixiv：66064467]
+|Original name=DP28 light machine gun
+|Nickname=Degtyaryov
+|Moe point=[[Breasts]]
+|Hair color=Yellow
+|Eye color=Blue
+|CV=Ikadai Kanae
+|Type=MG
+|Rarity=★★
+|Country of origin=USSR
+|Manufactured by=
+|Developed=1928
+|In service=1928-
+|Related to=
+}}
+
+'''DP28''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam, published by Digital Sky, and its derivatives.
+
+== Historical basis ==
+The DP light machinegun (from Russian: Пулемёт Дегтярёвa Пехотный, ''Pulemyot Degtyaryova Pekhotnyy'', "Degtyaryov's infantry machinegun'') is a light machinegun developed by Vasily Degtyaryov in 1927. It entered service in the Red Army in 1928.
+
+===Specifications===
+*Overall weight: 9.2kg
+*Overall length: 1,275mm
+*Cartridge: 7.62×54mmR
+*Action: Gas-operated
+*Rate of fire: 600 RPM 
+*Feed system: 47-round pan magazine
+*Sights: Iron sights
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's stance towards the firearm. For reference only.'''
+ Type                       Light machine gun
+ Weight                     9.12 kg (unloaded) 
+                            11.5 kg (loaded)
+ Length                     DP. DPM – 1.270 mm 
+ Barrel length              DP. DPM – 604 mm 
+ Cartridge                  7.62×54mmR
+ Action                     Gas-Operated
+ Rate of fire               550 rpm
+                            2400 rpm (DTM-4)
+ Muzzle velocity            840 m/s 
+ Effective firing range     800 m (874.9 yd)
+ Feed system                47-round pan
+ Sights                     Empty circle
+}}
+
+The DP boasts a simple construction with machined parts, and is gas-operated, with a "gill-type" locking mechanism: Two covers are found locking into the receiver when the firing pin is in the forward position, and are retracted when the firing pin moves back. This kind of locking mechanism is first invented by Swedish designers, and named it so due to how it works like the gills of a fish. The return spring is mounted on the piston rod, with the problem of causing malfunctions due to reduced return-force when the spring is heated. The most prominent feature of the DP is its 47-round pan magazine on the top of the receiver. Due to how it fires rimmed 7.62mm rounds, the cartridges are placed with their primers on the outside of the pan, the bullets pointing towards the center. The pan itself needs to be wound up before it is capable of feeding rounds into the weapon, as it uses the force of the spring to rotate itself.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''DP28'''
+|-
+! colspan=2 | '''Index number''': No.082
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: Soviet[[File:Flag_of_USSR.svg|20px]]'''
+! colspan=2 | '''Type: Machine Gun (MG)'''
+|-
+! colspan=2 | '''CV: Ikadai Kanae'''
+! colspan=2 | '''Illustrator: BIBIA'''
+|-
+! colspan=4 | '''Stats(Growth: S)'''
+|-
+| '''Health (C)''' || 71→141 || '''Damage (B)''' || 31→88
+|-
+| '''Evasion (A)''' || 4→31 || '''Accuracy (B)''' || 4→28
+|-
+| '''Movement speed''' || 4→4 || '''Rate of Fire (B)''' || 76→114
+|-
+| '''Ammo Count''' || 9→9 ||  ||
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 207→3894
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 40→140 || '''Rations''' || 30→90
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Readied burst
+| colspan=3 | Raises firepower by 16% (26%) for 6 (8) seconds, <br />while adding 1 (3) round(s) to the ammo count of this burst. <br />Has an initial cooldown of 8 seconds and an interval of 18 seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 3,9
+|-
+| '''Effect''' || colspan=3 | Applies to '''SGs'''<br>Rate of Fire +15%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 05:00:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Censored damaged
+|tab1=[[File:DP28.png|400px]]
+|tab2=[[File:DP28 D.png|400px]]
+|tab3=[[File:Pic DP28 D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+
+== Trivia ==
+'''WIP'''
+
+== Voicelines ==
+{{Translation needed}}
+{| class="wikitable"
+|-
+! 场合 !! 台词 !! 语音
+|-
+| 登录界面
+| {{lang|ja|ショウジョゼンセン。}}<br />少女前线。
+| <sm2>DP28_TITLECALL_JP.mp3</sm2>
+|-
+| 登录
+| {{lang|ja|坊や、おはよう。今日は何をするつもり？おねーさんが鍛えてあげましょうか。}}<br />小家伙，早上好。今天有什么安排呢？要不要让姐姐我陪你练♀练？
+| <sm2>DP28_HELLO_JP.mp3</sm2>
+|-
+| 获得
+| {{lang|ja|坊や、よろしくね、何かお困りかしら。}}<br />您好啊,指挥官,遇到麻烦了吗,尽管交给我。
+| <sm2>DP28_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | 秘书官
+| {{lang|ja|香水?あっはは、これは、私のフェロモンよ。}}<br />香水？哼哼，其实是我的气息哦……（フェロモン指信息素，有催情作用）
+| <sm2>DP28_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|年上のお姉さんは、好きかしら。}}<br />喜欢更成熟的大姐姐吗？
+| <sm2>DP28_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|ふふ、どうしたの?坊や。}}<br />嗯？怎么了，小家伙？
+| <sm2>DP28_DIALOGUE3_JP.mp3</sm2>
+|-
+| 秘书官（誓约后）
+| {{lang|ja|}}<br />周末要不要来我的房间玩呢？没什么不方便的吧？再说，又不是第一次了，哼哼……
+| <sm2></sm2>
+|-
+| 宿舍（提起）
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | 宿舍（摸头）
+| {{lang|ja|}}<br />笑
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />称赞
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />附和
+| <sm2></sm2>
+|-
+| 编成
+| {{lang|ja|なかなか、見る目あるじゃない。}}<br />挺有眼光的嘛。
+| <sm2>DP28_FORMATION_JP.mp3</sm2>
+|-
+| 出击
+| {{lang|ja|さぁ、軽い運動よ。行きましょう。}}<br />来吧，权当是热身运动。出发吧。
+| <sm2>DP28_GOATTACK_JP.mp3</sm2>
+|-
+| 攻击
+| {{lang|ja|あらあら、道に迷ったかしら。}}<br />哎呀你看，他们这是迷路了吗。
+| <sm2>DP28_MEET_JP.mp3</sm2>
+|-
+| 重创
+| {{lang|ja|やるじゃない……}}<br />挺能打的嘛......
+| <sm2>DP28_BREAK_JP.mp3</sm2>
+|-
+| 修理
+| {{lang|ja|ちょっと疲れちゃったわ指揮官。着換えを手伝ってくれる？}}<br />稍稍有些累了呢，指挥官。你能帮我换下衣服吗？
+| <sm2>DP28_FIX_JP.mp3</sm2>
+|-
+| 战役胜利（MVP）
+| {{lang|ja|万に一つも負けはない。だから言ったでしょう。}}<br />我都告诉你了，我是百战百胜的。
+| <sm2>DP28_WIN_JP.mp3</sm2>
+|-
+| 战役失败
+| {{lang|ja|…先に、帰っているわよ…}}<br />......我先撤了......
+| <sm2>DP28_RETREAT_JP.mp3</sm2>
+|-
+| 自律作战
+| {{lang|ja|焦らないで、チャンスはすぐやってくるわ。}}<br />别着急嘛，机会很快就会来的。
+| <sm2>DP28_BLACKACTION_JP.mp3</sm2>
+|-
+| 后勤（出发）
+| {{lang|ja|んん。あら、そう。じゃあ、行ってくるわね。}}<br />嗯嗯，原来如此。那我去去就回。
+| <sm2>DP28_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| 后勤（归还）
+| {{lang|ja|戻ったわよ。そろそろ私が、恋しくなったごろじゃない。}}<br />我回来了，你也差不多想我了吧。
+| <sm2>DP28_OPERATIONOVER_JP.mp3</sm2>
+|-
+| 建造完成
+| {{lang|ja|製造完了。少しだけ、焼いちゃうかも。んふふ。}}<br />新人形制造完成了，我可能稍微有点嫉妒了呢，嗯哼哼。
+| <sm2>DP28_BUILDOVER_JP.mp3</sm2>
+|-
+| 扩编
+| {{lang|ja|編成拡大ね。じゃ、あとはどこを大きくする？}}<br />编队扩大了呢。你说，以后还有哪儿要变大呢？
+| <sm2>DP28_COMBINE_JP.mp3</sm2>
+|-
+| 强化
+| {{lang|ja|はい～ご苦労様。}}<br />好的~辛苦了。
+| <sm2>DP28_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | 技能
+| {{lang|ja|射撃準備！}}<br />准备开火！
+| <sm2>DP28_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|こっそり虐めっても、構わないでしょう。}}<br />悄悄欺负他们一下也无妨吧？
+| <sm2>DP28_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|ねぇ、もうちょっとそばに寄ってもいいわよね？}}<br />我说，我们可不可以靠得再近一些？
+| <sm2>DP28_SKILL3_JP.mp3</sm2>
+|-
+| 誓约烙印 || {{lang|ja|あら、指揮官、やっとこの日が来たのね、後で後悔しても知らないわよ、まあ、後悔なんて、させないけどね、ふふ、これからゆっくり、分からせてあげる。}}<br />哎呀，指挥官，终于迎来这一天了。今后就算后悔也来不及了。不过，我是不会让您有那种想法的，嘻嘻♪
+| <sm2>DP28_SOULCONTRACT_JP.mp3</sm2>
+|}
+{{Girls' Frontline}}
+
+==External links and references==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
+[[Category:Cossack hat]]
+[[Category:Cap]]
+{{SideBarPic|url=DP28 D.png|width=500px|left=-145px}}
