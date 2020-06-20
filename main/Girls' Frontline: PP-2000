@@ -1,0 +1,268 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline info|'''<big><big>''PP-2000, allow me to follow your steps from now.''</big></big>'''}}
+{{Girls' Frontline profile
+|Title=PP-2000
+|image=gfpp2000_1.jpg
+|Caption=[https://weibo.com/1893202410/DnUFGshg0 Artist: @NoriZC]
+|Original name=PP-2000 submachine gun
+|Nickname=
+|Moe points=[[High heels]], [[Breasts]]
+|Hair color=Yellow
+|Eye color=Yellow
+|CV=Hinata Tamari
+|Type=SMG
+|Rarity=★★
+|Country of origin=Russia
+|Manufactured by=KBP Instrument Bureau
+|Developed=2006
+|In service=2006-
+|Related to=Vasily Petrovich Gryazev<br>Arkadiy G. Shipunov<br />Sister: [[Girl's Frontline:GSh-18|GSh-18]]
+}}
+
+'''PP-2000''' is a character from the Tactical SRPG ES game '''[[Girls' Frontline]]''' developed by MicaTeam and published by Digital Sky and its derivatives.
+
+== Historical basis ==
+
+The '''PP-2000''' (From Russian ''Pistolet Pulemyot-2000'', or Machine Pistol-2000) is a submachine gun developed by KBP Instrument Bureau of Tula, Russia sporting features of both submachineguns and personal defence weapons alike, capable of firing a multitude of 9x19mm cartridges, including the Russian-developed 7N21 and 7N31 +P+ rounds.
+
+===Specifications===
+*Overall weight: 1.4 kg empty
+*Overall length: 555mm / 340mm (Stock extended/retracted)
+*Width: 34mm
+*Overall height: 185mm (with 20-round detachable magazine) / 305mm (with 44-round detachable magazine)
+*Cartridge: 9×19mm Luger, 9×19mm 7N21 +P+, 9x19mm 7N31 +P+
+*Caliber: 9 mm
+*Action: Direct blowback, closed bolt
+*Rate of Fire: 600—800 RPM
+*Muzzle velocity: 460—600min／s (7N31)
+*Effective range: 100m (9x19mm Luger) / 200m (7N31)
+*Feed system: 20 / 44-round detachable magazine发可拆卸式弹匣
+*Sights: Mechanical sights, fixed flip-up notch and post with MIL-STD-1913 tactical rail for optics.
+
+{{Hide|Title=Specifications found in-game|Text=
+*'''The following data may contain errors and represent only the game's stance towards the firearm. For reference only.'''
+ Type                       Submachine gun
+                            automatique
+ Weight                     1.4 kg (3.09 lb)
+ Length                     555 mm (21.9 in) stock extended
+                            340 mm (13.4 in) stock folded
+ Barrel length              182 mm (7.2 in)
+ Width                      34 mm (1.3 in)
+ Cartridge                  9×19mm Parabellum
+                            9×19mm 7N21 +P+
+                            9×19mm 7N31 +P+
+ Action                     Straight blowback
+ Rate of fire               600–800 rounds/min
+ Effective firing range     100 m (9×19mm Parabellum)，200 m (9×19mm 7N31 +P+)
+ Feed system                20 or 44-round detachable box magazine
+ Sights                     Front post. rear notch; 
+                            MIL-STD-1913 rail provided for optics
+}}
+
+
+The PP-2000 is an advanced submachinegun developed in Russia with features of machine pistols and personal defence weapons.
+
+The PP-2000 is designed as a dual-purpose personal defence/close-quarters combat weapon for SWAT teams and special forces. Therefore it has a compact layout, minimalizing size while being more reliable, easy to maintain and capable of outputting strong firepower, at the same time being a close-quarters combat weapon and the sidearm of VIPs instead of a weapon for ordinary infantry.
+
+It was officially adopted by the Russian police in 2008 alongside the PP-19-01 "Vityaz" as its standard-issue SMG.
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''PP-2000'''
+|-
+! colspan=2 | '''Index number'''： No.024
+! colspan=2 | '''Rarity'''：★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Type: SMG'''
+|-
+! colspan=2 | '''CV: Hinata Tamari'''
+! colspan=2 | '''Illustrator: NoriZC'''
+|-
+! colspan=4 | '''Stats (Growth: B)'''
+|-
+| '''Health (C)''' || 80→159 || '''Damage (A)''' || 12→30
+|-
+| '''Evasion (S)''' || 11→74 || '''Accuracy (B)''' || 2→11
+|-
+| '''Movement speed''' || 12→12 || '''Rate of Fire (B)''' || 57→80
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 188→3541
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 25→85 || '''Rations''' || 20→60
+|-
+! '''Ability'''
+! colspan=3 | '''Description'''
+|-
+| Hand Grenade (手榴弹)
+| colspan=3 | Throws a grenade dealing 1.8x (5.5x) damage to enemies within a 2.5 radius. <br />Has an initial cooldown of 6 seconds and an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#00fedc" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+</TABLE>
+Keypads 1, 7
+|-
+| '''Effect''' || colspan=3 | Buffs '''AR'''s<br />Damage +10%, Accuracy +25%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | 01:10:00
+|-
+| '''Drops''' || colspan=3 | 
+|}
+
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Heavily Damaged
+|bt3=Heavily Damaged (old)
+|bt4=Heavily Damaged (censored)
+|tab1=[[File:PP2000.png|400px]]
+|tab2=[[File:PP2000_D1.png|400px]]
+|tab3=[[File:PP2000 D.png|400px]]
+|tab4=[[File:Pic PP2000 D.png|400px]]
+}}
+</div>
+{{-}}
+{{Girls' Frontline statnote}}
+
+==Trivia==
+
+'''(WIP)'''
+
+== Voicelines ==
+
+{|class="wikitable"
+|-
+! Case !! Line !! Audio
+|-
+| Login screen
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline
+| <sm2>PP2000_TITLECALL_JP.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|お待ちしておりました。}}<br />Been waiting for long.<br />恭候多时了。
+| <sm2>PP2000_HELLO_JP.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|PP-2000です、ずっとあなたの傍にいますね、えへ。}}<br />PP-2000, allow me to follow your steps from now.<br />PP-2000冲锋枪，今后请让我紧随您的脚步。
+| <sm2>PP2000_GAIN_JP.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|はい、どうかなさいましたか。}}<br />Yes, anything needed to do?<br />有什么事吗？
+| <sm2>PP2000_DIALOGUE1_JP.mp3</sm2>
+|-
+| {{lang|ja|何かお困りですか。}}<br />Is there a problem?<br />有什么问题吗？
+| <sm2>PP2000_DIALOGUE2_JP.mp3</sm2>
+|-
+| {{lang|ja|いいお天気ですね。}}<br />Nice weather today.<br />今天的天气不错呀。
+| <sm2>PP2000_DIALOGUE3_JP.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />Commander, have I been performing stable today? After all being trusted by you for so long, I got to have some confidence.<br />指挥官，今天我的发挥很稳定吧？毕竟一直都被您信赖着，我也必须拿出点自信来啊。
+| <sm2></sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br /> 
+| <sm2></sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2></sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2></sm2>
+|-
+| Echelon formation
+| {{lang|ja|私にお任せください。}}<br />Please leave it to me.<br />请放心交给我。
+| <sm2>PP2000_FORMATION_JP.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|参ります！}}<br />Begin!<br />出击！
+| <sm2>PP2000_GOATTACK_JP.mp3</sm2>
+|-
+| Beginning combat
+| {{lang|ja|背後に気を付けて下さい。}}<br />Please watch your backs.<br />请注意掩护身后。
+| <sm2>PP2000_MEET_JP.mp3</sm2>
+|-
+| Heavily damaged
+| {{lang|ja|！まだ、戦えます！}}<br />...! It's ok, I can still fight!<br />没问题，我还能继续战斗！
+| <sm2>PP2000_BREAK_JP.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|ええ......皆、まだ私のこと、信じてくれますか？}}<br />Eh....Will everyone, still trust me later on?<br />唉......大家日后还会不会继续信任我呢？
+| <sm2>PP2000_FIX_JP.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|勝ちました！}}<br />We won!<br />我们获胜了！
+| <sm2>PP2000_WIN_JP.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|どうして......}}<br />Why......<br />怎么会这样......
+| <sm2>PP2000_RETREAT_JP.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|皆、私の本当の力を見て！}}<br />Everyone, behold my true strength!<br />各位，请对我真正的实力拭目以待！
+| <sm2>PP2000_BLACKACTION_JP.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|PP-2000、行って参ります！忘れ物ない？}}<br />PP-2000, joining the mission! Is there anything missing?<br />PP-2000开始行动！检查下是否有遗漏物件。
+| <sm2>PP2000_OPERATIONBEGIN_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|PP-2000、戻りました！忘れ物はない？}}<br />PP-2000, returning! Is there anything lost?<br />PP-2000平安返回！没拉下东西吧？
+| <sm2>PP2000_OPERATIONOVER_JP.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|製造が完了致しました。}}<br />Production finished successfully.<br />建造顺利完成。
+| <sm2>PP2000_BUILDOVER_JP.mp3</sm2>
+|-
+| Establishment augmentation
+| {{lang|ja|拡大完了！この編成で、もっと信じて貰えるようになるかしら？}}<br />Expansion complete! Do I earn more trust with this establishment?<br />完成扩编！就这个编队，能不能得到更多的信任呢？
+| <sm2>PP2000_COMBINE_JP.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|頑張ります！}}<br />Will work harder!<br />我会加倍努力的！
+| <sm2>PP2000_FEED_JP.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|用意！攻撃！}}<br />Focus! Attack!<br />瞄准！攻击！
+| <sm2>PP2000_SKILL1_JP.mp3</sm2>
+|-
+| {{lang|ja|今回はしくじったりしませんよ！}}<br />This time it won't miss!<br />这次必保万无一失！
+| <sm2>PP2000_SKILL2_JP.mp3</sm2>
+|-
+| {{lang|ja|私のこの破壊力、おもちゃじゃないって分かたんでしょう？}}<br />Have a grasp of this destructivity of mine.<br />差不多该明白了吧，我的破坏力可不是闹着玩的。
+| <sm2>PP2000_SKILL3_JP.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja|指揮官、こんなところに呼び出して…私また、何かやらかしました?…ああ、そんなこと、い、いいんですか、こんな私が指揮官に認めてもらえるなんて…}}<br />Commander, is there anything wrong since you summoned me this time? Eh? This-?! Can...Can it? Am I finally being accepted by the commander....<br />指挥官，这次叫我来，不会又是哪儿出错了吧？诶？这种事？！可……可以吗？我终于……被您认可吗……
+| <sm2>PP2000_SOULCONTRACT_JP.mp3 </sm2>
+|}
+
+{{Girls' Frontline}}
+{{SideBarPic|url=PP2000.png|width=400px|left=-100px}}
+
+==References==
+<references/>
+
+[[Category:Girls' Frontline]]
+[[Category:Mechagirl]]
