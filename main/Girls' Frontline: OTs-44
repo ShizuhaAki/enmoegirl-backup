@@ -1,0 +1,288 @@
+{{Girls' Frontline navbar}}
+{{Girls' Frontline replenish}}
+{{Girls' Frontline profile
+|Name=OTs-44
+|image=OTS-44_圣诞1.jpg
+|Caption=
+|Original name={{ruby|OTs-44|OC-44}} sniper rifle (Russian:''ОЦ-44'')
+|别名=
+|萌点=
+|Hair color=Golden
+|Eye color=Black
+|CV=Takahashi Rie
+|Type=Rifle
+|Rarity=★★★
+|Country of origin=Russia
+|Developed by=KBP Design Bureau
+|生产商=
+|Developed=1990s
+|服役期间=
+|相关人士=
+}}
+ 
+'''OTs-44''' is a character from the tactical SRPG ES game '''Girls' Frontline''' and its derivatives developed by MicaTeam and published by Digital Sky. She joined the struggle in 2017.01.25.
+
+== Historical basis ==
+The {{ruby|OTs-44|OC-44}} sniper rifle (Russian: ОЦ-44) is a large-caliber sniper rifle employed in anti-personnel roles, designed by Central Design and Research Bureau of Sporting and Hunting Arms (also known simply as {{ruby|ЦКИБ СОО|TsKIB SOO}}), a branch of the KBP Design Bureau. The rifle has a bullpup layout and is chambered manually. It's highlight lies in its integral suppressor. According to revealed data, it has a magazine that houses 8 rounds, but it cannot be seen from the released sample pictures.
+
+Due to the large recoil when firing the 12.7×108mm rounds, the buttstock of the rifle is fitted with a spring damper, which, coupled with the ventilation ports found on the barrel, reduced the recoil to human-bearable levels. But due to its relatively short barrel, low muzzle velocity and low accuracy, its effective range is relatively short. However, its primary targets are not long-range targets for sniping, but rather lightly-armored units that the 7.62mm-caliber SVD cannot pose a threat to. It is reported that the KBP Design Bureau has applied to conduct research on an improved, 14.5mm-caliber model, but yielded no fruit as this 12.7mm-caliber model didn't progress past the sample stage.
+
+Due to the inherent noise problems induced by the 12.7×108mm cartridges, TsKIB SOO incorporated a suppressor into the weapon, to lower the noise level to that of the [[Girls' Frontline: SVD|SVD]].
+
+The OTs-44 can use the standard 12.7×108mm cartridges, but due to its low muzzle velocity, long-range ballistic performance will be unpredictable for a standard cartridge. Also, due to that it is not feasible to completely suppress the firing of a 12.7mm cartridge, even when not taking ballistic performance into account, the suppressor will only suffice to reduce the noise level to that of an SVD, to form the illusion that it is an SVD that fired. {{Spoiler|M21:Talking about silencer I'm the senior one who fought Viet Cong with 16.}}
+ 
+
+===Specifications ===
+*Empty weight:14 kg
+*Overall length:1070 mm
+*Muzzle velocity:800 m/s
+*Effective range:1000 m
+*Ammo capacity:8 rds
+
+{{Hide|Title=Specifications in-game|Text=
+*'''The following specifications may contain errors, and only reflect the game's opinion. For reference only.'''
+ Type                       Anti materiel rifle
+ Weight                     14 kg 
+ Length                     1070 mm
+ Cartridge                  12.7×108mm
+ Muzzle velocity            800 m/s 
+ Effective firing range     1200 m
+ Feed system                8-round detachable box magazine
+}}
+
+==Stats==
+<div style="float:left" class="gf-data">
+{| class="wikitable gf-data-table" style="text-align:center"
+|-
+! colspan=4 | '''OTs-44'''
+|-
+! colspan=2 | '''Index No.'''： No.145
+! colspan=2 | '''Rarity'''：★★★
+|-
+! colspan=2 | '''Nationality: Russian[[File:Flag_of_Russia.svg|20px]]'''
+! colspan=2 | '''Type: Rifle'''
+|-
+! colspan=2 | '''CV：[[Takahashi Rie]]'''
+! colspan=2 | '''Illustrator：rosele'''
+|-
+! colspan=4 | '''Stats(Growth：S)'''
+|-
+| '''Health (C)''' || 40→80 || '''Damage (S)''' || 52→157
+|-
+| '''Dodge (C)''' || 4→32 || '''Accuracy (C)''' || 8→67
+|-
+| '''Movement speed''' || 7→7 || '''Rate of Fire (C)''' || 18→32
+|-
+! colspan=4 | '''Operational effectiveness'''
+|-
+! colspan=4 | 154→3433
+|-
+! colspan=4 | '''Resource demands'''
+|-
+| '''Ammo''' || 15→55 || '''Rations''' || 30→90
+|-
+! '''Ability'''
+! colspan=3 | '''Effect'''
+|-
+| Lock-on
+| colspan=3 |Aims for 2 seconds, dealing 3x(6.5x) damage to the target. <br /> Has an initial cooldown of 15 seconds with an interval of 20 (16) seconds.
+|-
+! colspan=4 | '''Buffs'''
+|-
+| '''Effect tiles''' || colspan=3 |
+<TABLE align="center" BORDER="2" CELLSPACING="1" CELLPADDING="1">
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#6b6b6b" height="20" width="20"> <TD BGCOLOR="#00fedc" height="20" width="20"></TR> 
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#f0f0f0" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"></TR>
+<TR><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#6b6b6b" height="20" width="20"><TD BGCOLOR="#00fedc" height="20" width="20"></TR>
+</TABLE>
+Keypads 3 9
+|-
+| '''Effect''' || colspan=3 |Affects '''HG'''s only<br />Reduces cooldown by 12%.
+|-
+! colspan=4 | '''Acquired by'''
+|-
+| '''Production''' || colspan=3 | {{color|red|'''3:50:00 (Heavy production only)'''}}
+|-
+| '''Drops''' || colspan=3 | Infested 1-3
+|}
+'''Notes'''：
+* Handgun(HG)s will see their effect tiles improved after receiving establishment augmentations.
+* Data in the Stats section correspond to the threshold at '''level 1''' / at '''level 100''' / after '''MOD 1''' digi-mind update / after '''MOD 2''' digi-mind update / after '''MOD 3''' digi-mind update (if available).
+* Data in parentheses are the maximum possible value of the stat. 
+</div>
+<div style="float:left; margin:20px">
+{{tabs
+|DefaultTab=1
+|color=black
+|bt1=Normal
+|bt2=Damaged
+|bt3=Outfits
+|tab1=[[File:pic_OC44.png|400px]]
+|tab2=[[File:pic_OC44_D.png|400px]]
+|tab3={{tabs
+|DefaultTab=1
+|color=black
+|bt1=Reindeer in the Forest
+|tab1={{tabs
+      |DefaultTab=1
+      |color=black
+      |bt1=<!--=Reindeer in the Forest-->Normal
+      |bt2=Damaged
+      |bt3={{Spoiler|A mistake}}
+      |tab1=[[File:Pic_OC44_1608.png|400px]]
+      |tab2=[[File:Pic_OC44_1608_D.png|400px]]
+      |tab3=[[File:OTS-44_圣诞2.jpg|400px]]
+      }}
+}}
+}}
+</div>
+{{-}}
+
+== Trivia ==
+===Born premature?===
+No matter in terms of outline, length, layout or the recoil-damping stock, the rifle closely resembles the VKS "Ventilator" sniper rifle developed by TsKIB. But the VKS uses the subsonic 12.7x55mm cartridge. But this cartridge does not come with an API variant necessary for anti-materiel operations, and was later developed for use in the [[Girls' Frontline: ASh-12.7|ASh-12.7]].
+
+But it is no surprise that there lie errors in the specifications of an experimental model. {{spoiler|You tell me that this stick weighs 14 kilograms and can fit the overtly visible 12.7x108mm magazine? Suppressed?}} Perhaps she did evolve into the VKS.
+
+{{Spoiler|Still, leaving the AK family alone while working so hard on the OTs series.... Mica must have some dirty deals with the KBP.}}
+
+=== Mistake ===
+{{Hide|Title=Comparison|Text=
+{{multiple images
+ | align = left
+ | direction = horizontal
+ | width = 250
+ | image1 = “森林中的小驯鹿”作画失误对比①.jpg
+ | image2 = “森林中的小驯鹿”作画失误对比②.jpg
+}}<br />
+[[File:9c93603dgy1fm74wkqnovj207z06q0sr.jpg|thumb|center|300px|{{Spoiler|A creepy slipper.}}]]
+}}
+The official microblog released info that the new skin for OTs-44, "Reindeer in the Forest", would come live soon, posted on December 6, 2017. And subsequently players found a minor mistake found in the illustration, and commented on this with a picture.<ref>https://weibo.com/5611537367/FyoTr6Se0?s=6cm7D0&type=comment#_rnd1512559712960</ref> The official microblog also replied that "The illustrator is working on fixing the problem. Thanks for pointing out."
+
+In addition, the illustrator herself forwarded the post, commenting:"Sharpeyed, I didn't find it myself." And fixed the problem swiftly.
+
+== Voicelines ==
+
+{| class="wikitable mw-collapsible"
+|-
+! colspan=3 |{{Translation needed}}
+|-
+! Case !! Line !! Audio
+|-
+| Login
+| {{lang|ja|ショウジョゼンセン。}}<br />Girls' Frontline.
+| <sm2>OC44_030.mp3</sm2>
+|-
+| Upon login
+| {{lang|ja|}}<br />Hello, commander-sir. Happy to see me?<br />你好呀，指挥官大人。见到我开心吗？
+| <sm2>OC44_002.mp3</sm2>
+|-
+| Acquisition
+| {{lang|ja|}}<br />Finally got to see you, commander-sir. I'm OTs-44, can I stay?<br />终于见到你了，指挥官大人。我是OTs-44哦，我可以待在这里吗？
+| <sm2>OC44_001.mp3</sm2>
+|-
+| rowspan=3 | As adjutant
+| {{lang|ja|}}<br />What else do you need, whether black tea or cocktail, I can help out.<br />您还需要什么，无论红茶还是鸡尾酒，我都能效劳哦。
+| <sm2>OC44_005.mp3</sm2>
+|-
+| {{lang|ja|お仕事中ですか、指揮官様？少しはリラックスした方がいいですよ。}}<br />Commander, are you busy? Is it time to relax a bit?<br />指挥官，您在忙吗？是不是该放松一下了？
+| <sm2>OC44_006.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Commander! You haven't seen how I am when I'm angry! I'm showing it to you! Really!<br />指挥官！你还没见过我生气的样子吧！我要摆给你看了哦！真的哦！
+| <sm2>OC44_007.mp3</sm2>
+|-
+| As adjutant (post-oath link establishment)
+| {{lang|ja|}}<br />What's the game this time? It's ok to stay with you for a while. But if I win, give me my rewards like before.<br />这次要玩什么游戏呀？陪你一下也不是不可以，但赢了的话，要像之前那样给我奖励哦。
+| <sm2>OC44_041.mp3</sm2>
+|-
+| Dormitory (liftoff)
+| {{lang|ja|}}<br />Ooh!<br /> 噢！！
+| <sm2>OC44_033.mp3</sm2>
+|-
+| rowspan=3 | Dormitory (touch)
+| {{lang|ja|}}<br />Smile
+| <sm2>OC44_032.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Admiration
+| <sm2>OC44_035.mp3</sm2>
+|-
+| {{lang|ja|}}<br />Agreement
+| <sm2>OC44_036.mp3</sm2>
+|-
+| Echelon formation
+| {{lang|ja|}}<br />Understood, stay well, everyone.<br />了解，大家好好相处吧。
+| <sm2>OC44_003.mp3</sm2>
+|-
+| Beginning mission
+| {{lang|ja|}}<br />Ok! I'm setting off!<br />好！我出发了！
+| <sm2>OC44_009.mp3</sm2>
+|-
+| Beginning battle
+| {{lang|ja|}}<br />Contact, commencing counter-offensive.<br />遭遇敌人，开始反击。
+| <sm2>OC44_010.mp3</sm2>
+|-
+| Damage
+| {{lang|ja|}}<br />Sometimes... This... happens... Ehehehe...<br />偶尔...也会...有这种事吧...诶嘿嘿嘿...
+| <sm2>OC44_013.mp3</sm2>
+|-
+| Restoration
+| {{lang|ja|}}<br />It's ok for me to stay alone, commander-sir, please don't worry about me.<br />我一个人待着没问题，指挥官大人，请不用担心我。
+| <sm2>OC44_026.mp3</sm2>
+|-
+| Winning battle as MVP
+| {{lang|ja|}}<br />It's a moment worth remembering, commander-sir, please remember it well.<br />这是非常值得纪念的时刻，指挥官大人，一定要好好记住哦。
+| <sm2>OC44_014.mp3</sm2>
+|-
+| Retreating
+| {{lang|ja|}}<br />Had I worked harder......<br />要是我更加努力的话...
+| <sm2>OC44_015.mp3</sm2>
+|-
+| Beginning autobattle
+| {{lang|ja|}}<br />I'll make a breach.<br />我来制造突破口。
+| <sm2>OC44_028.mp3</sm2>
+|-
+| Beginning logistic support
+| {{lang|ja|}}<br />I'm leaving, please take care of yourself, commander-sir.<br />我出发了，指挥官大人也请保重。
+| <sm2>OC44_024.mp3</sm2>
+|-
+| Finishing logistic support
+| {{lang|ja|}}<br />I'm back! Any rewards?<br />我回来了！有没有什么奖励呀？
+| <sm2>OC44_025.mp3</sm2>
+|-
+| Finishing production
+| {{lang|ja|}}<br />A new friend, does the commander like her?<br />新来的朋友，指挥官喜欢她吗？
+| <sm2>OC44_008.mp3</sm2>
+|-
+| Establishment augmented
+| {{lang|ja|}}<br /><nowiki>[If there are] Noisy [kids], I won't show mercy.<br />（有）吵架的（坏孩子的）话，我可不会放过。
+| <sm2>OC44_027.mp3</sm2>
+|-
+| Powerup
+| {{lang|ja|}}<br />Thanks for trusting, I won't forget what happened today.<br />感谢信任，我不会忘记今天发生的事的。
+| <sm2>OC44_004.mp3</sm2>
+|-
+| rowspan=3 | Ability activation
+| {{lang|ja|}}<br />I'll wreck it. (?)<br />我来破坏它。（存疑）
+| <sm2>OC44_021.mp3</sm2>
+|-
+| {{lang|ja|}}<br />What needs to be protected is no more. (Why the change?)<br />需要保护的东西已经不存在了。（嗯？怎么突然就黑了？）
+| <sm2>OC44_022.mp3</sm2>
+|-
+| {{lang|ja|}}砲口を浴びせします。(?)<br />Fire the cannon!<br />开炮！
+| <sm2>OC44_023.mp3</sm2>
+|-
+| Oath link establishment
+| {{lang|ja| }}<br />Ahh... Such a happy moment, comes to me... I must have spent all my good luck.... But it doesn't matter, even if I have nothing from now on, as long as you are with me, I'm for ever the happiest..... Commander.<br />啊……如此幸福的时刻，竟然是属于我的…我一定是把所有好运都用尽了吧…不过没关系，今后就算一无所有，只要您在我的身边，我永远都是最幸福的……指挥官
+| <sm2>OC44_029.mp3</sm2>
+|}
+
+{{Girls' Frontline}}
+
+
+== External links and references ==
+*[https://topwar.ru/24079-krupnokalibernaya-snayperskaya-vintovka-oc-44.html OTs-44-related info on the Russian website Topwar]
+ 
+[[Category:Girls' Frontline]]
+[[Category:Golden hair]]
+[[Category:Black eyes]]
+[[Category:Bandage]]
