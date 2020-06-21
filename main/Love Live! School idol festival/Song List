@@ -1,0 +1,65 @@
+== Writing Instructions ==
+*In the general track and special song column, the difficulty level is displayed as: EASY / NORMAL / HARD / EXPERT / MASTER, where the EXPERT list contains two difficulties: the difficulty of EXPERT and the difficulty of EX-RANDOM.
+*In the column of special difficulty songs, the difficulty level is displayed as: EXPERT + / CHALLENGE. Because the difficulty is relatively special, these two difficulties are listed separately, and the current distribution status is attached.
+*EX-RAN, the EXPERT random spectrum, is a special type of EXPERT difficulty. The number of notes is equal to the EX difficulty but its position is not fixed, so it is very stimulating and challenging.
+*EX-RAN songs are presented at Technical difficulty in SCORE MATCH, and random spectrums appear randomly in the third, fourth, and fifth rounds of the Challenge Festival. EX-RAN difficulty songs are also part of EXPERT difficulty.
+*EXPERT+ difficulty, that is, the EXPERT spectrum with a sliding key, is also a special EXPERT difficulty spectrum. The note number is different from the usual EXPERT difficulty. You can use it as an exercise for the sliding key spectrum. EXPERT+ Difficulty currently in the distribution, please check in special difficulty songs.
+*MASTER difficulty is currently the highest difficulty after installation (Note: some tracks have higher level CHALLENGE difficulty, which belongs to the SIFAC linkage spectrum, please find the specific matching songs in special difficulty songs).
+*The following table lists the difficulty stars and Combo of all the songs currently in difficulty.
+*The table below shows the distribution of all ordinary songs, special songs and songs of special difficulty, and is updated in real time.
+Songs with swing notes will be marked with "{{#var:*}}" after the Combo. However, the EXPERT+ difficulty itself is all with a slide key, so the Combo of EXPERT+ difficulty songs will not be marked with "{{#var:*}}".
+*At present, the distribution of special songs only writes the data of the difficulty of the distribution, and other difficulties are replaced by "-".
+*If there are no special instructions for the MASTER track assigned for the current special song, please refer to the column of the master track that is being assigned for a limited time in the special track.
+*The explanation of the difficulty page of the EXPERT, MASTER, EXPERT +, and CHALLENGE songs on the song page is for your reference only.
+
+== Song Consumption and Achievement ==
+
+{| class="wikitable" style="text-align: center"
+|+ LP consumption and experience value acquisition table
+|-
+! Project !! Easy !! Normal !! Hard !! Expert !! Master !! Master(SIFAC Challenge)
+|-
+! LP used
+| 5 || 10 || 15 || 25 || 25 || 5
+|-
+! EXP gained
+| 12 || 26 || 46 || 83 || 83 || 83
+|}
+'''Note:'''Expert difficulty also includes both the Expert random song and the Expert + difficulty song. When the song score is less than C, the above EXP gains are halved.
+
+== μ's layout track ==
+
+==== Main song ====
+
+{| class="wikitable sortable" style="text-align: center"
+
+! rowspan="3" data-sort-type="number" |Serial number !! rowspan="3" class="unsortable" |Cover !! rowspan="3" | Song name !! rowspan="3" data-sort-type="number" |Attribute !! rowspan="3" data-sort-type="time" | time !! colspan="11" | Difficulty and Combo number !! rowspan="3" class="unsortable" |Need to complete<br/>Song unlock condition !! rowspan="3" class="unsortable" |Note !! rowspan="3" class="unsortable" |Audition
+|- 
+! colspan = "2" | <img src="{{filepath:EASY.png}}" style=" width:64px /> !! colspan = "2" | <img src="{{filepath:NORMAL.png}}" style=" width:64px" /> !! colspan = "2" | <img src="{{filepath:HARD.png}}" style=" width:64px" /> !! colspan = "3" | <img src="{{filepath:EXPERT.png}}" style=" width:64px" /> !! colspan = "2" | <img src="{{filepath:MASTER.png}}" style=" width:64px" />
+|-
+! data-sort-type="number"|Difficulty !! data-sort-type="number"|Combo !! data-sort-type="number"|Difficulty !! data-sort-type="number"|Combo !! data-sort-type="number"|Difficulty !! data-sort-type="number"|Combo !! align="center" colspan = "2" data-sort-type="number"|Difficulty !! data-sort-type="number"|Combo !! data-sort-type="number"|Diffitulty !! data-sort-type="number"|Combo
+
+|-
+
+| bgcolor="#FFFFE0"|1 || [[File:LL1stsingle.png|48px]] || {{#var:red}} | {{lang|ja|[[Bokura no LIVE Kimi to no LIFE|僕らのLIVE 君とのLIFE]]}} || [[File:SifSmile.png|38px]] || 2:02 || [[File:DIFFICULTY_1.png|38px]] || 95 || [[File:DIFFICULTY_4.png|38px]] || 120 || [[File:DIFFICULTY_6.png|38px]] || 181 || [[File:DIFFICULTY_9.png|38px]] || [[File:DIFFICULTY_9.png|38px]] || 348 || [[File:DIFFICULTY_11.png|38px]] || 697 || Initially unlocked || First single || <sm2>File:Sif m 001.mp3</sm2>
+
+|-
+
+| bgcolor="#FFFFE0"|2 || [[File:LL1stSingleB.jpg|48px]] || {{#var:green}} | {{lang|ja|[[Yuujou no Change|友情ノーチェンジ]]}} || [[File:SifPure.png|38px]] || 2:01 || [[File:DIFFICULTY_1.png|38px]] || 91 || [[File:DIFFICULTY_4.png|38px]] || 125 || [[File:DIFFICULTY_6.png|38px]] || 204 || [[File:DIFFICULTY_9.png|38px]] || [[File:DIFFICULTY_9.png|38px]] || 359 || [[File:DIFFICULTY_11.png|38px]] || 640 || Clear Chapter 1-3 of the main story || First single C/W song || <sm2>File:m 002.mp3</sm2>
+
+|-
+
+| bgcolor="#FFFFE0"|3 || [[File:LL2ndsingle.png|48px]] || {{#var:blue}} | {{lang|ja|[[Snow halation]]}} || [[File:SifCool.png|38px]]|| 1:59 || [[File:DIFFICULTY_1.png|38px]] || 81 || [[File:DIFFICULTY_4.png|38px]] || 139 || [[File:DIFFICULTY_6.png|38px]] || 206 || [[File:DIFFICULTY_9.png|38px]] || [[File:DIFFICULTY_9.png|38px]] || 355 || [[File:DIFFICULTY_11.png|38px]] || 551 || Clear Chapter 2-2 of the main story (Rank 5) || Second single || <sm2>File:m 003.mp3</sm2>
+
+|-
+
+| bgcolor="#FFFFE0"|4 || [[File:LL2ndsingleB.jpg|48px]] || {{#var:green}} | {{lang|ja|[[baby maybe Koi no Button|baby maybe 恋のボタン]]}} || [[File:SifPure.png|38px]] || 2:02 || [[File:DIFFICULTY_2.png|38px]] || 97 || [[File:DIFFICULTY_4.png|38px]] || 148 || [[File:DIFFICULTY_6.png|38px]] || 220 || [[File:DIFFICULTY_9.png|38px]] || [[File:DIFFICULTY_9.png|38px]] || 362 || [[File:DIFFICULTY_11.png|38px]] || 681 || Clear Chapter 2-3 of the main story || Second single C/W song || <sm2>File:m 004.mp3</sm2>
+
+|-
+
+| bgcolor="#FFFFE0"|5 || [[File:LL3rdsingle.png|48px]] || {{#var:red}} | {{lang|ja|[[Natsuiro Egao de 1,2,Jump!|夏色えがおで1,2,Jump!]]}} || [[File:SifSmile.png|38px]] || 2:02 || [[File:DIFFICULTY_1.png|38px]] || 85 || [[File:DIFFICULTY_4.png|38px]] || 146 || [[File:DIFFICULTY_6.png|38px]] || 225 || [[File:DIFFICULTY_9.png|38px]] || [[File:DIFFICULTY_9.png|38px]] || 370 || [[File:DIFFICULTY_12.png|38px]] || 786 || Clear Chapter 3-2 of the main story (Rank 14) || Third single || <sm2>File:m 005.mp3</sm2>
+
+|-
+
+
+| bgcolor="#FFFFE0"|6 || [[File:Jacket mermaid festa vol1.jpg|48px]] || {{#var:blue}} | {{lang|ja|[[Mermaid festa vol.1]]}} || [[File:SifCool.png|38px]] || 1:57 || [[File:DIFFICULTY_2.png|38px]] || 99 || [[File:DIFFICULTY_5.png|38px]] || 158 || [[File:DIFFICULTY_7.png|38px]] || 237 || [[File:DIFFICULTY_10.png|38px]] || [[File:DIFFICULTY_10.png|38px]] || 431 || [[File:DIFFICULTY_12.png|38px]] || 722 || Clear Chapter 1-3 of the main story || Third single C/W song || <sm2>File:m 006.mp3</sm2>
