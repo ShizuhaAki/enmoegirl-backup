@@ -1,0 +1,35 @@
+'''''Pinfu''''' ''(Japanese:''{{ruby|平和|ピンフ|ja}}'',Pinfu)'', is a 1-han yaku of [[Riichi Mahjong]].
+
+
+== Introduction ==
+Pinfu is a yaku that is easy to get in riichi mahjong. The occurrence rate of this yaku is the fourth highest among all yakus.
+
+===Pinfu in Riichi Mahjong===
+Pinfu is a yaku with slightly more regulations. To get pinfu, one's hand need to meet the following conditions:
+*The hand is '''''concealed'''''.
+*The hand has '''''no triplets'''''.
+*The hand has a '''''2-side waiting''''' pattern({{lj|リャンメン待ち}}''ryanmen machi''). (i.e. A and A+1 waiting for A-1 and A+2)
+**Example: {{mj|2m|3m}} waiting for {{mj|1m}} and {{mj|4m}}.
+**The following waiting patterns '''ARE''' 2-side waiting patterns:
+***{{mj|2m|3m|4m|5m|6m}} waiting for {{mj|1m|4m|7m}}
+***{{mj|1m|2m|3m|4m|5m}} waiting for {{mj|3m|6m}}
+**The following waiting patterns '''AREN'T''' 2-side waiting patterns:
+***{{mj|1m|2m}} waiting for {{mj|3m}}<br>This is called '''''edge waiting'''''({{lj|ペンチャン待ち}}''penchan machi'').
+***{{mj|1m|3m}} waiting for {{mj|2m}}<br>This is called '''''closed waiting'''''({{lj|カンチャン待ち}}''kanchan machi'').
+***{{mj|1m|1m|2m|2m}} waiting for {{mj|1m|2m}}<br>This is called '''''pair waiting'''''({{lj|シャンポン待ち}}''shanpon machi'').
+***{{mj|1m}} waiting for {{mj|1m}}<br>This is called '''''single waiting'''''({{lj|タンキ待ち}}''tanki machi'').
+***{{mj|1m|2m|3m|4m}} waiting for {{mj|1m|4m}}<br>This is called '''''extended single waiting'''''({{lj|ノベタン待ち}}''nobetan machi'').
+**Here are some examples that is slightly complex:
+***{{mj|3m|3m|3m|4m}} waiting for {{mj|2m|4m|5m}}<br>If this hand gets a {{mj|2m}} or {{mj|5m}}, pinfu counts.<br>If this hand gets a {{mj|4m}}, it counts as single waiting therefore no pinfu.
+***{{mj|2m|2m|2m|3m|4m|5m|6m}} waiting for {{mj|1m|3m|4m|6m|7m}}<br>{{mj|1m|4m|7m}} add pinfu to your hand while {{mj|3m|6m}} don't.
+*The hand '''''doesn't contain a [[Riichi Mahjong:Yakuhai|yakuhai]] pair''''' - that is, if your pair were a triplet in your hand, it shouldn't has any yaku itself.
+
+In a word, '''''pinfu counts when a hand doesn't has any [[Riichi Mahjong:Points Calculation|fu]]'''''(except for the [[Riichi Mahjong:Points Calculation|fu]] bonus for the [[Riichi Mahjong:Winning Pattern|winning pattern]]). In some rules, pinfu and [[Riichi Mahjong:Fully Concealed Hand|fully concealed hand]] cannot be added at the same time due to a 2-fu bonus for [[Riichi Mahjong:Winning Pattern|tsumo]]. The rule is called "pinfu–tsumo nashi" ({{lj|平和自摸無し}} or {{lj|平和ツモなし}}, pinfu–tsumo invalid), sometimes contracted to "pinzumo nashi" ({{lj|ピンヅモなし}}). If they can be combined, the rule is called "pinfu–tsumo ari" ({{lj|平和自摸有り}} or {{lj|平和ツモあり}}, pinfu–tsumo valid). In the first rule, only fully concealed hand or tsumo is calculated according to a '''''[[Riichi Mahjong:Point Calculation|higher point rule]]'''''.
+
+Thanks to pinfu's regulations, this yaku is often combined with [[Riichi Mahjong:Riichi|riichi]] and [[Riichi Mahjong:Fully Concealed Hand|fully concealed hand]], raising the han to 3. It's also easy to raise this number to 5 to reach [[Riichi Mahjong:Point Calculation|mangan]]. Other yakus such as [[Riichi Mahjong:Triple Triplets|triple triplets]] and [[Riichi Mahjong:Pure Straight|pure straight]] are often conbined with pinfu as well.
+
+===Pinfu in Chinese Standard Mahjong Rules===
+In Chinese Standard Mahjong Rules, there's a scoring hand with a same name {{lang|zh-cn|平和}}''(pinhu)'' but a easier limitation: the requirements are only "no honor tiles" and "4 sequences, no triplets". It has a score of 2 points.
+
+{{Riichi Mahjong}}
+[[zh:日本麻将:平和]]
