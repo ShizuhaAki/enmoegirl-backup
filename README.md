@@ -1,5 +1,5 @@
 # enmoegirl-backup
-Backup for english moegirlpedia: en.moegirl.org
+Backup for english moegirlpedia: en.moegirl.org.cn
 
 ## Contributing
 First, please fork this repo, and make changes there. You are suggested to clone a copy of it to your own computer. If you are new to GitHub, you can check out "The Hello World Guide" they provided to know how to play around here.
